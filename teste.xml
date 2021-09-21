@@ -220,7 +220,7 @@
     <icon src="https://www.net.com.br/imagens/logo/telecine_cult_hd_-1100_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="HGTV">
+  <channel id="HGTV3">
     <display-name lang="pt">HGTV</display-name>
     <icon src="https://www.net.com.br/imagens/logo/hgtv-2311_95x39.png" />
     <url>http://www.netcombo.com.br</url>
@@ -32926,7 +32926,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20210921001800 -0300" stop="20210921010500 -0300" channel="HGTV">
+  <programme start="20210921001800 -0300" stop="20210921010500 -0300" channel="HGTV3">>
     <title lang="pt">Espaços Milionários</title>
     <desc lang="pt">Com acesso exclusivo às mais luxuosas mansões, Carter Oosterhouse mostra uma garagem que abriga um carro raríssimo, uma adega com teto de acrílico e uma área de lazer tão grande que têm um código postal próprio.</desc>
     <credits>
@@ -32937,7 +32937,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921010500 -0300" stop="20210921015200 -0300" channel="HGTV">
+  <programme start="20210921010500 -0300" stop="20210921015200 -0300" channel="HGTV3">>
     <title lang="pt">Casas Exóticas</title>
     <desc lang="pt">Veja casas inspiradas por colmeias e aquários, e uma residência construída ao redor de um piano.</desc>
     <credits>
@@ -32948,7 +32948,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921015200 -0300" stop="20210921021400 -0300" channel="HGTV">
+  <programme start="20210921015200 -0300" stop="20210921021400 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Pais e filhos se enfrentam pela primeira vez na série. Mike e Mary e suas filhas, Erin e Julia, têm uma hora e 500 dólares para encontrar os objetos da lista de projetos, e um dia para transformá-los em peças rentáveis.</desc>
     <category lang="pt">Reality Show</category>
@@ -32956,7 +32956,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921021400 -0300" stop="20210921023700 -0300" channel="HGTV">
+  <programme start="20210921021400 -0300" stop="20210921023700 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Mãe e filha com experiência no mercado de antiguidades competem com um homem e sua filha.</desc>
     <category lang="pt">Reality Show</category>
@@ -32964,7 +32964,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921023700 -0300" stop="20210921025900 -0300" channel="HGTV">
+  <programme start="20210921023700 -0300" stop="20210921025900 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal de noivos está procurando a casa perfeita em Arlington no Texas para começar sua vida. Casas novas ou reformadas estão no topo da lista dela, enquanto ele quer uma casa com muita personalidade.</desc>
     <category lang="pt">Documentário</category>
@@ -32972,7 +32972,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921025900 -0300" stop="20210921032200 -0300" channel="HGTV">
+  <programme start="20210921025900 -0300" stop="20210921032200 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -32980,7 +32980,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921032200 -0300" stop="20210921034400 -0300" channel="HGTV">
+  <programme start="20210921032200 -0300" stop="20210921034400 -0300" channel="HGTV3">>
     <title lang="pt">Reformar Para Vender</title>
     <desc lang="pt">Jon compra uma casa em um bairro promissor sem consultar Mary. Mary gosta da parte externa, mas fica chocada com o interior decadente.</desc>
     <category lang="pt">Reality Show</category>
@@ -32988,7 +32988,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921034400 -0300" stop="20210921040500 -0300" channel="HGTV">
+  <programme start="20210921034400 -0300" stop="20210921040500 -0300" channel="HGTV3">>
     <title lang="pt">John E Anthony: Reformando Cozinhas</title>
     <desc lang="pt">John e Anthony visitam Carmichael, Califórnia, para ajudar um casal jovem a transformar sua cozinha. Eles executam uma reforma do piso ao teto em um projeto de conceito aberto, incluindo uma ilha com vários níveis.</desc>
     <category lang="pt">Reality Show</category>
@@ -32996,7 +32996,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921040500 -0300" stop="20210921042900 -0300" channel="HGTV">
+  <programme start="20210921040500 -0300" stop="20210921042900 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">As duplas deste episódio têm apenas uma hora e 500 dólares para encontrar as melhores ofertas de um mercado de antiguidades em Brimfield, Massachusetts.</desc>
     <category lang="pt">Reality Show</category>
@@ -33004,7 +33004,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921042900 -0300" stop="20210921045200 -0300" channel="HGTV">
+  <programme start="20210921042900 -0300" stop="20210921045200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Um casal de fashionistas enfrenta duas especialistas em decoração.</desc>
     <category lang="pt">Reality Show</category>
@@ -33012,7 +33012,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921045200 -0300" stop="20210921051400 -0300" channel="HGTV">
+  <programme start="20210921045200 -0300" stop="20210921051400 -0300" channel="HGTV3">>
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
     <desc lang="pt">Os primos reformam a cozinha de Jeannie Mai e Freddy Harteis. John Colaneri e Anthony Carrino usam a imaginação e criam ideias originais para combinar o rústico e o luxuoso no projeto.</desc>
     <credits>
@@ -33024,7 +33024,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921051400 -0300" stop="20210921053700 -0300" channel="HGTV">
+  <programme start="20210921051400 -0300" stop="20210921053700 -0300" channel="HGTV3">>
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
     <desc lang="pt">Apesar de gostarem da década de 1980, Alfonso Ribeiro e sua namorada estão cansados de viajar ao passado sempre que entram em sua cozinha.</desc>
     <credits>
@@ -33036,7 +33036,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921053700 -0300" stop="20210921060000 -0300" channel="HGTV">
+  <programme start="20210921053700 -0300" stop="20210921060000 -0300" channel="HGTV3">>
     <title lang="pt">I Want That!</title>
     <desc lang="pt">Atualizar ou reparar rodapés é simples com esses kits.</desc>
     <credits>
@@ -33052,7 +33052,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20210921060000 -0300" stop="20210921062300 -0300" channel="HGTV">
+  <programme start="20210921060000 -0300" stop="20210921062300 -0300" channel="HGTV3">>
     <title lang="pt">Produtos dos Sonhos</title>
     <desc lang="pt">Este episódio mostra azulejos de pedra que você pode cortar e colar para revestir as paredes da cozinha.</desc>
     <credits>
@@ -33063,7 +33063,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921062300 -0300" stop="20210921064600 -0300" channel="HGTV">
+  <programme start="20210921062300 -0300" stop="20210921064600 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal de noivos está procurando a casa perfeita em Arlington no Texas para começar sua vida. Casas novas ou reformadas estão no topo da lista dela, enquanto ele quer uma casa com muita personalidade.</desc>
     <category lang="pt">Documentário</category>
@@ -33071,7 +33071,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921064600 -0300" stop="20210921070900 -0300" channel="HGTV">
+  <programme start="20210921064600 -0300" stop="20210921070900 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33079,7 +33079,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921070900 -0300" stop="20210921073200 -0300" channel="HGTV">
+  <programme start="20210921070900 -0300" stop="20210921073200 -0300" channel="HGTV3">>
     <title lang="pt">Reformar Para Vender</title>
     <desc lang="pt">Jon compra uma casa em um bairro promissor sem consultar Mary. Mary gosta da parte externa, mas fica chocada com o interior decadente.</desc>
     <category lang="pt">Reality Show</category>
@@ -33087,7 +33087,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921073200 -0300" stop="20210921075500 -0300" channel="HGTV">
+  <programme start="20210921073200 -0300" stop="20210921075500 -0300" channel="HGTV3">>
     <title lang="pt">John E Anthony: Reformando Cozinhas</title>
     <desc lang="pt">John e Anthony visitam Carmichael, Califórnia, para ajudar um casal jovem a transformar sua cozinha. Eles executam uma reforma do piso ao teto em um projeto de conceito aberto, incluindo uma ilha com vários níveis.</desc>
     <category lang="pt">Reality Show</category>
@@ -33095,7 +33095,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921075500 -0300" stop="20210921081800 -0300" channel="HGTV">
+  <programme start="20210921075500 -0300" stop="20210921081800 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">A dupla de decoradores Dave e Teresa enfrentam dois especialistas em peças vintage, Laurie e Bobbi.</desc>
     <category lang="pt">Reality Show</category>
@@ -33103,7 +33103,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921081800 -0300" stop="20210921084100 -0300" channel="HGTV">
+  <programme start="20210921081800 -0300" stop="20210921084100 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Amigos ecléticos, Eddie e Rodney enfrentam Brandon e Sam, um casal que não tem medo de sujar as mãos para encontrar uma pechincha.</desc>
     <category lang="pt">Reality Show</category>
@@ -33111,7 +33111,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921084100 -0300" stop="20210921090400 -0300" channel="HGTV">
+  <programme start="20210921084100 -0300" stop="20210921090400 -0300" channel="HGTV3">>
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
     <desc lang="pt">Os primos reformam a cozinha de Jeannie Mai e Freddy Harteis. John Colaneri e Anthony Carrino usam a imaginação e criam ideias originais para combinar o rústico e o luxuoso no projeto.</desc>
     <credits>
@@ -33123,7 +33123,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921090400 -0300" stop="20210921092700 -0300" channel="HGTV">
+  <programme start="20210921090400 -0300" stop="20210921092700 -0300" channel="HGTV3">>
     <title lang="pt">Cozinha dos Sonhos com John e Anthony</title>
     <desc lang="pt">Apesar de gostarem da década de 1980, Alfonso Ribeiro e sua namorada estão cansados de viajar ao passado sempre que entram em sua cozinha.</desc>
     <credits>
@@ -33135,7 +33135,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921092700 -0300" stop="20210921095000 -0300" channel="HGTV">
+  <programme start="20210921092700 -0300" stop="20210921095000 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família de quatro pessoas procura a casa dos seus sonhos às margens do Lago Kerr.</desc>
     <credits>
@@ -33146,7 +33146,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921095000 -0300" stop="20210921101400 -0300" channel="HGTV">
+  <programme start="20210921095000 -0300" stop="20210921101400 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Um casal procura uma casa definitiva às margens do Lago Lure, na Carolina do Norte.</desc>
     <category lang="pt">Reality Show</category>
@@ -33154,7 +33154,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921101400 -0300" stop="20210921103700 -0300" channel="HGTV">
+  <programme start="20210921101400 -0300" stop="20210921103700 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um ex-atleta profissional e sua família se mudam para Califórnia para o Oregon em busca de uma vida mais tranquila.</desc>
     <category lang="pt">Documentário</category>
@@ -33162,7 +33162,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921103700 -0300" stop="20210921110100 -0300" channel="HGTV">
+  <programme start="20210921103700 -0300" stop="20210921110100 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33170,7 +33170,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921110100 -0300" stop="20210921112400 -0300" channel="HGTV">
+  <programme start="20210921110100 -0300" stop="20210921112400 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família que mora em uma grande propriedade em Santa Clarita, Califórnia, quer substituir um antigo pátio de tijolos por uma área de lazer completa.</desc>
     <credits>
@@ -33181,7 +33181,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921112400 -0300" stop="20210921114800 -0300" channel="HGTV">
+  <programme start="20210921112400 -0300" stop="20210921114800 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família que adora receber os amigos se muda de Chicago para Nashville e precisa desesperadamente de uma piscina para os dias quentes do verão.</desc>
     <credits>
@@ -33192,7 +33192,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921114800 -0300" stop="20210921123500 -0300" channel="HGTV">
+  <programme start="20210921114800 -0300" stop="20210921123500 -0300" channel="HGTV3">>
     <title lang="pt">Espaços Milionários</title>
     <desc lang="pt">Carter Oosterhouse visita uma vila particular em uma ilha nas Maldivas, uma cozinha em Atlanta com toques ultramodernos, uma área para coquetéis inspirada em Las Vegas e uma suíte luxuosa que esconde uma surpresa em Utah.</desc>
     <credits>
@@ -33203,7 +33203,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921123500 -0300" stop="20210921125800 -0300" channel="HGTV">
+  <programme start="20210921123500 -0300" stop="20210921125800 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">A invasão britânica chega ao bazar Flip quando o casal inglês Tony e Suzanne disputam a coroa de melhores negociadores com os neozelandeses.</desc>
     <category lang="pt">Reality Show</category>
@@ -33211,7 +33211,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921125800 -0300" stop="20210921132200 -0300" channel="HGTV">
+  <programme start="20210921125800 -0300" stop="20210921132200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Os irmãos Bradley e Ryan competem contra as irmãs Sam e Shimmy em uma feira de antiguidades. As equipes têm uma hora para encontrar os materiais de três projetos e transformá-los em peças lucrativas.</desc>
     <category lang="pt">Reality Show</category>
@@ -33219,7 +33219,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921132200 -0300" stop="20210921140900 -0300" channel="HGTV">
+  <programme start="20210921132200 -0300" stop="20210921140900 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Conheça residências incríveis instaladas em espaços pouco convencionais, como uma igreja, uma galeria subterrânea e muito mais.</desc>
     <credits>
@@ -33230,7 +33230,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921140900 -0300" stop="20210921145600 -0300" channel="HGTV">
+  <programme start="20210921140900 -0300" stop="20210921145600 -0300" channel="HGTV3">>
     <title lang="pt">Casas Exóticas</title>
     <desc lang="pt">Esta incrível seleção de residências em todo o mundo inclui uma mansão nos Hamptons com sua própria pirâmide, uma casa escondida sob um celeiro de 300 anos e uma casa espanhola à beira de um penhasco.</desc>
     <credits>
@@ -33241,7 +33241,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921145600 -0300" stop="20210921154300 -0300" channel="HGTV">
+  <programme start="20210921145600 -0300" stop="20210921154300 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Você já imaginou morar no topo de uma torre Você já imaginou morar no topo de uma torre com vista para Seattle? As casas deste episódio incluem um posto de gasolina, um supermercado e um colégio católico.</desc>
     <category lang="pt">Reality Show</category>
@@ -33249,7 +33249,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921154300 -0300" stop="20210921160600 -0300" channel="HGTV">
+  <programme start="20210921154300 -0300" stop="20210921160600 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família de quatro pessoas procura a casa dos seus sonhos às margens do Lago Kerr.</desc>
     <credits>
@@ -33260,7 +33260,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921160600 -0300" stop="20210921163000 -0300" channel="HGTV">
+  <programme start="20210921160600 -0300" stop="20210921163000 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Para escapar da rotina estressante, um casal procura um refúgio às margens do Lago Table Rock - mas encontrar um imóvel que atenda a todas as suas necessidades por 350 mil dólares não será fácil.</desc>
     <credits>
@@ -33271,7 +33271,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921163000 -0300" stop="20210921171700 -0300" channel="HGTV">
+  <programme start="20210921163000 -0300" stop="20210921171700 -0300" channel="HGTV3">>
     <title lang="pt">Design Criativo com Antonio Ballatore</title>
     <desc lang="pt">A prioridade de Mario Lopez é manter a boa forma, mas as academias improvisadas que têm em casa e no trabalho deixam a desejar. Antonio cria uma academia para sua residência inspirada em seu esporte favorito: o boxe.</desc>
     <credits>
@@ -33282,7 +33282,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921171700 -0300" stop="20210921174000 -0300" channel="HGTV">
+  <programme start="20210921171700 -0300" stop="20210921174000 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Banheiros</title>
     <desc lang="pt">Um banheiro antigo ganha uma charmosa cafeteira, bancadas de mármore de Carrara e um chuveiro de vapor.</desc>
     <credits>
@@ -33293,7 +33293,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921174000 -0300" stop="20210921180400 -0300" channel="HGTV">
+  <programme start="20210921174000 -0300" stop="20210921180400 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Banheiros</title>
     <desc lang="pt">Um banheiro de estilo praiano ganha azulejos de vidro marinho e belos painéis de madeira de demolição.</desc>
     <credits>
@@ -33304,7 +33304,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921180400 -0300" stop="20210921182800 -0300" channel="HGTV">
+  <programme start="20210921180400 -0300" stop="20210921182800 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Depois de muita procura, um casal espera encontrar a casa de veraneio ideal à beira do Lago Logan Martin, no Alabama.</desc>
     <credits>
@@ -33315,7 +33315,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921182800 -0300" stop="20210921185200 -0300" channel="HGTV">
+  <programme start="20210921182800 -0300" stop="20210921185200 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Um casal procura a casa de férias perfeita para descansar no lago Smith, no Alabama.</desc>
     <credits>
@@ -33326,7 +33326,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921185200 -0300" stop="20210921191500 -0300" channel="HGTV">
+  <programme start="20210921185200 -0300" stop="20210921191500 -0300" channel="HGTV3">>
     <title lang="pt">Casa Contêiner</title>
     <desc lang="pt">Em Mineral Point, Wisconsin, Andy E Jackie Spoor sonham em ter uma casa que seja uma fusão entre os estilos rústico e contemporâneo. A saída para não gastar uma fortuna na decoração é uma casa-contâiner.</desc>
     <credits>
@@ -33337,7 +33337,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921191500 -0300" stop="20210921193900 -0300" channel="HGTV">
+  <programme start="20210921191500 -0300" stop="20210921193900 -0300" channel="HGTV3">>
     <title lang="pt">Casa Contêiner</title>
     <desc lang="pt">Em Houston Texas, Keith Lasseigne decide construir um refúgio luxuoso de fim de semana onde possa abrigar seus cães. No Michigan, Chris e Casey Krone querem uma casa contemporânea espaçosa com design industrial.</desc>
     <credits>
@@ -33348,7 +33348,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921193900 -0300" stop="20210921200200 -0300" channel="HGTV">
+  <programme start="20210921193900 -0300" stop="20210921200200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Kelly e Jay travam uma batalha contra as designers Laura e Diane.</desc>
     <category lang="pt">Reality Show</category>
@@ -33356,7 +33356,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921200200 -0300" stop="20210921202600 -0300" channel="HGTV">
+  <programme start="20210921200200 -0300" stop="20210921202600 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Dois caubóis com bom gosto para móveis enfrentam uma dupla de mulheres destemidas que acabam de se tornar mães.</desc>
     <category lang="pt">Reality Show</category>
@@ -33364,7 +33364,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921202600 -0300" stop="20210921204600 -0300" channel="HGTV">
+  <programme start="20210921202600 -0300" stop="20210921204600 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33372,7 +33372,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921204600 -0300" stop="20210921210800 -0300" channel="HGTV">
+  <programme start="20210921204600 -0300" stop="20210921210800 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal jovem e que está de casamento marcado está procurando sua primeira casa em Phoenix, mas está sofrendo para encontrar um imóvel que não tenha as características Hispânicas ou do sudoeste que são comuns na cidade.</desc>
     <category lang="pt">Documentário</category>
@@ -33380,7 +33380,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921210800 -0300" stop="20210921215500 -0300" channel="HGTV">
+  <programme start="20210921210800 -0300" stop="20210921215500 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Conheça residências incríveis instaladas em espaços pouco convencionais, como um celeiro, uma cela de prisão, um reservatório de água e muito mais.</desc>
     <credits>
@@ -33391,7 +33391,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921215500 -0300" stop="20210921224200 -0300" channel="HGTV">
+  <programme start="20210921215500 -0300" stop="20210921224200 -0300" channel="HGTV3">>
     <title lang="pt">Casas Exóticas</title>
     <desc lang="pt">Conheça uma residência suíça que parece saída de um conto de fadas, uma casa indonésia projetada segundo os princípios da ioga e um imóvel na Inglaterra cujo projeto foi inspirado em um fóssil.</desc>
     <credits>
@@ -33402,7 +33402,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921224200 -0300" stop="20210921232900 -0300" channel="HGTV">
+  <programme start="20210921224200 -0300" stop="20210921232900 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Você já imaginou morar no topo de uma torre Você já imaginou morar no topo de uma torre com vista para Seattle? As casas deste episódio incluem um posto de gasolina, um supermercado e um colégio católico.</desc>
     <category lang="pt">Reality Show</category>
@@ -33410,7 +33410,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921232900 -0300" stop="20210921235500 -0300" channel="HGTV">
+  <programme start="20210921232900 -0300" stop="20210921235500 -0300" channel="HGTV3">>
     <title lang="pt">Menos É Demais</title>
     <desc lang="pt">A Carol gosta tanto de sapatos que passa por verdadeiras aventuras atrás de um par. Agora, vai precisar da ajuda de Chiara Gadaleta para desapegar e conseguir realizar o sonho de receber amigos na varanda da sua casa.</desc>
     <category lang="pt">Comportamento</category>
@@ -33418,7 +33418,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210921235500 -0300" stop="20210922001800 -0300" channel="HGTV">
+  <programme start="20210921235500 -0300" stop="20210922001800 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Um casal retorna às origens e decide se estabelecer onde passou grande parte de sua infância, no Lago Martin, no Alabama.</desc>
     <credits>
@@ -33429,7 +33429,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922001800 -0300" stop="20210922010500 -0300" channel="HGTV">
+  <programme start="20210922001800 -0300" stop="20210922010500 -0300" channel="HGTV3">>
     <title lang="pt">Design Criativo com Antonio Ballatore</title>
     <desc lang="pt">A prioridade de Mario Lopez é manter a boa forma, mas as academias improvisadas que têm em casa e no trabalho deixam a desejar. Antonio cria uma academia para sua residência inspirada em seu esporte favorito: o boxe.</desc>
     <credits>
@@ -33440,7 +33440,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922010500 -0300" stop="20210922012800 -0300" channel="HGTV">
+  <programme start="20210922010500 -0300" stop="20210922012800 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Banheiros</title>
     <desc lang="pt">Com uma expansão na área externa da casa e janelas em três paredes diferentes, um banheiro ganha espaço para uma banheira de imersão.</desc>
     <credits>
@@ -33451,7 +33451,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922012800 -0300" stop="20210922015200 -0300" channel="HGTV">
+  <programme start="20210922012800 -0300" stop="20210922015200 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Banheiros</title>
     <desc lang="pt">O minúsculo banheiro de uma suíte é transformado em um espaço enorme, com lavanderia embutida e equipamento de som no box do chuveiro.</desc>
     <credits>
@@ -33462,7 +33462,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922015200 -0300" stop="20210922021400 -0300" channel="HGTV">
+  <programme start="20210922015200 -0300" stop="20210922021400 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Kelly e Jay travam uma batalha contra as designers Laura e Diane.</desc>
     <category lang="pt">Reality Show</category>
@@ -33470,7 +33470,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922021400 -0300" stop="20210922023700 -0300" channel="HGTV">
+  <programme start="20210922021400 -0300" stop="20210922023700 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Dois caubóis com bom gosto para móveis enfrentam uma dupla de mulheres destemidas que acabam de se tornar mães.</desc>
     <category lang="pt">Reality Show</category>
@@ -33478,7 +33478,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922023700 -0300" stop="20210922025900 -0300" channel="HGTV">
+  <programme start="20210922023700 -0300" stop="20210922025900 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal jovem e que está de casamento marcado está procurando sua primeira casa em Phoenix, mas está sofrendo para encontrar um imóvel que não tenha as características Hispânicas ou do sudoeste que são comuns na cidade.</desc>
     <category lang="pt">Documentário</category>
@@ -33486,7 +33486,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922025900 -0300" stop="20210922032200 -0300" channel="HGTV">
+  <programme start="20210922025900 -0300" stop="20210922032200 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33494,7 +33494,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922032200 -0300" stop="20210922040700 -0300" channel="HGTV">
+  <programme start="20210922032200 -0300" stop="20210922040700 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Conheça residências incríveis instaladas em espaços pouco convencionais, como um celeiro, uma cela de prisão, um reservatório de água e muito mais.</desc>
     <credits>
@@ -33505,7 +33505,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922040700 -0300" stop="20210922045200 -0300" channel="HGTV">
+  <programme start="20210922040700 -0300" stop="20210922045200 -0300" channel="HGTV3">>
     <title lang="pt">Casas Exóticas</title>
     <desc lang="pt">Conheça uma residência suíça que parece saída de um conto de fadas, uma casa indonésia projetada segundo os princípios da ioga e um imóvel na Inglaterra cujo projeto foi inspirado em um fóssil.</desc>
     <credits>
@@ -33516,7 +33516,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922045200 -0300" stop="20210922053700 -0300" channel="HGTV">
+  <programme start="20210922045200 -0300" stop="20210922053700 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Você já imaginou morar no topo de uma torre Você já imaginou morar no topo de uma torre com vista para Seattle? As casas deste episódio incluem um posto de gasolina, um supermercado e um colégio católico.</desc>
     <category lang="pt">Reality Show</category>
@@ -33524,7 +33524,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922053700 -0300" stop="20210922060000 -0300" channel="HGTV">
+  <programme start="20210922053700 -0300" stop="20210922060000 -0300" channel="HGTV3">>
     <title lang="pt">I Want That!</title>
     <desc lang="pt">Atualizar ou reparar rodapés é simples com esses kits.</desc>
     <credits>
@@ -33540,7 +33540,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20210922060000 -0300" stop="20210922062300 -0300" channel="HGTV">
+  <programme start="20210922060000 -0300" stop="20210922062300 -0300" channel="HGTV3">>
     <title lang="pt">Produtos dos Sonhos</title>
     <desc lang="pt">Descubra novos produtos para sua casa, como uma garrafa que acrescenta sabores de frutas à água e um aquário que não precisa ser limpo.</desc>
     <credits>
@@ -33551,7 +33551,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922062300 -0300" stop="20210922064600 -0300" channel="HGTV">
+  <programme start="20210922062300 -0300" stop="20210922064600 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal jovem e que está de casamento marcado está procurando sua primeira casa em Phoenix, mas está sofrendo para encontrar um imóvel que não tenha as características Hispânicas ou do sudoeste que são comuns na cidade.</desc>
     <category lang="pt">Documentário</category>
@@ -33559,7 +33559,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922064600 -0300" stop="20210922070900 -0300" channel="HGTV">
+  <programme start="20210922064600 -0300" stop="20210922070900 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33567,7 +33567,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922070900 -0300" stop="20210922075500 -0300" channel="HGTV">
+  <programme start="20210922070900 -0300" stop="20210922075500 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Conheça residências incríveis instaladas em espaços pouco convencionais, como um celeiro, uma cela de prisão, um reservatório de água e muito mais.</desc>
     <credits>
@@ -33578,7 +33578,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922075500 -0300" stop="20210922084100 -0300" channel="HGTV">
+  <programme start="20210922075500 -0300" stop="20210922084100 -0300" channel="HGTV3">>
     <title lang="pt">Casas Exóticas</title>
     <desc lang="pt">Conheça uma residência suíça que parece saída de um conto de fadas, uma casa indonésia projetada segundo os princípios da ioga e um imóvel na Inglaterra cujo projeto foi inspirado em um fóssil.</desc>
     <credits>
@@ -33589,7 +33589,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922084100 -0300" stop="20210922092700 -0300" channel="HGTV">
+  <programme start="20210922084100 -0300" stop="20210922092700 -0300" channel="HGTV3">>
     <title lang="pt">Casas Estranhas</title>
     <desc lang="pt">Você já imaginou morar no topo de uma torre Você já imaginou morar no topo de uma torre com vista para Seattle? As casas deste episódio incluem um posto de gasolina, um supermercado e um colégio católico.</desc>
     <category lang="pt">Reality Show</category>
@@ -33597,7 +33597,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922092700 -0300" stop="20210922095000 -0300" channel="HGTV">
+  <programme start="20210922092700 -0300" stop="20210922095000 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Para passar mais tempo com a família, um casal procura a casa ideal às margens do Lago Sebago, no Maine.</desc>
     <credits>
@@ -33608,7 +33608,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922095000 -0300" stop="20210922101400 -0300" channel="HGTV">
+  <programme start="20210922095000 -0300" stop="20210922101400 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Um casal procura seu primeiro imóvel às margens do Lago Weiss, Alabama.</desc>
     <category lang="pt">Reality Show</category>
@@ -33616,7 +33616,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922101400 -0300" stop="20210922103700 -0300" channel="HGTV">
+  <programme start="20210922101400 -0300" stop="20210922103700 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Uma família de Chicago compra uma casa na Flórida.</desc>
     <category lang="pt">Documentário</category>
@@ -33624,7 +33624,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922103700 -0300" stop="20210922110100 -0300" channel="HGTV">
+  <programme start="20210922103700 -0300" stop="20210922110100 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33632,7 +33632,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922110100 -0300" stop="20210922112400 -0300" channel="HGTV">
+  <programme start="20210922110100 -0300" stop="20210922112400 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Depois de se mudar para uma casa que pertenceu a um jardineiro em Santa Barbara, Califórnia, uma família que não se interessa por jardinagem decide pedir ajuda.</desc>
     <credits>
@@ -33643,7 +33643,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922112400 -0300" stop="20210922114800 -0300" channel="HGTV">
+  <programme start="20210922112400 -0300" stop="20210922114800 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Os avós Joe e Beth decidem construir uma piscina para organizar mais eventos familiares na casa de seus sonhos. Eles esperam que este oásis no quintal crie momentos ainda mais especiais junto aos netos.</desc>
     <credits>
@@ -33654,7 +33654,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922114800 -0300" stop="20210922123500 -0300" channel="HGTV">
+  <programme start="20210922114800 -0300" stop="20210922123500 -0300" channel="HGTV3">>
     <title lang="pt">Espaços Milionários</title>
     <desc lang="pt">Carter Oosterhouse visita o campo de beisebol da mansão do jogador John Smoltz, uma suíte em Las Vegas tão exclusiva que nem a gravidade pode entrar e uma sala submarina tão luxuosa que deixaria Poseidon com inveja.</desc>
     <credits>
@@ -33665,7 +33665,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922123500 -0300" stop="20210922125800 -0300" channel="HGTV">
+  <programme start="20210922123500 -0300" stop="20210922125800 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">As amigas Shanae e Sarah saem arrumadas e dispostas a negociar as melhores peças. Elas enfrentam Gina e Mark, um casal experiente na arte da pechincha.</desc>
     <category lang="pt">Reality Show</category>
@@ -33673,7 +33673,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922125800 -0300" stop="20210922132200 -0300" channel="HGTV">
+  <programme start="20210922125800 -0300" stop="20210922132200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Pais e filhos se enfrentam pela primeira vez na série. Mike e Mary e suas filhas, Erin e Julia, têm uma hora e 500 dólares para encontrar os objetos da lista de projetos, e um dia para transformá-los em peças rentáveis.</desc>
     <category lang="pt">Reality Show</category>
@@ -33681,7 +33681,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922132200 -0300" stop="20210922134500 -0300" channel="HGTV">
+  <programme start="20210922132200 -0300" stop="20210922134500 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton e sua equipe enfrentam o tempo chuvoso enquanto constroem uma área de lazer para uma família de Cape Cod. O projeto de Chris um playground e um enorme deque de dois níveis com um canteiro embutido.</desc>
     <category lang="pt">Reality Show</category>
@@ -33689,7 +33689,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922134500 -0300" stop="20210922140900 -0300" channel="HGTV">
+  <programme start="20210922134500 -0300" stop="20210922140900 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton reforma um quintal repleto de ervas daninhas e latas de lixo. Depois de reformar o abrigo para carros, ele constrói um deque com linhas modernas e uma área para relaxar com plantas fáceis de cuidar.</desc>
     <category lang="pt">Reality Show</category>
@@ -33697,7 +33697,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922140900 -0300" stop="20210922143200 -0300" channel="HGTV">
+  <programme start="20210922140900 -0300" stop="20210922143200 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família de Houston, Texas, está pronta para transformar o sonho de ter uma piscina em realidade. A equipe da Pool Kings aceita o desafio com uma piscina dinâmica, inspirada em um resort.</desc>
     <credits>
@@ -33708,7 +33708,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922143200 -0300" stop="20210922145600 -0300" channel="HGTV">
+  <programme start="20210922143200 -0300" stop="20210922145600 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Depois de se mudar para College Grove, Tennessee, uma família decide construir a piscina dos sonhos. A equipe da Pool Kings aceita o desafio e cria um paraíso tropical com uma cascata enorme e uma ampla cozinha externa.</desc>
     <credits>
@@ -33719,7 +33719,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922145600 -0300" stop="20210922151900 -0300" channel="HGTV">
+  <programme start="20210922145600 -0300" stop="20210922151900 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um quintal pouco usado se transforma em uma área perfeita para festas com um pátio de concreto verde e um espaço gourmet coberto com churrasqueira.</desc>
     <credits>
@@ -33730,7 +33730,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922151900 -0300" stop="20210922154300 -0300" channel="HGTV">
+  <programme start="20210922151900 -0300" stop="20210922154300 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um proprietário às voltas com um quintal caindo aos pedaços aceita a proposta de Matt Blashaw de transformá-lo em um local para festas com deque flutuante.</desc>
     <credits>
@@ -33741,7 +33741,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922154300 -0300" stop="20210922160600 -0300" channel="HGTV">
+  <programme start="20210922154300 -0300" stop="20210922160600 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Para passar mais tempo com a família, um casal procura a casa ideal às margens do Lago Sebago, no Maine.</desc>
     <credits>
@@ -33752,7 +33752,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922160600 -0300" stop="20210922163000 -0300" channel="HGTV">
+  <programme start="20210922160600 -0300" stop="20210922163000 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família de Auburn procura uma alternativa à praia e decide comprar uma casa à beira do Lago Martin para relaxar e passar as férias.</desc>
     <credits>
@@ -33763,7 +33763,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922163000 -0300" stop="20210922165300 -0300" channel="HGTV">
+  <programme start="20210922163000 -0300" stop="20210922165300 -0300" channel="HGTV3">>
     <title lang="pt">Reforma dos Sonhos</title>
     <desc lang="pt">Um casal volta de férias e descobre que ganhou uma cozinha e um quintal novos em folha.</desc>
     <category lang="pt">Reality Show</category>
@@ -33771,7 +33771,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922165300 -0300" stop="20210922171700 -0300" channel="HGTV">
+  <programme start="20210922165300 -0300" stop="20210922171700 -0300" channel="HGTV3">>
     <title lang="pt">Reforma dos Sonhos</title>
     <desc lang="pt">Os Primos viajam ao México para executar uma reforma em uma casa de praia - um presente de aniversário inesquecível para a esposa do cliente.</desc>
     <category lang="pt">Reality Show</category>
@@ -33779,7 +33779,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922171700 -0300" stop="20210922174000 -0300" channel="HGTV">
+  <programme start="20210922171700 -0300" stop="20210922174000 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">A invasão britânica chega ao bazar Flip quando o casal inglês Tony e Suzanne disputam a coroa de melhores negociadores com os neozelandeses.</desc>
     <category lang="pt">Reality Show</category>
@@ -33787,7 +33787,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922174000 -0300" stop="20210922180400 -0300" channel="HGTV">
+  <programme start="20210922174000 -0300" stop="20210922180400 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">As amigas Shanae e Sarah saem arrumadas e dispostas a negociar as melhores peças. Elas enfrentam Gina e Mark, um casal experiente na arte da pechincha.</desc>
     <category lang="pt">Reality Show</category>
@@ -33795,7 +33795,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922180400 -0300" stop="20210922182800 -0300" channel="HGTV">
+  <programme start="20210922180400 -0300" stop="20210922182800 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Um casal procura uma casa de férias onde possa apreciar o pôr do sol no Lago Champlain, Nova York.</desc>
     <credits>
@@ -33806,7 +33806,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922182800 -0300" stop="20210922185200 -0300" channel="HGTV">
+  <programme start="20210922182800 -0300" stop="20210922185200 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família procura a casa de seus sonhos no Lago Chatuge, na fronteira da Geórgia com a Carolina do Norte.</desc>
     <credits>
@@ -33817,7 +33817,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922185200 -0300" stop="20210922191500 -0300" channel="HGTV">
+  <programme start="20210922185200 -0300" stop="20210922191500 -0300" channel="HGTV3">>
     <title lang="pt">Casa Contêiner</title>
     <desc lang="pt">Ralph Butler sonha em ter uma casa-contâiner há anos e finalmente consegue terminar seu refúgio à beira de um lago. Em Oklahoma, Tyler e Hannah já vivem em uma bela casa-contâiner, mas agora querem uma casa de hóspedes.</desc>
     <credits>
@@ -33828,7 +33828,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922191500 -0300" stop="20210922193900 -0300" channel="HGTV">
+  <programme start="20210922191500 -0300" stop="20210922193900 -0300" channel="HGTV3">>
     <title lang="pt">Casa Contêiner</title>
     <desc lang="pt">Um homem visionário projeta uma casa com influências asiáticas e design industrial modernos.</desc>
     <credits>
@@ -33839,7 +33839,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922193900 -0300" stop="20210922200200 -0300" channel="HGTV">
+  <programme start="20210922193900 -0300" stop="20210922200200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">As amigas Pat e Lisa estão prontas para enfrentar o casal criativo Russel e Marc.</desc>
     <category lang="pt">Reality Show</category>
@@ -33847,7 +33847,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922200200 -0300" stop="20210922202600 -0300" channel="HGTV">
+  <programme start="20210922200200 -0300" stop="20210922202600 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Uma dupla de recém-casados enfrenta um casal experiente e com muita criatividade.</desc>
     <category lang="pt">Reality Show</category>
@@ -33855,7 +33855,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922202600 -0300" stop="20210922204600 -0300" channel="HGTV">
+  <programme start="20210922202600 -0300" stop="20210922204600 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.</desc>
     <category lang="pt">Documentário</category>
@@ -33863,7 +33863,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922204600 -0300" stop="20210922210800 -0300" channel="HGTV">
+  <programme start="20210922204600 -0300" stop="20210922210800 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal de Baltimore está pronto para passar de seu apartamento de um quarto para uma casa. Ele tem o papel de corretor imobiliário e espera encontrar algo que deixe sua esposa exigente feliz.</desc>
     <category lang="pt">Documentário</category>
@@ -33871,7 +33871,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922210800 -0300" stop="20210922213100 -0300" channel="HGTV">
+  <programme start="20210922210800 -0300" stop="20210922213100 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton ajuda um casal cujo quintal foi dominado por seus dois cães. Ele constrói um novo espaço comum, um deque, um bar tiki, uma banheira e um parque personalizado para cães.</desc>
     <category lang="pt">Reality Show</category>
@@ -33879,7 +33879,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922213100 -0300" stop="20210922215500 -0300" channel="HGTV">
+  <programme start="20210922213100 -0300" stop="20210922215500 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton projeta um jardim inglês e uma horta para a família Machados, incluindo um espaço para as crianças brincarem.</desc>
     <category lang="pt">Reality Show</category>
@@ -33887,7 +33887,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922215500 -0300" stop="20210922221800 -0300" channel="HGTV">
+  <programme start="20210922215500 -0300" stop="20210922221800 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família de Nashville espera que Kyle e Justin construam a piscina perfeita em seu quintal, mas enfrenta alguns contratempos.</desc>
     <credits>
@@ -33898,7 +33898,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922221800 -0300" stop="20210922224200 -0300" channel="HGTV">
+  <programme start="20210922221800 -0300" stop="20210922224200 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Depois de 14 anos, uma família de Lake Jackson, Texas, finalmente constrói uma casa perto do Lago Pecan. Localizado numa península, o quintal da propriedade tem o espaço ideal para uma piscina de borda infinita.</desc>
     <credits>
@@ -33909,7 +33909,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922224200 -0300" stop="20210922230500 -0300" channel="HGTV">
+  <programme start="20210922224200 -0300" stop="20210922230500 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um quintal espaçoso, mas sem atrativos, é transformado em um espaço agradável para fazer as refeições e receber convidados.</desc>
     <credits>
@@ -33920,7 +33920,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922230500 -0300" stop="20210922232900 -0300" channel="HGTV">
+  <programme start="20210922230500 -0300" stop="20210922232900 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um casal que passa muitas horas cuidando de um quintal enorme aceita a sugestão de Matt Blashaw, que o transforma num jardim bonito e de fácil manutenção.</desc>
     <credits>
@@ -33931,7 +33931,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922232900 -0300" stop="20210922235500 -0300" channel="HGTV">
+  <programme start="20210922232900 -0300" stop="20210922235500 -0300" channel="HGTV3">>
     <title lang="pt">Menos É Demais</title>
     <desc lang="pt">Marcela divide o quarto com a irmã Letícia, mas seu consumo de roupas, bolsas e sapatos dominou quase todo o cômodo, e Letícia mal tem espaço para estudar.</desc>
     <category lang="pt">Comportamento</category>
@@ -33939,7 +33939,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210922235500 -0300" stop="20210923001800 -0300" channel="HGTV">
+  <programme start="20210922235500 -0300" stop="20210923001800 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Para acomodar a família que está crescendo, um casal decide comprar uma casa às margens de um lago em Tallahassee. Como os imóveis da região são caros, eles precisam encontrar um imóvel que caiba em seu orçamento.</desc>
     <credits>
@@ -33950,7 +33950,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923001800 -0300" stop="20210923004100 -0300" channel="HGTV">
+  <programme start="20210923001800 -0300" stop="20210923004100 -0300" channel="HGTV3">>
     <title lang="pt">Reforma dos Sonhos</title>
     <desc lang="pt">Os Primos são chamados para consertar problemas na fundação de uma casa e acabam ampliando a área da residência.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -33958,7 +33958,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923004100 -0300" stop="20210923010500 -0300" channel="HGTV">
+  <programme start="20210923004100 -0300" stop="20210923010500 -0300" channel="HGTV3">>
     <title lang="pt">Reforma dos Sonhos</title>
     <desc lang="pt">John e Anthony transformam um porão no refúgio perfeito para o diretor de uma empresa.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -33966,7 +33966,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923010500 -0300" stop="20210923012800 -0300" channel="HGTV">
+  <programme start="20210923010500 -0300" stop="20210923012800 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">As amigas Shanae e Sarah saem arrumadas e dispostas a negociar as melhores peças. Elas enfrentam Gina e Mark, um casal experiente na arte da pechincha.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -33974,7 +33974,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923012800 -0300" stop="20210923015200 -0300" channel="HGTV">
+  <programme start="20210923012800 -0300" stop="20210923015200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">A invasão britânica chega ao bazar Flip quando o casal inglês Tony e Suzanne disputam a coroa de melhores negociadores com os neozelandeses.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -33982,7 +33982,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923015200 -0300" stop="20210923021400 -0300" channel="HGTV">
+  <programme start="20210923015200 -0300" stop="20210923021400 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">As amigas Pat e Lisa estão prontas para enfrentar o casal criativo Russel e Marc.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -33990,7 +33990,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923021400 -0300" stop="20210923023700 -0300" channel="HGTV">
+  <programme start="20210923021400 -0300" stop="20210923023700 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Uma dupla de recém-casados enfrenta um casal experiente e com muita criatividade.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -33998,7 +33998,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923023700 -0300" stop="20210923025900 -0300" channel="HGTV">
+  <programme start="20210923023700 -0300" stop="20210923025900 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal de Baltimore está pronto para passar de seu apartamento de um quarto para uma casa. Ele tem o papel de corretor imobiliário e espera encontrar algo que deixe sua esposa exigente feliz.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34006,7 +34006,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923025900 -0300" stop="20210923032200 -0300" channel="HGTV">
+  <programme start="20210923025900 -0300" stop="20210923032200 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34014,7 +34014,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923032200 -0300" stop="20210923034400 -0300" channel="HGTV">
+  <programme start="20210923032200 -0300" stop="20210923034400 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton ajuda um casal cujo quintal foi dominado por seus dois cães. Ele constrói um novo espaço comum, um deque, um bar tiki, uma banheira e um parque personalizado para cães.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34022,7 +34022,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923034400 -0300" stop="20210923040700 -0300" channel="HGTV">
+  <programme start="20210923034400 -0300" stop="20210923040700 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton projeta um jardim inglês e uma horta para a família Machados, incluindo um espaço para as crianças brincarem.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34030,7 +34030,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923040700 -0300" stop="20210923042900 -0300" channel="HGTV">
+  <programme start="20210923040700 -0300" stop="20210923042900 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família de Nashville espera que Kyle e Justin construam a piscina perfeita em seu quintal, mas enfrenta alguns contratempos.(n)</desc>
     <credits>
@@ -34041,7 +34041,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923042900 -0300" stop="20210923045200 -0300" channel="HGTV">
+  <programme start="20210923042900 -0300" stop="20210923045200 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Depois de 14 anos, uma família de Lake Jackson, Texas, finalmente constrói uma casa perto do Lago Pecan. Localizado numa península, o quintal da propriedade tem o espaço ideal para uma piscina de borda infinita.(n)</desc>
     <credits>
@@ -34052,7 +34052,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923045200 -0300" stop="20210923051400 -0300" channel="HGTV">
+  <programme start="20210923045200 -0300" stop="20210923051400 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um quintal espaçoso, mas sem atrativos, é transformado em um espaço agradável para fazer as refeições e receber convidados.(n)</desc>
     <credits>
@@ -34063,7 +34063,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923051400 -0300" stop="20210923053700 -0300" channel="HGTV">
+  <programme start="20210923051400 -0300" stop="20210923053700 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um casal que passa muitas horas cuidando de um quintal enorme aceita a sugestão de Matt Blashaw, que o transforma num jardim bonito e de fácil manutenção.(n)</desc>
     <credits>
@@ -34074,7 +34074,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923053700 -0300" stop="20210923060000 -0300" channel="HGTV">
+  <programme start="20210923053700 -0300" stop="20210923060000 -0300" channel="HGTV3">>
     <title lang="pt">I Want That!</title>
     <desc lang="pt">Atualizar ou reparar rodapés é simples com esses kits.(n)</desc>
     <credits>
@@ -34090,7 +34090,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20210923060000 -0300" stop="20210923062300 -0300" channel="HGTV">
+  <programme start="20210923060000 -0300" stop="20210923062300 -0300" channel="HGTV3">>
     <title lang="pt">Produtos dos Sonhos</title>
     <desc lang="pt">Descubra novos produtos para sua casa, como uma garrafa que acrescenta sabores de frutas à água e um aquário que não precisa ser limpo.(n)</desc>
     <credits>
@@ -34101,7 +34101,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923062300 -0300" stop="20210923064600 -0300" channel="HGTV">
+  <programme start="20210923062300 -0300" stop="20210923064600 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal de Baltimore está pronto para passar de seu apartamento de um quarto para uma casa. Ele tem o papel de corretor imobiliário e espera encontrar algo que deixe sua esposa exigente feliz.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34109,7 +34109,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923064600 -0300" stop="20210923070900 -0300" channel="HGTV">
+  <programme start="20210923064600 -0300" stop="20210923070900 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34117,7 +34117,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923070900 -0300" stop="20210923073200 -0300" channel="HGTV">
+  <programme start="20210923070900 -0300" stop="20210923073200 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton ajuda um casal cujo quintal foi dominado por seus dois cães. Ele constrói um novo espaço comum, um deque, um bar tiki, uma banheira e um parque personalizado para cães.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34125,7 +34125,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923073200 -0300" stop="20210923075500 -0300" channel="HGTV">
+  <programme start="20210923073200 -0300" stop="20210923075500 -0300" channel="HGTV3">>
     <title lang="pt">Reformando Quintais com Chris Lambton</title>
     <desc lang="pt">Chris Lambton projeta um jardim inglês e uma horta para a família Machados, incluindo um espaço para as crianças brincarem.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34133,7 +34133,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923075500 -0300" stop="20210923081800 -0300" channel="HGTV">
+  <programme start="20210923075500 -0300" stop="20210923081800 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família de Nashville espera que Kyle e Justin construam a piscina perfeita em seu quintal, mas enfrenta alguns contratempos.(n)</desc>
     <credits>
@@ -34144,7 +34144,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923081800 -0300" stop="20210923084100 -0300" channel="HGTV">
+  <programme start="20210923081800 -0300" stop="20210923084100 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Depois de 14 anos, uma família de Lake Jackson, Texas, finalmente constrói uma casa perto do Lago Pecan. Localizado numa península, o quintal da propriedade tem o espaço ideal para uma piscina de borda infinita.(n)</desc>
     <credits>
@@ -34155,7 +34155,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923084100 -0300" stop="20210923090400 -0300" channel="HGTV">
+  <programme start="20210923084100 -0300" stop="20210923090400 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um quintal espaçoso, mas sem atrativos, é transformado em um espaço agradável para fazer as refeições e receber convidados.(n)</desc>
     <credits>
@@ -34166,7 +34166,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923090400 -0300" stop="20210923092700 -0300" channel="HGTV">
+  <programme start="20210923090400 -0300" stop="20210923092700 -0300" channel="HGTV3">>
     <title lang="pt">Reforma Relâmpago: Jardins</title>
     <desc lang="pt">Um casal que passa muitas horas cuidando de um quintal enorme aceita a sugestão de Matt Blashaw, que o transforma num jardim bonito e de fácil manutenção.(n)</desc>
     <credits>
@@ -34177,7 +34177,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923092700 -0300" stop="20210923095000 -0300" channel="HGTV">
+  <programme start="20210923092700 -0300" stop="20210923095000 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família de sete pessoas tenta realizar o sonho de comprar a casa de veraneio perfeita no Lago Moosehead, no Maine.(n)</desc>
     <credits>
@@ -34188,7 +34188,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923095000 -0300" stop="20210923101400 -0300" channel="HGTV">
+  <programme start="20210923095000 -0300" stop="20210923101400 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família procura uma casa para comprar à beira de um lago na região de Adirondack, Nova York.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34196,7 +34196,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923101400 -0300" stop="20210923103700 -0300" channel="HGTV">
+  <programme start="20210923101400 -0300" stop="20210923103700 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um casal fica animado para comprar uma casa em Rochester, subúrbio de Nova York.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34204,7 +34204,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923103700 -0300" stop="20210923110100 -0300" channel="HGTV">
+  <programme start="20210923103700 -0300" stop="20210923110100 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34212,7 +34212,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923110100 -0300" stop="20210923112400 -0300" channel="HGTV">
+  <programme start="20210923110100 -0300" stop="20210923112400 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">A equipe da Pool Kings vai a Austin, Texas, para construir uma piscina ao lado de um campo de golfe.(n)</desc>
     <credits>
@@ -34223,7 +34223,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923112400 -0300" stop="20210923114800 -0300" channel="HGTV">
+  <programme start="20210923112400 -0300" stop="20210923114800 -0300" channel="HGTV3">>
     <title lang="pt">Piscinas Espetaculares</title>
     <desc lang="pt">Uma família de Houston, Texas, está pronta para transformar o sonho de ter uma piscina em realidade. A equipe da Pool Kings aceita o desafio com uma piscina dinâmica, inspirada em um resort.(n)</desc>
     <credits>
@@ -34234,7 +34234,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923114800 -0300" stop="20210923123500 -0300" channel="HGTV">
+  <programme start="20210923114800 -0300" stop="20210923123500 -0300" channel="HGTV3">>
     <title lang="pt">Espaços Milionários</title>
     <desc lang="pt">Carter Oosterhouse visita sete ambientes luxuosos neste episódio, incluindo uma impressionante sala de estar na Califórnia, uma suíte de tirar o fôlego e até um suntuoso salão de baile em uma mansão.(n)</desc>
     <credits>
@@ -34245,7 +34245,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923123500 -0300" stop="20210923125800 -0300" channel="HGTV">
+  <programme start="20210923123500 -0300" stop="20210923125800 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">A equipe de Nova Jersey, Carolyn e Robert, disputa a vitória com a equipe de Nova York, Amanda and Susan.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34253,7 +34253,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923125800 -0300" stop="20210923132200 -0300" channel="HGTV">
+  <programme start="20210923125800 -0300" stop="20210923132200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Kelly e Jay travam uma batalha contra as designers Laura e Diane.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34261,7 +34261,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923132200 -0300" stop="20210923140900 -0300" channel="HGTV">
+  <programme start="20210923132200 -0300" stop="20210923140900 -0300" channel="HGTV3">>
     <title lang="pt">Ficar Ou Vender Com Heather E Brad</title>
     <desc lang="pt">Brad e Heather tentam mediar um conflito entre Lauren e Ben Stauffer. Lauren é muito apegada à casa que projetou, mas com o segundo filho a caminho, Ben quer se mudar para um novo lar.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34269,7 +34269,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923140900 -0300" stop="20210923145600 -0300" channel="HGTV">
+  <programme start="20210923140900 -0300" stop="20210923145600 -0300" channel="HGTV3">>
     <title lang="pt">The Antonio Treatment</title>
     <desc lang="pt">O vencedor do concurso.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34277,7 +34277,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923145600 -0300" stop="20210923151900 -0300" channel="HGTV">
+  <programme start="20210923145600 -0300" stop="20210923151900 -0300" channel="HGTV3">>
     <title lang="pt">SOS Casas Históricas</title>
     <desc lang="pt">Durante uma pausa em seus projetos de reforma, Nicole trabalha num apartamento de seus avós onde grande parte da família já morou. Para isso, ela troca o acabamento do piso, instala papel de parede e renova a pintura.(n)</desc>
     <credits>
@@ -34293,7 +34293,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20210923151900 -0300" stop="20210923154300 -0300" channel="HGTV">
+  <programme start="20210923151900 -0300" stop="20210923154300 -0300" channel="HGTV3">>
     <title lang="pt">SOS Casas Históricas</title>
     <desc lang="pt">Nicole reforma os cômodos centrais da casa de seus avós, as salas de estar e jantar, e usa fotos de família para decorá-las. Ela conserta a lareira com facilidade, mas trocar um lustre icônico será um pouco mais complexo.(n)</desc>
     <credits>
@@ -34309,7 +34309,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20210923154300 -0300" stop="20210923160600 -0300" channel="HGTV">
+  <programme start="20210923154300 -0300" stop="20210923160600 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família de sete pessoas tenta realizar o sonho de comprar a casa de veraneio perfeita no Lago Moosehead, no Maine.(n)</desc>
     <credits>
@@ -34320,7 +34320,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923160600 -0300" stop="20210923163000 -0300" channel="HGTV">
+  <programme start="20210923160600 -0300" stop="20210923163000 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Um casal que mora em Charlotte, Carolina do Sul, procura uma casa para passar os fins de semana às margens do Lago Keowee. Sua única exigência é que ela fique a uma curta distância da residência da família.(n)</desc>
     <credits>
@@ -34331,7 +34331,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923163000 -0300" stop="20210923171700 -0300" channel="HGTV">
+  <programme start="20210923163000 -0300" stop="20210923171700 -0300" channel="HGTV3">>
     <title lang="pt">Trailers Incríveis</title>
     <desc lang="pt">Conheça a mansão de dois andares sobre rodas de Simon Cowell, um trailer com dois dormitórios e o Cricket, um trailer do futuro inspirado na NASA.(n)</desc>
     <credits>
@@ -34347,7 +34347,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923171700 -0300" stop="20210923174000 -0300" channel="HGTV">
+  <programme start="20210923171700 -0300" stop="20210923174000 -0300" channel="HGTV3">>
     <title lang="pt">Tendas Modernas</title>
     <desc lang="pt">Com problemas de espaço, os empreiteiros Nathan e Jenny decidem e ampliam sua vila yurt.(n)</desc>
     <credits>
@@ -34358,7 +34358,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923174000 -0300" stop="20210923180400 -0300" channel="HGTV">
+  <programme start="20210923174000 -0300" stop="20210923180400 -0300" channel="HGTV3">>
     <title lang="pt">Tendas Modernas</title>
     <desc lang="pt">Nathan e Jenny constroem um yurt para uma família de quatro pessoas que serve tanto como sala de ioga como espaço para relaxar.(n)</desc>
     <credits>
@@ -34369,7 +34369,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923180400 -0300" stop="20210923182800 -0300" channel="HGTV">
+  <programme start="20210923180400 -0300" stop="20210923182800 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família se dedica totalmente a encontrar um refúgio no Lago Deer Lake, em Washington, para passar os finais de semana.(n)</desc>
     <credits>
@@ -34380,7 +34380,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923182800 -0300" stop="20210923185200 -0300" channel="HGTV">
+  <programme start="20210923182800 -0300" stop="20210923185200 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família procura um chalé charmoso e sofisticado no Lago Ontário em Chaumont, Nova York.(n)</desc>
     <credits>
@@ -34391,7 +34391,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923185200 -0300" stop="20210923191500 -0300" channel="HGTV">
+  <programme start="20210923185200 -0300" stop="20210923191500 -0300" channel="HGTV3">>
     <title lang="pt">Casa Contêiner</title>
     <desc lang="pt">Uma empresária da Flórida projeta uma casa-contâiner que alia o trabalho à diversão.(n)</desc>
     <credits>
@@ -34402,7 +34402,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923191500 -0300" stop="20210923193900 -0300" channel="HGTV">
+  <programme start="20210923191500 -0300" stop="20210923193900 -0300" channel="HGTV3">>
     <title lang="pt">Casa Contêiner</title>
     <desc lang="pt">Em Mineral Point, Wisconsin, Andy E Jackie Spoor sonham em ter uma casa que seja uma fusão entre os estilos rústico e contemporâneo. A saída para não gastar uma fortuna na decoração é uma casa-contâiner.(n)</desc>
     <credits>
@@ -34413,7 +34413,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923193900 -0300" stop="20210923200200 -0300" channel="HGTV">
+  <programme start="20210923193900 -0300" stop="20210923200200 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Amanda e Nick competem com o casal de designers Christina e Billy.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34421,7 +34421,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923200200 -0300" stop="20210923202600 -0300" channel="HGTV">
+  <programme start="20210923200200 -0300" stop="20210923202600 -0300" channel="HGTV3">>
     <title lang="pt">Desafio da Renovação</title>
     <desc lang="pt">Dois primos e um casal de namorados se enfrentam neste episódio. Eles devem encontrar os três objetos da lista em um mercado de antiguidades em New Milford, Connecticut.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34429,7 +34429,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923202600 -0300" stop="20210923204600 -0300" channel="HGTV">
+  <programme start="20210923202600 -0300" stop="20210923204600 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Em Busca da Casa Perfeita mostra indivíduos, casais e famílias que estão à procura da casa ideal.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34437,7 +34437,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923204600 -0300" stop="20210923210800 -0300" channel="HGTV">
+  <programme start="20210923204600 -0300" stop="20210923210800 -0300" channel="HGTV3">>
     <title lang="pt">Em Busca Da Casa Perfeita</title>
     <desc lang="pt">Um jovem casal em Raleigh, Carolina do Norte, ama casas de estilo “Artesão”, assim como estilo Francês e Colonial. Nisso eles podem concordar. Já no resto, nem tanto.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -34445,7 +34445,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923210800 -0300" stop="20210923215500 -0300" channel="HGTV">
+  <programme start="20210923210800 -0300" stop="20210923215500 -0300" channel="HGTV3">>
     <title lang="pt">Ficar Ou Vender Com Heather E Brad</title>
     <desc lang="pt">Ryan e Lianna precisam decidir se investem em sua casa ou compram uma nova e a reformam. Eles precisam de mais quartos e espaço para o cachorro e gostariam de morar mais perto de um lago.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34453,7 +34453,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923215500 -0300" stop="20210923224200 -0300" channel="HGTV">
+  <programme start="20210923215500 -0300" stop="20210923224200 -0300" channel="HGTV3">>
     <title lang="pt">The Antonio Treatment</title>
     <desc lang="pt">O vencedor do concurso.(n)</desc>
     <category lang="pt">Reality Show</category>
@@ -34461,7 +34461,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923224200 -0300" stop="20210923230500 -0300" channel="HGTV">
+  <programme start="20210923224200 -0300" stop="20210923230500 -0300" channel="HGTV3">>
     <title lang="pt">SOS Casas Históricas</title>
     <desc lang="pt">Nicole Curtis reforma todos os quatros originais da casa construída por seus avós. Ela renova a disposição dos cômodos e tenta dar um toque de personalidade a esses cômodos decadentes.(n)</desc>
     <credits>
@@ -34477,7 +34477,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20210923230500 -0300" stop="20210923232900 -0300" channel="HGTV">
+  <programme start="20210923230500 -0300" stop="20210923232900 -0300" channel="HGTV3">>
     <title lang="pt">SOS Casas Históricas</title>
     <desc lang="pt">Nicole renova o sótão da casa de seus avós. Ela enfrenta problemas estruturais, janelas estragadas e encanamentos mal instalados para transformar o cômodo em uma sala de estar.(n)</desc>
     <credits>
@@ -34493,7 +34493,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20210923232900 -0300" stop="20210923235500 -0300" channel="HGTV">
+  <programme start="20210923232900 -0300" stop="20210923235500 -0300" channel="HGTV3">>
     <title lang="pt">Menos É Demais</title>
     <desc lang="pt">Sintonia não é um problema para esse casal que compartilha desde o trabalho até o gosto pelas compras. Mas para que a paz volte a reinar no quarto deles, Andréia e Sérgio precisarão da ajuda de Chiara Gadaleta.(n)</desc>
     <category lang="pt">Comportamento</category>
@@ -34501,7 +34501,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20210923235500 -0300" stop="20210924001800 -0300" channel="HGTV">
+  <programme start="20210923235500 -0300" stop="20210924001800 -0300" channel="HGTV3">>
     <title lang="pt">A Sonhada Casa do Lago</title>
     <desc lang="pt">Uma família de três pessoas procura uma casa de veraneio região dos lagos de Hot Springs, Arkansas.(n)</desc>
     <credits>
