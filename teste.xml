@@ -131,7 +131,7 @@
   </programme>
   <programme start="20211005100000 -0300" stop="20211005110000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Boleiragem</title>
-    <desc lang="pt">No comando de Roger Flores, o programa Boleiragem é uma grande bate-papo entre atletas e ex-atletas. Convidados especiais relembram histórias e resenhas para deixar o seu domingo mais animado!(c)</desc>
+    <desc lang="pt">No comando de Roger Flores, o programa Boleiragem é uma grande bate-papo entre atletas e ex-atletas. Convidados especiais relembram histórias e resenhas para deixar o seu domingo mais animado!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -139,7 +139,7 @@
   </programme>
   <programme start="20211005110000 -0300" stop="20211005130000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -148,7 +148,7 @@
   <programme start="20211005130000 -0300" stop="20211005140000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Avaí</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -157,7 +157,7 @@
   <programme start="20211005140000 -0300" stop="20211005150000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -166,7 +166,7 @@
   <programme start="20211005150000 -0300" stop="20211005160000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -175,7 +175,7 @@
   <programme start="20211005160000 -0300" stop="20211005170000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Sport</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -183,7 +183,7 @@
   </programme>
   <programme start="20211005170000 -0300" stop="20211005180000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -191,7 +191,7 @@
   </programme>
   <programme start="20211005180000 -0300" stop="20211005190000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(c)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -200,7 +200,7 @@
   <programme start="20211005190000 -0300" stop="20211005213000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Copa do Mundo de Beach Tennis</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -208,7 +208,7 @@
   </programme>
   <programme start="20211005213000 -0300" stop="20211005223000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -216,7 +216,7 @@
   </programme>
   <programme start="20211005223000 -0300" stop="20211005230000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(c)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -224,7 +224,7 @@
   </programme>
   <programme start="20211005230000 -0300" stop="20211006000000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">PBR</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Rodeio</category>
     <rating system="BR">
       <value>5</value>
@@ -233,7 +233,7 @@
   <programme start="20211006000000 -0300" stop="20211006010000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -242,7 +242,7 @@
   <programme start="20211006010000 -0300" stop="20211006020000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Coritiba</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -251,7 +251,7 @@
   <programme start="20211006020000 -0300" stop="20211006030000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cuiabá x América MG</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -259,7 +259,7 @@
   </programme>
   <programme start="20211006030000 -0300" stop="20211006033000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(c)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -267,7 +267,7 @@
   </programme>
   <programme start="20211006033000 -0300" stop="20211006060000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Bem, Amigos!</title>
-    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos.(c)</desc>
+    <desc lang="pt">Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -275,7 +275,7 @@
   </programme>
   <programme start="20211006060000 -0300" stop="20211006070000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">PBR</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Rodeio</category>
     <rating system="BR">
       <value>5</value>
@@ -284,7 +284,7 @@
   <programme start="20211006070000 -0300" stop="20211006080000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cruzeiro x Brasil de Pelotas</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -293,7 +293,7 @@
   <programme start="20211006080000 -0300" stop="20211006090000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cuiabá x América MG</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -302,7 +302,7 @@
   <programme start="20211006090000 -0300" stop="20211006100000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -311,7 +311,7 @@
   <programme start="20211006100000 -0300" stop="20211006110000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -320,7 +320,7 @@
   <programme start="20211006110000 -0300" stop="20211006120000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Sport</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -328,7 +328,7 @@
   </programme>
   <programme start="20211006120000 -0300" stop="20211006140000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Feminino: Osasco x Pinheiros</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei Feminino</category>
     <rating system="BR">
       <value>5</value>
@@ -337,7 +337,7 @@
   <programme start="20211006140000 -0300" stop="20211006150000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -346,7 +346,7 @@
   <programme start="20211006150000 -0300" stop="20211006160000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -354,7 +354,7 @@
   </programme>
   <programme start="20211006160000 -0300" stop="20211006170000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -362,7 +362,7 @@
   </programme>
   <programme start="20211006170000 -0300" stop="20211006190000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -371,7 +371,7 @@
   <programme start="20211006190000 -0300" stop="20211006213000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Copa do Mundo de Beach Tennis</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -379,7 +379,7 @@
   </programme>
   <programme start="20211006213000 -0300" stop="20211006223000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -387,7 +387,7 @@
   </programme>
   <programme start="20211006223000 -0300" stop="20211007003000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -396,7 +396,7 @@
   <programme start="20211007003000 -0300" stop="20211007013000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">UFC Marreta x Walker</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(c)</desc>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -405,7 +405,7 @@
   <programme start="20211007013000 -0300" stop="20211007023000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -413,7 +413,7 @@
   </programme>
   <programme start="20211007023000 -0300" stop="20211007033000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Copa do Brasil de Futebol Sub-17</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -422,7 +422,7 @@
   <programme start="20211007033000 -0300" stop="20211007043000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Brusque x Guarani</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -431,7 +431,7 @@
   <programme start="20211007043000 -0300" stop="20211007053000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">CRB AL x CSA AL</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -440,7 +440,7 @@
   <programme start="20211007053000 -0300" stop="20211007063000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Náutico x Goiás</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -448,7 +448,7 @@
   </programme>
   <programme start="20211007063000 -0300" stop="20211007073000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Copa do Brasil de Futebol Sub-17: Fluminense x São Paulo</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -457,7 +457,7 @@
   <programme start="20211007073000 -0300" stop="20211007083000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Remo x Coritiba</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -466,7 +466,7 @@
   <programme start="20211007083000 -0300" stop="20211007093000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -474,7 +474,7 @@
   </programme>
   <programme start="20211007093000 -0300" stop="20211007094500 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(c)</desc>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -482,7 +482,7 @@
   </programme>
   <programme start="20211007094500 -0300" stop="20211007113000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -490,7 +490,7 @@
   </programme>
   <programme start="20211007113000 -0300" stop="20211007123000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -498,7 +498,7 @@
   </programme>
   <programme start="20211007123000 -0300" stop="20211007143000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -507,7 +507,7 @@
   <programme start="20211007143000 -0300" stop="20211007153000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Cuiabá</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -516,7 +516,7 @@
   <programme start="20211007153000 -0300" stop="20211007163000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Flamengo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -524,7 +524,7 @@
   </programme>
   <programme start="20211007163000 -0300" stop="20211007181500 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Faixa Combate</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -532,7 +532,7 @@
   </programme>
   <programme start="20211007181500 -0300" stop="20211007183000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(c)</desc>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -540,7 +540,7 @@
   </programme>
   <programme start="20211007183000 -0300" stop="20211007190000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(c)</desc>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -548,7 +548,7 @@
   </programme>
   <programme start="20211007190000 -0300" stop="20211007194500 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(c)</desc>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -557,7 +557,7 @@
   <programme start="20211007194500 -0300" stop="20211007220000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Eliminatórias da Copa Do Mundo: Uruguai x Colômbia</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -566,7 +566,7 @@
   <programme start="20211007220000 -0300" stop="20211008000000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Eliminatórias da Copa do Mundo: Peru x Chile</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -575,7 +575,7 @@
   <programme start="20211008000000 -0300" stop="20211008010000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Eliminatórias da Copa Do Mundo: Uruguai x Colômbia</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -583,7 +583,7 @@
   </programme>
   <programme start="20211008010000 -0300" stop="20211008020000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Vasco x Palmeiras</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -592,7 +592,7 @@
   <programme start="20211008020000 -0300" stop="20211008030000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Brusque x Guarani</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -601,7 +601,7 @@
   <programme start="20211008030000 -0300" stop="20211008040000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">CRB AL x CSA AL</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -610,7 +610,7 @@
   <programme start="20211008040000 -0300" stop="20211008050000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">CRB AL x CSA AL</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -619,7 +619,7 @@
   <programme start="20211008050000 -0300" stop="20211008060000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Operário x Náutico</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -628,7 +628,7 @@
   <programme start="20211008060000 -0300" stop="20211008070000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Goiás x Vitória</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -900,7 +900,7 @@
   </programme>
   <programme start="20211011010000 -0300" stop="20211011030000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -908,7 +908,7 @@
   </programme>
   <programme start="20211011030000 -0300" stop="20211011050000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -916,7 +916,7 @@
   </programme>
   <programme start="20211011050000 -0300" stop="20211011070000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -924,7 +924,7 @@
   </programme>
   <programme start="20211011070000 -0300" stop="20211011090000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -932,7 +932,7 @@
   </programme>
   <programme start="20211011090000 -0300" stop="20211011110000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -940,7 +940,7 @@
   </programme>
   <programme start="20211011110000 -0300" stop="20211011130000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -948,7 +948,7 @@
   </programme>
   <programme start="20211011130000 -0300" stop="20211011150000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -956,7 +956,7 @@
   </programme>
   <programme start="20211011150000 -0300" stop="20211011170000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -964,7 +964,7 @@
   </programme>
   <programme start="20211011170000 -0300" stop="20211011190000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -972,7 +972,7 @@
   </programme>
   <programme start="20211011190000 -0300" stop="20211011210000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -980,7 +980,7 @@
   </programme>
   <programme start="20211011210000 -0300" stop="20211011230000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -988,7 +988,7 @@
   </programme>
   <programme start="20211011230000 -0300" stop="20211012010000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1041,7 +1041,7 @@
   <programme start="20211005063000 -0300" stop="20211005073000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cuiabá x América MG</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1050,7 +1050,7 @@
   <programme start="20211005073000 -0300" stop="20211005083000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1059,7 +1059,7 @@
   <programme start="20211005083000 -0300" stop="20211005093000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Confiança x Vasco</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1068,7 +1068,7 @@
   <programme start="20211005093000 -0300" stop="20211005103000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Sport</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1076,7 +1076,7 @@
   </programme>
   <programme start="20211005103000 -0300" stop="20211005110000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(c)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -1084,7 +1084,7 @@
   </programme>
   <programme start="20211005110000 -0300" stop="20211005130000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Mundo da FIFA de Futsal: Brasil x Cazaquistão</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol de Salão</category>
     <rating system="BR">
       <value>5</value>
@@ -1092,7 +1092,7 @@
   </programme>
   <programme start="20211005130000 -0300" stop="20211005160000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Brasileiro de Ginástica Artística</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Ginástica</category>
     <rating system="BR">
       <value>5</value>
@@ -1100,7 +1100,7 @@
   </programme>
   <programme start="20211005160000 -0300" stop="20211005163000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(c)</desc>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1108,7 +1108,7 @@
   </programme>
   <programme start="20211005163000 -0300" stop="20211005184500 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Mundo da FIFA de Futsal: Argentina x Portugal</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol de Salão</category>
     <rating system="BR">
       <value>5</value>
@@ -1117,7 +1117,7 @@
   <programme start="20211005184500 -0300" stop="20211005211500 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Masculino</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei</category>
     <rating system="BR">
       <value>5</value>
@@ -1126,7 +1126,7 @@
   <programme start="20211005211500 -0300" stop="20211005233000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Feminino: Osasco x Pinheiros</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei Feminino</category>
     <rating system="BR">
       <value>5</value>
@@ -1134,7 +1134,7 @@
   </programme>
   <programme start="20211005233000 -0300" stop="20211006013000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Masculino</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei</category>
     <rating system="BR">
       <value>5</value>
@@ -1143,7 +1143,7 @@
   <programme start="20211006013000 -0300" stop="20211006023000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Brasil de Pelotas x Operário</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1152,7 +1152,7 @@
   <programme start="20211006023000 -0300" stop="20211006033000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Náutico x Goiás</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1160,7 +1160,7 @@
   </programme>
   <programme start="20211006033000 -0300" stop="20211006043000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Brasil de Futebol Sub-17</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1169,7 +1169,7 @@
   <programme start="20211006043000 -0300" stop="20211006053000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Avaí x Ponte Preta</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1178,7 +1178,7 @@
   <programme start="20211006053000 -0300" stop="20211006063000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Brasil de Pelotas x Operário</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1186,7 +1186,7 @@
   </programme>
   <programme start="20211006063000 -0300" stop="20211006070000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Brasil de Futebol Sub-17</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1570,7 +1570,7 @@
   </programme>
   <programme start="20211010050000 -0300" stop="20211010063000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1579,7 +1579,7 @@
   <programme start="20211010063000 -0300" stop="20211010073000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cuiabá x América MG</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1588,7 +1588,7 @@
   <programme start="20211010073000 -0300" stop="20211010083000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1606,7 +1606,7 @@
   <programme start="20211010093000 -0300" stop="20211010103000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Sport</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1614,7 +1614,7 @@
   </programme>
   <programme start="20211010103000 -0300" stop="20211010110000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(c)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -1622,7 +1622,7 @@
   </programme>
   <programme start="20211010110000 -0300" stop="20211010130000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Mundo da FIFA de Futsal: Brasil x Cazaquistão</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol de Salão</category>
     <rating system="BR">
       <value>5</value>
@@ -1630,7 +1630,7 @@
   </programme>
   <programme start="20211010130000 -0300" stop="20211010160000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Brasileiro de Ginástica Artística</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Ginástica</category>
     <rating system="BR">
       <value>5</value>
@@ -1638,7 +1638,7 @@
   </programme>
   <programme start="20211010160000 -0300" stop="20211010163000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(c)</desc>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1646,7 +1646,7 @@
   </programme>
   <programme start="20211010163000 -0300" stop="20211010184500 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Mundo da FIFA de Futsal: Argentina x Portugal</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol de Salão</category>
     <rating system="BR">
       <value>5</value>
@@ -1655,7 +1655,7 @@
   <programme start="20211010184500 -0300" stop="20211010211500 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Masculino</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei</category>
     <rating system="BR">
       <value>5</value>
@@ -1664,7 +1664,7 @@
   <programme start="20211010211500 -0300" stop="20211010233000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Feminino: Osasco x Pinheiros</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei Feminino</category>
     <rating system="BR">
       <value>5</value>
@@ -1672,7 +1672,7 @@
   </programme>
   <programme start="20211010233000 -0300" stop="20211011003000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Paulista de Vôlei Masculino</title>
-    <desc lang="pt">Sinopse não disponível.(c)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Vôlei</category>
     <rating system="BR">
       <value>5</value>
@@ -1681,7 +1681,7 @@
   <programme start="20211011003000 -0300" stop="20211011013000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético MG x Internacional</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1690,7 +1690,7 @@
   <programme start="20211011013000 -0300" stop="20211011023000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Londrina x Sampaio Corrêa</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1699,7 +1699,7 @@
   <programme start="20211011023000 -0300" stop="20211011033000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cruzeiro x Brasil de Pelotas</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1708,7 +1708,7 @@
   <programme start="20211011033000 -0300" stop="20211011043000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Bragantino x Corinthians</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1717,7 +1717,7 @@
   <programme start="20211011043000 -0300" stop="20211011053000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Botafogo x Avaí</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1726,7 +1726,7 @@
   <programme start="20211011053000 -0300" stop="20211011063000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cuiabá x América MG</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1735,7 +1735,7 @@
   <programme start="20211011063000 -0300" stop="20211011080000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Ponte Preta x Vila Nova</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1743,7 +1743,7 @@
   </programme>
   <programme start="20211011080000 -0300" stop="20211011090000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Boleiragem</title>
-    <desc lang="pt">No comando de Roger Flores, o programa Boleiragem é uma grande bate-papo entre atletas e ex-atletas. Convidados especiais relembram histórias e resenhas para deixar o seu domingo mais animado!(n)</desc>
+    <desc lang="pt">No comando de Roger Flores, o programa Boleiragem é uma grande bate-papo entre atletas e ex-atletas. Convidados especiais relembram histórias e resenhas para deixar o seu domingo mais animado!</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1752,7 +1752,7 @@
   <programme start="20211011090000 -0300" stop="20211011100000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Atlético MG x Internacional</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1761,7 +1761,7 @@
   <programme start="20211011100000 -0300" stop="20211011110000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Cruzeiro x Brasil de Pelotas</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1770,7 +1770,7 @@
   <programme start="20211011110000 -0300" stop="20211011120000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Grêmio x Sport</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1779,7 +1779,7 @@
   <programme start="20211011120000 -0300" stop="20211011130000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">VT</title>
     <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -1787,7 +1787,7 @@
   </programme>
   <programme start="20211011130000 -0300" stop="20211011150000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Mundo da FIFA de Futsal: Brasil x Cazaquistão</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol de Salão</category>
     <rating system="BR">
       <value>5</value>
@@ -1795,7 +1795,7 @@
   </programme>
   <programme start="20211011150000 -0300" stop="20211011160000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(n)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -1803,7 +1803,7 @@
   </programme>
   <programme start="20211011160000 -0300" stop="20211011173000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa Truck</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Automobilismo</category>
     <rating system="BR">
       <value>5</value>
@@ -1811,7 +1811,7 @@
   </programme>
   <programme start="20211011173000 -0300" stop="20211011203000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Campeonato Brasileiro de Ginástica Artística</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Ginástica</category>
     <rating system="BR">
       <value>5</value>
@@ -1819,7 +1819,7 @@
   </programme>
   <programme start="20211011203000 -0300" stop="20211011210000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1827,7 +1827,7 @@
   </programme>
   <programme start="20211011210000 -0300" stop="20211011213000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -1835,7 +1835,7 @@
   </programme>
   <programme start="20211011213000 -0300" stop="20211011233000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Copa do Mundo da FIFA de Futsal: Argentina x Portugal</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol de Salão</category>
     <rating system="BR">
       <value>5</value>
@@ -1843,7 +1843,7 @@
   </programme>
   <programme start="20211011233000 -0300" stop="20211012000000 -0300" channel="SporTV 2 HD ³">
     <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.(n)</desc>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -2671,7 +2671,7 @@
   </programme>
   <programme start="20211011003000 -0300" stop="20211011024500 -0300" channel="ESPNBr3">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
-    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2679,7 +2679,7 @@
   </programme>
   <programme start="20211011024500 -0300" stop="20211011031500 -0300" channel="ESPNBr3">
     <title lang="pt">Inside Serie A</title>
-    <desc lang="pt">O melhor resumo e os gols da Serie A você encontrará neste programa após cada rodada da primeira divisão do futebol italiano.(n)</desc>
+    <desc lang="pt">O melhor resumo e os gols da Serie A você encontrará neste programa após cada rodada da primeira divisão do futebol italiano.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2687,7 +2687,7 @@
   </programme>
   <programme start="20211011031500 -0300" stop="20211011034500 -0300" channel="ESPNBr3">
     <title lang="pt">La Liga World</title>
-    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Liga espanhola. Análises táticas, curiosidades, perfis e reportagens exclusivas.(n)</desc>
+    <desc lang="pt">Confira, em primeira mão, tudo o que antecede a próxima rodada da Liga espanhola. Análises táticas, curiosidades, perfis e reportagens exclusivas.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -2695,7 +2695,7 @@
   </programme>
   <programme start="20211011034500 -0300" stop="20211011044500 -0300" channel="ESPNBr3">
     <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2703,7 +2703,7 @@
   </programme>
   <programme start="20211011044500 -0300" stop="20211011064500 -0300" channel="ESPNBr3">
     <title lang="pt">Liverpool x Manchester City</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -2711,7 +2711,7 @@
   </programme>
   <programme start="20211011064500 -0300" stop="20211011090000 -0300" channel="ESPNBr3">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
-    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2720,7 +2720,7 @@
   <programme start="20211011090000 -0300" stop="20211011110000 -0300" channel="ESPNBr3">
     <title lang="pt">Espn F360</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360  uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo.(n)</desc>
+    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360  uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2729,7 +2729,7 @@
   <programme start="20211011110000 -0300" stop="20211011130000 -0300" channel="ESPNBr3">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2738,7 +2738,7 @@
   <programme start="20211011130000 -0300" stop="20211011150000 -0300" channel="ESPNBr3">
     <title lang="pt">Espn F90</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.(n)</desc>
+    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.</desc>
     <category lang="pt">Debate</category>
     <rating system="BR">
       <value>5</value>
@@ -2747,7 +2747,7 @@
   <programme start="20211011150000 -0300" stop="20211011160000 -0300" channel="ESPNBr3">
     <title lang="pt">Espn FC</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.(n)</desc>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -2756,7 +2756,7 @@
   <programme start="20211011160000 -0300" stop="20211011180000 -0300" channel="ESPNBr3">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2765,7 +2765,7 @@
   <programme start="20211011180000 -0300" stop="20211011200000 -0300" channel="ESPNBr3">
     <title lang="pt">Espn FC</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.(n)</desc>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -2774,7 +2774,7 @@
   <programme start="20211011200000 -0300" stop="20211011210000 -0300" channel="ESPNBr3">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2783,7 +2783,7 @@
   <programme start="20211011210000 -0300" stop="20211011220000 -0300" channel="ESPNBr3">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -2792,7 +2792,7 @@
   <programme start="20211011220000 -0300" stop="20211012000000 -0300" channel="ESPNBr3">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -3615,7 +3615,7 @@
   </programme>
   <programme start="20211011020000 -0300" stop="20211011043000 -0300" channel="ESPN2HD3">
     <title lang="pt">NFL: Kansas City Chiefs x Philadelphia Eagles</title>
-    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.(n)</desc>
+    <desc lang="pt">Touchdowns, viradas espetaculares, jogadas que entram para a história e os melhores atletas em campo. A NFL reúne a elite do futebol americano.</desc>
     <category lang="pt">Futebol Americano</category>
     <rating system="BR">
       <value>5</value>
@@ -3623,7 +3623,7 @@
   </programme>
   <programme start="20211011043000 -0300" stop="20211011063000 -0300" channel="ESPN2HD3">
     <title lang="pt">Bologna x Lazio</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -3631,7 +3631,7 @@
   </programme>
   <programme start="20211011063000 -0300" stop="20211011073000 -0300" channel="ESPN2HD3">
     <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -3639,7 +3639,7 @@
   </programme>
   <programme start="20211011073000 -0300" stop="20211011091500 -0300" channel="ESPN2HD3">
     <title lang="pt">Tottenham x Aston Villa</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -3647,7 +3647,7 @@
   </programme>
   <programme start="20211011091500 -0300" stop="20211011113000 -0300" channel="ESPN2HD3">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
-    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -3655,7 +3655,7 @@
   </programme>
   <programme start="20211011113000 -0300" stop="20211011123000 -0300" channel="ESPN2HD3">
     <title lang="pt">Resenha: D'alessandro</title>
-    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -3663,7 +3663,7 @@
   </programme>
   <programme start="20211011123000 -0300" stop="20211011143000 -0300" channel="ESPN2HD3">
     <title lang="pt">NFL: Arizona Cardinals x Los Angeles Rams</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Futebol Americano</category>
     <rating system="BR">
       <value>5</value>
@@ -3671,7 +3671,7 @@
   </programme>
   <programme start="20211011143000 -0300" stop="20211011153000 -0300" channel="ESPN2HD3">
     <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -3679,7 +3679,7 @@
   </programme>
   <programme start="20211011153000 -0300" stop="20211011163000 -0300" channel="ESPN2HD3">
     <title lang="pt">Destaques do 2021 Laver Cup</title>
-    <desc lang="pt">A Laver Cup 2021 será a quarta edição da Laver Cup, um torneio de tênis masculino entre times da Europa e do resto do mundo. O evento será realizado em quadras cobertas no TD Garden em Boston, Estados Unidos.(n)</desc>
+    <desc lang="pt">A Laver Cup 2021 será a quarta edição da Laver Cup, um torneio de tênis masculino entre times da Europa e do resto do mundo. O evento será realizado em quadras cobertas no TD Garden em Boston, Estados Unidos.</desc>
     <category lang="pt">Tênis</category>
     <rating system="BR">
       <value>5</value>
@@ -3687,7 +3687,7 @@
   </programme>
   <programme start="20211011163000 -0300" stop="20211011181500 -0300" channel="ESPN2HD3">
     <title lang="pt">Fa Women's Super League: Chelsea x Brighton</title>
-    <desc lang="pt">Fundada em 2010, a liga de futebol feminino do mais alto escalão da Inglaterra, é dirigido pela Associação de Futebol e atualmente conta com 12 times totalmente profissionais.(n)</desc>
+    <desc lang="pt">Fundada em 2010, a liga de futebol feminino do mais alto escalão da Inglaterra, é dirigido pela Associação de Futebol e atualmente conta com 12 times totalmente profissionais.</desc>
     <category lang="pt">Futebol Feminino</category>
     <rating system="BR">
       <value>5</value>
@@ -3695,7 +3695,7 @@
   </programme>
   <programme start="20211011181500 -0300" stop="20211011200000 -0300" channel="ESPN2HD3">
     <title lang="pt">The Rugby Championship: Africa do Sul x Nova Zelândia</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Rugby</category>
     <rating system="BR">
       <value>5</value>
@@ -3703,7 +3703,7 @@
   </programme>
   <programme start="20211011200000 -0300" stop="20211011220000 -0300" channel="ESPN2HD3">
     <title lang="pt">Atlético de Madrid x Barcelona</title>
-    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Messi, do Barcelona, comanda sua equipe em busca do cobiçado título espanhol.(n)</desc>
+    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Messi, do Barcelona, comanda sua equipe em busca do cobiçado título espanhol.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -3711,7 +3711,7 @@
   </programme>
   <programme start="20211011220000 -0300" stop="20211012003000 -0300" channel="ESPN2HD3">
     <title lang="pt">ESPN Knockout</title>
-    <desc lang="pt">Os melhores lutadores de MMA do mundo e as lutas mais esperadas estão no universo do UFC. Dentro do octógono, dois competidores ficam frente a frente em busca da vitória.(n)</desc>
+    <desc lang="pt">Os melhores lutadores de MMA do mundo e as lutas mais esperadas estão no universo do UFC. Dentro do octógono, dois competidores ficam frente a frente em busca da vitória.</desc>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -5303,7 +5303,7 @@
   </programme>
   <programme start="20211011010000 -0300" stop="20211011024500 -0300" channel="GLOBO3">
     <title lang="pt">Cinemaço</title>
-    <desc lang="pt">No ‘Cinemaço’, os cinéfilos da madrugada poderão relembrar grandes sucessos das últimas décadas, com elencos estrelados, logo após o ‘Domingo Maior’.(n)</desc>
+    <desc lang="pt">No ‘Cinemaço’, os cinéfilos da madrugada poderão relembrar grandes sucessos das últimas décadas, com elencos estrelados, logo após o ‘Domingo Maior’.</desc>
     <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>14</value>
@@ -5311,7 +5311,7 @@
   </programme>
   <programme start="20211011024500 -0300" stop="20211011040000 -0300" channel="GLOBO3">
     <title lang="pt">Corujão</title>
-    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.</desc>
     <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>16</value>
@@ -5319,7 +5319,7 @@
   </programme>
   <programme start="20211011040000 -0300" stop="20211011060000 -0300" channel="GLOBO3">
     <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.</desc>
     <credits>
       <director>Ali Kamel</director>
       <director>Sérgio Henrique Coelho</director>
@@ -5332,7 +5332,7 @@
   </programme>
   <programme start="20211011060000 -0300" stop="20211011083000 -0300" channel="GLOBO3">
     <title lang="pt">Bom Dia São Paulo</title>
-    <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações.(n)</desc>
+    <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -5340,7 +5340,7 @@
   </programme>
   <programme start="20211011083000 -0300" stop="20211011093000 -0300" channel="GLOBO3">
     <title lang="pt">Bom Dia Brasil</title>
-    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.</desc>
     <credits>
       <actor>Chico Pinheiro</actor>
       <actor>Ana Paula Araújo</actor>
@@ -5352,7 +5352,7 @@
   </programme>
   <programme start="20211011093000 -0300" stop="20211011104500 -0300" channel="GLOBO3">
     <title lang="pt">Mais Você</title>
-    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.</desc>
     <credits>
       <director>Frederico Oliveira</director>
       <director>Viviane De Marco</director>
@@ -5364,7 +5364,7 @@
   </programme>
   <programme start="20211011104500 -0300" stop="20211011120000 -0300" channel="GLOBO3">
     <title lang="pt">Encontro com Fátima Bernardes</title>
-    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.</desc>
     <credits>
       <director>Fabrício Mamberti</director>
       <director>Mario Marcio Bandarra</director>
@@ -5377,7 +5377,7 @@
   </programme>
   <programme start="20211011120000 -0300" stop="20211011130000 -0300" channel="GLOBO3">
     <title lang="pt">SP1</title>
-    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -5385,7 +5385,7 @@
   </programme>
   <programme start="20211011130000 -0300" stop="20211011132500 -0300" channel="GLOBO3">
     <title lang="pt">Globo Esporte</title>
-    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.(n)</desc>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.</desc>
     <credits>
       <director>André Boaventura</director>
     </credits>
@@ -5396,7 +5396,7 @@
   </programme>
   <programme start="20211011132500 -0300" stop="20211011150000 -0300" channel="GLOBO3">
     <title lang="pt">Jornal Hoje</title>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.</desc>
     <credits>
       <director>Cláudio Marques</director>
       <actor>Maria Júlia Coutinho</actor>
@@ -5408,7 +5408,7 @@
   </programme>
   <programme start="20211011150000 -0300" stop="20211011163500 -0300" channel="GLOBO3">
     <title lang="pt">Sessão da Tarde</title>
-    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.</desc>
     <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>5</value>
@@ -5416,7 +5416,7 @@
   </programme>
   <programme start="20211011163500 -0300" stop="20211011175000 -0300" channel="GLOBO3">
     <title lang="pt">Vale a Pena Ver de Novo: Ti Ti Ti</title>
-    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.(n)</desc>
+    <desc lang="pt">A história da grande rivalidade entre André Spina/Jacques Leclair e Ariclenes Martins/Victor Valentim, que extrapola as fronteiras da vila do Belenzinho.</desc>
     <credits>
       <director>Jorge Fernando</director>
       <actor>Alexandre Borges</actor>
@@ -5433,7 +5433,7 @@
   </programme>
   <programme start="20211011175000 -0300" stop="20211011182000 -0300" channel="GLOBO3">
     <title lang="pt">Malhação: Sonhos</title>
-    <desc lang="pt">A busca dos jovens pelos seus sonhos conduz a história. Duca e Karina querem ter sucesso nos ringues. Bianca sonha em ser uma grande atriz. A música é o que move Pedro e Sol.(n)</desc>
+    <desc lang="pt">A busca dos jovens pelos seus sonhos conduz a história. Duca e Karina querem ter sucesso nos ringues. Bianca sonha em ser uma grande atriz. A música é o que move Pedro e Sol.</desc>
     <credits>
       <director>Luiz Henrique Rios</director>
       <director>José Alvarenga Jr</director>
@@ -5451,7 +5451,7 @@
   </programme>
   <programme start="20211011182000 -0300" stop="20211011190500 -0300" channel="GLOBO3">
     <title lang="pt">A Vida da Gente</title>
-    <desc lang="pt">Ambientada em Porto Alegre e Gramado, a trama fala sobre a sólida amizade entre duas irmãs – Ana e Manuela, apesar da preferência da mãe, Eva, pela primeira.(n)</desc>
+    <desc lang="pt">Ambientada em Porto Alegre e Gramado, a trama fala sobre a sólida amizade entre duas irmãs – Ana e Manuela, apesar da preferência da mãe, Eva, pela primeira.</desc>
     <credits>
       <director>Jayme Monjardim</director>
       <actor>Fernanda Vasconcellos</actor>
@@ -5466,7 +5466,7 @@
   </programme>
   <programme start="20211011190500 -0300" stop="20211011193500 -0300" channel="GLOBO3">
     <title lang="pt">SP2</title>
-    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -5474,7 +5474,7 @@
   </programme>
   <programme start="20211011193500 -0300" stop="20211011203000 -0300" channel="GLOBO3">
     <title lang="pt">Salve-se Quem Puder</title>
-    <desc lang="pt">Três mulheres com novas identidades e uma única certeza: suas vidas estão entrelaçadas para sempre.(n)</desc>
+    <desc lang="pt">Três mulheres com novas identidades e uma única certeza: suas vidas estão entrelaçadas para sempre.</desc>
     <credits>
       <director>Marcelo Travesso</director>
       <director>Fred Mayrink</director>
@@ -5489,7 +5489,7 @@
   </programme>
   <programme start="20211011203000 -0300" stop="20211011213000 -0300" channel="GLOBO3">
     <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
     <credits>
       <director>William Bonner</director>
       <actor>William Bonner</actor>
@@ -5502,7 +5502,7 @@
   </programme>
   <programme start="20211011213000 -0300" stop="20211011223500 -0300" channel="GLOBO3">
     <title lang="pt">Império</title>
-    <desc lang="pt">‘Império’ traz a história de José Alfredo, o comendador. Um homem pobre que fez fortuna com pedras preciosas e tornou-se o dono de uma rede de joalherias.(n)</desc>
+    <desc lang="pt">‘Império’ traz a história de José Alfredo, o comendador. Um homem pobre que fez fortuna com pedras preciosas e tornou-se o dono de uma rede de joalherias.</desc>
     <credits>
       <director>Rogério Gomes</director>
       <actor>Alexandre Nero</actor>
@@ -5519,7 +5519,7 @@
   </programme>
   <programme start="20211011223500 -0300" stop="20211012004500 -0300" channel="GLOBO3">
     <title lang="pt">Tela Quente</title>
-    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV.(n)</desc>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV.</desc>
     <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>14</value>
@@ -5604,7 +5604,7 @@
   </programme>
   <programme start="20211005110000 -0300" stop="20211005151500 -0300" channel="SBT3">
     <title lang="pt">Bom Dia &amp; Cia</title>
-    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.(c)</desc>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.</desc>
     <credits>
       <director>Silvia Abravanel</director>
       <actor>Ana Julia</actor>
@@ -5617,7 +5617,7 @@
   </programme>
   <programme start="20211005151500 -0300" stop="20211005163000 -0300" channel="SBT3">
     <title lang="pt">Fofocalizando</title>
-    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.(c)</desc>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -5625,7 +5625,7 @@
   </programme>
   <programme start="20211005163000 -0300" stop="20211005173000 -0300" channel="SBT3">
     <title lang="pt">Casos de Família</title>
-    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.(c)</desc>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
     <credits>
       <director>Rafael Bello</director>
       <director>Melissa Ribeiro</director>
@@ -5638,7 +5638,7 @@
   </programme>
   <programme start="20211005173000 -0300" stop="20211005183000 -0300" channel="SBT3">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.(c)</desc>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
     <credits>
       <director>Nathalie Lartilleux</director>
       <actor>Ana Brenda Contreras</actor>
@@ -5653,7 +5653,7 @@
   </programme>
   <programme start="20211005183000 -0300" stop="20211005194500 -0300" channel="SBT3">
     <title lang="pt">Te Dou A Vida</title>
-    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.(c)</desc>
+    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.</desc>
     <credits>
       <director>Lucero Suárez</director>
       <actor>Jose Ron</actor>
@@ -5683,7 +5683,7 @@
   </programme>
   <programme start="20211005203000 -0300" stop="20211005211500 -0300" channel="SBT3">
     <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(c)</desc>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
     <credits>
       <director>Ricardo Mantoanelli</director>
       <actor>Lorena Queiroz</actor>
@@ -5700,7 +5700,7 @@
   </programme>
   <programme start="20211005211500 -0300" stop="20211005221500 -0300" channel="SBT3">
     <title lang="pt">Chiquititas</title>
-    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.(c)</desc>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
     <credits>
       <actor>Giovanna Grigio</actor>
       <actor>Julia Oliver</actor>
@@ -5714,7 +5714,7 @@
   </programme>
   <programme start="20211005221500 -0300" stop="20211005231500 -0300" channel="SBT3">
     <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(c)</desc>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <credits>
       <director>Walter Scaramuzzi</director>
       <director>Lucimara Parisi</director>
@@ -5732,7 +5732,7 @@
   </programme>
   <programme start="20211005231500 -0300" stop="20211006010000 -0300" channel="SBT3">
     <title lang="pt">Cine Espetacular</title>
-    <desc lang="pt">Toda terça-feira, a sessão exibe os melhores filmes do cinema.(c)</desc>
+    <desc lang="pt">Toda terça-feira, a sessão exibe os melhores filmes do cinema.</desc>
     <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>16</value>
@@ -5740,7 +5740,7 @@
   </programme>
   <programme start="20211006010000 -0300" stop="20211006014500 -0300" channel="SBT3">
     <title lang="pt">The Noite com Danilo Gentili</title>
-    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.(c)</desc>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia.</desc>
     <credits>
       <director>João Mesquita</director>
       <actor>Léo Lins</actor>
@@ -5755,7 +5755,7 @@
   </programme>
   <programme start="20211006014500 -0300" stop="20211006023000 -0300" channel="SBT3">
     <title lang="pt">Operação Mesquita</title>
-    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes fazem às vezes de auditório.(c)</desc>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas; os passantes fazem às vezes de auditório.</desc>
     <category lang="pt">Entrevista</category>
     <rating system="BR">
       <value>12</value>
@@ -5763,7 +5763,7 @@
   </programme>
   <programme start="20211006023000 -0300" stop="20211006031500 -0300" channel="SBT3">
     <title lang="pt">Conexão Repórter</title>
-    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo.(c)</desc>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo.</desc>
     <credits>
       <director>Roberto Cabrini</director>
       <director>Marcelo Parada</director>
@@ -5838,7 +5838,7 @@
   </programme>
   <programme start="20211006163000 -0300" stop="20211006173000 -0300" channel="SBT3">
     <title lang="pt">Casos de Família</title>
-    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.(c)</desc>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
     <credits>
       <director>Rafael Bello</director>
       <director>Melissa Ribeiro</director>
@@ -5851,7 +5851,7 @@
   </programme>
   <programme start="20211006173000 -0300" stop="20211006183000 -0300" channel="SBT3">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.(c)</desc>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
     <credits>
       <director>Nathalie Lartilleux</director>
       <actor>Ana Brenda Contreras</actor>
@@ -5866,7 +5866,7 @@
   </programme>
   <programme start="20211006183000 -0300" stop="20211006194500 -0300" channel="SBT3">
     <title lang="pt">Te Dou A Vida</title>
-    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.(c)</desc>
+    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.</desc>
     <credits>
       <director>Lucero Suárez</director>
       <actor>Jose Ron</actor>
@@ -5896,7 +5896,7 @@
   </programme>
   <programme start="20211006203000 -0300" stop="20211006211500 -0300" channel="SBT3">
     <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(c)</desc>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
     <credits>
       <director>Ricardo Mantoanelli</director>
       <actor>Lorena Queiroz</actor>
@@ -5913,7 +5913,7 @@
   </programme>
   <programme start="20211006211500 -0300" stop="20211006220000 -0300" channel="SBT3">
     <title lang="pt">Chiquititas</title>
-    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.(c)</desc>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
     <credits>
       <actor>Giovanna Grigio</actor>
       <actor>Julia Oliver</actor>
@@ -5927,7 +5927,7 @@
   </programme>
   <programme start="20211006220000 -0300" stop="20211006224500 -0300" channel="SBT3">
     <title lang="pt">A Usurpadora</title>
-    <desc lang="pt">Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas.(c)</desc>
+    <desc lang="pt">Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas.</desc>
     <category lang="pt">Novela</category>
     <rating system="BR">
       <value>12</value>
@@ -5935,7 +5935,7 @@
   </programme>
   <programme start="20211006224500 -0300" stop="20211006231500 -0300" channel="SBT3">
     <title lang="pt">Jogo das Fichas</title>
-    <desc lang="pt">O Jogo das Fichas é um game show em que consultores e clientes Jequiti podem ganhar até 1 milhão de reais em barras de ouro. O programa é apresentado por Silvio Santos.(c)</desc>
+    <desc lang="pt">O Jogo das Fichas é um game show em que consultores e clientes Jequiti podem ganhar até 1 milhão de reais em barras de ouro. O programa é apresentado por Silvio Santos.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -5943,7 +5943,7 @@
   </programme>
   <programme start="20211006231500 -0300" stop="20211007003000 -0300" channel="SBT3">
     <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(c)</desc>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <credits>
       <director>Walter Scaramuzzi</director>
       <director>Lucimara Parisi</director>
@@ -6125,7 +6125,7 @@
   </programme>
   <programme start="20211007203000 -0300" stop="20211007211500 -0300" channel="SBT3">
     <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(c)</desc>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
     <credits>
       <director>Ricardo Mantoanelli</director>
       <actor>Lorena Queiroz</actor>
@@ -6142,7 +6142,7 @@
   </programme>
   <programme start="20211007211500 -0300" stop="20211007221500 -0300" channel="SBT3">
     <title lang="pt">A Usurpadora</title>
-    <desc lang="pt">Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas.(c)</desc>
+    <desc lang="pt">Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas.</desc>
     <category lang="pt">Novela</category>
     <rating system="BR">
       <value>12</value>
@@ -6341,7 +6341,7 @@
   </programme>
   <programme start="20211008203000 -0300" stop="20211008211500 -0300" channel="SBT3">
     <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(c)</desc>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
     <credits>
       <director>Ricardo Mantoanelli</director>
       <actor>Lorena Queiroz</actor>
@@ -6358,7 +6358,7 @@
   </programme>
   <programme start="20211008211500 -0300" stop="20211008221500 -0300" channel="SBT3">
     <title lang="pt">A Usurpadora</title>
-    <desc lang="pt">Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas.(c)</desc>
+    <desc lang="pt">Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas.</desc>
     <category lang="pt">Novela</category>
     <rating system="BR">
       <value>12</value>
@@ -6530,7 +6530,7 @@
   </programme>
   <programme start="20211009203000 -0300" stop="20211009213000 -0300" channel="SBT3">
     <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(c)</desc>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
     <credits>
       <director>Ricardo Mantoanelli</director>
       <actor>Lorena Queiroz</actor>
@@ -6626,7 +6626,7 @@
   </programme>
   <programme start="20211010090000 -0300" stop="20211010110000 -0300" channel="SBT3">
     <title lang="pt">Notícias Impressionantes</title>
-    <desc lang="pt">O Notícias Impressionantes aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.(c)</desc>
+    <desc lang="pt">O Notícias Impressionantes aborda os acontecimentos mais espetaculares do mundo e mostra as imagens mais impressionantes que você já viu.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -6697,7 +6697,7 @@
   </programme>
   <programme start="20211011000000 -0300" stop="20211011004500 -0300" channel="SBT3">
     <title lang="pt">Polícia</title>
-    <desc lang="pt">Veja o trabalho de patrulhamento, batidas e confrontos que podem custar a vida de policiais na sua rotina diária contra o crime.(n)</desc>
+    <desc lang="pt">Veja o trabalho de patrulhamento, batidas e confrontos que podem custar a vida de policiais na sua rotina diária contra o crime.</desc>
     <category lang="pt">Policial</category>
     <rating system="BR">
       <value>14</value>
@@ -6705,7 +6705,7 @@
   </programme>
   <programme start="20211011004500 -0300" stop="20211011021500 -0300" channel="SBT3">
     <title lang="pt">Cinema de Graça</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Sinopse não disponível.</desc>
     <category lang="pt">Cinema</category>
     <rating system="BR">
       <value>5</value>
@@ -6713,7 +6713,7 @@
   </programme>
   <programme start="20211011021500 -0300" stop="20211011030000 -0300" channel="SBT3">
     <title lang="pt">Crimes Graves</title>
-    <desc lang="pt">O spin-off de.(n)</desc>
+    <desc lang="pt">O spin-off de.</desc>
     <credits>
       <director>Steve Robin</director>
       <actor>Mary McDonnell</actor>
@@ -6732,7 +6732,7 @@
   </programme>
   <programme start="20211011030000 -0300" stop="20211011033000 -0300" channel="SBT3">
     <title lang="pt">Lassie</title>
-    <desc lang="pt">Lassie, uma simpática e inteligente cachorra da raça Collie, é responsabilidade do pequeno Will, mas ela é igualmente amada por todos da família Mccullough.(n)</desc>
+    <desc lang="pt">Lassie, uma simpática e inteligente cachorra da raça Collie, é responsabilidade do pequeno Will, mas ela é igualmente amada por todos da família Mccullough.</desc>
     <category lang="pt">Aventura</category>
     <rating system="BR">
       <value>10</value>
@@ -6740,7 +6740,7 @@
   </programme>
   <programme start="20211011033000 -0300" stop="20211011040000 -0300" channel="SBT3">
     <title lang="pt">Rin-Tin-Tin</title>
-    <desc lang="pt">O pequeno Rusty fica órfão após um ataque de indiígenas à caravana de seus pais e, por isso acaba sendo acolhido pelos soldados de um posto de cavalaria dos EUA, conhecido como forte apache!(n)</desc>
+    <desc lang="pt">O pequeno Rusty fica órfão após um ataque de indiígenas à caravana de seus pais e, por isso acaba sendo acolhido pelos soldados de um posto de cavalaria dos EUA, conhecido como forte apache!</desc>
     <category lang="pt">Aventura</category>
     <rating system="BR">
       <value>14</value>
@@ -6748,7 +6748,7 @@
   </programme>
   <programme start="20211011040000 -0300" stop="20211011060000 -0300" channel="SBT3">
     <title lang="pt">Primeiro Impacto</title>
-    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.(n)</desc>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -6756,7 +6756,7 @@
   </programme>
   <programme start="20211011060000 -0300" stop="20211011093000 -0300" channel="SBT3">
     <title lang="pt">Primeiro Impacto</title>
-    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.(n)</desc>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -6764,7 +6764,7 @@
   </programme>
   <programme start="20211011093000 -0300" stop="20211011110000 -0300" channel="SBT3">
     <title lang="pt">Vem Pra Cá</title>
-    <desc lang="pt">O programa reúne tudo que o telespectador precisa saber pra começar bem o seu dia.(n)</desc>
+    <desc lang="pt">O programa reúne tudo que o telespectador precisa saber pra começar bem o seu dia.</desc>
     <credits>
       <director>Marcelo Kestenbaum</director>
       <actor>Patricia Abravanel</actor>
@@ -6777,7 +6777,7 @@
   </programme>
   <programme start="20211011110000 -0300" stop="20211011151500 -0300" channel="SBT3">
     <title lang="pt">Bom Dia &amp; Cia</title>
-    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.(n)</desc>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Dia &amp; Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador.</desc>
     <credits>
       <director>Silvia Abravanel</director>
       <actor>Ana Julia</actor>
@@ -6790,7 +6790,7 @@
   </programme>
   <programme start="20211011151500 -0300" stop="20211011163000 -0300" channel="SBT3">
     <title lang="pt">Fofocalizando</title>
-    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.(n)</desc>
+    <desc lang="pt">Em um formato remodelado, o Fofocalizando chega às suas tardes com informação e as principais fofocas do mundo dos famosos.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -6798,7 +6798,7 @@
   </programme>
   <programme start="20211011163000 -0300" stop="20211011173000 -0300" channel="SBT3">
     <title lang="pt">Casos de Família</title>
-    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.(n)</desc>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos.</desc>
     <credits>
       <director>Rafael Bello</director>
       <director>Melissa Ribeiro</director>
@@ -6811,7 +6811,7 @@
   </programme>
   <programme start="20211011173000 -0300" stop="20211011183000 -0300" channel="SBT3">
     <title lang="pt">Coração Indomável</title>
-    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.(n)</desc>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável.</desc>
     <credits>
       <director>Nathalie Lartilleux</director>
       <actor>Ana Brenda Contreras</actor>
@@ -6826,7 +6826,7 @@
   </programme>
   <programme start="20211011183000 -0300" stop="20211011194500 -0300" channel="SBT3">
     <title lang="pt">Te Dou A Vida</title>
-    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.(n)</desc>
+    <desc lang="pt">Te dou a vida narra história de duas famílias que se conhecem por causa de Nicolas, o filho adotivo de Helena e Ernesto. Os três eram felizes até o menino ser diagnosticado com leucemia.</desc>
     <credits>
       <director>Lucero Suárez</director>
       <actor>Jose Ron</actor>
@@ -6843,7 +6843,7 @@
   </programme>
   <programme start="20211011194500 -0300" stop="20211011203000 -0300" channel="SBT3">
     <title lang="pt">SBT Brasil</title>
-    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.(n)</desc>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada.</desc>
     <credits>
       <director>Marcelo Parada</director>
       <actor>Rachel Sheherazade</actor>
@@ -6856,7 +6856,7 @@
   </programme>
   <programme start="20211011203000 -0300" stop="20211011211500 -0300" channel="SBT3">
     <title lang="pt">Carinha de Anjo</title>
-    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.(n)</desc>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos.</desc>
     <credits>
       <director>Ricardo Mantoanelli</director>
       <actor>Lorena Queiroz</actor>
@@ -6873,7 +6873,7 @@
   </programme>
   <programme start="20211011211500 -0300" stop="20211011221500 -0300" channel="SBT3">
     <title lang="pt">Chiquititas</title>
-    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.(n)</desc>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos.</desc>
     <credits>
       <actor>Giovanna Grigio</actor>
       <actor>Julia Oliver</actor>
@@ -6887,7 +6887,7 @@
   </programme>
   <programme start="20211011221500 -0300" stop="20211011233000 -0300" channel="SBT3">
     <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(n)</desc>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
     <credits>
       <director>Walter Scaramuzzi</director>
       <director>Lucimara Parisi</director>
@@ -6905,7 +6905,7 @@
   </programme>
   <programme start="20211011233000 -0300" stop="20211012004500 -0300" channel="SBT3">
     <title lang="pt">Arena SBT</title>
-    <desc lang="pt">Apresentado por Benjamin Back, o programa será palco de debates sobre a paixão do brasileiro, o futebol. Para endossar as discussões e troca de ideias, o programa conta com um time de peso.(n)</desc>
+    <desc lang="pt">Apresentado por Benjamin Back, o programa será palco de debates sobre a paixão do brasileiro, o futebol. Para endossar as discussões e troca de ideias, o programa conta com um time de peso.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -8223,7 +8223,7 @@
   </programme>
   <programme start="20211011003000 -0300" stop="20211011011500 -0300" channel="RECORD3">
     <title lang="pt">Chicago P.D.</title>
-    <desc lang="pt">Do produtor Dick Wolf e do time de Chicago Fire, este spin-off acompanha os homens e mulheres do Distrito 21 da polícia de Chicago, que se colocam na linha de fogo para proteger a comunidade.(n)</desc>
+    <desc lang="pt">Do produtor Dick Wolf e do time de Chicago Fire, este spin-off acompanha os homens e mulheres do Distrito 21 da polícia de Chicago, que se colocam na linha de fogo para proteger a comunidade.</desc>
     <credits>
       <actor>Sophia Bush</actor>
       <actor>Jason Beghe</actor>
@@ -8242,7 +8242,7 @@
   </programme>
   <programme start="20211011011500 -0300" stop="20211011021500 -0300" channel="RECORD3">
     <title lang="pt">Congresso Para o Sucesso</title>
-    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.(n)</desc>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.</desc>
     <category lang="pt">Comportamento</category>
     <rating system="BR">
       <value>5</value>
@@ -8250,7 +8250,7 @@
   </programme>
   <programme start="20211011021500 -0300" stop="20211011024500 -0300" channel="RECORD3">
     <title lang="pt">Congresso Para o Sucesso</title>
-    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.(n)</desc>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.</desc>
     <category lang="pt">Comportamento</category>
     <rating system="BR">
       <value>5</value>
@@ -8258,7 +8258,7 @@
   </programme>
   <programme start="20211011024500 -0300" stop="20211011033000 -0300" channel="RECORD3">
     <title lang="pt">Saindo da Crise</title>
-    <desc lang="pt">Programa religioso.(n)</desc>
+    <desc lang="pt">Programa religioso.</desc>
     <category lang="pt">Religião</category>
     <rating system="BR">
       <value>5</value>
@@ -8266,7 +8266,7 @@
   </programme>
   <programme start="20211011033000 -0300" stop="20211011040000 -0300" channel="RECORD3">
     <title lang="pt">Corrente dos 70</title>
-    <desc lang="pt">O Senhor Jesus escolheu 70 homens e deu a eles autoridade para curar todo tipo de enfermidade e expulsar os espíritos malignos.(n)</desc>
+    <desc lang="pt">O Senhor Jesus escolheu 70 homens e deu a eles autoridade para curar todo tipo de enfermidade e expulsar os espíritos malignos.</desc>
     <category lang="pt">Religião</category>
     <rating system="BR">
       <value>5</value>
@@ -8274,7 +8274,7 @@
   </programme>
   <programme start="20211011040000 -0300" stop="20211011050000 -0300" channel="RECORD3">
     <title lang="pt">Congresso Para o Sucesso</title>
-    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.(n)</desc>
+    <desc lang="pt">Esse programa é voltado para pessoas com dificuldades na vida financeira, que já passaram por problemas em diversas áreas em virtude do que enfrentaram diante da crise. Através do Congresso, aprenderam a usar a fé inteligente.</desc>
     <category lang="pt">Comportamento</category>
     <rating system="BR">
       <value>5</value>
@@ -8282,7 +8282,7 @@
   </programme>
   <programme start="20211011050000 -0300" stop="20211011070000 -0300" channel="RECORD3">
     <title lang="pt">Balanço Geral Manhã</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8290,7 +8290,7 @@
   </programme>
   <programme start="20211011070000 -0300" stop="20211011083000 -0300" channel="RECORD3">
     <title lang="pt">Balanço Geral Manhã SP</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8298,7 +8298,7 @@
   </programme>
   <programme start="20211011083000 -0300" stop="20211011100000 -0300" channel="RECORD3">
     <title lang="pt">Fala Brasil</title>
-    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.</desc>
     <credits>
       <actor>Mariana Godoy</actor>
       <actor>Sergio Aguiar</actor>
@@ -8310,7 +8310,7 @@
   </programme>
   <programme start="20211011100000 -0300" stop="20211011114500 -0300" channel="RECORD3">
     <title lang="pt">Hoje em Dia</title>
-    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8318,7 +8318,7 @@
   </programme>
   <programme start="20211011114500 -0300" stop="20211011115000 -0300" channel="RECORD3">
     <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8326,7 +8326,7 @@
   </programme>
   <programme start="20211011115000 -0300" stop="20211011151500 -0300" channel="RECORD3">
     <title lang="pt">Balanço Geral SP</title>
-    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8334,7 +8334,7 @@
   </programme>
   <programme start="20211011151500 -0300" stop="20211011164500 -0300" channel="RECORD3">
     <title lang="pt">Prova de Amor</title>
-    <desc lang="pt">Trata-se da história de uma menina que se perdeu de seus pais e busca o final com o reencontro com a sua família.(n)</desc>
+    <desc lang="pt">Trata-se da história de uma menina que se perdeu de seus pais e busca o final com o reencontro com a sua família.</desc>
     <credits>
       <director>Alexandre Avancini</director>
       <actor>Marcelo Serrado</actor>
@@ -8350,7 +8350,7 @@
   </programme>
   <programme start="20211011164500 -0300" stop="20211011171000 -0300" channel="RECORD3">
     <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8358,7 +8358,7 @@
   </programme>
   <programme start="20211011171000 -0300" stop="20211011171500 -0300" channel="RECORD3">
     <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8366,7 +8366,7 @@
   </programme>
   <programme start="20211011171500 -0300" stop="20211011174000 -0300" channel="RECORD3">
     <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8374,7 +8374,7 @@
   </programme>
   <programme start="20211011174000 -0300" stop="20211011174500 -0300" channel="RECORD3">
     <title lang="pt">Jornal da Record 24h</title>
-    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8382,7 +8382,7 @@
   </programme>
   <programme start="20211011174500 -0300" stop="20211011180000 -0300" channel="RECORD3">
     <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8390,7 +8390,7 @@
   </programme>
   <programme start="20211011180000 -0300" stop="20211011194500 -0300" channel="RECORD3">
     <title lang="pt">Cidade Alerta</title>
-    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8398,7 +8398,7 @@
   </programme>
   <programme start="20211011194500 -0300" stop="20211011210000 -0300" channel="RECORD3">
     <title lang="pt">Jornal da Record</title>
-    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -8406,7 +8406,7 @@
   </programme>
   <programme start="20211011210000 -0300" stop="20211011214500 -0300" channel="RECORD3">
     <title lang="pt">Gênesis</title>
-    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.(n)</desc>
+    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.</desc>
     <credits>
       <actor>Zé Carlos Machado</actor>
       <actor>Adriana Garambone</actor>
@@ -8422,7 +8422,7 @@
   </programme>
   <programme start="20211011214500 -0300" stop="20211011224500 -0300" channel="RECORD3">
     <title lang="pt">Quando Chama o Coração</title>
-    <desc lang="pt">Quando Chama o Coração se passa no início do XX e conta a cativante história de Elizabeth Thatcher, uma bela e culta jovem acostumada a vida de luxo da alta sociedade em uma cidade grande.(n)</desc>
+    <desc lang="pt">Quando Chama o Coração se passa no início do XX e conta a cativante história de Elizabeth Thatcher, uma bela e culta jovem acostumada a vida de luxo da alta sociedade em uma cidade grande.</desc>
     <credits>
       <director>Mike Rohl</director>
       <actor>Erin Krakow</actor>
@@ -8437,7 +8437,7 @@
   </programme>
   <programme start="20211011224500 -0300" stop="20211012001500 -0300" channel="RECORD3">
     <title lang="pt">A Fazenda</title>
-    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.(n)</desc>
+    <desc lang="pt">A nova temporada do reality show terá 20 peões confinados.</desc>
     <category lang="pt">Reality Show</category>
     <rating system="BR">
       <value>12</value>
@@ -9645,7 +9645,7 @@
   </programme>
   <programme start="20211011000000 -0300" stop="20211011011000 -0300" channel="BAND3">
     <title lang="pt">Canal Livre</title>
-    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.(n)</desc>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9653,7 +9653,7 @@
   </programme>
   <programme start="20211011011000 -0300" stop="20211011015500 -0300" channel="BAND3">
     <title lang="pt">Show Business</title>
-    <desc lang="pt">Entrevistas com personalidades do mundo empresarial, politico e cultural. Com foco principal na economia, nos negócios e na administração pública.(n)</desc>
+    <desc lang="pt">Entrevistas com personalidades do mundo empresarial, politico e cultural. Com foco principal na economia, nos negócios e na administração pública.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9661,7 +9661,7 @@
   </programme>
   <programme start="20211011015500 -0300" stop="20211011022500 -0300" channel="BAND3">
     <title lang="pt">+info</title>
-    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9669,7 +9669,7 @@
   </programme>
   <programme start="20211011022500 -0300" stop="20211011034500 -0300" channel="BAND3">
     <title lang="pt">Caçadora de Relíquias</title>
-    <desc lang="pt">Relic Hunter mostra as aventuras da arqueologista americana nada convencional, Sydney Fox, e seu reservado assistente britânico Nigel Bailey.(n)</desc>
+    <desc lang="pt">Relic Hunter mostra as aventuras da arqueologista americana nada convencional, Sydney Fox, e seu reservado assistente britânico Nigel Bailey.</desc>
     <category lang="pt">Ação</category>
     <rating system="BR">
       <value>12</value>
@@ -9677,7 +9677,7 @@
   </programme>
   <programme start="20211011034500 -0300" stop="20211011055000 -0300" channel="BAND3">
     <title lang="pt">1º Jornal</title>
-    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9685,7 +9685,7 @@
   </programme>
   <programme start="20211011055000 -0300" stop="20211011073000 -0300" channel="BAND3">
     <title lang="pt">Bora SP</title>
-    <desc lang="pt">Programa jornalístico leve, interativo e com muita prestação de serviço, valorizando sempre as notícias locais.(n)</desc>
+    <desc lang="pt">Programa jornalístico leve, interativo e com muita prestação de serviço, valorizando sempre as notícias locais.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9693,7 +9693,7 @@
   </programme>
   <programme start="20211011073000 -0300" stop="20211011090000 -0300" channel="BAND3">
     <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9701,7 +9701,7 @@
   </programme>
   <programme start="20211011090000 -0300" stop="20211011110000 -0300" channel="BAND3">
     <title lang="pt">The Chef com Edu Guedes</title>
-    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.</desc>
     <category lang="pt">Culinária</category>
     <rating system="BR">
       <value>5</value>
@@ -9709,7 +9709,7 @@
   </programme>
   <programme start="20211011110000 -0300" stop="20211011123000 -0300" channel="BAND3">
     <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -9718,7 +9718,7 @@
   <programme start="20211011123000 -0300" stop="20211011130000 -0300" channel="BAND3">
     <title lang="pt">Jogo Aberto</title>
     <sub-title lang="pt">Debate</sub-title>
-    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -9726,7 +9726,7 @@
   </programme>
   <programme start="20211011130000 -0300" stop="20211011140000 -0300" channel="BAND3">
     <title lang="pt">Os Donos da Bola</title>
-    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -9734,7 +9734,7 @@
   </programme>
   <programme start="20211011140000 -0300" stop="20211011150000 -0300" channel="BAND3">
     <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
-    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -9742,7 +9742,7 @@
   </programme>
   <programme start="20211011150000 -0300" stop="20211011160000 -0300" channel="BAND3">
     <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
-    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -9750,7 +9750,7 @@
   </programme>
   <programme start="20211011160000 -0300" stop="20211011185000 -0300" channel="BAND3">
     <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9758,7 +9758,7 @@
   </programme>
   <programme start="20211011185000 -0300" stop="20211011192000 -0300" channel="BAND3">
     <title lang="pt">Brasil Urgente SP</title>
-    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.(n)</desc>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9766,7 +9766,7 @@
   </programme>
   <programme start="20211011192000 -0300" stop="20211011202500 -0300" channel="BAND3">
     <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9774,7 +9774,7 @@
   </programme>
   <programme start="20211011202500 -0300" stop="20211011211000 -0300" channel="BAND3">
     <title lang="pt">Nazaré</title>
-    <desc lang="pt">Acompanhe a história de amor e luta de Nazaré, que para pagar um tratamento caro e salvar a vida de sua mãe, será obrigada a atrair e enganar Duarte, um playboy, filho de um magnata da indústria de móveis.(n)</desc>
+    <desc lang="pt">Acompanhe a história de amor e luta de Nazaré, que para pagar um tratamento caro e salvar a vida de sua mãe, será obrigada a atrair e enganar Duarte, um playboy, filho de um magnata da indústria de móveis.</desc>
     <category lang="pt">Novela</category>
     <rating system="BR">
       <value>12</value>
@@ -9782,7 +9782,7 @@
   </programme>
   <programme start="20211011211000 -0300" stop="20211011220000 -0300" channel="BAND3">
     <title lang="pt">Igreja da Graça</title>
-    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.</desc>
     <category lang="pt">Religião</category>
     <rating system="BR">
       <value>5</value>
@@ -9790,7 +9790,7 @@
   </programme>
   <programme start="20211011220000 -0300" stop="20211011224500 -0300" channel="BAND3">
     <title lang="pt">Band Notícias</title>
-    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -9798,7 +9798,7 @@
   </programme>
   <programme start="20211011224500 -0300" stop="20211011233000 -0300" channel="BAND3">
     <title lang="pt">Largados e Pelados: A Tribo</title>
-    <desc lang="pt">10 ex-participantes da série são largados na selva por 40 dias sem comida, abrigo ou qualquer tipo de roupa. Eles terão que formar uma tribo e criar suas próprias leis. A única maneira de ser eliminado é desistindo da competição.(n)</desc>
+    <desc lang="pt">10 ex-participantes da série são largados na selva por 40 dias sem comida, abrigo ou qualquer tipo de roupa. Eles terão que formar uma tribo e criar suas próprias leis. A única maneira de ser eliminado é desistindo da competição.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>14</value>
@@ -9806,7 +9806,7 @@
   </programme>
   <programme start="20211011233000 -0300" stop="20211012003000 -0300" channel="BAND3">
     <title lang="pt">Planeta Selvagem</title>
-    <desc lang="pt">O primeiro ano na vida de um animal selvagem é o mais crucial! Terá nutrição suficiente? Como ele vai lidar com a rivalidade entre irmãos ou o risco cada vez maior de predação?(n)</desc>
+    <desc lang="pt">O primeiro ano na vida de um animal selvagem é o mais crucial! Terá nutrição suficiente? Como ele vai lidar com a rivalidade entre irmãos ou o risco cada vez maior de predação?</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
