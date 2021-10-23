@@ -1,12 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SportvHD3">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
   <channel id="SporTV 3 HD ³">
-    <display-name lang="pt">SporTV 3 HD ³</display-name>
+    <display-name lang="pt">SporTV 3</display-name>
     <icon src="https://www.net.com.br/imagens/logo/sportv_3_hd_-1137_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="SporTV 2 HD ³">
-    <display-name lang="pt">SporTV 2 HD ³</display-name>
+    <display-name lang="pt">SporTV 2</display-name>
     <icon src="https://www.net.com.br/imagens/logo/sportv_2_hd_-1047_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
@@ -54,6 +58,1373 @@
     <display-name lang="pt">ESPN2</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
+  <programme start="20211023211500 -0300" stop="20211023230000 -0300" channel="SportvHD3">
+    <title lang="pt">O Homem com Punhos de Ferro 2</title>
+    <desc lang="pt">Quando Thaddeus, um misterioso estranho, é encontrado ferido em uma pequena vila na China do século XIX, o mineiro Li Kung e sua esposa Ah Ni lhe oferecem refúgio.(n)</desc>
+    <credits>
+      <director>Roel Reiné</director>
+      <actor>Sahajak Boonthanakit</actor>
+      <actor>Pim Bubear</actor>
+      <actor>Grace Huang</actor>
+      <actor>RZA .</actor>
+      <actor>Andrew Lin</actor>
+      <actor>Schnitrnunt Busarakamwong</actor>
+      <actor>Seigi Ozeki</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338772_2184E38EE5641F23.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211023230000 -0300" stop="20211024012500 -0300" channel="SportvHD3">
+    <title lang="pt">O Mundo Perdido: Jurassic Park</title>
+    <desc lang="pt">Uma equipe é enviada para a ilha onde os dinossauros eram criados, a fim de analisar as condições do local visando a criação de um novo parque.(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Arliss Howard</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Harvey Jason</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Pete Postlethwaite</actor>
+      <actor>Ariana Richards</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Vanessa Lee Chester</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339402_06BCD599C324A949.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20211024012500 -0300" stop="20211024030500 -0300" channel="SportvHD3">
+    <title lang="pt">Jurassic Park 3</title>
+    <desc lang="pt">Um casal convence o Dr. Alan Grant a ir para a Ilha Sorna. A perigosa aventura resulta em um inesperado encontro com uma espécie de dinossauro, maior e mais feroz que o tiranossauro rex.(n)</desc>
+    <credits>
+      <director>Joe Johnston</director>
+      <actor>William H. Macy</actor>
+      <actor>Sam Neill</actor>
+      <actor>Téa Leoni</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/20/8200683_CF318EB6C2D0115C.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211024030500 -0300" stop="20211024051500 -0300" channel="SportvHD3">
+    <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
+    <desc lang="pt">A ilha que promete entregar o mundo dos dinossauros está aberta e recebendo o grande público. No entanto, uma raça híbrida é criada e seu poderio sai do controle, colocando a vida de todos em risco.(n)</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Judy Greer</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Omar Sy</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Irrfan Khan</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9311566_C1DDED5117CEE3C2.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211024051500 -0300" stop="20211024072500 -0300" channel="SportvHD3">
+    <title lang="pt">Evereste</title>
+    <desc lang="pt">O alpinista Rob lidera a subida de um grupo no Everest junto com outra equipe, liderada por Scott. Quando uma forte nevasca atinge o monte, os dois grupos precisam lutar para sobreviver. Baseado em fatos.(n)</desc>
+    <credits>
+      <director>Baltasar Kormákur</director>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Josh Brolin</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/57/9577335_91519F1DE4CA666F.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Islândia</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211024072500 -0300" stop="20211024081500 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Werner Herzog, Ezra Edelman, Roger Ross Williams, Josh Kriegman, Raoul Peck e Kristen Johnson conversam sobre os documentários indicados ao Oscar 2017.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338845_97A0C21582C4154D.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211024081500 -0300" stop="20211024090000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Pedro Almodovar, Allison Schroeder, Noah Oppenheim, Tom Ford e Taylor Sheridan conversam sobre seus roteiros indicados ao Oscar 2017.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338845_97A0C21582C4154D.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211024090000 -0300" stop="20211024094500 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Jerrod Carmichael, Bill Hader, David Mandel, Alan Yang, Tanya Saracho e Ali Rushfield conversam sobre suas produções e indicações ao Emmy 2019.(n)</desc>
+    <credits>
+      <director>Christian Huguenot</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211024094500 -0300" stop="20211024113500 -0300" channel="SportvHD3">
+    <title lang="pt">Monges Shaolin - Ao Vivo</title>
+    <desc lang="pt">Baseado em uma antiga lenda do Templo de Shaolin, um grupo de 20 monges especialistas em artes marciais mostram suas incríveis habilidades físicas em um show ao vivo.(n)</desc>
+    <credits>
+      <director>Duffy Wang</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339235_C65B0B9BA2EF7A60.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20211024113500 -0300" stop="20211024133000 -0300" channel="SportvHD3">
+    <title lang="pt">O Escorpião Rei 3 - Batalha Pela Redenção</title>
+    <desc lang="pt">Mathayus perdeu sua amada e foi expulso do reino. Agora, ele é um assassino de aluguel e, para recuperar o poder e a glória, precisa defender o império de um tirano impiedoso e seus cruéis guerreiros.(n)</desc>
+    <credits>
+      <director>Roel Reiné</director>
+      <actor>Dave Bautista</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Billy Zane</actor>
+      <actor>Victor Webster</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/57/9577087_293983094CC877D5.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211024133000 -0300" stop="20211024153000 -0300" channel="SportvHD3">
+    <title lang="pt">Escorpião Rei 4: Na Busca Pelo Poder</title>
+    <desc lang="pt">O Escorpião Rei Mathayus é injustamente acusado de assassinar o rei. Ao escapar de ser preso, ele conhece a destemida Valina. Juntos, partem para enfrentar o perverso assassino herdeiro do trono.(n)</desc>
+    <credits>
+      <director>Mike Elliott</director>
+      <actor>Ellen Hollman</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Will Kemp</actor>
+      <actor>Victor Webster</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9311657_DB287D44DFDA85FE.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211024153000 -0300" stop="20211024171500 -0300" channel="SportvHD3">
+    <title lang="pt">O Homem com Punhos de Ferro 2</title>
+    <desc lang="pt">Quando Thaddeus, um misterioso estranho, é encontrado ferido em uma pequena vila na China do século XIX, o mineiro Li Kung e sua esposa Ah Ni lhe oferecem refúgio.(n)</desc>
+    <credits>
+      <director>Roel Reiné</director>
+      <actor>Grace Huang</actor>
+      <actor>Schnitrnunt Busarakamwong</actor>
+      <actor>Sahajak Boonthanakit</actor>
+      <actor>Andrew Lin</actor>
+      <actor>RZA .</actor>
+      <actor>Seigi Ozeki</actor>
+      <actor>Pim Bubear</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338772_2184E38EE5641F23.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211024171500 -0300" stop="20211024185500 -0300" channel="SportvHD3">
+    <title lang="pt">Shrek</title>
+    <desc lang="pt">O ogro Shrek vive de forma tranquila, mas perde a paz quando um lorde força as criaturas a morar no pântano. Decidido a ter sua paz de volta, ele terá que achar um meio de se entender com o nobre.(n)</desc>
+    <credits>
+      <director>Andrew Adamson</director>
+      <actor>John Lithgow</actor>
+      <actor>Vincent Cassel</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893533_670C04E559D8FAD3.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20211024185500 -0300" stop="20211024212000 -0300" channel="SportvHD3">
+    <title lang="pt">O Mundo Perdido: Jurassic Park</title>
+    <desc lang="pt">Uma equipe é enviada para a ilha onde os dinossauros eram criados, a fim de analisar as condições do local visando a criação de um novo parque.(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Arliss Howard</actor>
+      <actor>Harvey Jason</actor>
+      <actor>Vanessa Lee Chester</actor>
+      <actor>Ariana Richards</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Pete Postlethwaite</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Jeff Goldblum</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339402_06BCD599C324A949.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20211024212000 -0300" stop="20211024230000 -0300" channel="SportvHD3">
+    <title lang="pt">Jurassic Park 3</title>
+    <desc lang="pt">Um casal convence o Dr. Alan Grant a ir para a Ilha Sorna. A perigosa aventura resulta em um inesperado encontro com uma espécie de dinossauro, maior e mais feroz que o tiranossauro rex.(n)</desc>
+    <credits>
+      <director>Joe Johnston</director>
+      <actor>Sam Neill</actor>
+      <actor>William H. Macy</actor>
+      <actor>Téa Leoni</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/20/8200683_CF318EB6C2D0115C.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211024230000 -0300" stop="20211025011000 -0300" channel="SportvHD3">
+    <title lang="pt">Jurassic World: O Mundo dos Dinossauros</title>
+    <desc lang="pt">A ilha que promete entregar o mundo dos dinossauros está aberta e recebendo o grande público. No entanto, uma raça híbrida é criada e seu poderio sai do controle, colocando a vida de todos em risco.(n)</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Jake Johnson</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Judy Greer</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Omar Sy</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Irrfan Khan</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9311566_C1DDED5117CEE3C2.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025011000 -0300" stop="20211025031000 -0300" channel="SportvHD3">
+    <title lang="pt">Círculo De Fogo: A Revolta</title>
+    <desc lang="pt">Mais uma vez, a terra é invadida pelos monstros conhecidos como Kaijus, só que agora eles estão mais evoluídos. Jake Pentecost, filho de Stacker Pentecost, e Nate Lambert então se juntam para liderar um novo time de robôs 'Jaegers'.(n)</desc>
+    <credits>
+      <director>Steven S. DeKnight</director>
+      <actor>John Boyega</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Spaeny Cailee</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/93/8939761_42D01C6891AD3632.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">China</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025031000 -0300" stop="20211025051500 -0300" channel="SportvHD3">
+    <title lang="pt">Melanie - A Última Esperança</title>
+    <desc lang="pt">Em um futuro distópico, a humanidade foi infectada por uma doença misteriosa. A única esperança de cura é um pequeno grupo de crianças que vai à escola em uma base do exército.(n)</desc>
+    <credits>
+      <director>Colm McCarthy</director>
+      <actor>Anamaria Marinca</actor>
+      <actor>Sennia Nanua</actor>
+      <actor>Dominique Tipper</actor>
+      <actor>Fisayo Akinade</actor>
+      <actor>Gemma Aterton</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/28/7280860_F557968FA564D34F.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211025051500 -0300" stop="20211025065500 -0300" channel="SportvHD3">
+    <title lang="pt">Terra dos Mortos</title>
+    <desc lang="pt">Zumbis dominaram o mundo e as pessoas que conseguiram sobreviver estão confinadas numa cidade cercada por muros. Um grupo de catadores de lixo deve impedir uma tentativa de ataque dos mortos, pois eles estão evoluindo.(n)</desc>
+    <credits>
+      <director>George A. Romero</director>
+      <actor>Boyd Banks</actor>
+      <actor>Tony Nappo</actor>
+      <actor>Joanne Boland</actor>
+      <actor>Dennis Hopper</actor>
+      <actor>Asia Argento</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Simon Baker</actor>
+      <actor>Shawn Roberts</actor>
+      <actor>Robert Joy</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339253_CE98CF2E019509FA.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">França</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211025065500 -0300" stop="20211025084000 -0300" channel="SportvHD3">
+    <title lang="pt">Todo Mundo Quase Morto</title>
+    <desc lang="pt">Shaun acredita que sua vida não poderia estar pior. No momento em que ele briga com a namorada e sua mãe e perde o respeito dos colegas de trabalho, ele se defronta com a invasão de milhares de zumbis em sua cidade.(n)</desc>
+    <credits>
+      <director>Edgar Wright</director>
+      <actor>Dylan Moran</actor>
+      <actor>Peter Serafinowicz</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Nick Frost</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Gavin Ferguson</actor>
+      <actor>Horton Jupiter</actor>
+      <actor>Nicola Cunningham</actor>
+      <actor>Sonnell Dadral</actor>
+      <actor>Lucy Davis</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/26/9262893_521F0368F84C3744.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211025084000 -0300" stop="20211025090000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Pedro Almodovar, Allison Schroeder, Noah Oppenheim, Tom Ford e Taylor Sheridan conversam sobre seus roteiros indicados ao Oscar 2017.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338845_97A0C21582C4154D.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211025090000 -0300" stop="20211025092000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Marti Noxon, Sam Esmail, Nic Pizzolatto, Sera Gamble e John Singleton conversam sobre suas séries indicadas ao Emmy 2019.(n)</desc>
+    <credits>
+      <director>Christian Huguenot</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211025092000 -0300" stop="20211025110500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: O Segredo da Caveira</title>
+    <desc lang="pt">Quando a amiga de Aurora morre, além de deixar toda sua herança para ela, também deixa um mistério não resolvido. Aurora precisa resolver o caso, antes que ela vire a próxima vítima.(n)</desc>
+    <credits>
+      <director>Martin Wood</director>
+      <actor>David Ingram</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>Barbara Wallace</actor>
+      <actor>Lexa Doig</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6907516_DEB88B5C5882C0F8.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025110500 -0300" stop="20211025123500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Assassinatos Reais</title>
+    <desc lang="pt">Aurora encontra um membro de seu clube do mistério morto de uma maneira muito parecida com um crime que eles iam discutir. Enquanto outros assassinatos acontecem, Aurora precisa achar o culpado.(n)</desc>
+    <credits>
+      <director>Martin Wood</director>
+      <actor>Lexa Doig</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Robin Dunne</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9586154_86128E3FC20A37B5.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025123500 -0300" stop="20211025141500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Três Quartos e um Corpo</title>
+    <desc lang="pt">Ao ajudar sua mãe, que é corretora, a vender casas, Aurora se encontra em uma situação de vida ou morte quando um corpo é encontrado em uma das propriedades.(n)</desc>
+    <credits>
+      <director>Lynne Stopkewich</director>
+      <actor>Lexa Doig</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9586070_DCFA3EEA94F4DEAD.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025141500 -0300" stop="20211025155000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
+    <desc lang="pt">Depois de uma exaustiva busca, Aurora compra a casa perfeita. No entanto, ela descobre que a família que morava lá desapareceu misteriosamente sem deixar rastros.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Bruce Dawson</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Miranda Frigon</actor>
+      <actor>Peter Benson</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9586178_5A16A8CDB8821A98.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025155000 -0300" stop="20211025161000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os diretores Ben Stiller, Ava DuVernay, Patty Jenkins, Adam McKay, David Nutter e Jean-Marc Vallée conversam sobre suas indicações ao Emmy 2019.(n)</desc>
+    <credits>
+      <director>Christian Huguenot</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211025161000 -0300" stop="20211025181000 -0300" channel="SportvHD3">
+    <title lang="pt">O Escorpião Rei 3 - Batalha Pela Redenção</title>
+    <desc lang="pt">Mathayus perdeu sua amada e foi expulso do reino. Agora, ele é um assassino de aluguel e, para recuperar o poder e a glória, precisa defender o império de um tirano impiedoso e seus cruéis guerreiros.(n)</desc>
+    <credits>
+      <director>Roel Reiné</director>
+      <actor>Dave Bautista</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Billy Zane</actor>
+      <actor>Victor Webster</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/57/9577087_293983094CC877D5.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211025181000 -0300" stop="20211025201000 -0300" channel="SportvHD3">
+    <title lang="pt">Escorpião Rei 4: Na Busca Pelo Poder</title>
+    <desc lang="pt">O Escorpião Rei Mathayus é injustamente acusado de assassinar o rei. Ao escapar de ser preso, ele conhece a destemida Valina. Juntos, partem para enfrentar o perverso assassino herdeiro do trono.(n)</desc>
+    <credits>
+      <director>Mike Elliott</director>
+      <actor>Will Kemp</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Victor Webster</actor>
+      <actor>Ellen Hollman</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9311657_DB287D44DFDA85FE.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211025201000 -0300" stop="20211025215000 -0300" channel="SportvHD3">
+    <title lang="pt">O Escorpião Rei</title>
+    <desc lang="pt">No Egito antigo, o tirano Memnon massacrou todos os seus oponentes com a ajuda de uma bela feiticeira. Os poucos que sobraram se unem e contratam o mercenário Mathayus para assassiná-la e enfraquecer Memnon.(n)</desc>
+    <credits>
+      <director>Chuck Russell</director>
+      <actor>Steven Brand</actor>
+      <actor>Kelly Hu</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Michael Clarke Duncan</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/12/7128220_FEF0DA966970D9E0.jpg" />
+    <country lang="pt">Alemanha</country>
+    <country lang="pt">Bélgica</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211025215000 -0300" stop="20211025222500 -0300" channel="SportvHD3">
+    <title lang="pt">Unidade Básica</title>
+    <desc lang="pt">Juliano descobre ser portador do HIV, mas afirma que foi curado por seu pastor. Dra. Laura fica indignada, pois a mulher de Juliano está grávida. Dr. Paulo acaba resolvendo o problema da sua maneira.(n)</desc>
+    <credits>
+      <director>Carlos Cortez</director>
+      <actor>Caco Ciocler</actor>
+      <actor>Bianca Müller</actor>
+      <actor>Carlota Joaquina</actor>
+      <actor>Vinicius De Oliveira</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/23/7238196_EE71749E0E3AED5C.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025222500 -0300" stop="20211025230000 -0300" channel="SportvHD3">
+    <title lang="pt">Unidade Básica</title>
+    <desc lang="pt">Dra. Laura se depara com o caso de uma menina que urina sangue há mais de 3 meses. Durante a investigação diagnóstica, algumas evidências aparecem e deixam o caso ainda mais difícil de se lidar.(n)</desc>
+    <credits>
+      <director>Carlos Cortez</director>
+      <actor>Caco Ciocler</actor>
+      <actor>Bianca Müller</actor>
+      <actor>Carlota Joaquina</actor>
+      <actor>Vinicius De Oliveira</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/23/7238196_EE71749E0E3AED5C.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211025230000 -0300" stop="20211026005000 -0300" channel="SportvHD3">
+    <title lang="pt">Filha de Deus</title>
+    <desc lang="pt">Um detetive investiga a verdade por trás da morte de seu parceiro. O misterioso caso revela a corrupção policial e um segredo envolvendo uma jovem que se diz testemunha de um milagre.(n)</desc>
+    <credits>
+      <director>Gee Malik Linton</director>
+      <actor>Ana de Armas</actor>
+      <actor>Gabe Vargas</actor>
+      <actor>Sandy Tejada</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339101_0B3B5471C9ACC2B2.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211026005000 -0300" stop="20211026024000 -0300" channel="SportvHD3">
+    <title lang="pt">John Wick - De Volta ao Jogo</title>
+    <desc lang="pt">John Wick é um lendário ex-matador da cidade de Nova Iorque que está lidando com o luto após perder o grande amor de sua vida. Mas, quando o filho de um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa.(n)</desc>
+    <credits>
+      <director>Chad Stahelski</director>
+      <actor>Alfie Allen</actor>
+      <actor>Michael Nyqvist</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Dean Winters</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9332930_2B7C1CEAB3351296.jpg" />
+    <country lang="pt">China</country>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211026024000 -0300" stop="20211026042500 -0300" channel="SportvHD3">
+    <title lang="pt">Plano de Fuga</title>
+    <desc lang="pt">Após uma tentativa de fuga com uma pilhagem milionária, um criminoso americano acaba em uma prisão mexicana de fronteira, onde conhece um presidiário que precisa de um transplante de órgãos.(n)</desc>
+    <credits>
+      <director>Adrian Grunberg</director>
+      <actor>Mel Gibson</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Kevin Balmore</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339160_1C7D82642284655D.jpg" />
+    <country lang="pt">México</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211026042500 -0300" stop="20211026062500 -0300" channel="SportvHD3">
+    <title lang="pt">Xeque-mate</title>
+    <desc lang="pt">Slevin é uma pessoa comum que está com um problema sério. Confundido com um amigo seu que deve muito dinheiro para a máfia, ele é ordenado a matar o filho de um gângster rival para salvar sua vida e quitar a dívida.(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Josh Hartnett</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/89/8890878_063B91DE9AE63B74.jpg" />
+    <country lang="pt">Alemanha</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211026062500 -0300" stop="20211026081500 -0300" channel="SportvHD3">
+    <title lang="pt">Blitz</title>
+    <desc lang="pt">O sargento Brent vive um momento conturbado na carreira: sob julgamento por agressão, ele vê o esquadrão em que trabalha ser abandonado. Para se reerguer, Brent vai atrás de Blitz, um serial killer de policiais que patrulham a cidade.(n)</desc>
+    <credits>
+      <director>Elliott Lester</director>
+      <actor>Jason Statham</actor>
+      <actor>Paddy Considine</actor>
+      <actor>Aidan Gillen</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/89/8895611_D88C2806FBCC7C2D.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211026081500 -0300" stop="20211026090000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os atores Billy Bob Thorton, Riz Ahmed, Ewan McGregor, Sterling Brown, John Lithgow e Jeffery Wright conversam sobre suas indicações ao Emmy 2017.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338845_97A0C21582C4154D.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211026090000 -0300" stop="20211026104500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Três Quartos e um Corpo</title>
+    <desc lang="pt">Ao ajudar sua mãe, que é corretora, a vender casas, Aurora se encontra em uma situação de vida ou morte quando um corpo é encontrado em uma das propriedades.(n)</desc>
+    <credits>
+      <director>Lynne Stopkewich</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Lexa Doig</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9586070_DCFA3EEA94F4DEAD.jpg" />
+    <country lang="pt">Canadá</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211026104500 -0300" stop="20211026122000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
+    <desc lang="pt">Depois de uma exaustiva busca, Aurora compra a casa perfeita. No entanto, ela descobre que a família que morava lá desapareceu misteriosamente sem deixar rastros.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Miranda Frigon</actor>
+      <actor>Peter Benson</actor>
+      <actor>Bruce Dawson</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9586178_5A16A8CDB8821A98.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211026122000 -0300" stop="20211026135500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Um Enigma do Céu</title>
+    <desc lang="pt">Quando o corpo de um detetive aparece no quintal de Aurora, ela vira a suspeita principal do crime. Determinada a achar o verdadeiro criminoso, Aurora se lança em uma investigação.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6998958_A8F60BDDC47D1151.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211026135500 -0300" stop="20211026153000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Uma Pilha de Problemas</title>
+    <desc lang="pt">Aurora e seu namorado ficam animados quando recebem uma visita da sobrinha dele. No entanto, ela desaparece e Aurora precisa encontrá-la.(n)</desc>
+    <credits>
+      <director>Kevin Fair</director>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6998969_6BCE629113252D07.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211026153000 -0300" stop="20211026154500 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os diretores Ben Stiller, Ava DuVernay, Patty Jenkins, Adam McKay, David Nutter e Jean-Marc Vallée conversam sobre suas indicações ao Emmy 2019.(n)</desc>
+    <credits>
+      <director>Christian Huguenot</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211026154500 -0300" stop="20211026175500 -0300" channel="SportvHD3">
+    <title lang="pt">Serenity - A Luta pelo Amanhã</title>
+    <desc lang="pt">Em um futuro distante, dentro de um universo dividido por uma guerra civil, a tripulação da nave Serenity acabam se envolvendo em algo sinistro quando aceitam transportar a misteriosa River, uma menina com poderes sobrenaturais.(n)</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Alan Tudyk</actor>
+      <actor>Morena Baccarin</actor>
+      <actor>Sean Maer</actor>
+      <actor>Gina Torres</actor>
+      <actor>Adam Baldwin</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Summer Glau</actor>
+      <actor>Jewell Staite</actor>
+      <actor>Michael Hitchcok</actor>
+      <actor>Rafael Feldman</actor>
+    </credits>
+    <category lang="pt">Ficção</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/52/8524296_B0BD4BE9B084D058.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211026175500 -0300" stop="20211026200500 -0300" channel="SportvHD3">
+    <title lang="pt">Scott Pilgrim Contra O Mundo</title>
+    <desc lang="pt">Scott Pilgrim é um jovem toca em uma banda de rock. Sua vida é virada de cabeça pra baixo ao conhecer Ramona, uma garota difícil de se conquistar. Para ganhar o coração da menina, o rapaz terá que enfrentar os seus sete ex-namorados.(n)</desc>
+    <credits>
+      <director>Edgar Wright</director>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Kieran Culkin</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Michael Cera</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/43/9432098_B52BFAE83701B192.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Japão</country>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211026200500 -0300" stop="20211026220000 -0300" channel="SportvHD3">
+    <title lang="pt">Círculo De Fogo: A Revolta</title>
+    <desc lang="pt">Mais uma vez, a terra é invadida pelos monstros conhecidos como Kaijus, só que agora eles estão mais evoluídos. Jake Pentecost, filho de Stacker Pentecost, e Nate Lambert então se juntam para liderar um novo time de robôs 'Jaegers'.(n)</desc>
+    <credits>
+      <director>Steven S. DeKnight</director>
+      <actor>Scott Eastwood</actor>
+      <actor>Spaeny Cailee</actor>
+      <actor>John Boyega</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/93/8939761_42D01C6891AD3632.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <country lang="pt">China</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211026220000 -0300" stop="20211026230000 -0300" channel="SportvHD3">
+    <title lang="pt">Jungle Pilot</title>
+    <desc lang="pt">As notícias se espalham rapidamente, e a procura pela mala de dinheiro passa a ser uma ambição para muitos. Assim, Júlio e Núbia precisam encontrar a melhor forma de esconder o dinheiro em segurança.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+      <actor>Julia Stockler</actor>
+      <actor>Demick Lopes</actor>
+      <actor>Clarissa Pinheiro</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/77/8777806_504F9EC7286FF99B.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211026230000 -0300" stop="20211027004500 -0300" channel="SportvHD3">
+    <title lang="pt">Plano de Fuga</title>
+    <desc lang="pt">Após uma tentativa de fuga com uma pilhagem milionária, um criminoso americano acaba em uma prisão mexicana de fronteira, onde conhece um presidiário que precisa de um transplante de órgãos.(n)</desc>
+    <credits>
+      <director>Adrian Grunberg</director>
+      <actor>Mel Gibson</actor>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Kevin Balmore</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339160_1C7D82642284655D.jpg" />
+    <country lang="pt">México</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211027004500 -0300" stop="20211027025000 -0300" channel="SportvHD3">
+    <title lang="pt">Xeque-mate</title>
+    <desc lang="pt">Slevin é uma pessoa comum que está com um problema sério. Confundido com um amigo seu que deve muito dinheiro para a máfia, ele é ordenado a matar o filho de um gângster rival para salvar sua vida e quitar a dívida.(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Josh Hartnett</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/89/8890878_063B91DE9AE63B74.jpg" />
+    <country lang="pt">Alemanha</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211027025000 -0300" stop="20211027044000 -0300" channel="SportvHD3">
+    <title lang="pt">Blitz</title>
+    <desc lang="pt">O sargento Brent vive um momento conturbado na carreira: sob julgamento por agressão, ele vê o esquadrão em que trabalha ser abandonado. Para se reerguer, Brent vai atrás de Blitz, um serial killer de policiais que patrulham a cidade.(n)</desc>
+    <credits>
+      <director>Elliott Lester</director>
+      <actor>Jason Statham</actor>
+      <actor>Paddy Considine</actor>
+      <actor>Aidan Gillen</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/89/8895611_D88C2806FBCC7C2D.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211027044000 -0300" stop="20211027064500 -0300" channel="SportvHD3">
+    <title lang="pt">Tudo Por Justiça</title>
+    <desc lang="pt">Russell é um homem simples que, após sair da prisão, vive tranquilamente ao lado de sua amada Lena. Já seu irmão mais novo, Rodney, é um cara ambicioso que participa de brigas clandestinas por dinheiro. Quando ele desaparece, Russell vai atrás dele.(n)</desc>
+    <credits>
+      <director>Scott Cooper</director>
+      <actor>Christian Bale</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Casey Affleck</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Sam Shepard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/93/8939504_57CDB1DDE4114981.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211027064500 -0300" stop="20211027084000 -0300" channel="SportvHD3">
+    <title lang="pt">Cela 213: Bem-vindo ao Inferno</title>
+    <desc lang="pt">A cela 213 se torna a nova casa do advogado Michael Gray, que depois de uma confusão é culpado por um assassinato de um cliente encarcerado.(n)</desc>
+    <credits>
+      <director>Stephen Kay</director>
+      <actor>Murray Furrow</actor>
+      <actor>Deborah Valente</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Conrad Coates</actor>
+      <actor>Marie-Josée Colburn</actor>
+      <actor>Eric Balfour</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Darlene Cooke</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/59/9595698_9F450EBD1AF32F10.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211027084000 -0300" stop="20211027090000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Ryan Murphy, David E. Kelly, Ava Duvernay, Lisa Joy, Jenji Kohan e Noah Hawley conversam sobre suas séries indicadas ao Emmy 2017.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+      <actor>Lee Daniels</actor>
+      <actor>Alex Gansa</actor>
+      <actor>Stacey Wilson Hunt</actor>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338845_97A0C21582C4154D.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211027090000 -0300" stop="20211027092000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os diretores Ben Stiller, Ava DuVernay, Patty Jenkins, Adam McKay, David Nutter e Jean-Marc Vallée conversam sobre suas indicações ao Emmy 2019.(n)</desc>
+    <credits>
+      <director>Christian Huguenot</director>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211027092000 -0300" stop="20211027105500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Uma Pilha de Problemas</title>
+    <desc lang="pt">Aurora e seu namorado ficam animados quando recebem uma visita da sobrinha dele. No entanto, ela desaparece e Aurora precisa encontrá-la.(n)</desc>
+    <credits>
+      <director>Kevin Fair</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Yannick Bisson</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6998969_6BCE629113252D07.jpg" />
+    <country lang="pt">Canadá</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211027105500 -0300" stop="20211027123500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Última Cena</title>
+    <desc lang="pt">As gravações de um filme não poderiam ser piores quando a estrela principal é encontrada envenenada em seu camarim. Assim, Aurora e os detetives entram em cena para investigar os suspeitos.(n)</desc>
+    <credits>
+      <director>Martin Wood</director>
+      <actor>Fiona Vroom</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Barbara Wallace</actor>
+      <actor>Lexa Doig</actor>
+      <actor>David Ingram</actor>
+      <actor>Marilu Henner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/80/7809336_969A8B43147B1D43.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211027123500 -0300" stop="20211027142000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Colhendo o que Plantou</title>
+    <desc lang="pt">Quando Aurora encontra Poppy morta em sua casa, os detetives do clube se unem para discutir o caso e acabam se deparando com quatro suspeitos.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Marilu Henner</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Barbara Wallace</actor>
+      <actor>Lexa Doig</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>David Ingram</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/28/7280999_E41078FE4D7A44B6.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211027142000 -0300" stop="20211027144000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os diretores Guillermo Del Toro, Greta Gerwig, Patty Jenkins, Angelina Jolie, Denis Villeneuve e Joe Wright conversam sobre suas indicações ao Oscar 2018.(n)</desc>
+    <credits>
+      <director>Jennifer Laski</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Lacey Rose</actor>
+      <actor>Julianna Margulies</actor>
+      <actor>Kerry Washington</actor>
+      <actor>Regina King</actor>
+      <actor>Kirsten Dunst</actor>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211027144000 -0300" stop="20211027164500 -0300" channel="SportvHD3">
+    <title lang="pt">Boy Erased: Uma Verdade Anulada</title>
+    <desc lang="pt">O jovem Garrard mora numa pequena cidade conservadora do Arkansas. Gay e filho de um pastor da igreja batista, chega um momento em que ele é confrontado pela família.(n)</desc>
+    <credits>
+      <director>Joel Edgerton</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Lucas Hedges</actor>
+      <actor>Russell Crowe</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/59/9595465_EF852FB27E03385B.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Austrália</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211027164500 -0300" stop="20211027190000 -0300" channel="SportvHD3">
+    <title lang="pt">Trama Fantasma</title>
+    <desc lang="pt">Nos anos 1950 em Londres, Reynolds Woodcock é um famoso, impaciente e perfeccionista estilista. Suas peças embelezam atrizes e a realeza britânica. Quando ele conhece a garçonete Alma, ela acaba se tornando sua musa, modelo e amante.(n)</desc>
+    <credits>
+      <director>Paul Thomas Anderson</director>
+      <actor>Lesley Manville</actor>
+      <actor>Vicky Krieps</actor>
+      <actor>Daniel Day-Lewis</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339552_5FEBE5E36FF4D769.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211027190000 -0300" stop="20211027212500 -0300" channel="SportvHD3">
+    <title lang="pt">Get On Up - A História de James Brown</title>
+    <desc lang="pt">Baseado na vida de James Brown, ícone do funk nos EUA dos anos 1960. Mesmo com uma trajetória difícil, o "Padrinho do Soul" promoveu reviravoltas que o eternizaram como ídolo na história da música.(n)</desc>
+    <credits>
+      <director>Tate Taylor</director>
+      <actor>Dan Aykroyd</actor>
+      <actor>Nelsan Ellis</actor>
+      <actor>Jill Scott</actor>
+      <actor>Craig Robinson</actor>
+      <actor>Viola Davis</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Josh Hopkins</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/59/8595771_38D9340ECF6FB8B4.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211027212500 -0300" stop="20211027222500 -0300" channel="SportvHD3">
+    <title lang="pt">Jungle Pilot</title>
+    <desc lang="pt">As notícias se espalham rapidamente, e a procura pela mala de dinheiro passa a ser uma ambição para muitos. Assim, Júlio e Núbia precisam encontrar a melhor forma de esconder o dinheiro em segurança.(n)</desc>
+    <credits>
+      <director>Belisario Franca</director>
+      <actor>Clarissa Pinheiro</actor>
+      <actor>Demick Lopes</actor>
+      <actor>Julia Stockler</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/77/8777806_504F9EC7286FF99B.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211027222500 -0300" stop="20211027230000 -0300" channel="SportvHD3">
+    <title lang="pt">Unidade Básica</title>
+    <desc lang="pt">Dra. Laura se depara com o caso de uma menina que urina sangue há mais de 3 meses. Durante a investigação diagnóstica, algumas evidências aparecem e deixam o caso ainda mais difícil de se lidar.(n)</desc>
+    <credits>
+      <director>Carlos Cortez</director>
+      <actor>Bianca Müller</actor>
+      <actor>Carlota Joaquina</actor>
+      <actor>Caco Ciocler</actor>
+      <actor>Vinicius De Oliveira</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/23/7238196_EE71749E0E3AED5C.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211027230000 -0300" stop="20211028005000 -0300" channel="SportvHD3">
+    <title lang="pt">Blitz</title>
+    <desc lang="pt">O sargento Brent vive um momento conturbado na carreira: sob julgamento por agressão, ele vê o esquadrão em que trabalha ser abandonado. Para se reerguer, Brent vai atrás de Blitz, um serial killer de policiais que patrulham a cidade.(n)</desc>
+    <credits>
+      <director>Elliott Lester</director>
+      <actor>Paddy Considine</actor>
+      <actor>Jason Statham</actor>
+      <actor>Aidan Gillen</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/89/8895611_D88C2806FBCC7C2D.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">França</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211028005000 -0300" stop="20211028025500 -0300" channel="SportvHD3">
+    <title lang="pt">Tudo Por Justiça</title>
+    <desc lang="pt">Russell é um homem simples que, após sair da prisão, vive tranquilamente ao lado de sua amada Lena. Já seu irmão mais novo, Rodney, é um cara ambicioso que participa de brigas clandestinas por dinheiro. Quando ele desaparece, Russell vai atrás dele.(n)</desc>
+    <credits>
+      <director>Scott Cooper</director>
+      <actor>Christian Bale</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Casey Affleck</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Sam Shepard</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/93/8939504_57CDB1DDE4114981.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211028025500 -0300" stop="20211028044500 -0300" channel="SportvHD3">
+    <title lang="pt">Filha de Deus</title>
+    <desc lang="pt">Um detetive investiga a verdade por trás da morte de seu parceiro. O misterioso caso revela a corrupção policial e um segredo envolvendo uma jovem que se diz testemunha de um milagre.(n)</desc>
+    <credits>
+      <director>Gee Malik Linton</director>
+      <actor>Gabe Vargas</actor>
+      <actor>Ana de Armas</actor>
+      <actor>Sandy Tejada</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339101_0B3B5471C9ACC2B2.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211028044500 -0300" stop="20211028063500 -0300" channel="SportvHD3">
+    <title lang="pt">John Wick - De Volta ao Jogo</title>
+    <desc lang="pt">John Wick é um lendário ex-matador da cidade de Nova Iorque que está lidando com o luto após perder o grande amor de sua vida. Mas, quando o filho de um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa.(n)</desc>
+    <credits>
+      <director>Chad Stahelski</director>
+      <actor>Willem Dafoe</actor>
+      <actor>Michael Nyqvist</actor>
+      <actor>Dean Winters</actor>
+      <actor>Alfie Allen</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Keanu Reeves</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9332930_2B7C1CEAB3351296.jpg" />
+    <country lang="pt">China</country>
+    <country lang="pt">EUA</country>
+    <country lang="pt">Reino Unido</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211028063500 -0300" stop="20211028084000 -0300" channel="SportvHD3">
+    <title lang="pt">Xeque-mate</title>
+    <desc lang="pt">Slevin é uma pessoa comum que está com um problema sério. Confundido com um amigo seu que deve muito dinheiro para a máfia, ele é ordenado a matar o filho de um gângster rival para salvar sua vida e quitar a dívida.(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Josh Hartnett</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Bruce Willis</actor>
+    </credits>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/89/8890878_063B91DE9AE63B74.jpg" />
+    <country lang="pt">Alemanha</country>
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211028084000 -0300" stop="20211028090000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">As atrizes Emmy Rossum, Issa Rae, Minnie Driver, Pamela Aldon, Kathryn Hahn e America Ferrera conversam sobre seus papéis em séries de comédia e indicações ao Emmy 2017.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+      <actor>America Ferrera</actor>
+      <actor>Pamela Aldon</actor>
+      <actor>Kathryn Hahn</actor>
+      <actor>Issa Rae</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Minnie Driver</actor>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338845_97A0C21582C4154D.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211028090000 -0300" stop="20211028092000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os diretores Guillermo Del Toro, Greta Gerwig, Patty Jenkins, Angelina Jolie, Denis Villeneuve e Joe Wright conversam sobre suas indicações ao Oscar 2018.(n)</desc>
+    <credits>
+      <director>Jennifer Laski</director>
+      <actor>Regina King</actor>
+      <actor>Lacey Rose</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Julianna Margulies</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Kerry Washington</actor>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211028092000 -0300" stop="20211028110000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Última Cena</title>
+    <desc lang="pt">As gravações de um filme não poderiam ser piores quando a estrela principal é encontrada envenenada em seu camarim. Assim, Aurora e os detetives entram em cena para investigar os suspeitos.(n)</desc>
+    <credits>
+      <director>Martin Wood</director>
+      <actor>Marilu Henner</actor>
+      <actor>Lexa Doig</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>David Ingram</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Barbara Wallace</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/80/7809336_969A8B43147B1D43.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211028110000 -0300" stop="20211028124000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Colhendo o que Plantou</title>
+    <desc lang="pt">Quando Aurora encontra Poppy morta em sua casa, os detetives do clube se unem para discutir o caso e acabam se deparando com quatro suspeitos.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Lexa Doig</actor>
+      <actor>Barbara Wallace</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>David Ingram</actor>
+      <actor>Marilu Henner</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/28/7280999_E41078FE4D7A44B6.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211028124000 -0300" stop="20211028142000 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: O Jogo do Desaparecimento</title>
+    <desc lang="pt">Após o desaparecimento de seu sobrinho e um colega de quarto, Aurora precisa correr contra o tempo para encontrá-los.(n)</desc>
+    <credits>
+      <director>Terry Ingram</director>
+      <actor>Barbara Wallace</actor>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Lexa Doig</actor>
+      <actor>Fiona Vroom</actor>
+      <actor>David Ingram</actor>
+      <actor>Marilu Henner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/05/7055053_7B495BF9CFEB4767.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211028142000 -0300" stop="20211028160500 -0300" channel="SportvHD3">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Jogo de Enganação</title>
+    <desc lang="pt">Uma intrigante pista deixada para Aurora durante uma reunião inicia um verdadeiro jogo de perseguição entre ela e um misterioso assassino em série.(n)</desc>
+    <credits>
+      <director>Mark Jean</director>
+      <actor>Marilu Henner</actor>
+      <actor>Niall Matter</actor>
+      <actor>Candace Cameron Bure</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339248_8C09064E797EC365.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20211028160500 -0300" stop="20211028162000 -0300" channel="SportvHD3">
+    <title lang="pt">Close Up With The Hollywood Reporter</title>
+    <desc lang="pt">Os atores John Boyega, Willem Dafoe, James Franco, Tom Hanks, Gary Oldman e Sam Rockwell conversam sobre suas indicações ao Oscar 2018.(n)</desc>
+    <credits>
+      <director>Raphael Laski</director>
+      <actor>Wagner Moura</actor>
+      <actor>Casey Affleck</actor>
+      <actor>Rami Malek</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Mahershala Ali</actor>
+    </credits>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339244_B6ECADDDC619962B.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211028162000 -0300" stop="20211028180000 -0300" channel="SportvHD3">
+    <title lang="pt">O Homem com Punhos de Ferro 2</title>
+    <desc lang="pt">Quando Thaddeus, um misterioso estranho, é encontrado ferido em uma pequena vila na China do século XIX, o mineiro Li Kung e sua esposa Ah Ni lhe oferecem refúgio.(n)</desc>
+    <credits>
+      <director>Roel Reiné</director>
+      <actor>Schnitrnunt Busarakamwong</actor>
+      <actor>Seigi Ozeki</actor>
+      <actor>Grace Huang</actor>
+      <actor>Pim Bubear</actor>
+      <actor>Andrew Lin</actor>
+      <actor>Sahajak Boonthanakit</actor>
+      <actor>RZA .</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9338772_2184E38EE5641F23.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
   <programme start="20211023020000 -0300" stop="20211023030000 -0300" channel="SporTV 3 HD ³">
     <title lang="pt">Campeonato Brasileiro de Futebol Sub-20: Atlético MG x Botafogo</title>
     <category lang="pt">Futebol</category>
