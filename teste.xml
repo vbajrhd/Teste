@@ -1,312 +1,1393 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Discovery HD ³">
-    <display-name lang="pt">Discovery HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/discovery_hd_-1060_95x39.png" />
+  <channel id="SPORTV3 HD3">
+    <display-name lang="pt">SporTV 3 HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/sportv_3_hd_-1137_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20211111005500 +0100" stop="20211111015100 +0100" channel="Discovery HD ³">
-    <title lang="pt">Bodycam: Registros Criminosos</title>
-    <desc lang="pt">Uma discussão doméstica evolui para uma situação com reféns envolvendo crianças. Um suposto acidente de carro dá lugar a um múltiplo assassinato. Uma briga numa loja de bebidas deixa um policial ferido.(n)</desc>
-    <credits>
-      <director>Stephen Lennhoff</director>
-    </credits>
-    <category lang="pt">Investigação</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211111015100 +0100" stop="20211111023500 +0100" channel="Discovery HD ³">
-    <title lang="pt">Sombras do Além</title>
-    <desc lang="pt">Steve e Amy investigam atividades que ameaçam destruir uma família em Richmond Heights, Ohio. Steve descobre tragédias do passado ocorridas na propriedade, enquanto Amy interage com um espírito que fica revivendo a própria morte.(n)</desc>
-    <credits>
-      <director>Rob Rosen</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-    <star-rating system="BR">
-      <value>4</value>
-    </star-rating>
-  </programme>
-  <programme start="20211111023500 +0100" stop="20211111041700 +0100" channel="Discovery HD ³">
-    <title lang="pt">Quilos Mortais</title>
-    <desc lang="pt">Irene precisou voltar a morar com o filho, porque seu peso impossibilitou que ela vivesse sozinha. O doutor Now não consegue a cooperação dela e a única coisa que pode ajudá-la a quebrar o ciclo é uma reviravolta.(n)</desc>
-    <category lang="pt">Drama</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating system="BR">
-      <value>3</value>
-    </star-rating>
-  </programme>
-  <programme start="20211111041700 +0100" stop="20211111051200 +0100" channel="Discovery HD ³">
-    <title lang="pt">Emagreci, E Agora?</title>
-    <desc lang="pt">Na primeira temporada, acompanhamos ex-obesos que se submeteram a cirurgias dolorosas para remover o excesso de pele. Agora, eles precisam lidar com as transformações corporais imprevisíveis.(n)</desc>
-    <category lang="pt">Comportamento</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111051200 +0100" stop="20211111060000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Destiladores</title>
-    <desc lang="pt">Mark e Digger contratam um destilador aposentado. Na Carolina do Sul, Josh e Chuck preparam uma antiga receita de família. No Tennessee, Lance pede ajuda a um contrabandista para transportar seu produto.(n)</desc>
-    <credits>
-      <director>Noah Danoff</director>
-      <actor>Jeremy Schwartz</actor>
-      <actor>Josh Owens</actor>
-      <actor>Tim Smith</actor>
-      <actor>Red Dog</actor>
-      <actor>Eric 'Digger' Manes</actor>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-    <star-rating system="BR">
-      <value>3</value>
-    </star-rating>
-  </programme>
-  <programme start="20211111060000 +0100" stop="20211111065500 +0100" channel="Discovery HD ³">
-    <title lang="pt">Como Funciona o Universo</title>
-    <desc lang="pt">Novas pesquisas sugerem que a migração dos planetas Urano e Netuno pode ter dado origem à vida na Terra. Os cientistas acreditam que um terceiro planeta de gelo foi ejetado do Sistema Solar, salvando os planetas internos.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111065500 +0100" stop="20211111071900 +0100" channel="Discovery HD ³">
-    <title lang="pt">Em Busca de Relíquias</title>
-    <desc lang="pt">Acompanhe os Garage Brothers em busca de relíquias.(n)</desc>
-    <credits>
-      <director>Anthony Vescio</director>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <channel id="SPORTV2 HD3">
+    <display-name lang="pt">SporTV 2 HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/sportv_2_hd_-1047_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV HD ³">
+    <display-name lang="pt">SporTV HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/sportv_hd_-1063_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPNBR HD3">
+    <display-name lang="pt">ESPN Brasil HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/espn_brasil_hd_-1049_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN HD3">
+    <display-name lang="pt">ESPN HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/espn_hd_-1081_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN2 HD3</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/espn_2_hd-2251_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOXSP HD3">
+    <display-name lang="pt">Fox Sports HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/fox_sports_hd_-1035_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOXSP2 HD3">
+    <display-name lang="pt">FOX Sports 2 HD ³</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/fox_sports_2_hd_-1091_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CombateHD3">
+    <display-name lang="pt">Combate HD</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/combate_hd-1027_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20211111003000 +0100" stop="20211111010000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111071900 +0100" stop="20211111080800 +0100" channel="Discovery HD ³">
-    <title lang="pt">Febre do Ouro</title>
-    <desc lang="pt">Todd usa dinamite para explodir rochas enormes. Parker precisa superar uma enchente para bater um recorde de extração de ouro.  Tony atravessa o gelado Rio Yukon em sua enorme barcaça.(n)</desc>
-    <credits>
-      <director>Debbie Bledsoe</director>
-      <actor>Todd Hoffman</actor>
-      <actor>Dave Turin</actor>
-      <actor>Jim Thurber</actor>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111010000 +0100" stop="20211111020000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Operário x Remo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
     <rating system="BR">
-      <value>12</value>
+      <value>5</value>
     </rating>
-    <star-rating system="BR">
-      <value>4</value>
-    </star-rating>
   </programme>
-  <programme start="20211111080800 +0100" stop="20211111085700 +0100" channel="Discovery HD ³">
-    <title lang="pt">Febre do Ouro</title>
-    <sub-title lang="pt">O Desafio de Parker</sub-title>
-    <desc lang="pt">Parker atravessa a instável e perigosa cidade próxima a Porgera, uma das maiores e mais lucrativas minas de ouro do mundo, enquanto tenta ter acesso a um enorme veio.(n)</desc>
-    <credits>
-      <actor>Paul Christie</actor>
-      <actor>Karla Ann</actor>
-      <actor>Simon Gilchrist</actor>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111020000 +0100" stop="20211111030000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x CSA AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
     <rating system="BR">
-      <value>12</value>
+      <value>5</value>
     </rating>
-    <star-rating system="BR">
-      <value>4</value>
-    </star-rating>
   </programme>
-  <programme start="20211111085700 +0100" stop="20211111094600 +0100" channel="Discovery HD ³">
-    <title lang="pt">Homens do Gelo</title>
-    <desc lang="pt">Os moradores de Tanana se unem contra a chegada dos ursos. Courtney arrisca a vida para proteger sua família. Enquanto isso, Stan aposta em um projeto de mineração.(n)</desc>
+  <programme start="20211111030000 +0100" stop="20211111040000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Confiança x Náutico</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111040000 +0100" stop="20211111050000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x América MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111050000 +0100" stop="20211111060000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil de Pelotas x Guarani</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111060000 +0100" stop="20211111070000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CRB AL x Londrina</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111070000 +0100" stop="20211111090000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">NBA: Utah Jazz x Atlanta Hawks</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111090000 +0100" stop="20211111100000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Brusque</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111100000 +0100" stop="20211111120000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">Superliga de Vôlei Feminino: Brasília x Flamengo</title>
+    <desc lang="pt">Superliga de Vôlei Feminino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111120000 +0100" stop="20211111130000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Fluminense</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111130000 +0100" stop="20211111140000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Brusque</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111140000 +0100" stop="20211111150000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111150000 +0100" stop="20211111160000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Fluminense</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111160000 +0100" stop="20211111194500 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">CBCS</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">e-Sports também é no SporTV! Acompanhe agora o Cbcs. Muita tática e habilidade! SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111194500 +0100" stop="20211111220000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">Eliminatórias da Copa do Mundo: Paraguai x Chile</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As seleções de futebol seguem em busca de uma vaga na Copa do Mundo e você confere aqui no SporTV todas as emoções das partidas pelas Eliminatórias para a Copa do Mundo.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111220000 +0100" stop="20211111224500 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111224500 +0100" stop="20211112010000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">Eliminatórias da Copa do Mundo: Peru x Bolívia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As seleções de futebol seguem em busca de uma vaga na Copa do Mundo e você confere aqui no SporTV todas as emoções das partidas pelas Eliminatórias para a Copa do Mundo.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111004500 +0100" stop="20211111013000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111013000 +0100" stop="20211111023000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x América MG</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111023000 +0100" stop="20211111033000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil de Pelotas x Guarani</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111033000 +0100" stop="20211111043000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CRB AL x Londrina</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111043000 +0100" stop="20211111053000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Goiás x Coritiba</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111053000 +0100" stop="20211111063000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Operário x Remo</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111063000 +0100" stop="20211111073000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x CSA AL</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111073000 +0100" stop="20211111093000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Superliga de Vôlei Feminino: Osasco x Praia Clube</title>
+    <desc lang="pt">Superliga de Vôlei Feminino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Vôlei Feminino</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111093000 +0100" stop="20211111103000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Fluminense</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111103000 +0100" stop="20211111113000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111113000 +0100" stop="20211111123000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111123000 +0100" stop="20211111130000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111130000 +0100" stop="20211111133000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111133000 +0100" stop="20211111140000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111140000 +0100" stop="20211111145500 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111145500 +0100" stop="20211111170000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Liga Internacional de Natação</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Liga Internacional De Natação - Playoffs.(n)</desc>
+    <category lang="pt">Natação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111170000 +0100" stop="20211111180000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111180000 +0100" stop="20211111184500 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111184500 +0100" stop="20211111210000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Superliga de Vôlei Masculino: Sesi Sp x Brasília</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Vôlei</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111210000 +0100" stop="20211111233000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">NBA: Philadelphia 76ers x Toronto Raptors</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111233000 +0100" stop="20211112002000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111010000 +0100" stop="20211111020000 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111020000 +0100" stop="20211111030000 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111030000 +0100" stop="20211111040000 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Fluminense</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111040000 +0100" stop="20211111050000 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Brusque</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111050000 +0100" stop="20211111054500 +0100" channel="SporTV HD ³">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111054500 +0100" stop="20211111064500 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Fluminense</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111064500 +0100" stop="20211111074500 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111074500 +0100" stop="20211111084500 +0100" channel="SporTV HD ³">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Corinthians</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111084500 +0100" stop="20211111100000 +0100" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111100000 +0100" stop="20211111123000 +0100" channel="SporTV HD ³">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Marcelo Barreto está de volta no Redação e, recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. O programa repercute as notícias do rádio, TV, impresso e online.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111123000 +0100" stop="20211111130000 +0100" channel="SporTV HD ³">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111130000 +0100" stop="20211111153000 +0100" channel="SporTV HD ³">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Conheça o novo Seleção SporTV! Entrevistas, arbitagem, boteco e muito mais. No estúdio novo, André Rizek e seus convidados trazem mais polêmica e agito para a sua tarde! Seleção SporTV, de 2ª a 6ª às 12:45h no SporTV!(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111153000 +0100" stop="20211111160000 +0100" channel="SporTV HD ³">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111160000 +0100" stop="20211111164500 +0100" channel="SporTV HD ³">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.(n)</desc>
     <credits>
-      <director>Brian Garrity</director>
+      <director>André Boaventura</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111164500 +0100" stop="20211111174500 +0100" channel="SporTV HD ³">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O Tá na Área, com Magno Navarro e Igor Rodrigues, é o aquecimento para as principais transmissões ao vivo do SporTV.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111174500 +0100" stop="20211111200000 +0100" channel="SporTV HD ³">
+    <title lang="pt">Eliminatórias da Copa do Mundo: Equador x Venezuela</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As seleções de futebol seguem em busca de uma vaga na Copa do Mundo e você confere aqui no SporTV todas as emoções das partidas pelas Eliminatórias para a Copa do Mundo.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111200000 +0100" stop="20211111233000 +0100" channel="SporTV HD ³">
+    <title lang="pt">Eliminatórias da Copa do Mundo: Brasil x Colômbia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As seleções de futebol seguem em busca de uma vaga na Copa do Mundo e você confere aqui no SporTV todas as emoções das partidas pelas Eliminatórias para a Copa do Mundo.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111233000 +0100" stop="20211112010000 +0100" channel="SporTV HD ³">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">André Hernan e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111010000 +0100" stop="20211111020000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111020000 +0100" stop="20211111035500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Real Madrid x Rayo Vallecano</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111035500 +0100" stop="20211111045500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111045500 +0100" stop="20211111055500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Resenha: Fernando Prass e Zé Roberto</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111055500 +0100" stop="20211111062500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111062500 +0100" stop="20211111075500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111075500 +0100" stop="20211111100000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Eliminatórias Asiáticas para a Copa Do Mundo: Coréia do Sul x Emirados Árabes Unidos</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Acompanhe emocionantes confrontos entre seleções pelas vagas na Copa do Mundo de 2020 no Catar.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111100000 +0100" stop="20211111110000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">ESPN F360</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">William Tavares traz um giro 360 sobre o dia anterior no futebol com destaque para o jogo mais quente.O FUTEBOL 360  uma agradável conversa, com temperatura, para abrir a jornada do fã sobre o grande jogo.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111110000 +0100" stop="20211111130000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111130000 +0100" stop="20211111150000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">ESPN F90</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">De segunda a sexta, em duas edições, Sebastián Vignolo e um grupo de especialistas dão vida ao FÚTBOL 90. O debate de futebol mais quente, com as melhores entrevistas e análises profundas em um só lugar.(n)</desc>
+    <category lang="pt">Debate</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111150000 +0100" stop="20211111160000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">ESPN FC</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111160000 +0100" stop="20211111180000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111180000 +0100" stop="20211111195500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">ESPN FC</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111195500 +0100" stop="20211111205500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Bola da Vez: Alessandro Barcellos, Presidente do Internacional</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111205500 +0100" stop="20211111232500 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111232500 +0100" stop="20211112003000 +0100" channel="ESPNBR HD3">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111000500 +0100" stop="20211111023500 +0100" channel="ESPN HD3">
+    <title lang="pt">NBA: Miami Heat x Los Angeles Lakers</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111023500 +0100" stop="20211111033500 +0100" channel="ESPN HD3">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111033500 +0100" stop="20211111053000 +0100" channel="ESPN HD3">
+    <title lang="pt">C. A. Huracán x Argentinos Jrs.</title>
+    <desc lang="pt">A Paixão Nas Arquibancadas E As Disputas Emocionantes Dentro De Campo. A Liga Profissional De Futebol Da Argentina Reúne As Equipes Da Primeira Divisão Do País Em Um Combo Perfeito Para Os Mais Fanáticos Torcedores.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111053000 +0100" stop="20211111063000 +0100" channel="ESPN HD3">
+    <title lang="pt">Compacto NFL: Tennessee Titans x Los Angeles Rams</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.(n)</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111063000 +0100" stop="20211111090000 +0100" channel="ESPN HD3">
+    <title lang="pt">NBA: Detroit Pistons x Houston Rockets</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111090000 +0100" stop="20211111100000 +0100" channel="ESPN HD3">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111100000 +0100" stop="20211111140000 +0100" channel="ESPN HD3">
+    <title lang="pt">Tênis: Next Gen ATP</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111140000 +0100" stop="20211111143000 +0100" channel="ESPN HD3">
+    <title lang="pt">Mundial de Motocross: Espanha</title>
+    <desc lang="pt">O principal campeonato de motocross do mundo desde 1957, é dividido em 3 categorias: MX1, MX2 e MX3, atualmente consiste em 16 competições.(n)</desc>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111143000 +0100" stop="20211111153000 +0100" channel="ESPN HD3">
+    <title lang="pt">Extreme E: Destaques da Etapa da Sardegna</title>
+    <sub-title lang="pt">ITA</sub-title>
+    <desc lang="pt">As areias do deserto recebem os carros mais velozes e equipados do mundo. Acompanhe a odisseia do Extreme E.(n)</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111153000 +0100" stop="20211111193000 +0100" channel="ESPN HD3">
+    <title lang="pt">Tênis: Next Gen ATP</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111193000 +0100" stop="20211111200000 +0100" channel="ESPN HD3">
+    <title lang="pt">Mundial de Motocross: Trentino</title>
+    <desc lang="pt">O principal campeonato de motocross do mundo desde 1957, é dividido em 3 categorias: MX1, MX2 e MX3, atualmente consiste em 16 competições.(n)</desc>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111200000 +0100" stop="20211111203000 +0100" channel="ESPN HD3">
+    <title lang="pt">Mundial de Motocross: Pietramurata &amp; Garda</title>
+    <desc lang="pt">O principal campeonato de motocross do mundo desde 1957, é dividido em 3 categorias: MX1, MX2 e MX3, atualmente consiste em 16 competições.(n)</desc>
+    <category lang="pt">Radical</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111203000 +0100" stop="20211111213000 +0100" channel="ESPN HD3">
+    <title lang="pt">Compacto NFL: Chicago Bears x Pittsburgh Steelers</title>
+    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos.  A NFL reúne as grandes estrelas do esporte e tem conquistado fãs por todo o planeta.(n)</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111213000 +0100" stop="20211111221500 +0100" channel="ESPN HD3">
+    <title lang="pt">Sportscenter Abre o Jogo: NFL</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Abertura das transmissões do futebol americano. Confira as últimas notícias e as análises do jogo que vem a seguir.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111221500 +0100" stop="20211112013000 +0100" channel="ESPN HD3">
+    <title lang="pt">NFL: Baltimore Ravens x Miami Dolphins</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Touchdowns, Viradas Espetaculares, Jogadas Que Entram Para A História E Os Melhores Atletas Em Campo. A Nfl Reúne A Elite Do Futebol Americano.(n)</desc>
+    <category lang="pt">Futebol Americano</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111010000 +0100" stop="20211111020000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111020000 +0100" stop="20211111023000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111023000 +0100" stop="20211111023500 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Momento ESPN: NFL Filmes</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111023500 +0100" stop="20211111033000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111033000 +0100" stop="20211111043000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter Americano com Scott Van Pelt</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111043000 +0100" stop="20211111070000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Tênis: Next Gen ATP</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111070000 +0100" stop="20211111080000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111080000 +0100" stop="20211111094500 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Celta x Barcelona</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111094500 +0100" stop="20211111111500 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111111500 +0100" stop="20211111130000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Milan x Inter de Milão</title>
+    <desc lang="pt">Os Grandes Clubes Do Futebol Italiano Batalham Pela Conquista Do Scudetto. Tradição, Força E Disciplina Tática Marcam As Emocionantes Disputas Da Serie A.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111130000 +0100" stop="20211111133000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Show da Rodada: Serie A</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Serie A, o Campeonato Italiano de futebol. Todos os gols e os principais lances deste charmoso e tradicional torneio.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111133000 +0100" stop="20211111143000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111143000 +0100" stop="20211111153000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111153000 +0100" stop="20211111174500 +0100" channel="ESPN 2 HD">
+    <title lang="pt">NBA: Miami Heat x Los Angeles Lakers</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111174500 +0100" stop="20211111193000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">NBB: Corinthians x Flamengo</title>
+    <desc lang="pt">O NBB é o nosso basquete! De Norte ao Sul, veja todas as semanas os melhores jogadores e as equipes de elite do Brasil em ação!(n)</desc>
+    <category lang="pt">Basquete</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111193000 +0100" stop="20211111194500 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Narra Quem Sabe</title>
+    <desc lang="pt">‘Narra Quem Sabe ESPN’ irá revelaros novos  talentos femininos da narração. Este novo programa tem como objetivo abrir mais caminhos para as mulheres que almejam ser narradoras.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111194500 +0100" stop="20211111213000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Eliminatórias Africanas Para a Copa do Mundo: África do Sul x Zimbabwe</title>
+    <desc lang="pt">Acompanhe emocionantes confrontos entre seleções pelas vagas na Copa do Mundo de 2020 no Catar.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111213000 +0100" stop="20211112003000 +0100" channel="ESPN 2 HD">
+    <title lang="pt">Tênis: Next Gen ATP</title>
+    <desc lang="pt">O ATP Masters 1000 é a mais importante série do tênis masculino depois dos quatro Grand Slams. Os principais tenistas do mundo se enfrentam em nove torneios ao longo do ano na Europa, Ásia e América do Norte.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111004500 +0100" stop="20211111010000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Narra Quem Sabe</title>
+    <desc lang="pt">‘Narra Quem Sabe ESPN’ irá revelaros novos  talentos femininos da narração. Este novo programa tem como objetivo abrir mais caminhos para as mulheres que almejam ser narradoras.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111010000 +0100" stop="20211111030000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Valencia x Atletico de Madrid</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111030000 +0100" stop="20211111050000 +0100" channel="FOXSP HD3">
+    <title lang="pt">ESPN FC</title>
+    <desc lang="pt">Fique Por Dentro Das Últimas Notícias E Análises Do Futebol. Diretamente Dos Estádios, Os Repórteres Trazem Informações Exclusivas Sobre Os Confrontos Do Dia. Um Guia Completo Para Acompanhar A Rodada.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111050000 +0100" stop="20211111070000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Napoli x Hellas Verona</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111070000 +0100" stop="20211111085500 +0100" channel="FOXSP HD3">
+    <title lang="pt">NASCAR Cup Series</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series.(n)</desc>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111085500 +0100" stop="20211111110000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Eliminatórias Asiáticas para a Copa Do Mundo: Vietnã x Japão</title>
+    <desc lang="pt">Acompanhe emocionantes confrontos entre seleções pelas vagas na Copa do Mundo de 2020 no Catar.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111110000 +0100" stop="20211111125500 +0100" channel="FOXSP HD3">
+    <title lang="pt">Real Madrid x Rayo Vallecano</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111125500 +0100" stop="20211111145500 +0100" channel="FOXSP HD3">
+    <title lang="pt">Napoli x Hellas Verona</title>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111145500 +0100" stop="20211111152500 +0100" channel="FOXSP HD3">
+    <title lang="pt">Show da Rodada: Ligue 1</title>
+    <desc lang="pt">Assista aos destaques e o que de melhor aconteceu na rodada da liga mais charmosa, o Campeonato Francês, que passou a receber investimentos milionários nas últimas temporadas.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111152500 +0100" stop="20211111155500 +0100" channel="FOXSP HD3">
+    <title lang="pt">Show da Rodada: La Liga</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111155500 +0100" stop="20211111180000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Eliminatórias Africanas Para a Copa do Mundo: África do Sul x Zimbabwe</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Acompanhe emocionantes confrontos entre seleções pelas vagas na Copa do Mundo de 2020 no Catar.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111180000 +0100" stop="20211111183000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Especial Libertadores</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais FOX Sports.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111183000 +0100" stop="20211111190000 +0100" channel="FOXSP HD3">
+    <title lang="pt">Show da Rodada: Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.(n)</desc>
+    <category lang="pt">Esportivo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111190000 +0100" stop="20211111204500 +0100" channel="FOXSP HD3">
+    <title lang="pt">Milan x Inter de Milão</title>
+    <desc lang="pt">Os Grandes Clubes Do Futebol Italiano Batalham Pela Conquista Do Scudetto. Tradição, Força E Disciplina Tática Marcam As Emocionantes Disputas Da Serie A.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111204500 +0100" stop="20211111224500 +0100" channel="FOXSP HD3">
+    <title lang="pt">Arsenal x Watford</title>
+    <desc lang="pt">Grandes Craques, Estádios Históricos, Equipes De Peso, Torcedores Fanáticos E Técnicos Renomados.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111224500 +0100" stop="20211112003000 +0100" channel="FOXSP HD3">
+    <title lang="pt">West Ham x Liverpool</title>
+    <desc lang="pt">Grandes Craques, Estádios Históricos, Equipes De Peso, Torcedores Fanáticos E Técnicos Renomados. A Premier League É A Elite Do Futebol Inglês.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111010000 +0100" stop="20211111030000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Conmebol Libertadores Feminina: Deportivo Capiatá x Corinthians</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111030000 +0100" stop="20211111070000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111070000 +0100" stop="20211111090000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Olympique de Marselha x Metz</title>
+    <desc lang="pt">Tradicional E Charmoso, O Campeonato Francês Passou A Receber Investimentos Milionários Nas Últimas Temporadas.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111090000 +0100" stop="20211111110000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Southampton x Aston Villa</title>
+    <desc lang="pt">Grandes Craques, Estádios Históricos, Equipes De Peso, Torcedores Fanáticos E Técnicos Renomados. A Premier League É A Elite Do Futebol Inglês E Um Dos Melhores Campeonatos De Futebol Do Mundo.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111110000 +0100" stop="20211111130000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Juventus x Fiorentina</title>
+    <desc lang="pt">Os Grandes Clubes Do Futebol Italiano Batalham Pela Conquista Do Scudetto. Tradição, Força E Disciplina Tática Marcam As Emocionantes Disputas Da Serie A.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111130000 +0100" stop="20211111150000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Real Madrid x Rayo Vallecano</title>
+    <desc lang="pt">A Liga Das Estrelas Reúne Os Mais Fantásticos Jogadores Do Futebol Mundial. Barça, Real Madrid, Atletico De Madrid Grandes Equipes Em Busca Do Título Mais Cobiçado.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111150000 +0100" stop="20211111190000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Automobilismo</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111190000 +0100" stop="20211111195000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego.(n)</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111195000 +0100" stop="20211111200000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Especial: Maradona La Liga</title>
+    <desc lang="pt">Especial com o melhor conteúdo dos canais ESPN..(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111200000 +0100" stop="20211111220000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Conmebol Libertadores Feminina: Deportivo Capiatá x Corinthians</title>
+    <desc lang="pt">A Verdadeira Obsessão Dos Clubes Da América Do Sul E A Grande Paixão Dos Torcedores. A Conmebol Libertadores Reúne Todos Os Anos As Melhores Equipes De Brasil, Argentina E Outros Países.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111220000 +0100" stop="20211112000000 +0100" channel="FOXSP2 HD3">
+    <title lang="pt">Rugby</title>
+    <desc lang="pt">A melhor programação de rugby está nos canais ESPN. Acompanhe os mais talentosos jogadores do mundo em disputas internacionais.(n)</desc>
+    <category lang="pt">Rugby</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111013000 +0100" stop="20211111020000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Estados Unidos</sub-title>
+    <desc lang="pt">Os motivos que fazem dos Estados Unidos a maior potência no MMA mundial contados através das escolas de wrestling e dos lutadores e empresários brasileiros que vivem no país.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111094600 +0100" stop="20211111103400 +0100" channel="Discovery HD ³">
-    <title lang="pt">Homens do Gelo</title>
-    <desc lang="pt">A nova aposta de Stan exige que ele faça um trator de 70 anos voltar a funcionar. Charlie e Joey enfrentam a caçada mais desafiadora de sua vida. O filho de Pat Moore, Thomas, volta para casa.(n)</desc>
+  <programme start="20211111020000 +0100" stop="20211111023000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <director>Brian Garrity</director>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111023000 +0100" stop="20211111030000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111030000 +0100" stop="20211111053000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Silva x Franklin 2</sub-title>
+    <desc lang="pt">Anderson Silva enfrentou Rich Franklin em uma revanche da luta emocionante na qual 'The Spider' ganhou o título dos médios do UFC.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111103400 +0100" stop="20211111112200 +0100" channel="Discovery HD ³">
-    <title lang="pt">Homens do Gelo</title>
-    <desc lang="pt">James tenta defender seu negócio de madeira e entra em confronto com um morador. Stan corre o risco de perder todos os peixes do inverno para o rio. Mais uma vez, uma tragédia se abate sobre Pat.(n)</desc>
-    <credits>
-      <director>Brian Garrity</director>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111053000 +0100" stop="20211111060000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Estados Unidos</sub-title>
+    <desc lang="pt">Os motivos que fazem dos Estados Unidos a maior potência no MMA mundial contados através das escolas de wrestling e dos lutadores e empresários brasileiros que vivem no país.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111112200 +0100" stop="20211111121000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Isolados no Alasca</title>
-    <desc lang="pt">No auge do inverno, Heimo ainda não conseguiu abater um alce, enquanto os Seldens iniciam a próxima fase da viagem pelo circuito de armadilhas. O jovem Charlie Jagow é apresentado.(n)</desc>
+  <programme start="20211111060000 +0100" stop="20211111063000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <director>David Clawson</director>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111063000 +0100" stop="20211111070000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111070000 +0100" stop="20211111093000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Silva x Franklin 2</sub-title>
+    <desc lang="pt">Anderson Silva enfrentou Rich Franklin em uma revanche da luta emocionante na qual 'The Spider' ganhou o título dos médios do UFC.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111121000 +0100" stop="20211111130000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Isolados no Alasca</title>
-    <desc lang="pt">O sol retorna, marcando o fim do inverno. Um intruso ameaça o sucesso de Tyler e Ashley. Heimo e Edna se despedem da antiga cabana, enquanto Charlie constrói meticulosamente sua primeira casa.(n)</desc>
-    <credits>
-      <director>David Clawson</director>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111093000 +0100" stop="20211111100000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Estados Unidos</sub-title>
+    <desc lang="pt">Os motivos que fazem dos Estados Unidos a maior potência no MMA mundial contados através das escolas de wrestling e dos lutadores e empresários brasileiros que vivem no país.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111130000 +0100" stop="20211111135000 +0100" channel="Discovery HD ³">
-    <title lang="pt">O Fugitivo</title>
-    <desc lang="pt">Conheça os bastidores desta série de ação e sobrevivência, e veja as condições perigosas enfrentadas durante a produção enquanto o ex-SEAL Joel Lambert encara as unidades mais especializadas do mundo.(n)</desc>
+  <programme start="20211111100000 +0100" stop="20211111103000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <actor>Joel Lambert</actor>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Ação</category>
+    <category lang="pt">Luta</category>
     <rating system="BR">
-      <value>12</value>
+      <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111135000 +0100" stop="20211111144000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Desafio em Dose Dupla: Colômbia</title>
-    <desc lang="pt">Felipe e Arnoby enfrentam todo tipo de contratempos na Amazônia colombiana, onde cientistas estudam a etnia indígena ticuna. A dupla segue os rastros de dois antropólogos que se perderam da tribo e agora correm perigo.(n)</desc>
+  <programme start="20211111103000 +0100" stop="20211111110000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <director>Ryan Miller</director>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111110000 +0100" stop="20211111133000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Silva x Franklin 2</sub-title>
+    <desc lang="pt">Anderson Silva enfrentou Rich Franklin em uma revanche da luta emocionante na qual 'The Spider' ganhou o título dos médios do UFC.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111144000 +0100" stop="20211111153000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Desafio em Dose Dupla: Colômbia e México</title>
-    <desc lang="pt">A selva de Los Tuxtlas, no estado mexicano de Veracruz, tem umidade ambiental de 90% e chove o ano todo. Alberto Pegueros e Daniel Tirado se perdem na densa vegetação da região, onde é muito difícil se orientar.(n)</desc>
-    <credits>
-      <director>Ryan Miller</director>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111133000 +0100" stop="20211111140000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Estados Unidos</sub-title>
+    <desc lang="pt">Os motivos que fazem dos Estados Unidos a maior potência no MMA mundial contados através das escolas de wrestling e dos lutadores e empresários brasileiros que vivem no país.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111153000 +0100" stop="20211111162000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Largados e Pelados</title>
-    <desc lang="pt">Um ex-fuzileiro naval e uma garota voluntariosa tentam sobreviver na selva panamenha, onde enfrentam temporais constantes, predadores, surtos de claustrofobia, falta de sono e fome extrema.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111162000 +0100" stop="20211111171000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Largados e Pelados</title>
-    <desc lang="pt">A cada semana um homem e uma mulher são levados a um dos ambientes de clima mais extremo do mundo. Os dois ficarão literalmente expostos, já que serão deixados sem comida, sem água... e sem roupas.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111171000 +0100" stop="20211111180000 +0100" channel="Discovery HD ³">
-    <title lang="pt">Largados e Pelados</title>
-    <desc lang="pt">Um treinador de cavalos gay e uma ansiosa instrutora de terapia natural  encaram a floresta amazônica. A chuva constante e a falta de recursos faz um participante atingir o seu limite.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111180000 +0100" stop="20211111182500 +0100" channel="Discovery HD ³">
-    <title lang="pt">Aeroporto</title>
-    <sub-title lang="pt">Área Restrita</sub-title>
-    <desc lang="pt">Uma mala com cocaína é deixada para trás no aeroporto, mas, para surpresa geral, o dono resolve voltar para buscá-la. Os agentes da Receita Federal e da Vigilância Agropecuária agem em conjunto em um dia cheio de apreensões.(n)</desc>
+  <programme start="20211111140000 +0100" stop="20211111143000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <director>Roberto Helene D'avila</director>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Luta</category>
     <rating system="BR">
-      <value>10</value>
+      <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111182500 +0100" stop="20211111185200 +0100" channel="Discovery HD ³">
-    <title lang="pt">Operação Fronteira</title>
-    <sub-title lang="pt">América do Sul</sub-title>
-    <desc lang="pt">No posto de migração da divisa entre Colômbia e Equador, uma colombiana fugitiva é surpreendida ao tentar voltar ao país depois de muitos anos.(n)</desc>
+  <programme start="20211111143000 +0100" stop="20211111150000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <director>Rodrigo Adolfo Astiz</director>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Luta</category>
     <rating system="BR">
-      <value>10</value>
+      <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111185200 +0100" stop="20211111194300 +0100" channel="Discovery HD ³">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-    <desc lang="pt">Um sobrevivencialista invade a área de caça dos leopardos para garantir uma presa grande. Uma tempestade despeja chuvas torrenciais e a temperatura cai quase 4 graus nos acampamentos, obrigando um participante a sair.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111194300 +0100" stop="20211111203400 +0100" channel="Discovery HD ³">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-    <desc lang="pt">Temporais gelados castigam os sobrevivencialistas restantes, que correm o risco de sofrer uma grave hipotermia. Uma caçada bem-sucedida sofre uma reviravolta que pode obrigar dois participantes a desistir do desafio.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211111203400 +0100" stop="20211111212500 +0100" channel="Discovery HD ³">
-    <title lang="pt">Menu Selvagem</title>
-    <desc lang="pt">Este ecossistema complexo abriga muitos animais exóticos: macacos, aves tropicais, cervos, texugos e porcos-espinho, além de cobras venenosas e crocodilos-de-água-salgada.(n)</desc>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111150000 +0100" stop="20211111173000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Silva x Franklin 2</sub-title>
+    <desc lang="pt">Anderson Silva enfrentou Rich Franklin em uma revanche da luta emocionante na qual 'The Spider' ganhou o título dos médios do UFC.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111212500 +0100" stop="20211111221700 +0100" channel="Discovery HD ³">
-    <title lang="pt">Rumo ao Inexplicável</title>
-    <desc lang="pt">Diz a lenda que uma criatura similar a um lobisomem espreita no coração do pântano da Louisiana. Determinado em achar o lar da besta, Cliff Simon navega pelo maior e mais mortal pântano da América.(n)</desc>
-    <credits>
-      <director>Michael Sheehan</director>
-    </credits>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111173000 +0100" stop="20211111180000 +0100" channel="CombateHD3">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Estados Unidos</sub-title>
+    <desc lang="pt">Os motivos que fazem dos Estados Unidos a maior potência no MMA mundial contados através das escolas de wrestling e dos lutadores e empresários brasileiros que vivem no país.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
-      <value>12</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211111221700 +0100" stop="20211111230900 +0100" channel="Discovery HD ³">
-    <title lang="pt">Lendas Selvagens</title>
-    <desc lang="pt">Em 2001, Nova Delhi foi dominada pelo terror quando uma criatura híbrida, meio homem, meio animal, atravessou telhados e atacou moradores. Mungo tenta desvendar o mistério do Homem Macaco.(n)</desc>
-    <category lang="pt">Documentário</category>
+  <programme start="20211111180000 +0100" stop="20211111183000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta</category>
     <rating system="BR">
-      <value>10</value>
+      <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111230900 +0100" stop="20211112000500 +0100" channel="Discovery HD ³">
-    <title lang="pt">Planeta Desconhecido com Steve Backshall</title>
-    <desc lang="pt">Steve reúne uma equipe de caiaquistas e especialistas em sobrevivência na selva para se aventurar no coração do Suriname, país que abriga uma das maiores florestas intocadas do mundo.(n)</desc>
+  <programme start="20211111183000 +0100" stop="20211111190000 +0100" channel="CombateHD3">
+    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
-      <actor>Steve Backshall</actor>
+      <director>Chris Kartzmark</director>
     </credits>
-    <category lang="pt">Documentário</category>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111190000 +0100" stop="20211111220000 +0100" channel="CombateHD3">
+    <title lang="pt">Clássicos do UFC</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111220000 +0100" stop="20211111231500 +0100" channel="CombateHD3">
+    <title lang="pt">Arena Combate: Karate Combat</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111231500 +0100" stop="20211112021500 +0100" channel="CombateHD3">
+    <title lang="pt">Clássicos do UFC</title>
+    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
     </rating>
