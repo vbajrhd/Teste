@@ -168,16 +168,25 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111160000 +0100" stop="20211111194500 +0100" channel="SPORTV3 HD3">
-    <title lang="pt">CBCS</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">e-Sports também é no SporTV! Acompanhe agora o Cbcs. Muita tática e habilidade! SporTV: Somos Todos Campeões!(n)</desc>
-    <category lang="pt">Diversos</category>
+  <programme start="20211111160000 +0100" stop="20211111174500 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Vitória</sub-title>
+    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
+    <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111194500 +0100" stop="20211111220000 +0100" channel="SPORTV3 HD3">
+  <programme start="20211111174500 +0100" stop="20211111200000 +0100" channel="SPORTV3 HD3">
+    <title lang="pt">Eliminatórias da Copa do Mundo: Equador x Venezuela</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">As seleções de futebol seguem em busca de uma vaga na Copa do Mundo e você confere aqui no SporTV todas as emoções das partidas pelas Eliminatórias para a Copa do Mundo.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20211111200000 +0100" stop="20211111220000 +0100" channel="SPORTV3 HD3">
     <title lang="pt">Eliminatórias da Copa do Mundo: Paraguai x Chile</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">As seleções de futebol seguem em busca de uma vaga na Copa do Mundo e você confere aqui no SporTV todas as emoções das partidas pelas Eliminatórias para a Copa do Mundo.(n)</desc>
@@ -273,29 +282,26 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111093000 +0100" stop="20211111103000 +0100" channel="SPORTV2 HD3">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Grêmio x Fluminense</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <category lang="pt">Futebol</category>
+  <programme start="20211111093000 +0100" stop="20211111100000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111103000 +0100" stop="20211111113000 +0100" channel="SPORTV2 HD3">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Atlético MG x Corinthians</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <category lang="pt">Futebol</category>
+  <programme start="20211111100000 +0100" stop="20211111103000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Faixa Olímpica</title>
+    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111113000 +0100" stop="20211111123000 +0100" channel="SPORTV2 HD3">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Vasco x Vitória</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <category lang="pt">Futebol</category>
+  <programme start="20211111103000 +0100" stop="20211111123000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Superliga de Vôlei Feminino: Brasília x Flamengo</title>
+    <desc lang="pt">Superliga de Vôlei Feminino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Vôlei Feminino</category>
     <rating system="BR">
       <value>5</value>
     </rating>
@@ -316,24 +322,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111133000 +0100" stop="20211111140000 +0100" channel="SPORTV2 HD3">
-    <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
-    <category lang="pt">Diversos</category>
+  <programme start="20211111133000 +0100" stop="20211111150000 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">SLS: Mundial de Skate Street</title>
+    <desc lang="pt">Street League Skateboarding.(n)</desc>
+    <category lang="pt">Radical</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111140000 +0100" stop="20211111145500 +0100" channel="SPORTV2 HD3">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Vasco x Vitória</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20211111145500 +0100" stop="20211111170000 +0100" channel="SPORTV2 HD3">
+  <programme start="20211111150000 +0100" stop="20211111170000 +0100" channel="SPORTV2 HD3">
     <title lang="pt">Liga Internacional de Natação</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <desc lang="pt">Liga Internacional De Natação - Playoffs.(n)</desc>
@@ -342,16 +339,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111170000 +0100" stop="20211111180000 +0100" channel="SPORTV2 HD3">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Atlético MG x Corinthians</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <category lang="pt">Futebol</category>
+  <programme start="20211111170000 +0100" stop="20211111171500 +0100" channel="SPORTV2 HD3">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV!(n)</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211111180000 +0100" stop="20211111184500 +0100" channel="SPORTV2 HD3">
+  <programme start="20211111171500 +0100" stop="20211111184500 +0100" channel="SPORTV2 HD3">
     <title lang="pt">Faixa Olímpica</title>
     <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -1184,7 +1180,7 @@
     </rating>
   </programme>
   <programme start="20211111020000 +0100" stop="20211111023000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1195,7 +1191,7 @@
     </rating>
   </programme>
   <programme start="20211111023000 +0100" stop="20211111030000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1224,7 +1220,7 @@
     </rating>
   </programme>
   <programme start="20211111060000 +0100" stop="20211111063000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1235,7 +1231,7 @@
     </rating>
   </programme>
   <programme start="20211111063000 +0100" stop="20211111070000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1264,7 +1260,7 @@
     </rating>
   </programme>
   <programme start="20211111100000 +0100" stop="20211111103000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1275,7 +1271,7 @@
     </rating>
   </programme>
   <programme start="20211111103000 +0100" stop="20211111110000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1304,7 +1300,7 @@
     </rating>
   </programme>
   <programme start="20211111140000 +0100" stop="20211111143000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1315,7 +1311,7 @@
     </rating>
   </programme>
   <programme start="20211111143000 +0100" stop="20211111150000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1344,7 +1340,7 @@
     </rating>
   </programme>
   <programme start="20211111180000 +0100" stop="20211111183000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1355,7 +1351,7 @@
     </rating>
   </programme>
   <programme start="20211111183000 +0100" stop="20211111190000 +0100" channel="CombateHD3">
-    <title lang="pt">UFC Series: Ultimate Submissons</title>
+    <title lang="pt">UFC Series: UFC Ultimate Submissions</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <credits>
       <director>Chris Kartzmark</director>
@@ -1366,8 +1362,12 @@
     </rating>
   </programme>
   <programme start="20211111190000 +0100" stop="20211111220000 +0100" channel="CombateHD3">
-    <title lang="pt">Clássicos do UFC</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <title lang="pt">Clássicos do UFC: UFC 217</title>
+    <sub-title lang="pt">Bisping x St-Pierre</sub-title>
+    <desc lang="pt">Georges St-Pierre retorna ao MMA no peso-médio para enfrentar Michael Bisping. Cody Garbrandt e TJ Dillashaw lutam pelo cinturão dos galos. Joanna Jedrzejczyk pega Rose Namajuna. Paulo Borrachinha encara Johny Hendricks.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
@@ -1385,8 +1385,12 @@
     </rating>
   </programme>
   <programme start="20211111231500 +0100" stop="20211112021500 +0100" channel="CombateHD3">
-    <title lang="pt">Clássicos do UFC</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <title lang="pt">Clássicos do UFC: UFC 217</title>
+    <sub-title lang="pt">Bisping x St-Pierre</sub-title>
+    <desc lang="pt">Georges St-Pierre retorna ao MMA no peso-médio para enfrentar Michael Bisping. Cody Garbrandt e TJ Dillashaw lutam pelo cinturão dos galos. Joanna Jedrzejczyk pega Rose Namajuna. Paulo Borrachinha encara Johny Hendricks.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
     <category lang="pt">Luta</category>
     <rating system="BR">
       <value>5</value>
