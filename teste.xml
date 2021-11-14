@@ -4431,7 +4431,7 @@
       <actor>Lulu Santos</actor>
       <actor>Michel Teló</actor>
       <actor>Claudia Leitte</actor>
-      <actor>Tiago Leifert</actor>
+      <actor>Jeniffer Nascimento</actor>
     </credits>
     <category lang="pt">Reality Show</category>
     <rating system="BR">
@@ -4985,7 +4985,7 @@
     </rating>
   </programme>
   <programme start="20211115140000 +0100" stop="20211115150000 +0100" channel="BAND3">
-    <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
+    <title lang="pt">Melhor Da Tarde com Catia Fonseca</title>
     <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
@@ -4993,7 +4993,7 @@
     </rating>
   </programme>
   <programme start="20211115150000 +0100" stop="20211115160000 +0100" channel="BAND3">
-    <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
+    <title lang="pt">Melhor Da Tarde com Catia Fonseca</title>
     <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
@@ -5026,7 +5026,13 @@
   </programme>
   <programme start="20211115202500 +0100" stop="20211115211000 +0100" channel="BAND3">
     <title lang="pt">Nazaré</title>
-    <desc lang="pt">Acompanhe a história de amor e luta de Nazaré, que para pagar um tratamento caro e salvar a vida de sua mãe, será obrigada a atrair e enganar Duarte, um playboy, filho de um magnata da indústria de móveis.(n)</desc>
+    <desc lang="pt">Nazaré fica surpresa ao receber mensagem dizendo que Heitor está de volta. Heitor pede ajuda a Duarte e diz saber de todos os crimes cometidos por Verônica.(n)</desc>
+    <credits>
+      <director>Sandra Santos</director>
+      <actor>Afonso Pimentel</actor>
+      <actor>Carolina Loureiro</actor>
+      <actor>José Mata</actor>
+    </credits>
     <category lang="pt">Novela</category>
     <rating system="BR">
       <value>12</value>
@@ -5048,7 +5054,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211115224500 +0100" stop="20211115233000 +0100" channel="BAND3">
+  <programme start="20211115224500 +0100" stop="20211115234000 +0100" channel="BAND3">
     <title lang="pt">Largados e Pelados: A Tribo</title>
     <desc lang="pt">10 ex-participantes da série são largados na selva por 40 dias sem comida, abrigo ou qualquer tipo de roupa. Eles terão que formar uma tribo e criar suas próprias leis. A única maneira de ser eliminado é desistindo da competição.(n)</desc>
     <category lang="pt">Documentário</category>
@@ -5056,15 +5062,15 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211115233000 +0100" stop="20211116003000 +0100" channel="BAND3">
+  <programme start="20211115234000 +0100" stop="20211116004000 +0100" channel="BAND3">
     <title lang="pt">Planeta Selvagem</title>
-    <desc lang="pt">Sujo? Ávido? Preguiçoso? É hora de pensar novamente. Os porcos são altamente inteligentes, possuem sentidos aguçados e prosperam em quase todos os habitats da Terra - cerca de dois bilhões de porcos agora vagam pelo planeta.(n)</desc>
+    <desc lang="pt">O Vale Luangwa da Zâmbia é uma terra de extremos. É vasto, vibrante, as vistas pulsam com uma das maiores concentrações de vida selvagem do mundo.(n)</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211116003000 +0100" stop="20211116011000 +0100" channel="BAND3">
+  <programme start="20211116004000 +0100" stop="20211116012000 +0100" channel="BAND3">
     <title lang="pt">Jornal da Noite</title>
     <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.(n)</desc>
     <category lang="pt">Informativo</category>
@@ -5072,7 +5078,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211116011000 +0100" stop="20211116011500 +0100" channel="BAND3">
+  <programme start="20211116012000 +0100" stop="20211116012500 +0100" channel="BAND3">
     <title lang="pt">Que Fim Levou?</title>
     <sub-title lang="pt">Boletim</sub-title>
     <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
@@ -5081,7 +5087,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211116011500 +0100" stop="20211116020000 +0100" channel="BAND3">
+  <programme start="20211116012500 +0100" stop="20211116020500 +0100" channel="BAND3">
     <title lang="pt">Esporte Total</title>
     <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
     <category lang="pt">Esportivo</category>
@@ -5089,23 +5095,15 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211116020000 +0100" stop="20211116024000 +0100" channel="BAND3">
-    <title lang="pt">Caçadora de Relíquias</title>
-    <desc lang="pt">Relic Hunter mostra as aventuras da arqueologista americana nada convencional, Sydney Fox, e seu reservado assistente britânico Nigel Bailey.(n)</desc>
-    <category lang="pt">Ação</category>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211116024000 +0100" stop="20211116025000 +0100" channel="BAND3">
-    <title lang="pt">+info</title>
-    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
-    <category lang="pt">Informativo</category>
+  <programme start="20211116020500 +0100" stop="20211116030000 +0100" channel="BAND3">
+    <title lang="pt">Mais Geek</title>
+    <desc lang="pt">Um bate-papo descontraído sobre as últimas novidades do mundo dos animes, mangás, séries tokusatsu, games e muito mais.(n)</desc>
+    <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20211116025000 +0100" stop="20211116034500 +0100" channel="BAND3">
+  <programme start="20211116030000 +0100" stop="20211116034500 +0100" channel="BAND3">
     <title lang="pt">Jornal da Band</title>
     <sub-title lang="pt">Reapresentação</sub-title>
     <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
@@ -5172,7 +5170,7 @@
     </rating>
   </programme>
   <programme start="20211116140000 +0100" stop="20211116150000 +0100" channel="BAND3">
-    <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
+    <title lang="pt">Melhor Da Tarde com Catia Fonseca</title>
     <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
@@ -5180,7 +5178,7 @@
     </rating>
   </programme>
   <programme start="20211116150000 +0100" stop="20211116160000 +0100" channel="BAND3">
-    <title lang="pt">Melhor Da Tarde com Cátia Fonseca</title>
+    <title lang="pt">Melhor Da Tarde com Catia Fonseca</title>
     <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
@@ -5213,7 +5211,13 @@
   </programme>
   <programme start="20211116202500 +0100" stop="20211116211000 +0100" channel="BAND3">
     <title lang="pt">Nazaré</title>
-    <desc lang="pt">Acompanhe a história de amor e luta de Nazaré, que para pagar um tratamento caro e salvar a vida de sua mãe, será obrigada a atrair e enganar Duarte, um playboy, filho de um magnata da indústria de móveis.(n)</desc>
+    <desc lang="pt">Erica e Luiz procuram Iara na casa de Sofia, Carol não gosta da atitude e defende o pai, Laura ajuda a polícia procura -lo.(n)</desc>
+    <credits>
+      <director>Sandra Santos</director>
+      <actor>Afonso Pimentel</actor>
+      <actor>Carolina Loureiro</actor>
+      <actor>José Mata</actor>
+    </credits>
     <category lang="pt">Novela</category>
     <rating system="BR">
       <value>12</value>
@@ -6212,7 +6216,8 @@
   </programme>
   <programme start="20211115210000 +0100" stop="20211115214500 +0100" channel="RECORD3">
     <title lang="pt">Gênesis</title>
-    <desc lang="pt">A trama é baseada no livro da Bíblia Gênesis e contará a história da criação do mundo, o primeiro homem, Adão, e a primeira mulher, Eva; o grande dilúvio; a Torre de Babel, Jornada de Abraão.(n)</desc>
+    <sub-title lang="pt">Capítulo Especial</sub-title>
+    <desc lang="pt">Capítulo Especial - José se revela para os irmãos.(n)</desc>
     <credits>
       <actor>Zé Carlos Machado</actor>
       <actor>Adriana Garambone</actor>
