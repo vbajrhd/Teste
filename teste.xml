@@ -2,67 +2,54 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SPORTV3 HD3">
     <display-name lang="pt">SporTV 3 HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/sportv_3_hd_-1137_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="SPORTV2 HD3">
     <display-name lang="pt">SporTV 2 HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/sportv_2_hd_-1047_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="SPORTV HD3">
     <display-name lang="pt">SporTV HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/sportv_hd_-1063_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="ESPNBR HD3">
     <display-name lang="pt">ESPN Brasil HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/espn_brasil_hd_-1049_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="ESPN HD3">
+  <channel id="ESPN HD ³">
     <display-name lang="pt">ESPN HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/espn_hd_-1081_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="ESPN2 HD3">
     <display-name lang="pt">ESPN2 HD3</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/espn_2_hd-2251_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="FOXSP HD3">
     <display-name lang="pt">Fox Sports HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/fox_sports_hd_-1035_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="FOXSP2 HD3">
     <display-name lang="pt">FOX Sports 2 HD ³</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/fox_sports_2_hd_-1091_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="CombateHD3">
     <display-name lang="pt">Combate HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/combate_hd-1027_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="GLOBO3">
     <display-name lang="pt">Globo HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/globo_hd-563_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="BAND3">
     <display-name lang="pt">Band HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/band_hd-545_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="SBT3">
     <display-name lang="pt">SBT HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/sbt_hd-858_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="RECORD3">
     <display-name lang="pt">Record HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/record_hd-1004_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
 </tv>
