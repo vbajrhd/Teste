@@ -3702,90 +3702,6 @@
     <title lang="pt">Fulham x Blackpool</title>
     <desc lang="pt">Conhecida Como The Championship, A Segunda Divisão Do Futebol Inglês Reúne Diversas Equipes De Tradição Secular E Altas Médias De Público. Paixão Incondicional E A Luta Pela Vaga Na Divisão De Elite.(n)</desc>
   </programme>
-  <programme start="20220124000000 +0000" stop="20220124003000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate - Regras do MMA</title>
-    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220124003000 +0000" stop="20220124010000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate - Regras do MMA</title>
-    <desc lang="pt">Vamos falar de Pride? O evento que já foi grande rival do UFC no MMA hoje não existe mais, mas resiste na memória de lutadores e fãs. Carlão Barreto e personalidades do esporte discutem diferenças de regra dos eventos.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220124010000 +0000" stop="20220124013000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC Series - UFC Ultimate Knockouts</title>
-    <desc lang="pt">O UFC Ultimate Knockouts apresenta os mais devastadores nocautes já vistos dentro do octógono. Seja por socos ou por chutes, você verá os maiores nomes dos UFC em seus momentos mais memoráveis no octógono.(n)</desc>
-    <credits>
-      <director>Chris Kartzmark</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220124013000 +0000" stop="20220124020000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC Series - UFC Ultimate Knockouts</title>
-    <desc lang="pt">O UFC Ultimate Knockouts apresenta os mais devastadores nocautes já vistos dentro do octógono. Seja por socos ou por chutes, você verá os maiores nomes dos UFC em seus momentos mais memoráveis no octógono.(n)</desc>
-    <credits>
-      <director>Chris Kartzmark</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220124020000 +0000" stop="20220124053000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC 270: Ngannou x Gane</title>
-    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220124053000 +0000" stop="20220124073000 +0000" channel="CombateHD3">
-    <title lang="pt">Arena Combate: LFA 122: Johnson x Mota</title>
-    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e voce confere tudo no Canal Combate.(n)</desc>
-    <credits>
-      <director>Eduardo Gabbay</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220124073000 +0000" stop="20220124080000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate - Regras do MMA</title>
-    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220124080000 +0000" stop="20220124083000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate - Regras do MMA</title>
-    <desc lang="pt">Vamos falar de Pride? O evento que já foi grande rival do UFC no MMA hoje não existe mais, mas resiste na memória de lutadores e fãs. Carlão Barreto e personalidades do esporte discutem diferenças de regra dos eventos.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20220124083000 +0000" stop="20220124090000 +0000" channel="CombateHD3">
     <title lang="pt">UFC Series - UFC Ultimate Knockouts</title>
     <desc lang="pt">O UFC Ultimate Knockouts apresenta os mais devastadores nocautes já vistos dentro do octógono. Seja por socos ou por chutes, você verá os maiores nomes dos UFC em seus momentos mais memoráveis no octógono.(n)</desc>
@@ -3793,6 +3709,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3805,6 +3722,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3817,6 +3735,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3829,6 +3748,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -3838,6 +3758,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E3</episode-num>
     <rating>
       <value>14</value>
@@ -3849,6 +3770,7 @@
       <director>Renato Ribeiro</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -3858,6 +3780,7 @@
     <title lang="pt">UFC Kattar x Chikadze</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <rating>
       <value>L</value>
     </rating>
@@ -3869,6 +3792,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3881,6 +3805,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -3892,6 +3817,7 @@
       <director>Renato Ribeiro</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -3903,6 +3829,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3915,6 +3842,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3926,6 +3854,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3938,6 +3867,7 @@
       <director>Eduardo Gabbay</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3947,6 +3877,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">O apresentador Carlão Barreto traz lendas vivas do esporte para relembrar os primeiros anos do UFC, quando os golpes mais violentos ainda eram legais e os grandes campeões tinham que lutar três vezes numa mesma noite.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E1</episode-num>
     <rating>
       <value>14</value>
@@ -3956,6 +3887,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto convida juízes e lutadores veteranos a relembrarem o acontecimento que mudou para sempre a história do esporte: a unificação das regras de luta.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E2</episode-num>
     <rating>
       <value>14</value>
@@ -3968,6 +3900,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3980,6 +3913,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -3989,6 +3923,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">O apresentador Carlão Barreto traz lendas vivas do esporte para relembrar os primeiros anos do UFC, quando os golpes mais violentos ainda eram legais e os grandes campeões tinham que lutar três vezes numa mesma noite.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E1</episode-num>
     <rating>
       <value>14</value>
@@ -3998,6 +3933,7 @@
     <title lang="pt">UFC Kattar x Chikadze</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <rating>
       <value>L</value>
     </rating>
@@ -4009,6 +3945,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4021,6 +3958,7 @@
       <director>Eduardo Gabbay</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4030,6 +3968,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">O apresentador Carlão Barreto traz lendas vivas do esporte para relembrar os primeiros anos do UFC, quando os golpes mais violentos ainda eram legais e os grandes campeões tinham que lutar três vezes numa mesma noite.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E1</episode-num>
     <rating>
       <value>14</value>
@@ -4039,6 +3978,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto convida juízes e lutadores veteranos a relembrarem o acontecimento que mudou para sempre a história do esporte: a unificação das regras de luta.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E2</episode-num>
     <rating>
       <value>14</value>
@@ -4051,6 +3991,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4063,6 +4004,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4075,6 +4017,7 @@
       <director>Eduardo Gabbay</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4084,6 +4027,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">O apresentador Carlão Barreto traz lendas vivas do esporte para relembrar os primeiros anos do UFC, quando os golpes mais violentos ainda eram legais e os grandes campeões tinham que lutar três vezes numa mesma noite.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E1</episode-num>
     <rating>
       <value>14</value>
@@ -4093,6 +4037,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto convida juízes e lutadores veteranos a relembrarem o acontecimento que mudou para sempre a história do esporte: a unificação das regras de luta.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E2</episode-num>
     <rating>
       <value>14</value>
@@ -4105,6 +4050,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4117,6 +4063,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4129,6 +4076,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4138,6 +4086,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E3</episode-num>
     <rating>
       <value>14</value>
@@ -4149,6 +4098,7 @@
       <director>Renato Ribeiro</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4161,6 +4111,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4170,6 +4121,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E3</episode-num>
     <rating>
       <value>14</value>
@@ -4181,6 +4133,7 @@
       <director>Renato Ribeiro</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4193,6 +4146,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4202,6 +4156,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E3</episode-num>
     <rating>
       <value>14</value>
@@ -4210,6 +4165,7 @@
   <programme start="20220126090000 +0000" stop="20220126100000 +0000" channel="CombateHD3">
     <title lang="pt">Especial Combate</title>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/95/8955307_C8B5B630B7E68C99.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -4221,6 +4177,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4230,6 +4187,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E3</episode-num>
     <rating>
       <value>14</value>
@@ -4241,6 +4199,7 @@
       <director>Renato Ribeiro</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4250,6 +4209,7 @@
     <title lang="pt">UFC Kattar x Chikadze</title>
     <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <rating>
       <value>L</value>
     </rating>
@@ -4261,6 +4221,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4273,6 +4234,7 @@
       <director>Anthony Giordano</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4284,6 +4246,7 @@
       <director>Renato Ribeiro</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4295,6 +4258,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4307,6 +4271,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4318,6 +4283,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4327,6 +4293,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E4</episode-num>
     <rating>
       <value>14</value>
@@ -4338,6 +4305,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4347,6 +4315,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E4</episode-num>
     <rating>
       <value>14</value>
@@ -4359,6 +4328,7 @@
       <director>Eduardo Gabbay</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4370,6 +4340,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4379,6 +4350,7 @@
     <title lang="pt">Sessão Combate - Regras do MMA</title>
     <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
     <episode-num system="onscreen">S2 E4</episode-num>
     <rating>
       <value>14</value>
@@ -4391,6 +4363,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4402,6 +4375,7 @@
       <director>Chris Kartzmark</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4414,75 +4388,377 @@
       <director>Eduardo Gabbay</director>
     </credits>
     <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220124021000 +0000" stop="20220124032000 +0000" channel="GLOBO3">
-    <title lang="pt">Big Brother Brasil 22</title>
-    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
-    <credits>
-      <director>Rodrigo Dourado</director>
-      <actor>Tadeu Schmidt</actor>
-    </credits>
-    <category lang="pt">Reality Show</category>
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>+12</value>
-    </rating>
-  </programme>
-  <programme start="20220124032000 +0000" stop="20220124045000 +0000" channel="GLOBO3">
-    <title lang="pt">Domingo Maior: Kickboxer - A Vingança</title>
-    <desc lang="pt">Um kickboxer está fora para vingar a morte de seu irmão.(n)</desc>
-    <credits>
-      <director>John Stockwell</director>
-      <actor>Gina Carano</actor>
-      <actor>Darren Shahlavi</actor>
-      <actor>Jean-Claude Van Damme</actor>
-      <actor>Matthew Ziff</actor>
-      <actor>Dave Bautista</actor>
-      <actor>Georges St-Pierre</actor>
-      <actor>Sara Malakul Lane</actor>
-      <actor>T.J. Storm</actor>
-      <actor>Daneya Mayd</actor>
-      <actor>Sam Medina</actor>
-    </credits>
-    <category lang="pt">Ação</category>
-    <country lang="pt">EUA</country>
+  <programme start="20220127203500 +0000" stop="20220127210000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
     <rating>
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220124045000 +0000" stop="20220124070000 +0000" channel="GLOBO3">
-    <title lang="pt">Cinemaço: Pulp Fiction - Tempo de Violência</title>
-    <desc lang="pt">Os assassinos Vincent e Jules passam por imprevistos ao recuperar uma mala para mafioso. A trama traz histórias que se relacionam numa teia repleta de violência.(n)</desc>
-    <credits>
-      <director>Quentin Tarantino</director>
-      <actor>Amanda Plummer</actor>
-      <actor>Bruce Willis</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Rosanna Arquette</actor>
-      <actor>Samuel L. Jackson</actor>
-      <actor>Christopher Walken</actor>
-      <actor>Tim Roth</actor>
-      <actor>Uma Thurman</actor>
-    </credits>
-    <category lang="pt">Ação</category>
-    <country lang="pt">EUA</country>
+  <programme start="20220127210000 +0000" stop="20220127220000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Series - UFC Main Event: Jones x Gustafsson 2</title>
+    <desc lang="pt">Veja a história dos dois no UFC e, em seguida, assista a essa luta crucial.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
     <rating>
-      <value>18</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20220124070000 +0000" stop="20220124090000 +0000" channel="GLOBO3">
-    <title lang="pt">Hora Um</title>
-    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  <programme start="20220127220000 +0000" stop="20220128000000 +0000" channel="CombateHD3">
+    <title lang="pt">Clássicos do UFC: UFC 40 - Vendetta</title>
+    <desc lang="pt">(19/04/2014) Fabricio Werdum x Travis Browne; Miesha Tate x Liz Carmouche; Edson Barboza x Donald Cerrone; Brad Tavares; Yoel Romero; Rafael dos Anjos x Khabib Nurmagomedov.(n)</desc>
     <credits>
-      <director>Ali Kamel</director>
-      <actor>Roberto Kovalick</actor>
+      <director>Anthony Giordano</director>
     </credits>
-    <category lang="pt">Notícias</category>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387288_2063ED7ADDBDBB64.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128000000 +0000" stop="20220128003000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128003000 +0000" stop="20220128010000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128010000 +0000" stop="20220128020000 +0000" channel="CombateHD3">
+    <title lang="pt">Coletiva de Imprensa: UFC 270: Ngannou x Gane - Ao Vivo</title>
+    <desc lang="pt">UFC Eventos.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
     <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128020000 +0000" stop="20220128040000 +0000" channel="CombateHD3">
+    <title lang="pt">Clássicos do UFC: UFC 40 - Vendetta</title>
+    <desc lang="pt">(19/04/2014) Fabricio Werdum x Travis Browne; Miesha Tate x Liz Carmouche; Edson Barboza x Donald Cerrone; Brad Tavares; Yoel Romero; Rafael dos Anjos x Khabib Nurmagomedov.(n)</desc>
+    <credits>
+      <director>Anthony Giordano</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387288_2063ED7ADDBDBB64.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128040000 +0000" stop="20220128043000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128043000 +0000" stop="20220128050000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128050000 +0000" stop="20220128060000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Series - UFC Main Event: Jones x Gustafsson 2</title>
+    <desc lang="pt">Veja a história dos dois no UFC e, em seguida, assista a essa luta crucial.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128060000 +0000" stop="20220128080000 +0000" channel="CombateHD3">
+    <title lang="pt">Clássicos do UFC: UFC 40 - Vendetta</title>
+    <desc lang="pt">(19/04/2014) Fabricio Werdum x Travis Browne; Miesha Tate x Liz Carmouche; Edson Barboza x Donald Cerrone; Brad Tavares; Yoel Romero; Rafael dos Anjos x Khabib Nurmagomedov.(n)</desc>
+    <credits>
+      <director>Anthony Giordano</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387288_2063ED7ADDBDBB64.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128080000 +0000" stop="20220128083000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto revisita as técnicas e estratégias que ajudaram a transformar homens e mulheres talentosos em grandes campeões do esporte.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128083000 +0000" stop="20220128090000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128090000 +0000" stop="20220128100000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Series - UFC Main Event: Jones x Gustafsson 2</title>
+    <desc lang="pt">Veja a história dos dois no UFC e, em seguida, assista a essa luta crucial.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128100000 +0000" stop="20220128110000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Series - UFC Main Event: Jones x Gustafsson 2</title>
+    <desc lang="pt">Veja a história dos dois no UFC e, em seguida, assista a essa luta crucial.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128110000 +0000" stop="20220128140000 +0000" channel="CombateHD3">
+    <title lang="pt">Clássicos do UFC: UFC 40 - Vendetta</title>
+    <desc lang="pt">(19/04/2014) Fabricio Werdum x Travis Browne; Miesha Tate x Liz Carmouche; Edson Barboza x Donald Cerrone; Brad Tavares; Yoel Romero; Rafael dos Anjos x Khabib Nurmagomedov.(n)</desc>
+    <credits>
+      <director>Anthony Giordano</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387288_2063ED7ADDBDBB64.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128140000 +0000" stop="20220128150000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Series - UFC Main Event: Jones x Gustafsson 2</title>
+    <desc lang="pt">Veja a história dos dois no UFC e, em seguida, assista a essa luta crucial.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128150000 +0000" stop="20220128170000 +0000" channel="CombateHD3">
+    <title lang="pt">Arena Combate: LFA 121: McKenzie x Jones</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e voce confere tudo no Canal Combate.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128170000 +0000" stop="20220128203000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC 260: Miocic x Ngannou 2</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128203000 +0000" stop="20220128210000 +0000" channel="CombateHD3">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa os golpes mais polêmicos do esporte, mostrando os detalhes que distinguem um golpe perfeito de uma ação ilegal. E como os árbitros muitas vezes sofrem para identificar essas diferenças.(n)</desc>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128210000 +0000" stop="20220128213000 +0000" channel="CombateHD3">
+    <title lang="pt">Coletiva de Imprensa: UFC 270: Ngannou x Gane</title>
+    <desc lang="pt">UFC Eventos.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128213000 +0000" stop="20220128220000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Series - UFC Ultimate Knockouts</title>
+    <desc lang="pt">O UFC Ultimate Knockouts apresenta os mais devastadores nocautes já vistos dentro do octógono. Seja por socos ou por chutes, você verá os maiores nomes dos UFC em seus momentos mais memoráveis no octógono.(n)</desc>
+    <credits>
+      <director>Chris Kartzmark</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/99/6991753_79204F303269EE22.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128220000 +0000" stop="20220128230000 +0000" channel="CombateHD3">
+    <title lang="pt">Especial Combate: UFC 270: Ngannou x Gane</title>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128230000 +0000" stop="20220129000000 +0000" channel="CombateHD3">
+    <title lang="pt">Countdown UFC 270: Ngannou x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129000000 +0000" stop="20220129010000 +0000" channel="CombateHD3">
+    <title lang="pt">UFC Pesagem</title>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387289_514B9C590B35F09C.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129010000 +0000" stop="20220129020000 +0000" channel="CombateHD3">
+    <title lang="pt">Especial Combate: UFC 270: Ngannou x Gane</title>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129020000 +0000" stop="20220129050000 +0000" channel="CombateHD3">
+    <title lang="pt">LFA 122: Johnson x Mota - Ao Vivo</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e voce confere tudo no Canal Combate.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129050000 +0000" stop="20220129053000 +0000" channel="CombateHD3">
+    <title lang="pt">Pesagem UFC 270: Ngannou x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129053000 +0000" stop="20220129063000 +0000" channel="CombateHD3">
+    <title lang="pt">Countdown UFC 270: Ngannou x Gane</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129063000 +0000" stop="20220129073000 +0000" channel="CombateHD3">
+    <title lang="pt">Especial Combate: UFC 270: Ngannou x Gane</title>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129073000 +0000" stop="20220129080000 +0000" channel="CombateHD3">
+    <title lang="pt">Coletiva de Imprensa: UFC 270: Ngannou x Gane</title>
+    <desc lang="pt">UFC Eventos.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/38/10387287_B23C9ADDD66EDCC3.png" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129080000 +0000" stop="20220129100000 +0000" channel="CombateHD3">
+    <title lang="pt">Arena Combate: LFA 121: McKenzie x Jones</title>
+    <desc lang="pt">Um grupo seleto de cascas grossas participam do LFA e voce confere tudo no Canal Combate.(n)</desc>
+    <credits>
+      <director>Eduardo Gabbay</director>
+    </credits>
+    <category lang="pt">Luta Livre</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
+    <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
     </rating>
@@ -4491,6 +4767,7 @@
     <title lang="pt">Bom Dia SP</title>
     <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6936582_DC202DE19318C9E6.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4504,6 +4781,7 @@
       <actor>Chico Pinheiro</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893328_75E0CBA4BCD2A9A9.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4516,6 +4794,7 @@
       <director>Vivi de Marco</director>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845210_5572147ADC0F8EE4.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4529,6 +4808,7 @@
       <actor>Fátima Bernardes</actor>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915035_8134ECC723A68E6F.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>10</value>
@@ -4538,6 +4818,7 @@
     <title lang="pt">SP1</title>
     <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6911085_C5F437A9CA69F304.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4550,6 +4831,7 @@
       <director>André Boaventura</director>
     </credits>
     <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845211_AFDA04340FA16E4E.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4563,6 +4845,7 @@
       <actor>César Tralli</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845390_C6CA46CD01B32369.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4583,6 +4866,7 @@
       <actor>Adriana Esteves</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/15/10152209_34D1FE769273DB55.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">E36</episode-num>
     <rating>
@@ -4599,6 +4883,7 @@
       <actor>Ellen DeGeneres</actor>
     </credits>
     <category lang="pt">Infantil</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6900423_C2BB4B8EDA308560.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
@@ -4609,7 +4894,6 @@
     <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
     <credits>
       <director>Jayme Monjardim</director>
-      <actor>Letícia Sabatella</actor>
       <actor>Marcello Novaes</actor>
       <actor>Cristiana Oliveira</actor>
       <actor>Antonio Calloni</actor>
@@ -4619,8 +4903,10 @@
       <actor>Murilo Benício</actor>
       <actor>Débora Falabella</actor>
       <actor>Reginaldo Faria</actor>
+      <actor>Letícia Sabatella</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9581803_46ABE68363A5EE32.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">E81</episode-num>
     <rating>
@@ -4641,6 +4927,7 @@
       <actor>Eriberto Leão</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/26/8267789_88227DF13E912C56.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">E259</episode-num>
     <rating>
@@ -4659,6 +4946,7 @@
       <actor>Letícia Sabatella</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9314664_F523884220029729.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">E145</episode-num>
     <rating>
@@ -4669,6 +4957,7 @@
     <title lang="pt">SP2</title>
     <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935493_7347085190CA72B1.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4686,6 +4975,7 @@
       <actor>Mateus Solano</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9993601_FE879D0155D69C75.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">E55</episode-num>
     <rating>
@@ -4701,6 +4991,7 @@
       <actor>Renata Vasconcellos</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9313779_9190E0846DF7F560.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4715,10 +5006,11 @@
       <actor>Alinne Moraes</actor>
       <actor>Ana Beatriz Nogueira</actor>
       <actor>Cauã Reymond</actor>
-      <actor>Andréa Beltrão</actor>
       <actor>Andreia Horta</actor>
+      <actor>Andréa Beltrão</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9734500_C14BC4A314BCA39C.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">E67</episode-num>
     <rating>
@@ -4733,6 +5025,7 @@
       <actor>Tadeu Schmidt</actor>
     </credits>
     <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390525_A17910DEA42C81FD.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>+12</value>
@@ -4746,11 +5039,12 @@
       <actor>Thomas Haden Church</actor>
       <actor>Bruce Dern</actor>
       <actor>Dakota Johnson</actor>
-      <actor>Shia LaBeouf</actor>
+      <actor>Shia Labeouf</actor>
       <actor>Zack Gottsagen</actor>
       <actor>John Hawkes</actor>
     </credits>
     <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6936304_8BED6AC250E31D46.jpg" />
     <country lang="pt">EUA</country>
     <rating>
       <value>+12</value>
@@ -4763,6 +5057,7 @@
       <director>Ali Kamel</director>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6933872_ABDD7CC1CC09E2E0.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4782,6 +5077,7 @@
       <actor>Paulo Gustavo</actor>
     </credits>
     <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8146060_413CD0494F39CF5E.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">S8</episode-num>
     <rating>
@@ -4799,6 +5095,7 @@
       <actor>Ingrid Guimarães</actor>
     </credits>
     <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10399760_BFC3AC73E87A00CD.png" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>14</value>
@@ -4812,6 +5109,7 @@
       <actor>Roberto Kovalick</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/64/8643183_394AAC68E3EDA0B1.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4821,6 +5119,7 @@
     <title lang="pt">Bom Dia SP</title>
     <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6936582_DC202DE19318C9E6.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4834,6 +5133,7 @@
       <actor>Ana Paula Araújo</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893328_75E0CBA4BCD2A9A9.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4846,6 +5146,7 @@
       <director>Vivi de Marco</director>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845210_5572147ADC0F8EE4.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4859,6 +5160,7 @@
       <actor>Fátima Bernardes</actor>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915035_8134ECC723A68E6F.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>10</value>
@@ -4868,6 +5170,7 @@
     <title lang="pt">SP1</title>
     <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6911085_C5F437A9CA69F304.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4880,6 +5183,7 @@
       <director>André Boaventura</director>
     </credits>
     <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845211_AFDA04340FA16E4E.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4893,6 +5197,7 @@
       <actor>César Tralli</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845390_C6CA46CD01B32369.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4903,28 +5208,42 @@
     <desc lang="pt">Inspirada no clássico 'A Megera Domada', novela narra o tumultuado romance entre o caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
     <credits>
       <director>Walter Avancini</director>
+      <actor>Júlio Levy</actor>
+      <actor>Suely Franco</actor>
+      <actor>Luiz Antônio</actor>
       <actor>Leandra Leal</actor>
+      <actor>Eduardo Moscovis</actor>
       <actor>Luís Mello</actor>
       <actor>Vanessa Gerbelli</actor>
-      <actor>Luiz Antônio</actor>
-      <actor>Júlio Levy</actor>
       <actor>Adriana Esteves</actor>
-      <actor>Eduardo Moscovis</actor>
-      <actor>Suely Franco</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/15/10152209_34D1FE769273DB55.jpg" />
     <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E37</episode-num>
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220125181500 +0000" stop="20220125194500 +0000" channel="GLOBO3">
-    <title lang="pt">Sessão da Tarde</title>
-    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
-    <category lang="pt">Entretenimento</category>
-    <country lang="pt">Brasil</country>
+    <title lang="pt">Sessão da Tarde: Falando Grego</title>
+    <desc lang="pt">Georgia é uma americana de origem grega que trabalha como guia turística na Grécia, e vive entediada. Até o dia em que Irv Gordon, um turista muito especial, aparece em sua vida.(n)</desc>
+    <credits>
+      <director>Donald Petrie</director>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Caroline Goodall</actor>
+      <actor>Alistair McGowan</actor>
+      <actor>Harland Williams</actor>
+      <actor>Alexis Georgoulis</actor>
+      <actor>Rachel Dratch</actor>
+      <actor>Nia Vardalos</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6900423_C2BB4B8EDA308560.jpg" />
+    <country lang="pt">EUA</country>
+    <country lang="pt">Espanha</country>
     <rating>
-      <value>L</value>
+      <value>+12</value>
     </rating>
   </programme>
   <programme start="20220125194500 +0000" stop="20220125204000 +0000" channel="GLOBO3">
@@ -4932,55 +5251,61 @@
     <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
     <credits>
       <director>Jayme Monjardim</director>
-      <actor>Murilo Benício</actor>
-      <actor>Débora Falabella</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Neuza Borges</actor>
       <actor>Letícia Sabatella</actor>
       <actor>Antonio Calloni</actor>
-      <actor>Giovanna Antonelli</actor>
-      <actor>Reginaldo Faria</actor>
-      <actor>Neuza Borges</actor>
-      <actor>Cristiana Oliveira</actor>
-      <actor>Marcello Novaes</actor>
       <actor>Vera Fisher</actor>
+      <actor>Marcello Novaes</actor>
+      <actor>Cristiana Oliveira</actor>
+      <actor>Débora Falabella</actor>
+      <actor>Murilo Benício</actor>
+      <actor>Reginaldo Faria</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9581803_46ABE68363A5EE32.jpg" />
     <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E82</episode-num>
     <rating>
       <value>10</value>
     </rating>
   </programme>
   <programme start="20220125204000 +0000" stop="20220125211000 +0000" channel="GLOBO3">
     <title lang="pt">Malhação: Sonhos</title>
-    <desc lang="pt">A busca dos jovens pelos seus sonhos conduz a história. Duca e Karina querem ter sucesso nos ringues. Bianca sonha em ser uma grande atriz. A música é o que move Pedro e Sol.(n)</desc>
+    <desc lang="pt">Peixoto ordena que os alunos desocupem a fábrica e todos decidem manter a manifestação acampando na praça. Nat se insinua para Duca, que afirma à lutadora que quer ficar com Bianca.(n)</desc>
     <credits>
       <director>Luiz Henrique Rios</director>
-      <actor>Isabella Santoni</actor>
-      <actor>Arthur Aguiar</actor>
       <actor>Jeniffer Nascimento</actor>
       <actor>Eriberto Leão</actor>
+      <actor>Isabella Santoni</actor>
       <actor>Rafael Vitti</actor>
       <actor>Emanuelle Araújo</actor>
+      <actor>Arthur Aguiar</actor>
       <actor>Bruna Hamu</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/26/8267789_88227DF13E912C56.jpg" />
     <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E260</episode-num>
     <rating>
       <value>10</value>
     </rating>
   </programme>
   <programme start="20220125211000 +0000" stop="20220125221000 +0000" channel="GLOBO3">
     <title lang="pt">Nos Tempos do Imperador</title>
-    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança.(n)</desc>
+    <desc lang="pt">Pilar revela a Samuel que esteve prisioneira de Solano Lopez e conta que Tonico era seu aliado. Solano afirma a Elisa que não se renderá. Luísa se desentende com Dominique.(n)</desc>
     <credits>
       <director>Vinicius Coimbra</director>
       <actor>Alexandre Nero</actor>
-      <actor>Selton Mello</actor>
-      <actor>Mariana Ximenes</actor>
-      <actor>Gabriela Medvedovski</actor>
       <actor>Letícia Sabatella</actor>
+      <actor>Gabriela Medvedovski</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Selton Mello</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9314664_F523884220029729.jpg" />
     <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E146</episode-num>
     <rating>
       <value>+12</value>
     </rating>
@@ -4989,6 +5314,7 @@
     <title lang="pt">SP2</title>
     <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935493_7347085190CA72B1.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -4996,17 +5322,19 @@
   </programme>
   <programme start="20220125224000 +0000" stop="20220125233000 +0000" channel="GLOBO3">
     <title lang="pt">Quanto Mais Vida, Melhor!</title>
-    <desc lang="pt">Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+    <desc lang="pt">Guilherme vê a Morte. Nedda, Jandira e Betina expulsam Tetê do salão. Ingrid e Murilo se beijam. Carmem liga para o celular de Flávia, e Paula confirma a traição.(n)</desc>
     <credits>
       <director>Allan Fiterman</director>
-      <actor>Marcos Caruso</actor>
-      <actor>Giovanna Antonelli</actor>
       <actor>Valentina Herszage</actor>
       <actor>Mateus Solano</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Marcos Caruso</actor>
       <actor>Vladimir Brichta</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9993601_FE879D0155D69C75.jpg" />
     <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E56</episode-num>
     <rating>
       <value>+12</value>
     </rating>
@@ -5020,6 +5348,7 @@
       <actor>Renata Vasconcellos</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9313779_9190E0846DF7F560.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5027,18 +5356,20 @@
   </programme>
   <programme start="20220126003000 +0000" stop="20220126012500 +0000" channel="GLOBO3">
     <title lang="pt">Um Lugar ao Sol</title>
-    <desc lang="pt">Os gêmeos Christian e Christofer foram separados na primeira infância. Christian cresceu em um abrigo em Goiânia, e Christofer foi adotado por uma família rica.(n)</desc>
+    <desc lang="pt">Christian/Renato explica a Santiago o motivo de sua separação de Bárbara. Lara revela à avó que ficou com Christian/Renato. Mercedes entrega o tablet de Érica para Bárbara e Elenice.(n)</desc>
     <credits>
       <director>Maurício Farias</director>
-      <actor>Cauã Reymond</actor>
-      <actor>Ana Beatriz Nogueira</actor>
-      <actor>Marieta Severo</actor>
       <actor>Alinne Moraes</actor>
+      <actor>Marieta Severo</actor>
       <actor>Andréa Beltrão</actor>
       <actor>Andreia Horta</actor>
+      <actor>Cauã Reymond</actor>
+      <actor>Ana Beatriz Nogueira</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9734500_C14BC4A314BCA39C.jpg" />
     <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E68</episode-num>
     <rating>
       <value>14</value>
     </rating>
@@ -5051,6 +5382,7 @@
       <actor>Tadeu Schmidt</actor>
     </credits>
     <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390525_A17910DEA42C81FD.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>+12</value>
@@ -5063,6 +5395,7 @@
       <director>Ali Kamel</director>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6933872_ABDD7CC1CC09E2E0.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5082,6 +5415,7 @@
       <actor>Samantha Schmütz</actor>
     </credits>
     <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8146060_413CD0494F39CF5E.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">S8</episode-num>
     <rating>
@@ -5089,18 +5423,44 @@
     </rating>
   </programme>
   <programme start="20220126042500 +0000" stop="20220126054500 +0000" channel="GLOBO3">
-    <title lang="pt">Corujão</title>
-    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
-    <category lang="pt">Entretenimento</category>
+    <title lang="pt">Corujão: Jesse Stone - Tempo de Despertar</title>
+    <desc lang="pt">Ex-policial se refugia em uma pequena cidade, onde reabre um caso de homicídio não solucionado, encontrando pistas em um velho túmulo.(n)</desc>
+    <credits>
+      <director>Robert Harmon</director>
+      <actor>Rebecca Pidgeon</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Sean Young</actor>
+      <actor>Kohl Sudduth</actor>
+      <actor>Mika Boorem</actor>
+      <actor>Stephen McHattie</actor>
+      <actor>Tom Selleck</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845209_FC85535CCBCE0ECF.jpg" />
+    <country lang="pt">EUA</country>
     <rating>
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20220126054500 +0000" stop="20220126070000 +0000" channel="GLOBO3">
-    <title lang="pt">Corujão II</title>
-    <category lang="pt">Entretenimento</category>
+    <title lang="pt">Corujão II: Muito Gelo e Dois Dedos D'Água</title>
+    <desc lang="pt">Roberta e Suzana são irmãs e nutrem um desejo de vingança em relação à avó, que as atormentava com conceitos rígidos sobre etiqueta e educação.(n)</desc>
+    <credits>
+      <director>Daniel Filho</director>
+      <actor>Carla Daniel</actor>
+      <actor>Thiago Lacerda</actor>
+      <actor>Ângelo Paes Leme</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Matheus Costa</actor>
+      <actor>Ailton Graça</actor>
+      <actor>Paloma Duarte</actor>
+      <actor>Laura Cardoso</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845036_281FD28DB2968959.jpg" />
+    <country lang="pt">Brasil</country>
     <rating>
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20220126070000 +0000" stop="20220126090000 +0000" channel="GLOBO3">
@@ -5111,6 +5471,7 @@
       <actor>Roberto Kovalick</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/64/8643183_394AAC68E3EDA0B1.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5120,6 +5481,7 @@
     <title lang="pt">Bom Dia SP</title>
     <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6936582_DC202DE19318C9E6.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5133,6 +5495,7 @@
       <actor>Ana Paula Araújo</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893328_75E0CBA4BCD2A9A9.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5145,6 +5508,7 @@
       <director>Vivi de Marco</director>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845210_5572147ADC0F8EE4.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5158,6 +5522,7 @@
       <actor>Fátima Bernardes</actor>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915035_8134ECC723A68E6F.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>10</value>
@@ -5167,6 +5532,7 @@
     <title lang="pt">SP1</title>
     <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6911085_C5F437A9CA69F304.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5179,6 +5545,7 @@
       <director>André Boaventura</director>
     </credits>
     <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845211_AFDA04340FA16E4E.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5192,6 +5559,7 @@
       <actor>César Tralli</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845390_C6CA46CD01B32369.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5212,6 +5580,7 @@
       <actor>Luiz Antônio</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/15/10152209_34D1FE769273DB55.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5221,6 +5590,7 @@
     <title lang="pt">Sessão da Tarde</title>
     <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
     <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6900423_C2BB4B8EDA308560.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5235,14 +5605,15 @@
       <actor>Neuza Borges</actor>
       <actor>Antonio Calloni</actor>
       <actor>Vera Fisher</actor>
-      <actor>Letícia Sabatella</actor>
       <actor>Débora Falabella</actor>
       <actor>Marcello Novaes</actor>
       <actor>Giovanna Antonelli</actor>
       <actor>Reginaldo Faria</actor>
       <actor>Cristiana Oliveira</actor>
+      <actor>Letícia Sabatella</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9581803_46ABE68363A5EE32.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>10</value>
@@ -5262,6 +5633,7 @@
       <actor>Jeniffer Nascimento</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/26/8267789_88227DF13E912C56.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>10</value>
@@ -5273,12 +5645,13 @@
     <credits>
       <director>Vinicius Coimbra</director>
       <actor>Alexandre Nero</actor>
-      <actor>Letícia Sabatella</actor>
       <actor>Selton Mello</actor>
       <actor>Mariana Ximenes</actor>
       <actor>Gabriela Medvedovski</actor>
+      <actor>Letícia Sabatella</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9314664_F523884220029729.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>+12</value>
@@ -5288,6 +5661,7 @@
     <title lang="pt">SP2</title>
     <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935493_7347085190CA72B1.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5305,6 +5679,7 @@
       <actor>Valentina Herszage</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9993601_FE879D0155D69C75.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>+12</value>
@@ -5319,6 +5694,7 @@
       <actor>Renata Vasconcellos</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9313779_9190E0846DF7F560.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5333,10 +5709,11 @@
       <actor>Ana Beatriz Nogueira</actor>
       <actor>Marieta Severo</actor>
       <actor>Alinne Moraes</actor>
-      <actor>Andréa Beltrão</actor>
       <actor>Andreia Horta</actor>
+      <actor>Andréa Beltrão</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9734500_C14BC4A314BCA39C.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>14</value>
@@ -5350,6 +5727,7 @@
       <actor>Tadeu Schmidt</actor>
     </credits>
     <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390525_A17910DEA42C81FD.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>+12</value>
@@ -5358,6 +5736,7 @@
   <programme start="20220127020000 +0000" stop="20220127031500 +0000" channel="GLOBO3">
     <title lang="pt">Cinema do Lider</title>
     <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10399760_BFC3AC73E87A00CD.png" />
     <rating>
       <value>16</value>
     </rating>
@@ -5369,6 +5748,7 @@
       <director>Ali Kamel</director>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6933872_ABDD7CC1CC09E2E0.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5388,6 +5768,7 @@
       <actor>Samantha Schmütz</actor>
     </credits>
     <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8146060_413CD0494F39CF5E.jpg" />
     <country lang="pt">Brasil</country>
     <episode-num system="onscreen">S8</episode-num>
     <rating>
@@ -5398,6 +5779,7 @@
     <title lang="pt">Corujão</title>
     <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
     <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845209_FC85535CCBCE0ECF.jpg" />
     <rating>
       <value>16</value>
     </rating>
@@ -5410,6 +5792,7 @@
       <actor>Roberto Kovalick</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/64/8643183_394AAC68E3EDA0B1.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5419,6 +5802,7 @@
     <title lang="pt">Bom Dia SP</title>
     <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6936582_DC202DE19318C9E6.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5432,6 +5816,7 @@
       <actor>Ana Paula Araújo</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893328_75E0CBA4BCD2A9A9.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5444,6 +5829,7 @@
       <director>Vivi de Marco</director>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845210_5572147ADC0F8EE4.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5457,6 +5843,7 @@
       <actor>Fátima Bernardes</actor>
     </credits>
     <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915035_8134ECC723A68E6F.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>10</value>
@@ -5466,6 +5853,7 @@
     <title lang="pt">SP1</title>
     <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6911085_C5F437A9CA69F304.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5478,6 +5866,7 @@
       <director>André Boaventura</director>
     </credits>
     <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845211_AFDA04340FA16E4E.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5491,6 +5880,7 @@
       <actor>César Tralli</actor>
     </credits>
     <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845390_C6CA46CD01B32369.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5511,6 +5901,7 @@
       <actor>Suely Franco</actor>
     </credits>
     <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/15/10152209_34D1FE769273DB55.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
@@ -5520,6 +5911,542 @@
     <title lang="pt">Sessão da Tarde</title>
     <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
     <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6900423_C2BB4B8EDA308560.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220127193500 +0000" stop="20220127202500 +0000" channel="GLOBO3">
+    <title lang="pt">Vale a Pena Ver de Novo: O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+    <credits>
+      <director>Jayme Monjardim</director>
+      <actor>Vera Fisher</actor>
+      <actor>Marcello Novaes</actor>
+      <actor>Neuza Borges</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Reginaldo Faria</actor>
+      <actor>Murilo Benício</actor>
+      <actor>Cristiana Oliveira</actor>
+      <actor>Antonio Calloni</actor>
+      <actor>Débora Falabella</actor>
+      <actor>Letícia Sabatella</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9581803_46ABE68363A5EE32.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220127202500 +0000" stop="20220127205000 +0000" channel="GLOBO3">
+    <title lang="pt">Malhação: Sonhos</title>
+    <desc lang="pt">A busca dos jovens pelos seus sonhos conduz a história. Duca e Karina querem ter sucesso nos ringues. Bianca sonha em ser uma grande atriz. A música é o que move Pedro e Sol.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Eriberto Leão</actor>
+      <actor>Emanuelle Araújo</actor>
+      <actor>Isabella Santoni</actor>
+      <actor>Rafael Vitti</actor>
+      <actor>Arthur Aguiar</actor>
+      <actor>Bruna Hamu</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/26/8267789_88227DF13E912C56.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220127205000 +0000" stop="20220127230000 +0000" channel="GLOBO3">
+    <title lang="pt">Futebol 2022 : 2022</title>
+    <sub-title lang="pt">2022</sub-title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil e mais.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10402048_1A9A1405F504DAC7.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220127230000 +0000" stop="20220127233000 +0000" channel="GLOBO3">
+    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+    <desc lang="pt">Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+    <credits>
+      <director>Allan Fiterman</director>
+      <actor>Marcos Caruso</actor>
+      <actor>Valentina Herszage</actor>
+      <actor>Mateus Solano</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Vladimir Brichta</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9993601_FE879D0155D69C75.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220127233000 +0000" stop="20220128003000 +0000" channel="GLOBO3">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+      <actor>William Bonner</actor>
+      <actor>Renata Vasconcellos</actor>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9313779_9190E0846DF7F560.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128003000 +0000" stop="20220128014000 +0000" channel="GLOBO3">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Os gêmeos Christian e Christofer foram separados na primeira infância. Christian cresceu em um abrigo em Goiânia, e Christofer foi adotado por uma família rica.(n)</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Cauã Reymond</actor>
+      <actor>Ana Beatriz Nogueira</actor>
+      <actor>Marieta Severo</actor>
+      <actor>Alinne Moraes</actor>
+      <actor>Andréa Beltrão</actor>
+      <actor>Andreia Horta</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9734500_C14BC4A314BCA39C.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128014000 +0000" stop="20220128025000 +0000" channel="GLOBO3">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
+    <credits>
+      <director>Rodrigo Dourado</director>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390525_A17910DEA42C81FD.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220128025000 +0000" stop="20220128033000 +0000" channel="GLOBO3">
+    <title lang="pt">Lady Night</title>
+    <desc lang="pt">Exibidos no Multishow em 2020 e 2021, episódios da quinta e da sexta temporada de 'Lady Night' compõem a terceira temporada do programa na TV Globo.(n)</desc>
+    <credits>
+      <director>Elisabetta Zenatti</director>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390523_84ABD9D3FA9C3F58.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220128033000 +0000" stop="20220128042000 +0000" channel="GLOBO3">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6933872_ABDD7CC1CC09E2E0.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128042000 +0000" stop="20220128051000 +0000" channel="GLOBO3">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Uma seleção de episódios da oitava temporada do programa, exibido originalmente no Multishow, vai ao ar de segunda a sexta. Nesta temporada, os moradores da pensão da Dona Jô irão viver uma vida de sonhos.(n)</desc>
+    <credits>
+      <director>Regis Faria</director>
+      <actor>Marcus Majella</actor>
+      <actor>Ricardo Tozzi</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Paulo Gustavo</actor>
+      <actor>Samantha Schmütz</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8146060_413CD0494F39CF5E.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220128051000 +0000" stop="20220128070000 +0000" channel="GLOBO3">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845209_FC85535CCBCE0ECF.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220128070000 +0000" stop="20220128090000 +0000" channel="GLOBO3">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+      <actor>Roberto Kovalick</actor>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/64/8643183_394AAC68E3EDA0B1.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128090000 +0000" stop="20220128113000 +0000" channel="GLOBO3">
+    <title lang="pt">Bom Dia SP</title>
+    <desc lang="pt">As primeiras notícias locais das manhãs e repercussões sobre os fatos mais importantes do dia estão no Bom Dia SP, que traz ainda orientações de trânsito.(n)</desc>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6936582_DC202DE19318C9E6.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128113000 +0000" stop="20220128123000 +0000" channel="GLOBO3">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Chico Pinheiro e Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+    <credits>
+      <actor>Ana Paula Araújo</actor>
+      <actor>Chico Pinheiro</actor>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6893328_75E0CBA4BCD2A9A9.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128123000 +0000" stop="20220128134500 +0000" channel="GLOBO3">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+    <credits>
+      <director>Vivi de Marco</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845210_5572147ADC0F8EE4.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128134500 +0000" stop="20220128150000 +0000" channel="GLOBO3">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <credits>
+      <director>Fabrício Mamberti</director>
+      <actor>Fátima Bernardes</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6915035_8134ECC723A68E6F.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220128150000 +0000" stop="20220128160000 +0000" channel="GLOBO3">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6911085_C5F437A9CA69F304.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128160000 +0000" stop="20220128162500 +0000" channel="GLOBO3">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O programa apresenta a cobertura completa dos eventos esportivos do Brasil e do mundo, e acompanha o dia a dia dos atletas.(n)</desc>
+    <credits>
+      <director>André Boaventura</director>
+    </credits>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845211_AFDA04340FA16E4E.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128162500 +0000" stop="20220128174000 +0000" channel="GLOBO3">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+      <actor>César Tralli</actor>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845390_C6CA46CD01B32369.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128174000 +0000" stop="20220128181500 +0000" channel="GLOBO3">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <desc lang="pt">Inspirada no clássico 'A Megera Domada', novela narra o tumultuado romance entre o caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+    <credits>
+      <director>Walter Avancini</director>
+      <actor>Eduardo Moscovis</actor>
+      <actor>Luiz Antônio</actor>
+      <actor>Vanessa Gerbelli</actor>
+      <actor>Luís Mello</actor>
+      <actor>Júlio Levy</actor>
+      <actor>Adriana Esteves</actor>
+      <actor>Suely Franco</actor>
+      <actor>Leandra Leal</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/15/10152209_34D1FE769273DB55.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128181500 +0000" stop="20220128194000 +0000" channel="GLOBO3">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6900423_C2BB4B8EDA308560.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128194000 +0000" stop="20220128205000 +0000" channel="GLOBO3">
+    <title lang="pt">Vale a Pena Ver de Novo: O Clone</title>
+    <desc lang="pt">A história acompanha a trajetória de vida de Jade, filha de muçulmanos, e Lucas. A trama de Glória Perez aborda a cultura árabe e a clonagem humana.(n)</desc>
+    <credits>
+      <director>Jayme Monjardim</director>
+      <actor>Reginaldo Faria</actor>
+      <actor>Marcello Novaes</actor>
+      <actor>Vera Fisher</actor>
+      <actor>Murilo Benício</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Neuza Borges</actor>
+      <actor>Antonio Calloni</actor>
+      <actor>Cristiana Oliveira</actor>
+      <actor>Débora Falabella</actor>
+      <actor>Letícia Sabatella</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/58/9581803_46ABE68363A5EE32.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220128205000 +0000" stop="20220128212000 +0000" channel="GLOBO3">
+    <title lang="pt">Malhação: Sonhos</title>
+    <desc lang="pt">A busca dos jovens pelos seus sonhos conduz a história. Duca e Karina querem ter sucesso nos ringues. Bianca sonha em ser uma grande atriz. A música é o que move Pedro e Sol.(n)</desc>
+    <credits>
+      <director>Luiz Henrique Rios</director>
+      <actor>Eriberto Leão</actor>
+      <actor>Jeniffer Nascimento</actor>
+      <actor>Bruna Hamu</actor>
+      <actor>Rafael Vitti</actor>
+      <actor>Isabella Santoni</actor>
+      <actor>Arthur Aguiar</actor>
+      <actor>Emanuelle Araújo</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/26/8267789_88227DF13E912C56.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220128212000 +0000" stop="20220128220500 +0000" channel="GLOBO3">
+    <title lang="pt">Nos Tempos do Imperador</title>
+    <desc lang="pt">A novela acompanha momentos importantes da vida de Pilar, Jorge/Samuel, o imperador Dom Pedro II, a imperatriz Teresa Cristina e Luísa, a condessa de Barral, ao longo dos anos, e traz uma história de amor e esperança.(n)</desc>
+    <credits>
+      <director>Vinicius Coimbra</director>
+      <actor>Alexandre Nero</actor>
+      <actor>Selton Mello</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Gabriela Medvedovski</actor>
+      <actor>Letícia Sabatella</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9314664_F523884220029729.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220128220500 +0000" stop="20220128223500 +0000" channel="GLOBO3">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.(n)</desc>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6935493_7347085190CA72B1.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220128223500 +0000" stop="20220128233000 +0000" channel="GLOBO3">
+    <title lang="pt">Quanto Mais Vida, Melhor!</title>
+    <desc lang="pt">Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+    <credits>
+      <director>Allan Fiterman</director>
+      <actor>Vladimir Brichta</actor>
+      <actor>Marcos Caruso</actor>
+      <actor>Mateus Solano</actor>
+      <actor>Giovanna Antonelli</actor>
+      <actor>Valentina Herszage</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/99/9993601_FE879D0155D69C75.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220128233000 +0000" stop="20220129003000 +0000" channel="GLOBO3">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+      <actor>William Bonner</actor>
+      <actor>Renata Vasconcellos</actor>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/31/9313779_9190E0846DF7F560.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129003000 +0000" stop="20220129014000 +0000" channel="GLOBO3">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Os gêmeos Christian e Christofer foram separados na primeira infância. Christian cresceu em um abrigo em Goiânia, e Christofer foi adotado por uma família rica.(n)</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Ana Beatriz Nogueira</actor>
+      <actor>Cauã Reymond</actor>
+      <actor>Marieta Severo</actor>
+      <actor>Alinne Moraes</actor>
+      <actor>Andreia Horta</actor>
+      <actor>Andréa Beltrão</actor>
+    </credits>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/73/9734500_C14BC4A314BCA39C.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220129014000 +0000" stop="20220129022500 +0000" channel="GLOBO3">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
+    <credits>
+      <director>Rodrigo Dourado</director>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390525_A17910DEA42C81FD.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220129022500 +0000" stop="20220129031000 +0000" channel="GLOBO3">
+    <title lang="pt">Sessão Globoplay: S.W.A.T.</title>
+    <desc lang="pt">Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.(n)</desc>
+    <credits>
+      <actor>Stephanie Sigman</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Jay Harrington</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10390669_1ADF05B81C52005F.jpg" />
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220129031000 +0000" stop="20220129040000 +0000" channel="GLOBO3">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Notícias</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/93/6933872_ABDD7CC1CC09E2E0.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220129040000 +0000" stop="20220129044500 +0000" channel="GLOBO3">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Uma seleção de episódios da oitava temporada do programa, exibido originalmente no Multishow, vai ao ar de segunda a sexta. Nesta temporada, os moradores da pensão da Dona Jô irão viver uma vida de sonhos.(n)</desc>
+    <credits>
+      <director>Regis Faria</director>
+      <actor>Marcus Majella</actor>
+      <actor>Ricardo Tozzi</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Catarina Abdalla</actor>
+      <actor>Luis Lobianco</actor>
+      <actor>Paulo Gustavo</actor>
+      <actor>Samantha Schmütz</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/14/8146060_413CD0494F39CF5E.jpg" />
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20220129044500 +0000" stop="20220129062500 +0000" channel="GLOBO3">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845209_FC85535CCBCE0ECF.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220129062500 +0000" stop="20220129073500 +0000" channel="GLOBO3">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8845036_281FD28DB2968959.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220129073500 +0000" stop="20220129085500 +0000" channel="GLOBO3">
+    <title lang="pt">Corujão III</title>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8844859_72E8B0F1013AA46A.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220129085500 +0000" stop="20220129095000 +0000" channel="GLOBO3">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+    <credits>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/84/8844484_8626DEC132CC04C6.jpg" />
     <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
