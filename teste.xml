@@ -62,68 +62,11 @@
     <display-name lang="pt">ESPN Extra</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
-  <programme start="20220428030000 +0000" stop="20220428080000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Circuito Mundial de Surfe: Etapa de Margaret River - Ao Vivo</title>
-    <desc lang="pt">Circuito Mundial de Surfe é no SporTV. Muita radicalidade, técnica e adrenalina agora na sua tela.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Surf</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10842625_DBE06950A33A6726.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428080000 +0000" stop="20220428090000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428090000 +0000" stop="20220428093000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
-    <credits>
-      <director>Eduardo Gabbay</director>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339089_CE99C94C561D5C14.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428093000 +0000" stop="20220428100000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
-    <credits>
-      <director>Eduardo Gabbay</director>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339089_CE99C94C561D5C14.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428100000 +0000" stop="20220428120000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220428120000 +0000" stop="20220428140000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
+    <title lang="pt">NBA: Phoenix Suns x New Orleans Pelicans - Playoffs - Jogo 5</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(n)</desc>
+    <category lang="pt">Basquete</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918725_E0CFC0CD2EAB44EE.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -142,14 +85,11 @@
     </rating>
   </programme>
   <programme start="20220428143000 +0000" stop="20220428150000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
-    <credits>
-      <director>Eduardo Gabbay</director>
-    </credits>
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339089_CE99C94C561D5C14.jpg" />
-    <country lang="pt">EUA</country>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
@@ -164,20 +104,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428160000 +0000" stop="20220428173000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">A americana Picabo Street conquistou o mundo do esqui alpino na década de 1990, mas sob a bravura e o sucesso havia uma vida familiar turbulenta.(n)</desc>
-    <credits>
-      <director>Eduardo Gabbay</director>
-    </credits>
+  <programme start="20220428160000 +0000" stop="20220428163000 +0000" channel="SPORTV2 HD3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339089_CE99C94C561D5C14.jpg" />
-    <country lang="pt">EUA</country>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428173000 +0000" stop="20220428193000 +0000" channel="SPORTV2 HD3">
+  <programme start="20220428163000 +0000" stop="20220428183000 +0000" channel="SPORTV2 HD3">
     <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Minas - Final - Jogo 1</title>
     <desc lang="pt">Superliga de Vôlei Feminino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões.(n)</desc>
     <credits>
@@ -190,7 +127,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428193000 +0000" stop="20220428213000 +0000" channel="SPORTV2 HD3">
+  <programme start="20220428183000 +0000" stop="20220428210000 +0000" channel="SPORTV2 HD3">
     <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Minas</title>
     <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões.(n)</desc>
     <credits>
@@ -203,44 +140,70 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428213000 +0000" stop="20220428233000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
+  <programme start="20220428210000 +0000" stop="20220428230000 +0000" channel="SPORTV2 HD3">
+    <title lang="pt">NBA: Philadelphia 76ers x Toronto Raptors - Playoffs - Jogo 5</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Basquete</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918725_E0CFC0CD2EAB44EE.jpg" />
+    <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428233000 +0000" stop="20220429020000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
+  <programme start="20220428230000 +0000" stop="20220428232000 +0000" channel="SPORTV2 HD3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220428232000 +0000" stop="20220429020000 +0000" channel="SPORTV2 HD3">
+    <title lang="pt">NBA: New Orleans Pelicans X Phoenix Suns - Playoffs - Jogo 6 - Ao Vivo</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Basquete</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918725_E0CFC0CD2EAB44EE.jpg" />
+    <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220429020000 +0000" stop="20220429043000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
+    <title lang="pt">NBA: Utah Jazz x Dallas Mavericks - Playoffs - Jogo 6 - Ao Vivo</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Basquete</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918725_E0CFC0CD2EAB44EE.jpg" />
+    <country lang="pt">EUA</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220429043000 +0000" stop="20220429063000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
+    <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Minas - Final - Jogo 1</title>
+    <desc lang="pt">Superliga de Vôlei Feminino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões.(n)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Vôlei</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/75/9757617_0285E0A9898C4827.jpg" />
+    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429063000 +0000" stop="20220429083000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Minas</title>
+  <programme start="20220429063000 +0000" stop="20220429090000 +0000" channel="SPORTV2 HD3">
+    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Minas - Final Jogo 1</title>
     <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões.(n)</desc>
     <credits>
       <director>Renato Ribeiro</director>
@@ -252,7 +215,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429083000 +0000" stop="20220429103000 +0000" channel="SPORTV2 HD3">
+  <programme start="20220429090000 +0000" stop="20220429103000 +0000" channel="SPORTV2 HD3">
     <title lang="pt">VT de Eventos</title>
     <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -765,98 +728,6 @@
     <category lang="pt">Vôlei</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/75/9757617_0285E0A9898C4827.jpg" />
     <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428010000 +0000" stop="20220428023000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Faixa Combate: UFC 265 - Lewis x Gane - Lutas Principais</title>
-    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.(n)</desc>
-    <credits>
-      <director>Pedro Garcia</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10483946_AB6C98E98E572879.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428023000 +0000" stop="20220428033000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Faixa Combate: UFC 246 - McGregor x Cerrone - Lutas Principais</title>
-    <desc lang="pt">"Assista agora um programa especial com os maiores lutadores do mundo.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10483946_AB6C98E98E572879.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428033000 +0000" stop="20220428043000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Faixa Combate: UFC 237 Rio: Bate-Estaca x Namajunas</title>
-    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.(n)</desc>
-    <credits>
-      <director>Pedro Garcia</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10483946_AB6C98E98E572879.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428043000 +0000" stop="20220428050000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Baú do Esporte: Lendas</title>
-    <desc lang="pt">Neste episódio do Lendas, do Baú do Esporte, relembre detalhes da incrível carreira da tenista brasileira mais vitoriosa e talentosa de todos os tempos: Maria Esther Bueno.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/29/9290387_162609A320B72198.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428050000 +0000" stop="20220428100000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">CBLOL: Final - 1º Split</title>
-    <desc lang="pt">CBLOL 2022.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10842721_4C1EBCA875CFF19B.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428100000 +0000" stop="20220428110000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Faixa Combate: UFC 205 - Alvarez x McGregor</title>
-    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.(n)</desc>
-    <credits>
-      <director>Pedro Garcia</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10483946_AB6C98E98E572879.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428110000 +0000" stop="20220428123000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Faixa Combate: UFC 265 - Lewis x Gane - Lutas Principais</title>
-    <desc lang="pt">Assista agora um programa especial com os maiores lutadores do mundo.(n)</desc>
-    <credits>
-      <director>Pedro Garcia</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10483946_AB6C98E98E572879.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428123000 +0000" stop="20220428132000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Faixa Combate: UFC 246 - McGregor x Cerrone - Lutas Principais</title>
-    <desc lang="pt">"Assista agora um programa especial com os maiores lutadores do mundo.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/48/10483946_AB6C98E98E572879.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -1616,150 +1487,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428000000 +0000" stop="20220428023000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Guarani x Criciúma - Campeonato Brasileiro Série B</title>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428023000 +0000" stop="20220428033000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Troca de Passes - Ao Vivo</title>
-    <desc lang="pt">O programa recebe comentaristas e convidados para repercutir os jogos que acabaram de terminar! Muita informação sobre futebol no seu fim de noite.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/22/10221059_35C553845AE6A08C.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428033000 +0000" stop="20220428043000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Vasco da Gama x Ponte Preta : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428043000 +0000" stop="20220428053000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Operário x Grêmio : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428053000 +0000" stop="20220428063000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Novorizontino x Chapecoense : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428063000 +0000" stop="20220428073000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Cruzeiro x Londrina : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428073000 +0000" stop="20220428083000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Operário x Grêmio : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428083000 +0000" stop="20220428093000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Vasco da Gama x Ponte Preta : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428093000 +0000" stop="20220428094500 +0000" channel="SPORTV HD3">
-    <title lang="pt">Baú do Esporte: Lendas</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/20/9205722_6EBA7E0D1EDAC50B.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428094500 +0000" stop="20220428101500 +0000" channel="SPORTV HD3">
-    <title lang="pt">Giro da Rodada - Campeonato Brasileiro de Futebol Feminino</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Notícias</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/30/9302769_284D76D483AC103C.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428101500 +0000" stop="20220428114500 +0000" channel="SPORTV HD3">
-    <title lang="pt">Troca de Passes</title>
-    <desc lang="pt">O programa recebe comentaristas e convidados para repercutir os jogos que acabaram de terminar! Muita informação sobre futebol no seu fim de noite.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/22/10221059_35C553845AE6A08C.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428114500 +0000" stop="20220428130000 +0000" channel="SPORTV HD3">
-    <title lang="pt">SporTV News - Ao Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/22/10221061_130226042AFE3002.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220428130000 +0000" stop="20220428153000 +0000" channel="SPORTV HD3">
     <title lang="pt">Redação SporTV - Ao Vivo</title>
     <desc lang="pt">Marcelo Barreto está de volta no Redação e, recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. O programa repercute as notícias do rádio, TV, impresso e online.(n)</desc>
@@ -1803,7 +1530,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428191500 +0000" stop="20220428213000 +0000" channel="SPORTV HD3">
+  <programme start="20220428191500 +0000" stop="20220428214500 +0000" channel="SPORTV HD3">
     <title lang="pt">Tá na Área - Ao Vivo</title>
     <desc lang="pt">O Tá na Área, com Magno Navarro e Igor Rodrigues, é o aquecimento para as principais transmissões ao vivo do SporTV. Comentários, análises, entrevistas, as dicas da rodada para os cartoleiros e as notícias atualizadas do Esporte no Brasil.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -1813,7 +1540,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428213000 +0000" stop="20220429000000 +0000" channel="SPORTV HD3">
+  <programme start="20220428214500 +0000" stop="20220429000000 +0000" channel="SPORTV HD3">
     <title lang="pt">Campeonato Brasileiro de Futebol Feminino Sub-17 - Ao Vivo</title>
     <credits>
       <director>Pedro Garcia</director>
@@ -1825,7 +1552,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429000000 +0000" stop="20220429013000 +0000" channel="SPORTV HD3">
+  <programme start="20220429000000 +0000" stop="20220429020000 +0000" channel="SPORTV HD3">
     <title lang="pt">Troca de Passes - Ao Vivo</title>
     <desc lang="pt">O programa recebe comentaristas e convidados para repercutir os jogos que acabaram de terminar! Muita informação sobre futebol no seu fim de noite.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -1835,7 +1562,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429013000 +0000" stop="20220429023000 +0000" channel="SPORTV HD3">
+  <programme start="20220429020000 +0000" stop="20220429030000 +0000" channel="SPORTV HD3">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.(n)</desc>
     <category lang="pt">Notícias</category>
@@ -1844,19 +1571,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429023000 +0000" stop="20220429033000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Campeonato Brasileiro de Futebol Feminino Sub-17</title>
-    <credits>
-      <director>Pedro Garcia</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720341_14D861EACECA0545.png" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429033000 +0000" stop="20220429043000 +0000" channel="SPORTV HD3">
+  <programme start="20220429030000 +0000" stop="20220429040000 +0000" channel="SPORTV HD3">
     <title lang="pt">Operário x Grêmio : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
@@ -1870,7 +1585,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429043000 +0000" stop="20220429053000 +0000" channel="SPORTV HD3">
+  <programme start="20220429040000 +0000" stop="20220429050000 +0000" channel="SPORTV HD3">
     <title lang="pt">Vasco da Gama x Ponte Preta : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
@@ -1884,7 +1599,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429053000 +0000" stop="20220429063000 +0000" channel="SPORTV HD3">
+  <programme start="20220429050000 +0000" stop="20220429060000 +0000" channel="SPORTV HD3">
     <title lang="pt">Cruzeiro x Londrina : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
@@ -1898,7 +1613,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429063000 +0000" stop="20220429073000 +0000" channel="SPORTV HD3">
+  <programme start="20220429060000 +0000" stop="20220429070000 +0000" channel="SPORTV HD3">
     <title lang="pt">Campeonato Brasileiro de Futebol Feminino: São José x Corinthians</title>
     <desc lang="pt">Campeonato Brasileiro Feminino.(n)</desc>
     <credits>
@@ -1911,7 +1626,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429073000 +0000" stop="20220429083000 +0000" channel="SPORTV HD3">
+  <programme start="20220429070000 +0000" stop="20220429080000 +0000" channel="SPORTV HD3">
     <title lang="pt">Campeonato Brasileiro de Futebol Feminino: Santos x Grêmio</title>
     <desc lang="pt">Campeonato Brasileiro Feminino.(n)</desc>
     <credits>
@@ -1924,7 +1639,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429083000 +0000" stop="20220429093000 +0000" channel="SPORTV HD3">
+  <programme start="20220429080000 +0000" stop="20220429090000 +0000" channel="SPORTV HD3">
     <title lang="pt">Vasco da Gama x Ponte Preta : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
@@ -1938,7 +1653,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429093000 +0000" stop="20220429101500 +0000" channel="SPORTV HD3">
+  <programme start="20220429090000 +0000" stop="20220429101500 +0000" channel="SPORTV HD3">
     <title lang="pt">Giro da Rodada</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.(n)</desc>
     <category lang="pt">Notícias</category>
@@ -2558,7 +2273,7 @@
     <episode-num system="onscreen">S14 E118</episode-num>
   </programme>
   <programme start="20220428183000 +0000" stop="20220428184500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <title lang="pt">Sportscenter Abre o Jogo: UEFA Europa League - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <episode-num system="onscreen">S45 E118</episode-num>
   </programme>
@@ -2593,7 +2308,7 @@
     <episode-num system="onscreen">E118</episode-num>
   </programme>
   <programme start="20220429013000 +0000" stop="20220429014500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <title lang="pt">Sportscenter Abre o Jogo: Conmebol Libertadores - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <episode-num system="onscreen">S42 E118</episode-num>
   </programme>
@@ -2643,20 +2358,28 @@
     <episode-num system="onscreen">S8 E119</episode-num>
   </programme>
   <programme start="20220429111000 +0000" stop="20220429120000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treino Livre - Ao Vivo</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treino Livre</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">S8 E119</episode-num>
   </programme>
   <programme start="20220429120000 +0000" stop="20220429130000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treino Livre</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treino Livre</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">S9 E119</episode-num>
   </programme>
   <programme start="20220429130000 +0000" stop="20220429140000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treino Livre</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treino Livre</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">E119</episode-num>
   </programme>
-  <programme start="20220429140000 +0000" stop="20220429144500 +0000" channel="FOXSP HD3">
+  <programme start="20220429140000 +0000" stop="20220429143000 +0000" channel="FOXSP HD3">
     <title lang="pt">F1: The Inside Line</title>
     <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
+  </programme>
+  <programme start="20220429143000 +0000" stop="20220429144500 +0000" channel="FOXSP HD3">
+    <title lang="pt">Momento ESPN: Serginho, o Piloto Motoboy</title>
+    <desc lang="pt">Grandes nomes do esporte contam um pouco da sua jornada e suas perspectivas no esporte.(n)</desc>
+    <episode-num system="onscreen">S11 E119</episode-num>
   </programme>
   <programme start="20220429144500 +0000" stop="20220429153000 +0000" channel="FOXSP HD3">
     <title lang="pt">Moto E: GP da Espanha: Treinos Classificatórios - Ao Vivo</title>
@@ -2713,8 +2436,9 @@
     <episode-num system="onscreen">S41 E119</episode-num>
   </programme>
   <programme start="20220430010000 +0000" stop="20220430033000 +0000" channel="FOXSP HD3">
-    <title lang="pt">ESPN Knockout: Eduardo Hernandez x Adrian Curiel - Ao Vivo</title>
-    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
+    <title lang="pt">ESPN Knockout: Adrian Curiel x Erik Lopez - Ao Vivo</title>
+    <desc lang="pt">Boxeadores de elite, jovens promessas, cards exclusivos, tudo em um único lugar.(n)</desc>
+    <episode-num system="onscreen">S22 E119</episode-num>
   </programme>
   <programme start="20220430033000 +0000" stop="20220430040000 +0000" channel="FOXSP HD3">
     <title lang="pt">La Liga World</title>
@@ -2726,7 +2450,7 @@
     <episode-num system="onscreen">S1 E120</episode-num>
   </programme>
   <programme start="20220430060000 +0000" stop="20220430070000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
     <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
     <episode-num system="onscreen">S43 E120</episode-num>
   </programme>
@@ -2741,67 +2465,72 @@
     <episode-num system="onscreen">S5 E120</episode-num>
   </programme>
   <programme start="20220430103000 +0000" stop="20220430112000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treinos Classificatórios</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treinos Classificatórios</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">S7 E120</episode-num>
   </programme>
   <programme start="20220430112000 +0000" stop="20220430120500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treino Livre</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treino Livre</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">S8 E120</episode-num>
   </programme>
   <programme start="20220430120500 +0000" stop="20220430130000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treinos Classificatórios</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treinos Classificatórios</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">S9 E120</episode-num>
   </programme>
   <programme start="20220430130000 +0000" stop="20220430140000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Mundial de Motovelocidade: Treinos Classificatórios</title>
-    <desc lang="pt">Acompanhe a categoria máxima do motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <title lang="pt">Mundial de Motovelocidade: GP da Espanha: Treinos Classificatórios</title>
+    <desc lang="pt">Acompanhe a categoria máxima do Motociclismo, o Campeonato Mundial de Motovelocidade, mais conhecido pelo nome de sua categoria principal MotoGP.(n)</desc>
+    <episode-num system="onscreen">E120</episode-num>
   </programme>
   <programme start="20220430140000 +0000" stop="20220430150000 +0000" channel="FOXSP HD3">
     <title lang="pt">Moto E: GP da Espanha: Corrida 1 - Ao Vivo</title>
     <desc lang="pt">Acompanhe o MotoE, a categoria elétrica do Campeonato Mundial de Motovelocidade, o mais antigo Campeonato do Mundo de esportes motorizados desde 1949.(n)</desc>
     <episode-num system="onscreen">S11 E120</episode-num>
   </programme>
-  <programme start="20220430150000 +0000" stop="20220430160000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Resenha</title>
+  <programme start="20220430150000 +0000" stop="20220430155500 +0000" channel="FOXSP HD3">
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
     <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
     <episode-num system="onscreen">S42 E120</episode-num>
   </programme>
-  <programme start="20220430160000 +0000" stop="20220430162500 +0000" channel="FOXSP HD3">
+  <programme start="20220430155500 +0000" stop="20220430175500 +0000" channel="FOXSP HD3">
+    <title lang="pt">Campeonato Português: Maritimo x Benfica - Ao Vivo</title>
+    <desc lang="pt">Um dos maiores campeonatos da Europa, a Primeira Liga é a divisão de elite do futebol português. Acompanhe Benfica, Porto, Sporting e mais 15 clubes na luta pelo título e pelas vagas nas competições europeias.(n)</desc>
+    <episode-num system="onscreen">S12 E120</episode-num>
+  </programme>
+  <programme start="20220430175500 +0000" stop="20220430200000 +0000" channel="FOXSP HD3">
+    <title lang="pt">Campeonato Português: Porto x Vizela - Ao Vivo</title>
+    <desc lang="pt">Um dos maiores campeonatos da Europa, a Primeira Liga é a divisão de elite do futebol português. Acompanhe Benfica, Porto, Sporting e mais 15 clubes na luta pelo título e pelas vagas nas competições europeias.(n)</desc>
+    <episode-num system="onscreen">S14 E120</episode-num>
+  </programme>
+  <programme start="20220430200000 +0000" stop="20220430203000 +0000" channel="FOXSP HD3">
     <title lang="pt">La Liga World</title>
     <desc lang="pt">A Prévia do Campeonato Espanhol traz análises do que esperar de todas as partidas da rodada da primeira divisão espanhola.(n)</desc>
-    <episode-num system="onscreen">S13 E120</episode-num>
-  </programme>
-  <programme start="20220430162500 +0000" stop="20220430183000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Campeonato Espanhol: Valencia x Levante - Ao Vivo</title>
-    <desc lang="pt">A Liga das Estrelas reúne os mais fantásticos jogadores do futebol mundial. Barça, Real Madrid, Atletico de Madrid grandes equipes em busca do título mais cobiçado.(n)</desc>
-    <episode-num system="onscreen">S13 E120</episode-num>
-  </programme>
-  <programme start="20220430183000 +0000" stop="20220430204500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Campeonato Italiano - Ao Vivo</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
-  </programme>
-  <programme start="20220430204500 +0000" stop="20220430223000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Premier League: Leeds United x Manchester City</title>
-    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.(n)</desc>
     <episode-num system="onscreen">S17 E120</episode-num>
   </programme>
-  <programme start="20220430223000 +0000" stop="20220430223000 +0000" channel="FOXSP HD3">
+  <programme start="20220430203000 +0000" stop="20220430215500 +0000" channel="FOXSP HD3">
     <title lang="pt">Indycar: GP do Alabama: Treinos Classificatórios</title>
     <desc lang="pt">O Honda Indy Grand Prix em Birmingham no Alabama recebe pela décima segunda vez mais uma etapa da IndyCar.(n)</desc>
-    <episode-num system="onscreen">S19 E120</episode-num>
+    <episode-num system="onscreen">S17 E120</episode-num>
   </programme>
-  <programme start="20220430223000 +0000" stop="20220430234500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Indycar: GP do Alabama: Treinos Classificatórios</title>
-    <desc lang="pt">O Honda Indy Grand Prix em Birmingham no Alabama recebe pela décima segunda vez mais uma etapa da IndyCar.(n)</desc>
-    <episode-num system="onscreen">S19 E120</episode-num>
+  <programme start="20220430215500 +0000" stop="20220430215500 +0000" channel="FOXSP HD3">
+    <title lang="pt">Copa da Liga Argentina: Boca Juniors x Barracas Central - Ao Vivo</title>
+    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.(n)</desc>
+    <episode-num system="onscreen">S18 E120</episode-num>
   </programme>
-  <programme start="20220430234500 +0000" stop="20220501001500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Inside Serie A</title>
-    <desc lang="pt">O melhor resumo e os gols da Serie A você encontrará neste programa após cada rodada da primeira divisão do futebol italiano.(n)</desc>
-    <episode-num system="onscreen">E120</episode-num>
+  <programme start="20220430215500 +0000" stop="20220501000000 +0000" channel="FOXSP HD3">
+    <title lang="pt">Copa da Liga Argentina: Boca Juniors x Barracas Central - Ao Vivo</title>
+    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.(n)</desc>
+    <episode-num system="onscreen">S18 E120</episode-num>
   </programme>
-  <programme start="20220501001500 +0000" stop="20220501023000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Copa da Liga Argentina - Ao Vivo</title>
+  <programme start="20220501000000 +0000" stop="20220501002500 +0000" channel="FOXSP HD3">
+    <title lang="pt">Sportscenter Abre o Jogo: Copa da Liga Argentina - Ao Vivo</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
+    <episode-num system="onscreen">S41 E120</episode-num>
+  </programme>
+  <programme start="20220501002500 +0000" stop="20220501023000 +0000" channel="FOXSP HD3">
+    <title lang="pt">Copa da Liga Argentina: Sarmiento x River Plate - Ao Vivo</title>
     <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.(n)</desc>
     <episode-num system="onscreen">S21 E120</episode-num>
   </programme>
@@ -2811,7 +2540,7 @@
     <episode-num system="onscreen">S23 E120</episode-num>
   </programme>
   <programme start="20220501030000 +0000" stop="20220501050000 +0000" channel="FOXSP HD3">
-    <title lang="pt">Campeonato Espanhol: Cadiz x Osasuna</title>
+    <title lang="pt">Campeonato Espanhol: Athletic Bilbao x Atletico de Madrid</title>
     <desc lang="pt">Primeira divisão espanhola que reúne uma verdadeira constelação em campo. Acompanhe as disputas emocionantes entre Barcelona, Real Madrid e outras grandes equipes em busca do título de melhor clube do país.(n)</desc>
   </programme>
   <programme start="20220501050000 +0000" stop="20220501070000 +0000" channel="FOXSP HD3">
@@ -2849,29 +2578,28 @@
     <desc lang="pt">Grandes nomes do esporte contam um pouco da sua jornada e suas perspectivas no esporte.(n)</desc>
     <episode-num system="onscreen">S11 E121</episode-num>
   </programme>
-  <programme start="20220501143000 +0000" stop="20220501153000 +0000" channel="FOXSP HD3">
+  <programme start="20220501143000 +0000" stop="20220501145500 +0000" channel="FOXSP HD3">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
+  </programme>
+  <programme start="20220501145500 +0000" stop="20220501155500 +0000" channel="FOXSP HD3">
     <title lang="pt">Indy Lights: GP do Alabama - Ao Vivo</title>
     <desc lang="pt">Indy Lights Series é a categoria de acesso à IndyCar Series, controlada pela IndyCar.(n)</desc>
   </programme>
-  <programme start="20220501153000 +0000" stop="20220501163000 +0000" channel="FOXSP HD3">
+  <programme start="20220501155500 +0000" stop="20220501170000 +0000" channel="FOXSP HD3">
     <title lang="pt">TCR South America: Etapa do Brasil</title>
     <desc lang="pt">TCR South America: Super carros e super marcas aceleram nas pistas! Com carros de várias fabricantes, equipes profissionais e pilotos de alto nível, vão correr no mais tradicional autódromo brasileiro.(n)</desc>
     <episode-num system="onscreen">S12 E121</episode-num>
   </programme>
-  <programme start="20220501163000 +0000" stop="20220501192500 +0000" channel="FOXSP HD3">
+  <programme start="20220501170000 +0000" stop="20220501192500 +0000" channel="FOXSP HD3">
     <title lang="pt">Indycar: Grand Prix de Alabama - Ao Vivo</title>
     <desc lang="pt">O Honda Indy Grand Prix em Birmingham no Alabama recebe pela décima segunda vez mais uma etapa da IndyCar.(n)</desc>
-    <episode-num system="onscreen">S13 E121</episode-num>
+    <episode-num system="onscreen">S14 E121</episode-num>
   </programme>
   <programme start="20220501192500 +0000" stop="20220501213000 +0000" channel="FOXSP HD3">
     <title lang="pt">Campeonato Português: Sporting x Gil Vicente - Ao Vivo</title>
     <desc lang="pt">Um dos maiores campeonatos da Europa, a Primeira Liga é a divisão de elite do futebol português. Acompanhe Benfica, Porto, Sporting e mais 15 clubes na luta pelo título e pelas vagas nas competições europeias.(n)</desc>
     <episode-num system="onscreen">S16 E121</episode-num>
-  </programme>
-  <programme start="20220501213000 +0000" stop="20220501215500 +0000" channel="FOXSP HD3">
-    <title lang="pt">Inside Serie A</title>
-    <desc lang="pt">O melhor resumo e os gols da Serie A você encontrará neste programa após cada rodada da primeira divisão do futebol italiano.(n)</desc>
-    <episode-num system="onscreen">S48 E121</episode-num>
   </programme>
   <programme start="20220428005000 +0000" stop="20220428024500 +0000" channel="FOXSP2 HD3">
     <title lang="pt">Mundial de Motovelocidade - GP de Portugal</title>
@@ -3182,107 +2910,6 @@
     <title lang="pt">Superliga Americana De Rugby: Cobras Brasil XV x Selknam</title>
     <desc lang="pt">O melhor da liga americana de Rugby nos canais ESPN.(n)</desc>
     <episode-num system="onscreen">S16 E121</episode-num>
-  </programme>
-  <programme start="20220428004500 +0000" stop="20220428050000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Instituto Irmãos Nogueira</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428050000 +0000" stop="20220428051500 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Marajó Campeão</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428051500 +0000" stop="20220428053000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Guerreiros de Gideão</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428053000 +0000" stop="20220428080000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC Series: UFC Reloaded: UFC 213 - Whittaker x Romero</title>
-    <desc lang="pt">No UFC 213, o cubano Yoel Romero enfrentou Robert Whittaker pelo título interino dos médios. Além disso, Fabricio Werdum e Alistair Overeem duelaram, e o ex-campeão dos leves Anthony "Showtime" Pettis encarou Jim Miller.(n)</desc>
-    <credits>
-      <director>Chris Kartzmark</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/44/10448620_DE074BD8AD89C39D.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428080000 +0000" stop="20220428081500 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Marajó Campeão</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428081500 +0000" stop="20220428083000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Guerreiros de Gideão</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428083000 +0000" stop="20220428100000 +0000" channel="CombateHD3">
-    <title lang="pt">Arena Combate: Grand Slam De Judô - Final</title>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/69/8698971_491CE015736429F6.jpg" />
-    <country lang="pt">Turquia</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428100000 +0000" stop="20220428123000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC Series: UFC Reloaded: UFC 213 - Whittaker x Romero</title>
-    <desc lang="pt">No UFC 213, o cubano Yoel Romero enfrentou Robert Whittaker pelo título interino dos médios. Além disso, Fabricio Werdum e Alistair Overeem duelaram, e o ex-campeão dos leves Anthony "Showtime" Pettis encarou Jim Miller.(n)</desc>
-    <credits>
-      <director>Chris Kartzmark</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/44/10448620_DE074BD8AD89C39D.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428123000 +0000" stop="20220428124500 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Marajó Campeão</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428124500 +0000" stop="20220428130000 +0000" channel="CombateHD3">
-    <title lang="pt">Sessão Combate: Jovens Guerreiros: Guerreiros de Gideão</title>
-    <desc lang="pt">Documentários, séries e filmes com grandes nomes do MMA nacional e internacional produzidos em parceria com as melhores produtoras do cenário nacional.(n)</desc>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6895894_CE81431F7F699C93.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20220428130000 +0000" stop="20220428140000 +0000" channel="CombateHD3">
     <title lang="pt">Especial Combate</title>
@@ -3841,7 +3468,7 @@
   </programme>
   <programme start="20220428174500 +0000" stop="20220428183000 +0000" channel="GLOBO3">
     <title lang="pt">O Cravo E A Rosa</title>
-    <desc lang="pt">Comédia romântica inspirada no clássico 'A Megera Domada', de William Shakespeare, a novela é ambientada na São Paulo dos anos 1920 e narra o tumultuado romance entre o rude caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+    <desc lang="pt">Catarina pede a Petruchio que mande buscar Joana e as crianças. Edmundo ouve Candoca comentar sobre o beijo de Bianca e Heitor e fica deprimido. Calixto vai buscar Joana e crianças em casa para irem a fazenda. Fábio confessa a Celso que está gostando de Lourdes e Barbara. Heitor conta a Josefa que Bianca não reagiu aos seus beijos. Batista manda Bianca se casar o mais breve possível.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13519.jpg" />
   </programme>
   <programme start="20220428183000 +0000" stop="20220428200500 +0000" channel="GLOBO3">
@@ -3867,7 +3494,7 @@
   </programme>
   <programme start="20220428212500 +0000" stop="20220428221000 +0000" channel="GLOBO3">
     <title lang="pt">Além da Ilusão</title>
-    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+    <desc lang="pt">Arminda conta para Inácio sobre a chantagem de Mariana. Joaquim afirma que voltará com Isadora. Violeta exige que Mércia e Natan saiam de sua fazenda. Iolanda fala sobre o pai de seu filho para Isadora e Joaquim fica animado. Arminda assume seu lugar na rádio. Mariana beija Inácio. Emília descobre que foi enganada por Enrico. Violeta termina com Eugênio. Heloísa descobre o segredo de Leônidas. Chega o dia da estreia do espetáculo do teatro de revista.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14212.jpg" />
   </programme>
   <programme start="20220428221000 +0000" stop="20220428224000 +0000" channel="GLOBO3">
@@ -3877,7 +3504,7 @@
   </programme>
   <programme start="20220428224000 +0000" stop="20220428233000 +0000" channel="GLOBO3">
     <title lang="pt">Quanto Mais Vida, Melhor!</title>
-    <desc lang="pt">Na trama, Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+    <desc lang="pt">Neném percebe o olhar triste de Tigrão, quando Tina o apresenta para Gabriel. Joana discute com Guilherme. Celina implica com Flávia. Rose fala com Neném. Daniel conversa com Joana sobre as atitudes de Guilherme. Paula tem uma ideia para um novo produto da Terrare. Roni pensa em um lugar para lavar o dinheiro das máquinas caça-níqueis. Rose liga para Neném. Daniel demonstra sua preocupação com o filho para Celina. Flávia comenta com Guilherme que Neném precisa saber que é pai de Tigrão.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13334.jpg" />
   </programme>
   <programme start="20220428233000 +0000" stop="20220429003000 +0000" channel="GLOBO3">
@@ -3887,29 +3514,29 @@
   </programme>
   <programme start="20220429003000 +0000" stop="20220429013500 +0000" channel="GLOBO3">
     <title lang="pt">Pantanal</title>
-    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.(n)</desc>
+    <desc lang="pt">José Leôncio quer conversar com Tibério. Guta se abre com Jove. Tibério vai embora com José Leôncio, e Muda reage contrariada. José Leôncio questiona Jove sobre o Velho do Rio. Maria Bruaca reclama da viagem de Tenório. Jove provoca José Leôncio. Mariana se preocupa com as finanças da família. O Velho do Rio pergunta por Jove para Juma. Jove discute com José Leôncio.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14761.jpg" />
   </programme>
-  <programme start="20220429013500 +0000" stop="20220429025000 +0000" channel="GLOBO3">
-    <title lang="pt">Bbb Dia 101</title>
+  <programme start="20220429013500 +0000" stop="20220429023500 +0000" channel="GLOBO3">
+    <title lang="pt">BBB Dia 101</title>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/533.jpg" />
   </programme>
-  <programme start="20220429025000 +0000" stop="20220429033000 +0000" channel="GLOBO3">
+  <programme start="20220429023500 +0000" stop="20220429031500 +0000" channel="GLOBO3">
     <title lang="pt">Lady Night</title>
     <desc lang="pt">O ator e humorista Leandro Hassum é o convidado desta quinta-feira.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14011.png" />
   </programme>
-  <programme start="20220429033000 +0000" stop="20220429042000 +0000" channel="GLOBO3">
+  <programme start="20220429031500 +0000" stop="20220429040000 +0000" channel="GLOBO3">
     <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13628.jpg" />
   </programme>
-  <programme start="20220429042000 +0000" stop="20220429050000 +0000" channel="GLOBO3">
+  <programme start="20220429040000 +0000" stop="20220429044000 +0000" channel="GLOBO3">
     <title lang="pt">Conversa com Bial</title>
-    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <desc lang="pt">A Conversa é com o candidato ao governo de São Paulo pelo Republicanos, Tarcísio de Freitas.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
   </programme>
-  <programme start="20220429050000 +0000" stop="20220429070000 +0000" channel="GLOBO3">
+  <programme start="20220429044000 +0000" stop="20220429070000 +0000" channel="GLOBO3">
     <title lang="pt">Corujão I - Garota Exemplar</title>
     <title lang="en">Gone Girl</title>
     <desc lang="pt">Amy Dunne desaparece no dia do seu aniversário de casamento, deixando o marido Nick em apuros. Ele começa a agir descontroladamente, abusando das mentiras, e se torna o suspeito número um da polícia. Com o apoio da sua irmã gêmea, Margo, Nick tenta provar a sua inocência e, ao mesmo tempo, procura descobrir o que aconteceu com Amy.(n)</desc>
@@ -4048,6 +3675,85 @@
     <category lang="pt">Comédia policial</category>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
     <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220430061000 +0000" stop="20220501084000 +0000" channel="GLOBO3">
+    <title lang="pt">Corujão II - Operação Fronteira</title>
+    <title lang="en">The Shepherd</title>
+    <desc lang="pt">Uma unidade renegada das forças especiais dos Estados Unidos prepara um plano para contrabandear 35 milhões de dólares em heroína para o pais. A única resistência que eles encontram é um patrulheiro de fronteira, que é ex-policial da divisão de homicídios dedicado o bastante para enfrentar bandidos, homens-bomba, torturadores e até funcionários governamentais corruptos de ambos os lados da fronteira.(n)</desc>
+    <credits>
+      <director>Isaac Florentine</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Stephen Lord</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Gary McDonald</actor>
+      <actor>Natalie Robb</actor>
+      <actor>Daniel Perrone</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220501084000 +0000" stop="20220501093500 +0000" channel="GLOBO3">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/55.jpg" />
+  </programme>
+  <programme start="20220501093500 +0000" stop="20220501100500 +0000" channel="GLOBO3">
+    <title lang="pt">Antena Paulista</title>
+    <desc lang="pt">Programa exibe reportagens, análises e histórias sobre temas relacionados ao estado de São Paulo.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1528.jpg" />
+  </programme>
+  <programme start="20220501100500 +0000" stop="20220501105000 +0000" channel="GLOBO3">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/57.jpg" />
+  </programme>
+  <programme start="20220501105000 +0000" stop="20220501121000 +0000" channel="GLOBO3">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5309.png" />
+  </programme>
+  <programme start="20220501121000 +0000" stop="20220501124500 +0000" channel="GLOBO3">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/59.jpg" />
+  </programme>
+  <programme start="20220501124500 +0000" stop="20220501160000 +0000" channel="GLOBO3">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4164.jpg" />
+  </programme>
+  <programme start="20220501160000 +0000" stop="20220501172000 +0000" channel="GLOBO3">
+    <title lang="pt">Temperatura Máxima - Procurando Dory</title>
+    <title lang="en">Finding Dory</title>
+    <desc lang="pt">Um ano após ajudar Marlin a reencontrar seu filho Nemo, Dory lembra de sua amada família. Com saudades, ela decide fazer de tudo para reencontrá-los e, na desenfreada busca, esbarra com amigos do passado e vai parar nas perigosas mãos de humanos.(n)</desc>
+    <credits>
+      <director>Angus Maclane</director>
+      <director>Andrew Stanton.</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/63.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220501172000 +0000" stop="20220501185000 +0000" channel="GLOBO3">
+    <title lang="pt">The Voice Kids</title>
+    <desc lang="pt">Garotada que tem de 9 a 14 anos de idade solta a voz no reality show musical mais disputado do mundo. Com Márcio Garcia, Carlinhos Brown, Gaby Amarantos, Michel Teló e Thalita Rebouças.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/11652.jpg" />
+  </programme>
+  <programme start="20220501185000 +0000" stop="20220501210000 +0000" channel="GLOBO3">
+    <title lang="pt">Futebol</title>
+    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14066.png" />
+  </programme>
+  <programme start="20220501210000 +0000" stop="20220501233000 +0000" channel="GLOBO3">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt">‘Domingão com Huck’ leva aos brasileiros entretenimento, diversão, emoção e novas descobertas nos quadros ‘Show dos famosos’ e ‘Quem quer ser um milionário?’ e em matérias especiais pelo país.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/12396.jpg" />
+  </programme>
+  <programme start="20220501233000 +0000" stop="20220502022500 +0000" channel="GLOBO3">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Maju Coutinho e Poliana Abritta.(n)</desc>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1527.jpeg" />
   </programme>
   <programme start="20220428013000 +0000" stop="20220428024500 +0000" channel="BAND3">
     <title lang="pt">1001 Perguntas</title>
@@ -4911,7 +4617,7 @@
   <programme start="20220428004500 +0000" stop="20220428014500 +0000" channel="RECORD3">
     <title lang="pt">Jesus - A Série</title>
     <desc lang="pt">Acompanhe a trajetória de Jesus de antes do nascimento à ressurreição, passando pelos milagres e o calvário da via crúcis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os apóstolos.(n)</desc>
-    <episode-num system="onscreen">S25 E214</episode-num>
+    <episode-num system="onscreen">S26 E214</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -5063,7 +4769,7 @@
   <programme start="20220429004500 +0000" stop="20220429014500 +0000" channel="RECORD3">
     <title lang="pt">Jesus - A Série</title>
     <desc lang="pt">Acompanhe a trajetória de Jesus de antes do nascimento à ressurreição, passando pelos milagres e o calvário da via crúcis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os apóstolos.(n)</desc>
-    <episode-num system="onscreen">S25 E214</episode-num>
+    <episode-num system="onscreen">S26 E214</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -5212,7 +4918,7 @@
   <programme start="20220430004500 +0000" stop="20220430014500 +0000" channel="RECORD3">
     <title lang="pt">Jesus - A Série</title>
     <desc lang="pt">Acompanhe a trajetória de Jesus de antes do nascimento à ressurreição, passando pelos milagres e o calvário da via crúcis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os apóstolos.(n)</desc>
-    <episode-num system="onscreen">S25 E214</episode-num>
+    <episode-num system="onscreen">S26 E214</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -5433,46 +5139,6 @@
     <desc lang="pt">Artistas dos mais diversos estilos em performances individuais ou em grupo devem trazer todo o seu talento e carisma para o palco.(n)</desc>
     <episode-num system="onscreen">S18 E121</episode-num>
   </programme>
-  <programme start="20220428033000 +0000" stop="20220428050000 +0000" channel="ESPN HD3">
-    <title lang="pt">Sportscenter - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910635_C927292E1445296F.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428050000 +0000" stop="20220428060000 +0000" channel="ESPN HD3">
-    <title lang="pt">Bola da Vez: Márcio Canuto</title>
-    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro.(n)</desc>
-    <credits>
-      <actor>André Plihal</actor>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10409003_316639C97176A722.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428060000 +0000" stop="20220428070000 +0000" channel="ESPN HD3">
-    <title lang="pt">ESPN FC</title>
-    <desc lang="pt">Programa especialmente dedicado ao futebol internacional. Reportagens, entrevistas exclusivas, matérias históricas e muitos gols dos principais campeonatos do mundo.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/95/9951266_E61898ACBA450BFD.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428070000 +0000" stop="20220428083000 +0000" channel="ESPN HD3">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910635_C927292E1445296F.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220428083000 +0000" stop="20220428103000 +0000" channel="ESPN HD3">
     <title lang="pt">Conmebol Libertadores: Emelec (ECU) x Palmeiras : 2022</title>
     <sub-title lang="pt">2022</sub-title>
@@ -5548,7 +5214,7 @@
     </rating>
   </programme>
   <programme start="20220428213000 +0000" stop="20220428214500 +0000" channel="ESPN HD3">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <title lang="pt">Sportscenter Abre o Jogo: Conmebol Libertadores - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9556301_44FC140AB1C2D52A.jpg" />
@@ -5596,10 +5262,10 @@
     </rating>
   </programme>
   <programme start="20220429040000 +0000" stop="20220429060000 +0000" channel="ESPN HD3">
-    <title lang="pt">UEFA Europa League: West Ham X Eintracht Frankfurt - Ao Vivo</title>
-    <desc lang="pt">Destino de alguns dos melhores nomes do futebol mundial, o continente europeu tem historicamente grande protagonismo na história da modalidade.(n)</desc>
+    <title lang="pt">UEFA Europa League: West Ham x Eintracht Frankfurt</title>
+    <desc lang="pt">A UEFA Europa League é a segunda competição continental mais importante da Europa. Veja clubes tradicionais em busca do título e também do prêmio principal: uma vaga na UEFA Champions League.(n)</desc>
     <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10911217_73B1594D21D8DAB1.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697442_0C0C9AA613533CFF.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -5710,11 +5376,10 @@
     </rating>
   </programme>
   <programme start="20220430010000 +0000" stop="20220430020000 +0000" channel="ESPN HD3">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
     <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9728948_3514C6DDF45997D7.jpg" />
-    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
@@ -5729,11 +5394,10 @@
     </rating>
   </programme>
   <programme start="20220430030000 +0000" stop="20220430040000 +0000" channel="ESPN HD3">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
     <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9728948_3514C6DDF45997D7.jpg" />
-    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
@@ -5799,7 +5463,7 @@
     </rating>
   </programme>
   <programme start="20220430133000 +0000" stop="20220430141000 +0000" channel="ESPN HD3">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <title lang="pt">Sportscenter Abre o Jogo: Campeonato Espanhol - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9556301_44FC140AB1C2D52A.jpg" />
@@ -5830,7 +5494,7 @@
     </rating>
   </programme>
   <programme start="20220430183000 +0000" stop="20220430185500 +0000" channel="ESPN HD3">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <title lang="pt">Sportscenter Abre o Jogo: Campeonato Espanhol - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9556301_44FC140AB1C2D52A.jpg" />
@@ -5868,8 +5532,8 @@
     </rating>
   </programme>
   <programme start="20220501010000 +0000" stop="20220501020000 +0000" channel="ESPN HD3">
-    <title lang="pt">Bola da Vez</title>
-    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+    <title lang="pt">Bola da Vez: Hugo Calderano, Estrela do Tênis de Mesa</title>
+    <desc lang="pt">Grandes personalidades são colocadas no "paredão" pelos jornalistas da ESPN.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10409003_316639C97176A722.jpg" />
     <country lang="pt">Brasil</country>
@@ -5877,7 +5541,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501020000 +0000" stop="20220501033000 +0000" channel="ESPN HD3">
+  <programme start="20220501020000 +0000" stop="20220501030000 +0000" channel="ESPN HD3">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -5886,9 +5550,9 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501033000 +0000" stop="20220501043000 +0000" channel="ESPN HD3">
-    <title lang="pt">Bola da Vez</title>
-    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+  <programme start="20220501030000 +0000" stop="20220501040000 +0000" channel="ESPN HD3">
+    <title lang="pt">Bola da Vez: Hugo Calderano, Estrela do Tênis de Mesa</title>
+    <desc lang="pt">Grandes personalidades são colocadas no "paredão" pelos jornalistas da ESPN.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10409003_316639C97176A722.jpg" />
     <country lang="pt">Brasil</country>
@@ -5896,7 +5560,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501043000 +0000" stop="20220501063000 +0000" channel="ESPN HD3">
+  <programme start="20220501040000 +0000" stop="20220501060000 +0000" channel="ESPN HD3">
     <title lang="pt">Premier League: Leeds United x Manchester City : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.(n)</desc>
@@ -5907,20 +5571,20 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501063000 +0000" stop="20220501070000 +0000" channel="ESPN HD3">
-    <title lang="pt">La Liga World</title>
-    <desc lang="pt">A Prévia do Campeonato Espanhol traz análises do que esperar de todas as partidas da rodada da primeira divisão espanhola.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/67/9678096_CAB27411714C164D.jpg" />
+  <programme start="20220501060000 +0000" stop="20220501070000 +0000" channel="ESPN HD3">
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
+    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9728948_3514C6DDF45997D7.jpg" />
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220501070000 +0000" stop="20220501073000 +0000" channel="ESPN HD3">
-    <title lang="pt">Destaques Da Uefa Europa &amp; Conference League</title>
-    <desc lang="pt">Um resumo completo sobre a última rodada da UEFA Europa League, o segundo maior torneio de futebol do continente.(n)</desc>
+    <title lang="pt">La Liga World</title>
+    <desc lang="pt">A Prévia do Campeonato Espanhol traz análises do que esperar de todas as partidas da rodada da primeira divisão espanhola.(n)</desc>
     <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10911178_8FB842854C06BBF5.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/67/9678096_CAB27411714C164D.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -5934,7 +5598,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501093000 +0000" stop="20220501105500 +0000" channel="ESPN HD3">
+  <programme start="20220501093000 +0000" stop="20220501102500 +0000" channel="ESPN HD3">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -5943,11 +5607,22 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501105500 +0000" stop="20220501125000 +0000" channel="ESPN HD3">
-    <title lang="pt">Campeonato Escocês: Celtic x Rangers FC - Ao Vivo</title>
-    <desc lang="pt">Celtic, Rangers, estádios lotados e muita emoção! A LadBrokes Premiership é a primeira divisão do futebol escocês. Acompanhe os clássicos e a luta dos 12 times por uma vaga na UEFA Champions League.(n)</desc>
+  <programme start="20220501102500 +0000" stop="20220501123000 +0000" channel="ESPN HD3">
+    <title lang="pt">Campeonato Italiano: Juventus x Venezia - Ao Vivo : 2022</title>
+    <sub-title lang="pt">2022</sub-title>
+    <desc lang="pt">É a divisão de elite do futebol italiano e uma das cinco maiores ligas da Europa. Acompanhe os craques de Inter de Milão, Juventus, Milan e outras equipes em busca do título de melhor clube do país.(n)</desc>
     <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6918358_CBA805ECC83CEA61.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697261_7F566E5A2381C5F2.jpg" />
+    <country lang="pt">Itália</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220501123000 +0000" stop="20220501125000 +0000" channel="ESPN HD3">
+    <title lang="pt">Sportscenter Abre o Jogo: Premier League - Ao Vivo</title>
+    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9556301_44FC140AB1C2D52A.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -5962,7 +5637,7 @@
     </rating>
   </programme>
   <programme start="20220501150000 +0000" stop="20220501152000 +0000" channel="ESPN HD3">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
+    <title lang="pt">Sportscenter Abre o Jogo: Premier League - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9556301_44FC140AB1C2D52A.jpg" />
@@ -6019,51 +5694,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428020000 +0000" stop="20220428043000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBA Play-offs - Ao Vivo</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910647_F4613A321DCD6DFD.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428043000 +0000" stop="20220428050000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBA75: Connected: Demar Derozan and Vince Carter</title>
-    <desc lang="pt">Um bate papo descontraido entre a lenda e campeão Dirk Nowitzki e a atual estrela do Dallas Mavericks Luka Doncic do Dallas Mavericks. Não perca este encontro da lenda do passado com o presente e futuro da NBA.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697678_7A1BEE9F417E6911.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428050000 +0000" stop="20220428053000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Show da Rodada: Serie A</title>
-    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Serie A, o Campeonato Italiano de futebol. Todos os gols e os principais lances deste charmoso e tradicional torneio.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/60/9605731_92CA893F3CDD2AEC.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428053000 +0000" stop="20220428070000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6903063_36A941EB7B30703C.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428070000 +0000" stop="20220428084500 +0000" channel="ESPN2 HD3">
-    <title lang="pt">AFC Champions League: Al Hilal (KSA) x Al Rayyan (QAT)</title>
-    <desc lang="pt">O torneio internacional de futebol mais prestigioso para os clubes da Confederação Asiática de Futebol. São 40 times em busca do título e de uma vaga no Mundial de Clubes da FIFA.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896472_F677A3CE49913506.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220428084500 +0000" stop="20220428103000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Concacaf Champions League: Pumas x Seattle Sounders FC : 2022</title>
     <sub-title lang="pt">2022</sub-title>
@@ -6085,7 +5715,7 @@
     </rating>
   </programme>
   <programme start="20220428120000 +0000" stop="20220428143000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBA Playoffs</title>
+    <title lang="pt">NBA: Denver Nuggets x Golden State Warriors</title>
     <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
     <category lang="pt">Basquete</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910647_F4613A321DCD6DFD.jpg" />
@@ -6218,7 +5848,7 @@
     </rating>
   </programme>
   <programme start="20220429120000 +0000" stop="20220429143000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBA Playoffs</title>
+    <title lang="pt">NBA: Philadelphia 76ers x Toronto Raptors</title>
     <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
     <category lang="pt">Basquete</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910647_F4613A321DCD6DFD.jpg" />
@@ -6245,24 +5875,15 @@
     </rating>
   </programme>
   <programme start="20220429173000 +0000" stop="20220429180000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">ATP Uncovered</title>
-    <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte no mais alto nível.(n)</desc>
-    <category lang="pt">Tênis</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/72/8721168_FF8F574368737042.jpg" />
+    <title lang="pt">Show da Rodada: Premier League</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Premier League, o Campeonato Inglês de futebol. Todos os gols e os principais lances da liga mais assistida ao redor do mundo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/59/9595409_5D24C9B997D79391.jpg" />
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220429180000 +0000" stop="20220429183000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">F1: The Inside Line</title>
-    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
-    <category lang="pt">Corrida</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8709688_B407B02850962818.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429183000 +0000" stop="20220429190000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Spirit of Yachting</title>
     <desc lang="pt">Um mergulho fascinante no mundo do iatismo. Conheça as histórias por trás das corridas, onde se revela a paixão e a dedicação necessária para fazer parte da elite deste esporte.(n)</desc>
     <category lang="pt">Vela</category>
@@ -6271,11 +5892,38 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429190000 +0000" stop="20220429220000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">ESPN Knockout: Ekow Essuman x Darren Tetley - Ao Vivo</title>
-    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
-    <category lang="pt">Boxe</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697683_451882729A70A7AC.jpg" />
+  <programme start="20220429183000 +0000" stop="20220429203000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Superliga Americana De Rugby: Cobras Brasil XV x Selknam - Ao Vivo</title>
+    <desc lang="pt">O melhor da liga americana de Rugby nos canais ESPN.(n)</desc>
+    <category lang="pt">Rugby</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697681_28037DAB9D7043C5.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220429203000 +0000" stop="20220429210000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
+    <category lang="pt">Corrida</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/70/8709688_B407B02850962818.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220429210000 +0000" stop="20220429213000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">ATP Uncovered</title>
+    <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte no mais alto nível.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/72/8721168_FF8F574368737042.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220429213000 +0000" stop="20220429220000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Show da Rodada: Serie A</title>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Serie A, o Campeonato Italiano de futebol. Todos os gols e os principais lances deste charmoso e tradicional torneio.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/60/9605731_92CA893F3CDD2AEC.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -6433,7 +6081,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220430164000 +0000" stop="20220430184500 +0000" channel="ESPN2 HD3">
+  <programme start="20220430164000 +0000" stop="20220430184000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Campeonato Holandês: Ajax x Pec Zwolle - Ao Vivo</title>
     <desc lang="pt">A busca pelo futebol ofensivo faz da Eredivisie uma das ligas mais atrativas do continente. O Campeonato Holandês é conhecido por revelar futuros craques do futebol mundial.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -6442,7 +6090,16 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220430184500 +0000" stop="20220430203000 +0000" channel="ESPN2 HD3">
+  <programme start="20220430184000 +0000" stop="20220430204500 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Campeonato Italiano: Spezia x Lazio - Ao Vivo</title>
+    <desc lang="pt">É a divisão de elite do futebol italiano e uma das cinco maiores ligas da Europa. Acompanhe os craques de Inter de Milão, Juventus, Milan e outras equipes em busca do título de melhor clube do país.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10701343_DE20F34318F070AD.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220430204500 +0000" stop="20220430223000 +0000" channel="ESPN2 HD3">
     <title lang="pt">NBA Playoffs</title>
     <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
     <category lang="pt">Basquete</category>
@@ -6451,7 +6108,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220430203000 +0000" stop="20220430213000 +0000" channel="ESPN2 HD3">
+  <programme start="20220430223000 +0000" stop="20220430233000 +0000" channel="ESPN2 HD3">
     <title lang="pt">ESPN League</title>
     <desc lang="pt">Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).(n)</desc>
     <category lang="pt">Esporte</category>
@@ -6460,32 +6117,20 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220430213000 +0000" stop="20220430233000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Campeonato Espanhol: Real Madrid x Espanyol : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Primeira divisão espanhola que reúne uma verdadeira constelação em campo. Acompanhe as disputas emocionantes entre Barcelona, Real Madrid e outras grandes equipes em busca do título de melhor clube do país.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697675_56A5FF342F91F04E.jpg" />
-    <country lang="pt">Espanha</country>
+  <programme start="20220430233000 +0000" stop="20220501013000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Rugby World Sevens Series: Etapa de Langford - Ao Vivo</title>
+    <desc lang="pt">Torneio que reúne as principais seleções de rúgbi de 7 do planeta.(n)</desc>
+    <category lang="pt">Rugby</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720766_2884FDA3A7420B44.png" />
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220430233000 +0000" stop="20220430235000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Sportscenter Abre o Jogo: NBB - Ao Vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
+  <programme start="20220501013000 +0000" stop="20220501020000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">World's Strongest Man Competition</title>
+    <desc lang="pt">A mais tradicional competição de força bruta em todo o planeta. Os atletas passam por provas curiosas como levantar pneus gigantes, arremessar pedras e puxar um caminhão por uma corda.(n)</desc>
     <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9555871_B87442E48FF2D3F0.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220430235000 +0000" stop="20220501020000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBB - Ao Vivo</title>
-    <desc lang="pt">Novamente nos canais ESPN, todas as emoções da Liga Nacional de Basquete! O NBB chega no seu décimo terceiro ano de existência e para esta nova temporada, as 16 equipes de todo o país vão tentar parar o atual campeão.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10391831_20E636FB17E0001E.jpg" />
-    <country lang="pt">Brasil</country>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720766_2884FDA3A7420B44.png" />
     <rating>
       <value>L</value>
     </rating>
@@ -6508,7 +6153,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501040000 +0000" stop="20220501053000 +0000" channel="ESPN2 HD3">
+  <programme start="20220501040000 +0000" stop="20220501050000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -6517,7 +6162,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501053000 +0000" stop="20220501073000 +0000" channel="ESPN2 HD3">
+  <programme start="20220501050000 +0000" stop="20220501070000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Superliga Americana De Rugby: Cobras Brasil XV x Selknam</title>
     <desc lang="pt">O melhor da liga americana de Rugby nos canais ESPN.(n)</desc>
     <category lang="pt">Rugby</category>
@@ -6526,7 +6171,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501073000 +0000" stop="20220501080000 +0000" channel="ESPN2 HD3">
+  <programme start="20220501070000 +0000" stop="20220501080000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Bola da Vez: Hugo Calderano, Estrela do Tênis de Mesa</title>
+    <desc lang="pt">Grandes personalidades são colocadas no "paredão" pelos jornalistas da ESPN.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/54/10548786_DB4B557283C1F5F6.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220501080000 +0000" stop="20220501083000 +0000" channel="ESPN2 HD3">
     <title lang="pt">ATP Uncovered</title>
     <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte no mais alto nível.(n)</desc>
     <category lang="pt">Tênis</category>
@@ -6535,7 +6190,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501080000 +0000" stop="20220501093000 +0000" channel="ESPN2 HD3">
+  <programme start="20220501083000 +0000" stop="20220501093000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -6544,7 +6199,16 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501093000 +0000" stop="20220501095500 +0000" channel="ESPN2 HD3">
+  <programme start="20220501093000 +0000" stop="20220501100000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Destaques Da Uefa Europa &amp; Conference League</title>
+    <desc lang="pt">Um resumo completo sobre a última rodada da UEFA Europa League, o segundo maior torneio de futebol do continente.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10738497_FEB26331CA7C9414.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220501100000 +0000" stop="20220501102500 +0000" channel="ESPN2 HD3">
     <title lang="pt">F1: The Inside Line</title>
     <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
     <category lang="pt">Corrida</category>
@@ -6553,7 +6217,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501095500 +0000" stop="20220501102500 +0000" channel="ESPN2 HD3">
+  <programme start="20220501102500 +0000" stop="20220501105500 +0000" channel="ESPN2 HD3">
     <title lang="pt">Spirit of Yachting</title>
     <desc lang="pt">Um mergulho fascinante no mundo do iatismo. Conheça as histórias por trás das corridas, onde se revela a paixão e a dedicação necessária para fazer parte da elite deste esporte.(n)</desc>
     <category lang="pt">Vela</category>
@@ -6562,27 +6226,20 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501102500 +0000" stop="20220501123000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Campeonato Italiano - Ao Vivo</title>
+  <programme start="20220501105500 +0000" stop="20220501125500 +0000" channel="ESPN2 HD3">
+    <title lang="pt">Campeonato Escocês: Celtic x Rangers FC - Ao Vivo</title>
+    <desc lang="pt">Celtic, Rangers, estádios lotados e muita emoção! A LadBrokes Premiership é a primeira divisão do futebol escocês. Acompanhe os clássicos e a luta dos 12 times por uma vaga na UEFA Champions League.(n)</desc>
     <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/83/10838494_16C638631D78F476.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220501123000 +0000" stop="20220501125500 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Sportscenter Abre o Jogo: Campeonato Italiano - Ao Vivo</title>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/55/9555871_B87442E48FF2D3F0.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/89/6896472_F677A3CE49913506.jpg" />
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220501125500 +0000" stop="20220501150000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">Campeonato Italiano - Ao Vivo</title>
+    <title lang="pt">Campeonato Italiano: Milan x Fiorentina - Ao Vivo</title>
+    <desc lang="pt">É a divisão de elite do futebol italiano e uma das cinco maiores ligas da Europa. Acompanhe os craques de Inter de Milão, Juventus, Milan e outras equipes em busca do título de melhor clube do país.(n)</desc>
     <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/83/10838494_16C638631D78F476.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10701343_DE20F34318F070AD.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -6623,25 +6280,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501220000 +0000" stop="20220501230000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">ESPN Filmes: Sec Storied - Maravich</title>
-    <desc lang="pt">A faixa dedicada a documentários produzidos pela ESPN em parceria com grandes produtoras nacionais e internacionais. Um mergulho profundo na história do esporte e em seus personagens.(n)</desc>
-    <category lang="pt">Documentário</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/25/8253867_3AC653731E9B483D.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220501230000 +0000" stop="20220501233000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBA Action</title>
-    <desc lang="pt">O NBA Action é um programa semanal com notícias, entrevistas e os destaques da melhor liga de basquete do planeta. Os jogadores, as partidas e tudo o que você precisa saber o universo da NBA.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/86/8860055_B648AFB458BEB4A6.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220501233000 +0000" stop="20220501235000 +0000" channel="ESPN2 HD3">
+  <programme start="20220501220000 +0000" stop="20220501222000 +0000" channel="ESPN2 HD3">
     <title lang="pt">Sportscenter Abre o Jogo: NBB - Ao Vivo</title>
     <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -6650,108 +6289,11 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501235000 +0000" stop="20220502020000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NBB - Ao Vivo</title>
-    <desc lang="pt">Novamente nos canais ESPN, todas as emoções da Liga Nacional de Basquete! O NBB chega no seu décimo terceiro ano de existência e para esta nova temporada, as 16 equipes de todo o país vão tentar parar o atual campeão.(n)</desc>
+  <programme start="20220501222000 +0000" stop="20220502003000 +0000" channel="ESPN2 HD3">
+    <title lang="pt">NBB: Bauru x São Paulo - Ao Vivo</title>
+    <desc lang="pt">O NBB é o nosso basquete! De Norte ao Sul, veja todas as semanas os melhores jogadores e as equipes de elite do Brasil em ação.(n)</desc>
     <category lang="pt">Basquete</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10391831_20E636FB17E0001E.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428000000 +0000" stop="20220428020000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Premier League: Arsenal x Manchester United : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10701101_CF61819A46026BB2.jpg" />
-    <country lang="pt">Inglaterra</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428020000 +0000" stop="20220428023000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Show da Rodada: Serie A</title>
-    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Serie A, o Campeonato Italiano de futebol. Todos os gols e os principais lances deste charmoso e tradicional torneio.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/59/9595530_EF4A9A7464F8796A.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428023000 +0000" stop="20220428043000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Concacaf Champions League: Pumas x Seattle Sounders FC - Ao Vivo : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Acompanhe a competição anual de clubes de futebol em nível continental, organizada pela Confederação de Futebol da América do Norte, Central e Caribe (CONCACAF).(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/90/6906877_9872416E7FD9EDA2.jpg" />
-    <country lang="pt">México</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428043000 +0000" stop="20220428050000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910645_89C64FC3C946F415.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428050000 +0000" stop="20220428060000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910645_89C64FC3C946F415.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428060000 +0000" stop="20220428070000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Sportscenter Americano - Ao Vivo</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910645_89C64FC3C946F415.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428070000 +0000" stop="20220428090000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Major League Soccer: Orlando City SC x New York Red Bulls</title>
-    <desc lang="pt">A Major League Soccer é o principal campeonato de futebol dos Estados Unidos e do Canadá. Com grandes contratações e um público sempre presente, a MLS vem se tornando mais forte a cada ano.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10701261_C72A82F89E7B1BB9.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428090000 +0000" stop="20220428103000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910645_89C64FC3C946F415.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428103000 +0000" stop="20220428111500 +0000" channel="ESPN3 HD3">
-    <title lang="pt">X Games Chiba: Skate Street Masculino</title>
-    <desc lang="pt">Desde 1995, os melhores atletas dos esportes radicais se reúnem na disputa dos X Games. São duas edições por ano, uma de verão e outra de inverno. Skate, moto, BMX, esqui, snowboard e muito mais.(n)</desc>
-    <category lang="pt">Ao ar livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720762_0511AFAA967E0FBF.png" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428111500 +0000" stop="20220428124500 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Campeonato Francês: Paris Saint Germain x Lens : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Tradicional e charmoso, o Campeonato Francês passou a receber investimentos milionários nas últimas temporadas.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/70/10701111_773FEAA0FD186CC7.jpg" />
-    <country lang="pt">França</country>
     <rating>
       <value>L</value>
     </rating>
@@ -6766,7 +6308,7 @@
     </rating>
   </programme>
   <programme start="20220428141500 +0000" stop="20220428164500 +0000" channel="ESPN3 HD3">
-    <title lang="pt">NBA Playoffs</title>
+    <title lang="pt">NBA: Chicago Bulls x Milwaukee Bucks</title>
     <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
     <category lang="pt">Basquete</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/13/9138311_F45A8EE3995840A1.jpg" />
@@ -6828,11 +6370,29 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428230000 +0000" stop="20220429020000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">MLB: Chicago Cubs x Atlanta Braves - Ao Vivo</title>
-    <desc lang="pt">Beisebol. A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.(n)</desc>
-    <category lang="pt">Beisebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10738473_2BFCAAED877DFE6D.jpg" />
+  <programme start="20220428230000 +0000" stop="20220429013000 +0000" channel="ESPN3 HD3">
+    <title lang="pt">NBA: Philadelphia 76ers x Toronto Raptors</title>
+    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
+    <category lang="pt">Basquete</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/13/9138311_F45A8EE3995840A1.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220429013000 +0000" stop="20220429014500 +0000" channel="ESPN3 HD3">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN 2 e no Star +.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/57/9572487_0B55565E429A7559.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220429014500 +0000" stop="20220429020000 +0000" channel="ESPN3 HD3">
+    <title lang="pt">Cestou ESPN</title>
+    <desc lang="pt">Alana Ambrosio traz o que de melhor aconteceu na semana do basquete de maneira descontraída com ajuda de convidados especiais. Semanalmente, às sextas-feiras, na ESPN 2 e no Star +.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/57/9572487_0B55565E429A7559.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -6883,7 +6443,7 @@
     </rating>
   </programme>
   <programme start="20220429073000 +0000" stop="20220429100000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">NBA Playoffs</title>
+    <title lang="pt">NBA: Denver Nuggets x Golden State Warriors</title>
     <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
     <category lang="pt">Basquete</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/13/9138311_F45A8EE3995840A1.jpg" />
@@ -6936,16 +6496,25 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429183000 +0000" stop="20220429203000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Superliga Americana De Rugby: Cobras Brasil XV x Selknam - Ao Vivo</title>
-    <desc lang="pt">O melhor da liga americana de Rugby nos canais ESPN.(n)</desc>
-    <category lang="pt">Rugby</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697479_CD9C53F1F2ADD1E2.jpg" />
+  <programme start="20220429183000 +0000" stop="20220429190000 +0000" channel="ESPN3 HD3">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1.(n)</desc>
+    <category lang="pt">Corrida</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/14/9146758_721DB6EF27EA4B79.jpg" />
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429203000 +0000" stop="20220429223000 +0000" channel="ESPN3 HD3">
+  <programme start="20220429190000 +0000" stop="20220429193000 +0000" channel="ESPN3 HD3">
+    <title lang="pt">ATP Uncovered</title>
+    <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte no mais alto nível.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/23/10232363_F34C88868AEAF707.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220429193000 +0000" stop="20220429223000 +0000" channel="ESPN3 HD3">
     <title lang="pt">Golfe: México Open - Ao Vivo</title>
     <desc lang="pt">O PGA Tour é o principal circuito do golfe mundial. Todos os quartro Majors, além de diversos outros importantes torneios, possuem cobertura completa dos canais ESPN.(n)</desc>
     <category lang="pt">Golfe</category>
@@ -7054,17 +6623,16 @@
     </rating>
   </programme>
   <programme start="20220430113000 +0000" stop="20220430122500 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
     <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9729167_ABE9C6B156D1E008.jpg" />
-    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
   </programme>
   <programme start="20220430122500 +0000" stop="20220430143000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Copa Itália Feminina: Roma x Empoli - Ao Vivo : 2022</title>
+    <title lang="pt">Copa Itália Feminina: Roma x Empoli : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Criada em 1922, a Copa Itália reúne todos os principais clubes do país. Atualmente são mais de 70 equipes no sistema de eliminação direta, sendo a final sempre disputada no Estádio Olímpico de Roma.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -7102,11 +6670,10 @@
     </rating>
   </programme>
   <programme start="20220430220000 +0000" stop="20220430230000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Resenha</title>
+    <title lang="pt">Resenha: Madson e Élton Arábia</title>
     <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9729167_ABE9C6B156D1E008.jpg" />
-    <country lang="pt">Brasil</country>
     <rating>
       <value>L</value>
     </rating>
@@ -7121,7 +6688,7 @@
     </rating>
   </programme>
   <programme start="20220430233000 +0000" stop="20220501011500 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Premier League: Leeds United x Manchester City : 2022</title>
+    <title lang="pt">Premier League: Newcastle x Liverpool : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.(n)</desc>
     <category lang="pt">Futebol</category>
@@ -7132,10 +6699,12 @@
     </rating>
   </programme>
   <programme start="20220501011500 +0000" stop="20220501030000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">ESPN Knockout: Ekow Essuman x Darren Tetley</title>
-    <desc lang="pt">O melhor do boxe internacional nos canais ESPN.(n)</desc>
-    <category lang="pt">Boxe</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697452_1BC914F2FD743EFA.jpg" />
+    <title lang="pt">Campeonato Espanhol: Real Madrid x Espanyol : 2022</title>
+    <sub-title lang="pt">2022</sub-title>
+    <desc lang="pt">Primeira divisão espanhola que reúne uma verdadeira constelação em campo. Acompanhe as disputas emocionantes entre Barcelona, Real Madrid e outras grandes equipes em busca do título de melhor clube do país.(n)</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697445_8CEC04C001DFA6AF.jpg" />
+    <country lang="pt">Espanha</country>
     <rating>
       <value>L</value>
     </rating>
@@ -7176,17 +6745,25 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501070000 +0000" stop="20220501090000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">NBB</title>
-    <desc lang="pt">O NBB é o nosso basquete! De Norte ao Sul, veja todas as semanas os melhores jogadores e as equipes de elite do Brasil em ação.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/39/10391822_4FB03BAE289E3D8E.jpg" />
-    <country lang="pt">Brasil</country>
+  <programme start="20220501070000 +0000" stop="20220501073000 +0000" channel="ESPN3 HD3">
+    <title lang="pt">ATP Uncovered</title>
+    <desc lang="pt">O ATP Uncovered apresenta em profundidade os perfis de diferentes tenistas, os melhores momentos dos torneios, entrevistas e instruções para você praticar o esporte no mais alto nível.(n)</desc>
+    <category lang="pt">Tênis</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/23/10232363_F34C88868AEAF707.jpg" />
     <rating>
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501090000 +0000" stop="20220501110000 +0000" channel="ESPN3 HD3">
+  <programme start="20220501073000 +0000" stop="20220501093000 +0000" channel="ESPN3 HD3">
+    <title lang="pt">Rugby World Sevens Series: Etapa de Langford</title>
+    <desc lang="pt">Torneio que reúne as principais seleções de rúgbi de 7 do planeta.(n)</desc>
+    <category lang="pt">Rugby</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720762_0511AFAA967E0FBF.png" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20220501093000 +0000" stop="20220501113000 +0000" channel="ESPN3 HD3">
     <title lang="pt">Premier League: Newcastle x Liverpool : 2022</title>
     <sub-title lang="pt">2022</sub-title>
     <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.(n)</desc>
@@ -7197,7 +6774,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220501110000 +0000" stop="20220501123000 +0000" channel="ESPN3 HD3">
+  <programme start="20220501113000 +0000" stop="20220501123000 +0000" channel="ESPN3 HD3">
     <title lang="pt">Sportscenter</title>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
     <category lang="pt">Esporte</category>
@@ -7235,8 +6812,8 @@
     </rating>
   </programme>
   <programme start="20220501150000 +0000" stop="20220501155500 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Bola da Vez</title>
-    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Todo sábado, após o Sportscenter, na ESPN Brasil, sob o comando de André Plihal.(n)</desc>
+    <title lang="pt">Bola da Vez: Hugo Calderano, Estrela do Tênis de Mesa</title>
+    <desc lang="pt">Grandes personalidades são colocadas no "paredão" pelos jornalistas da ESPN.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/40/10408517_8791CC7BE540C11C.jpg" />
     <country lang="pt">Brasil</country>
@@ -7275,63 +6852,6 @@
     <desc lang="pt">Beisebol. A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.(n)</desc>
     <category lang="pt">Beisebol</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10738473_2BFCAAED877DFE6D.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428020000 +0000" stop="20220428040000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">Superliga Americana De Rugby: Peñarol x Cobras Brasil XV</title>
-    <desc lang="pt">O melhor da liga americana de Rugby nos canais ESPN.(n)</desc>
-    <category lang="pt">Rugby</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697359_ADF7D7EFBF81AF8B.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428040000 +0000" stop="20220428050000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">Resenha: Jardel e Carlos Miguel, Ídolos Do Grêmio</title>
-    <desc lang="pt">Comandado por André Plihal, o programa recebe semanalmente jogadores e ex-jogadores de futebol para a resenha. Papo solto, cheio de histórias de um jeito bem moleque.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/72/9728983_50D55EBBB06B9F73.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428050000 +0000" stop="20220428073000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">NBA Playoffs</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/14/9146759_6EA9D8D61263D17C.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428073000 +0000" stop="20220428100000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">NBA Playoffs</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/14/9146759_6EA9D8D61263D17C.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428100000 +0000" stop="20220428103000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">NBA75: Connected: Demar Derozan and Vince Carter</title>
-    <desc lang="pt">Um bate papo descontraido entre a lenda e campeão Dirk Nowitzki e a atual estrela do Dallas Mavericks Luka Doncic do Dallas Mavericks. Não perca este encontro da lenda do passado com o presente e futuro da NBA.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697345_981CAB928072CED5.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220428103000 +0000" stop="20220428123000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">Copa da Liga Argentina: Aldosivi x C. A. Huracán : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697389_E88CD7CB709B1E99.jpg" />
-    <country lang="pt">Argentina</country>
     <rating>
       <value>L</value>
     </rating>
