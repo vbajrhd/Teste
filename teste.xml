@@ -153,16 +153,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220428230000 +0000" stop="20220428232000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Baú do Esporte: Lendas</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220428232000 +0000" stop="20220429020000 +0000" channel="SPORTV2 HD3">
     <title lang="pt">NBA: New Orleans Pelicans X Phoenix Suns - Playoffs - Jogo 6 - Ao Vivo</title>
     <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(n)</desc>
