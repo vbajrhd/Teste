@@ -137,54 +137,6 @@
     <icon src="https://www.nowonline.com.br/img/channels/history.png" />
     <url>http://www.nowonline.com.br</url>
   </channel>
-  <programme start="20220429063000 +0000" stop="20220429090000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Minas - Final Jogo 1</title>
-    <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Vôlei</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10842619_5CD22464EE8B4084.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429090000 +0000" stop="20220429103000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">VT de Eventos</title>
-    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180196_46C04919A0339891.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429103000 +0000" stop="20220429123000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Minas</title>
-    <desc lang="pt">Superliga de Vôlei Masculino: o melhor do Vôlei está no SporTV. Não perca agora os grandes craques das quadras em ação em um jogaço. SporTV: Somos Todos Campeões.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Vôlei</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/84/10842619_5CD22464EE8B4084.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429123000 +0000" stop="20220429130000 +0000" channel="SPORTV2 HD3">
-    <title lang="pt">Faixa Olímpica</title>
-    <desc lang="pt">Não perca Olympic Channel, um programa que aborda o mundo olímpico.(n)</desc>
-    <credits>
-      <director>Eduardo Gabbay</director>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/33/9339089_CE99C94C561D5C14.jpg" />
-    <country lang="pt">EUA</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220429130000 +0000" stop="20220429140000 +0000" channel="SPORTV2 HD3">
     <title lang="pt">Ça VA Paris</title>
     <desc lang="pt">O Ça Va Paris, um programa semanal apresentado por Marcelo Barreto, que vai acompanhar de perto as preparações para as próximas Olimpíadas.(n)</desc>
@@ -663,57 +615,6 @@
     <category lang="pt">Vôlei</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/75/9757617_0285E0A9898C4827.jpg" />
     <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429050000 +0000" stop="20220429100000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Campeonato Brasileiro de PUBG Mobile: 1º Split</title>
-    <desc lang="pt">Pubg Mobile Pro League - 2022.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918819_587D6429CF263C6B.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429100000 +0000" stop="20220429104500 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Porsche GT3 Cup: 2ª Etapa - 1ª Corrida</title>
-    <desc lang="pt">Porsche Cup 2022.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Corrida</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918821_85A71A361C4DD776.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429104500 +0000" stop="20220429113000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Porsche Carrera Cup: 2ª Etapa - 2ª Corrida</title>
-    <desc lang="pt">Porsche Cup 2022.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Corrida</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918823_372EDC81B5210A42.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429113000 +0000" stop="20220429123000 +0000" channel="SPORTV3 HD3">
-    <title lang="pt">Superbike: 2ª Etapa - 2ª Corrida</title>
-    <credits>
-      <director>Pedro Garcia</director>
-    </credits>
-    <category lang="pt">Motociclismo</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918827_CC179092008F7A65.jpg" />
-    <country lang="pt">Espanha</country>
     <rating>
       <value>L</value>
     </rating>
@@ -1273,48 +1174,6 @@
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/90/10906317_E6B25EBA5EA019BF.jpg" />
     <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429080000 +0000" stop="20220429090000 +0000" channel="SPORTV HD3">
-    <title lang="pt">Vasco da Gama x Ponte Preta : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">Não é só futebol, é o Nosso Futebol! Só com a dobradinha SporTV e Premiere você tem muitos jogos do Brasileirão Séries A e B.(n)</desc>
-    <credits>
-      <director>Renato Ribeiro</director>
-    </credits>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/18/9180139_52C1B398A6124999.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429090000 +0000" stop="20220429101500 +0000" channel="SPORTV HD3">
-    <title lang="pt">Giro da Rodada</title>
-    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.(n)</desc>
-    <category lang="pt">Notícias</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/30/9302769_284D76D483AC103C.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429101500 +0000" stop="20220429114500 +0000" channel="SPORTV HD3">
-    <title lang="pt">Troca de Passes</title>
-    <desc lang="pt">O programa recebe comentaristas e convidados para repercutir os jogos que acabaram de terminar! Muita informação sobre futebol no seu fim de noite.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/22/10221059_35C553845AE6A08C.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429114500 +0000" stop="20220429130000 +0000" channel="SPORTV HD3">
-    <title lang="pt">SporTV News - Ao Vivo</title>
-    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/22/10221061_130226042AFE3002.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -2377,37 +2236,6 @@
     <desc lang="pt">O melhor da liga americana de Rugby nos canais ESPN.(n)</desc>
     <episode-num system="onscreen">S16 E121</episode-num>
   </programme>
-  <programme start="20220429060000 +0000" stop="20220429090000 +0000" channel="CombateHD3">
-    <title lang="pt">Clássicos do UFC: UFC Fight Night Combate - Mousasi x Latifi</title>
-    <desc lang="pt">(06/04/2013) Alexander Gustaffson x Gerard Mousasi; Ryan Couture x Ross Pearson; Matt Mitrione x Phil de Fries; Brad Pickett x Mike Easton; Diego Brandão x Pablo Garza; Akira Corassani x Robbie Pearalta.(n)</desc>
-    <credits>
-      <director>Anthony Giordano</director>
-    </credits>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720464_5D530FEC740D365C.png" />
-    <country lang="pt">Suécia</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429090000 +0000" stop="20220429100000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC Series - UFC Main Event: Holloway x Poirier 2</title>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
-    <episode-num system="onscreen">S6 E11</episode-num>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429100000 +0000" stop="20220429110000 +0000" channel="CombateHD3">
-    <title lang="pt">UFC Series - UFC Main Event: Holloway x Poirier 2</title>
-    <category lang="pt">Luta Livre</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/41/9414027_15D5ACA3EB22BA1C.jpg" />
-    <episode-num system="onscreen">S6 E11</episode-num>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220429110000 +0000" stop="20220429140000 +0000" channel="CombateHD3">
     <title lang="pt">Clássicos do UFC: UFC Fight Night Combate - Mousasi x Latifi</title>
     <desc lang="pt">(06/04/2013) Alexander Gustaffson x Gerard Mousasi; Ryan Couture x Ross Pearson; Matt Mitrione x Phil de Fries; Brad Pickett x Mike Easton; Diego Brandão x Pablo Garza; Akira Corassani x Robbie Pearalta.(n)</desc>
@@ -2783,7 +2611,7 @@
   </programme>
   <programme start="20220429174500 +0000" stop="20220429183000 +0000" channel="GLOBO3">
     <title lang="pt">O Cravo E A Rosa</title>
-    <desc lang="pt">Comédia romântica inspirada no clássico 'A Megera Domada', de William Shakespeare, a novela é ambientada na São Paulo dos anos 1920 e narra o tumultuado romance entre o rude caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+    <desc lang="pt">Kiki traça plano com Dalva para desmascarar Dinorá. Mimosa estranha Marcela mexendo nos documentos de Batista. Marcela oferece dinheiro para que Berenice extraia informações de Joana. Januário conta a Mimosa que Calixto contava para todos sobre suas tentativas de beijo, ela fica furiosa. Catarina sugere que Joana teste a fidelidade de sua amiga Berenice. Cornélio desabafa com Dalva. Seguindo o plano, ela sugere que ele presenteie Dinorá com uma joia. Dinorá demonstra ter ciúmes de Celso. Joana mente e conta a Berenice que deu os filhos.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13519.jpg" />
   </programme>
   <programme start="20220429183000 +0000" stop="20220429200500 +0000" channel="GLOBO3">
@@ -2808,7 +2636,7 @@
   </programme>
   <programme start="20220429212500 +0000" stop="20220429221000 +0000" channel="GLOBO3">
     <title lang="pt">Além da Ilusão</title>
-    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+    <desc lang="pt">Eugênio chega ao cassino com Úrsula e se mantém afastado de Violeta. Joaquim exige que Iolanda desmascare Rafael. Bento avisa a Lorenzo que não voltará para o Brasil. Davi cai na armação de Joaquim. Iolanda diz que Rafael é pai de Toninho. Silvana consola Bento. Davi conversa com Margô e Iolanda. Leônidas sugere uma nova forma de tratamento para Matias. Úrsula tenta convencer Isadora a desistir de Rafael. Mariana exige ser locutora como Arminda. Davi procura Isadora. Isadora vai ao encontro de Iolanda.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14212.jpg" />
   </programme>
   <programme start="20220429221000 +0000" stop="20220429224000 +0000" channel="GLOBO3">
@@ -2818,7 +2646,7 @@
   </programme>
   <programme start="20220429224000 +0000" stop="20220429233000 +0000" channel="GLOBO3">
     <title lang="pt">Quanto Mais Vida, Melhor!</title>
-    <desc lang="pt">Na trama, Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+    <desc lang="pt">Guilherme pede para Flávia não revelar a verdade para Tigrão. Edson provoca Osvaldo na frente de Nedda. Flávia convida Neném e Paula para serem padrinhos de seu casamento. Cora sugere que Roni use o salão de Nedda para lavar dinheiro. Guilherme conversa com Neném sobre Tigrão. Cora insiste para que Roni fale com Nedda. Celina se desespera ao saber que Guilherme e Flávia vão se casar. Celina conta para Daniel sobre o casamento de Guilherme.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13334.jpg" />
   </programme>
   <programme start="20220429233000 +0000" stop="20220430003000 +0000" channel="GLOBO3">
@@ -2828,7 +2656,7 @@
   </programme>
   <programme start="20220430003000 +0000" stop="20220430013500 +0000" channel="GLOBO3">
     <title lang="pt">Pantanal</title>
-    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.(n)</desc>
+    <desc lang="pt">O Velho do Rio repreende Juma por ter mandado Jove embora. Tibério questiona Muda sobre sua presença na tapera de Juma. Juma não deixa Jove tirar uma foto sua. Guta decide ir embora com Jove e pede carona para Tadeu. Muda pensa em cumprir sua vingança contra Juma. Jove recrimina Tenório quando ele critica Guta. Jove tem uma longa conversa com José Leôncio. Tadeu ajuda Jove a fotografar o Pantanal. Juma e Muda são ameaçadas por um caçador.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14761.jpg" />
   </programme>
   <programme start="20220430013500 +0000" stop="20220430022500 +0000" channel="GLOBO3">
@@ -2838,7 +2666,7 @@
   </programme>
   <programme start="20220430022500 +0000" stop="20220430031000 +0000" channel="GLOBO3">
     <title lang="pt">Sessão Globoplay - S.W.A.T.</title>
-    <desc lang="pt">Dividido entre a corporação e as ruas, o tenente Daniel Harrelson encara a missão de liderar uma unidade do Esquadrão de Armas e Táticas Especiais na comunidade onde cresceu.(n)</desc>
+    <desc lang="pt">Hondo e uma antiga paixão unem forças para impedir um terrorista de fazer uma bomba nuclear. Luca disputa uma competição de arrecadação de fundos para caridade.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7077.jpg" />
   </programme>
   <programme start="20220430031000 +0000" stop="20220430040000 +0000" channel="GLOBO3">
@@ -2848,7 +2676,7 @@
   </programme>
   <programme start="20220430040000 +0000" stop="20220430044000 +0000" channel="GLOBO3">
     <title lang="pt">Conversa com Bial</title>
-    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <desc lang="pt">Papo com Eliane Giardini e Marcos Caruso, amigos de longa data que dividem o palco na peça “Intimidade Indecente”, em que interpretam um casal que se separa aos 50 anos, mas continua ligado enquanto envelhece.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg" />
   </programme>
   <programme start="20220430044000 +0000" stop="20220430061000 +0000" channel="GLOBO3">
@@ -2866,7 +2694,7 @@
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
     <country lang="pt">Americana</country>
   </programme>
-  <programme start="20220430061000 +0000" stop="20220430090000 +0000" channel="GLOBO3">
+  <programme start="20220430061000 +0000" stop="20220430072500 +0000" channel="GLOBO3">
     <title lang="pt">Corujão II - Operação Fronteira</title>
     <title lang="en">The Shepherd</title>
     <desc lang="pt">Uma unidade renegada das forças especiais dos Estados Unidos prepara um plano para contrabandear 35 milhões de dólares em heroína para o pais. A única resistência que eles encontram é um patrulheiro de fronteira, que é ex-policial da divisão de homicídios dedicado o bastante para enfrentar bandidos, homens-bomba, torturadores e até funcionários governamentais corruptos de ambos os lados da fronteira.(n)</desc>
@@ -2878,6 +2706,23 @@
       <actor>Gary McDonald</actor>
       <actor>Natalie Robb</actor>
       <actor>Daniel Perrone</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
+    <country lang="pt">Americana</country>
+  </programme>
+  <programme start="20220430072500 +0000" stop="20220430090000 +0000" channel="GLOBO3">
+    <title lang="pt">Corujão III - Dinheiro Sujo</title>
+    <title lang="en">Love Lies Bleeding</title>
+    <desc lang="pt">Casal sem dinheiro acaba ficando com uma mala de dólares depois de um tiroteio no prédio em que morava. Pensando em mudar de vida, eles fogem com a mala, provocando a fúria de um policial corrupto, que fará de tudo para recuperar seu dinheiro, e a suspeita de um detetive, determinado a revelar toda a verdade antes que seja tarde demais.(n)</desc>
+    <credits>
+      <director>Keith Samples</director>
+      <actor>Brian Geraghty</actor>
+      <actor>Jenna Dewan</actor>
+      <actor>Christian Slater</actor>
+      <actor>Craig Sheffer</actor>
+      <actor>Jacob Vargas</actor>
+      <actor>Tara Summers</actor>
     </credits>
     <category lang="pt">Ação</category>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg" />
@@ -2934,7 +2779,7 @@
   </programme>
   <programme start="20220430213500 +0000" stop="20220430222000 +0000" channel="GLOBO3">
     <title lang="pt">Além da Ilusão</title>
-    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+    <desc lang="pt">Iolanda afirma a Isadora que não quer se casar com Rafael. Onofre é demitido e volta a beber. Isadora exige que Rafael se case com Iolanda. Leônidas sofre ao ver Anastácia com Bartolomeu, e Matias o consola. Joaquim ouve Isadora se lamentar para Violeta e comemora o sucesso de seu plano. Úrsula explica como Joaquim deve convencer Iolanda a se casar com Rafael. Onofre descobre sobre Mércia e Natan e os denuncia à polícia. Joaquim e Davi se enfrentam.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14212.jpg" />
   </programme>
   <programme start="20220430222000 +0000" stop="20220430224500 +0000" channel="GLOBO3">
@@ -2944,7 +2789,7 @@
   </programme>
   <programme start="20220430224500 +0000" stop="20220430233000 +0000" channel="GLOBO3">
     <title lang="pt">Quanto Mais Vida, Melhor!</title>
-    <desc lang="pt">Na trama, Neném, Paula, Guilherme e Flávia não se conheciam até o dia em que o destino os coloca dentro do mesmo avião. Após passarem juntos pela experiência de encarar a Morte, eles ganham uma segunda chance.(n)</desc>
+    <desc lang="pt">Cora não gosta da aproximação de Roni e Tina. Guilherme e Flávia se casam. Trombada se oferece para trabalhar com Neném. Carmem coloca uma escuta na sala de Paula. Celina tenta convencer Daniel a interditar Guilherme. Neném e Trombada começam a treinar o time da escola. Roni procura Nedda. Paula decide ir ao show de Ingrid e Flávia. Guilherme conta sobre a Morte para Daniel. Neném se declara para Rose. Osvaldo ameaça Edson. Daniel concorda com a interdição de Guilherme. Neném impede Tina de sair com Roni.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13334.jpg" />
   </programme>
   <programme start="20220430233000 +0000" stop="20220501002500 +0000" channel="GLOBO3">
@@ -2954,7 +2799,7 @@
   </programme>
   <programme start="20220501002500 +0000" stop="20220501013000 +0000" channel="GLOBO3">
     <title lang="pt">Pantanal</title>
-    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.(n)</desc>
+    <desc lang="pt">Juma ataca o caçador, que foge desesperado. Jove e Tadeu veem um homem ser atacado por piranhas. Gustavo cozinha para Madeleine e Nayara. Jove defende Juma dos comentários dos peões. Muda tenta matar Juma. O Velho do Rio ajuda Jove a encontrar o caminho para a tapera de Juma. Zaquieu atrapalha uma live de Madeleine. Jove procura Juma.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14761.jpg" />
   </programme>
   <programme start="20220501013000 +0000" stop="20220501032000 +0000" channel="GLOBO3">
@@ -3061,7 +2906,7 @@
   </programme>
   <programme start="20220501185000 +0000" stop="20220501210000 +0000" channel="GLOBO3">
     <title lang="pt">Futebol</title>
-    <desc lang="pt">Siga ao vivo o Brasileirão, a Copa do Brasil e mais.(n)</desc>
+    <desc lang="pt">Coritiba x Fluminense.(n)</desc>
     <icon src="https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14066.png" />
   </programme>
   <programme start="20220501210000 +0000" stop="20220501233000 +0000" channel="GLOBO3">
@@ -3712,7 +3557,7 @@
   <programme start="20220429004500 +0000" stop="20220429014500 +0000" channel="RECORD3">
     <title lang="pt">Jesus - A Série</title>
     <desc lang="pt">Acompanhe a trajetória de Jesus de antes do nascimento à ressurreição, passando pelos milagres e o calvário da via crúcis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os apóstolos.(n)</desc>
-    <episode-num system="onscreen">S26 E214</episode-num>
+    <episode-num system="onscreen">S27 E214</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -3861,7 +3706,7 @@
   <programme start="20220430004500 +0000" stop="20220430014500 +0000" channel="RECORD3">
     <title lang="pt">Jesus - A Série</title>
     <desc lang="pt">Acompanhe a trajetória de Jesus de antes do nascimento à ressurreição, passando pelos milagres e o calvário da via crúcis. Saiba como era a vida de algumas pessoas que foram curadas por Ele e quem eram os apóstolos.(n)</desc>
-    <episode-num system="onscreen">S26 E214</episode-num>
+    <episode-num system="onscreen">S27 E214</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -4081,17 +3926,6 @@
     <title lang="pt">Canta Comigo</title>
     <desc lang="pt">Artistas dos mais diversos estilos em performances individuais ou em grupo devem trazer todo o seu talento e carisma para o palco.(n)</desc>
     <episode-num system="onscreen">S18 E121</episode-num>
-  </programme>
-  <programme start="20220429080000 +0000" stop="20220429100000 +0000" channel="ESPN HD3">
-    <title lang="pt">Conmebol Libertadores: Universidad Católica (CHI) x Flamengo : 2022</title>
-    <sub-title lang="pt">2022</sub-title>
-    <desc lang="pt">A verdadeira obsessão dos clubes da América do Sul e a grande paixão dos torcedores. A CONMEBOL Libertadores reúne todos os anos as melhores equipes de Brasil, Argentina e outros países. O objetivo de todos? O troféu e a glória eterna.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697439_726DDBCEA5258C30.jpg" />
-    <country lang="pt">Chile</country>
-    <rating>
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20220429100000 +0000" stop="20220429120000 +0000" channel="ESPN HD3">
     <title lang="pt">Linha de Passe: Mesa-redonda</title>
@@ -4480,15 +4314,6 @@
     <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/24/8246294_E648842364A6A1DD.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429080000 +0000" stop="20220429110000 +0000" channel="ESPN2 HD3">
-    <title lang="pt">NFL Draft</title>
-    <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes promessas do esporte com a escolha do Draft. Fique ligado e confira quem serão as novas estrelas da NFL e conquistar fãs por todo o planeta.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/72/10720766_2884FDA3A7420B44.png" />
     <rating>
       <value>L</value>
     </rating>
@@ -4953,24 +4778,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20220429073000 +0000" stop="20220429100000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">NBA: Denver Nuggets x Golden State Warriors</title>
-    <desc lang="pt">A ESPN tem a melhor cobertura da NBA, a mais importante liga de basquete do mundo. Toda semana, as maiores estrelas do esporte se enfrentam em duelos emocionantes.(n)</desc>
-    <category lang="pt">Basquete</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/13/9138311_F45A8EE3995840A1.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429100000 +0000" stop="20220429110000 +0000" channel="ESPN3 HD3">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/91/6910645_89C64FC3C946F415.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20220429110000 +0000" stop="20220429143000 +0000" channel="ESPN3 HD3">
     <title lang="pt">NFL Draft</title>
     <desc lang="pt">O futebol americano é o esporte mais popular dos Estados Unidos. A NFL reúne as grandes promessas do esporte com a escolha do Draft. Fique ligado e confira quem serão as novas estrelas da NFL e conquistar fãs por todo o planeta.(n)</desc>
@@ -5363,24 +5170,6 @@
     <desc lang="pt">Beisebol. A MLB reúne 30 equipes norte-americanas no mais antigo e importante campeonato de beisebol do mundo. As grandes estrelas disputam, a cada rebatida, o aclamado título da World Series.(n)</desc>
     <category lang="pt">Beisebol</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/73/10738473_2BFCAAED877DFE6D.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429083000 +0000" stop="20220429103000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">UEFA Europa League: West Ham x Eintracht Frankfurt</title>
-    <desc lang="pt">A UEFA Europa League é a segunda competição continental mais importante da Europa. Veja clubes tradicionais em busca do título e também do prêmio principal: uma vaga na UEFA Champions League.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697394_08254E7624382006.jpg" />
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20220429103000 +0000" stop="20220429123000 +0000" channel="ESPNEX HD3">
-    <title lang="pt">UEFA Europa Conference League: Feyenoord x Olympique de Marseille</title>
-    <desc lang="pt">Considerada a terceira competição europeia mais importante, atrás da UEFA Champions League e da UEFA Europa League, a UEFA Europa Conference League reúne 32 equipas que vão buscar o maior prêmio numa competição.(n)</desc>
-    <category lang="pt">Futebol</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/69/10697397_72DF016229F93E60.jpg" />
     <rating>
       <value>L</value>
     </rating>
@@ -5845,12 +5634,12 @@
     <desc lang="pt">Inspirada em Janaki Ammal, Rita prepara um cardápio indiano: arroz biryani com frango, dal (ensopado) de ervilha seca e iogurte com coentro. Para sobremesa, um kulfi de manga.(n)</desc>
     <episode-num system="onscreen">S15 E10</episode-num>
   </programme>
-  <programme start="20220429131500 +0000" stop="20220429141000 +0000" channel="GNT3">
+  <programme start="20220429131500 +0000" stop="20220429141500 +0000" channel="GNT3">
     <title lang="pt">Cook Island: Ilha Do</title>
     <desc lang="pt">As Ilhas de Marajó e Fernando de Noronha são protagonistas da Prova Rústica. Com os ânimos abatidos, os perdedores trabalham com frutos do mar, e 2 duelam no preparo da lagosta em 15 minutos.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220429141000 +0000" stop="20220429144500 +0000" channel="GNT3">
+  <programme start="20220429141500 +0000" stop="20220429144500 +0000" channel="GNT3">
     <title lang="pt">Que Marravilha! Delivery</title>
     <desc lang="pt">Claude Troisgros, com a ajuda do Batista, cria um Cassoulet de dois especial para o jantar dos namorados Juracy e Maurício. O delivery chega quentinho pelas mãos do próprio chef!(n)</desc>
     <episode-num system="onscreen">S23 E10</episode-num>
@@ -5865,30 +5654,30 @@
     <desc lang="pt">No episódio dedicado à Holanda, os confeiteiros trazem ao programa dois doces muito especiais: poffertjes e cupcakes em formato de tulipa.(n)</desc>
     <episode-num system="onscreen">S8 E24</episode-num>
   </programme>
-  <programme start="20220429161500 +0000" stop="20220429163000 +0000" channel="GNT3">
+  <programme start="20220429161500 +0000" stop="20220429161600 +0000" channel="GNT3">
     <title lang="pt">Cordel da Gente</title>
     <desc lang="pt">Vitória Rodrigues conta um pouco da história de Cacique Pequena, a primeira mulher cacique brasileira, do povo Jenipapo-Kanindé.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220429163000 +0000" stop="20220429173000 +0000" channel="GNT3">
+  <programme start="20220429161600 +0000" stop="20220429172200 +0000" channel="GNT3">
     <title lang="pt">Saia Justa</title>
-    <desc lang="pt">Saia Justa 2022.(n)</desc>
-    <episode-num system="onscreen">S21 E5</episode-num>
+    <desc lang="pt">Astrid Fontenelle comanda o Saia Justa ao lado de Larissa Luz, Luana Xavier e Sabrina Sato. No sofá com elas, Maitê Proença abre as comemorações de 20 anos do programa.(n)</desc>
+    <episode-num system="onscreen">S21 E4</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220429173000 +0000" stop="20220429181500 +0000" channel="GNT3">
+  <programme start="20220429172200 +0000" stop="20220429181000 +0000" channel="GNT3">
     <title lang="pt">Decora</title>
     <desc lang="pt">"Na casa das cinco mulheres sala é sinônimo de trabalho. É creche, ateliê de moda, salão de beleza e loja de salgadinhos. E o Decora vai lá, dar um jeito nesse cômodo multiuso.".(n)</desc>
     <episode-num system="onscreen">S18 E4</episode-num>
   </programme>
-  <programme start="20220429181500 +0000" stop="20220429183000 +0000" channel="GNT3">
-    <title lang="pt">Plante Você Mesmo</title>
-    <desc lang="pt">Carol Costa ensina a identificar e tratar os principais sinais de deficiência das plantas, como estiolamento, perda de folhas, aparecimento de trevos e palidez.(n)</desc>
+  <programme start="20220429181000 +0000" stop="20220429182300 +0000" channel="GNT3">
+    <title lang="pt">S.A.V.E. - Serviço de Atendimento ao Verdinho</title>
+    <desc lang="pt">Carol Costa responde às maiores dúvidas enviadas para o Casa GNT e para suas redes sociais sobre planta para quarto, o que fazer quando um ambiente é quente demais para as verdinhas e muito mais.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220429183000 +0000" stop="20220429193000 +0000" channel="GNT3">
+  <programme start="20220429182300 +0000" stop="20220429193000 +0000" channel="GNT3">
     <title lang="pt">Decora</title>
     <desc lang="pt">Vida de adolescente não é fácil. Ainda mais se seu estilo é rock'n'roll, mas seu quarto ainda parece de criancinha... Desafio pro Decora!(n)</desc>
     <episode-num system="onscreen">S12 E5</episode-num>
@@ -5918,12 +5707,12 @@
     <desc lang="pt">Os confeiteiros nos mostram todo o poder das especiarias indianas preparando um simples e delicioso gulab jamun e criando um doce livre com manga.(n)</desc>
     <episode-num system="onscreen">S8 E25</episode-num>
   </programme>
-  <programme start="20220429224000 +0000" stop="20220429234000 +0000" channel="GNT3">
+  <programme start="20220429224000 +0000" stop="20220429234800 +0000" channel="GNT3">
     <title lang="pt">Que Seja Doce</title>
     <desc lang="pt">Os confeiteiros nos mostram todo o poder das especiarias indianas preparando um simples e delicioso gulab jamun e criando um doce livre com manga.(n)</desc>
     <episode-num system="onscreen">S8 E25</episode-num>
   </programme>
-  <programme start="20220429234000 +0000" stop="20220430001500 +0000" channel="GNT3">
+  <programme start="20220429234800 +0000" stop="20220430001500 +0000" channel="GNT3">
     <title lang="pt">Cozinha Prática com Rita Lobo</title>
     <desc lang="pt">Rita Lobo ensina a usar até a última migalha de pão! Fresco ou amanhecido, ele vira ingrediente de receitas deliciosas como o ajo blanco, uma sopa fria espanhola de amêndoas.(n)</desc>
     <episode-num system="onscreen">S14 E29</episode-num>
@@ -5935,20 +5724,20 @@
   </programme>
   <programme start="20220430004500 +0000" stop="20220430011500 +0000" channel="GNT3">
     <title lang="pt">Tempero de Família</title>
-    <desc lang="pt">Rodrigo Hilbert aprendeu e se interessou pela cozinha vendo e ajudando a mãe e a avó. Deste convívio, ele pegou o gosto pelo fogão e adaptou à sua vida de hoje.(n)</desc>
-    <episode-num system="onscreen">S21 E119</episode-num>
+    <desc lang="pt">Rodrigo recebe Tiago Abravanel que fala sobre sua mania por pijamas e travesseiros. Eles preparam juntos: Iogurte, Mousse de iogurte com calda de morango, Pão francês e Pastinha de ovo com bacon.(n)</desc>
+    <episode-num system="onscreen">S13 E4</episode-num>
   </programme>
   <programme start="20220430011500 +0000" stop="20220430014500 +0000" channel="GNT3">
     <title lang="pt">Tempero de Família</title>
-    <desc lang="pt">Rodrigo Hilbert aprendeu e se interessou pela cozinha vendo e ajudando a mãe e a avó. Deste convívio, ele pegou o gosto pelo fogão e adaptou à sua vida de hoje.(n)</desc>
-    <episode-num system="onscreen">S22 E119</episode-num>
+    <desc lang="pt">Rodrigo conversa com Fernanda Souza, que conta do que sente saudade e faz doce da infância para Rodrigo. Eles preparam: Penne com calabresa e Alfajor com recheio de leite condensado e achocolatado.(n)</desc>
+    <episode-num system="onscreen">S12 E20</episode-num>
   </programme>
-  <programme start="20220430014500 +0000" stop="20220430023000 +0000" channel="GNT3">
+  <programme start="20220430014500 +0000" stop="20220430023500 +0000" channel="GNT3">
     <title lang="pt">Decora</title>
     <desc lang="pt">A lavanderia antiga é o único acesso para área de lazer da casa, obrigando as visitas a passarem por ali. Por isso eles chamaram o Decora, pra deixar o cômodo com um visual melhor.(n)</desc>
     <episode-num system="onscreen">S18 E5</episode-num>
   </programme>
-  <programme start="20220430023000 +0000" stop="20220430024500 +0000" channel="GNT3">
+  <programme start="20220430023500 +0000" stop="20220430024500 +0000" channel="GNT3">
     <title lang="pt">Pode Entrar</title>
     <desc lang="pt">Roberta Sá abre as portas do seu apartamento em Copacabana, no Rio de Janeiro, para mostrar sua sala integrada com a cozinha, além da belíssima vista para o mar e o Pão-de-Açúcar.(n)</desc>
     <episode-num system="onscreen">S2 E7</episode-num>
@@ -5958,12 +5747,12 @@
     <desc lang="pt">Mariana Xavier abre as portas de sua casa, no Rio de Janeiro, para mostrar sua sala com objetos afetivos, varanda, onde relaxa e se exercita, quarto principal e de hóspedes e banheiro.(n)</desc>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20220430030000 +0000" stop="20220430040000 +0000" channel="GNT3">
+  <programme start="20220430030000 +0000" stop="20220430040500 +0000" channel="GNT3">
     <title lang="pt">Cook Island: Ilha Do</title>
     <desc lang="pt">As Ilhas de Marajó e Fernando de Noronha são protagonistas da Prova Rústica. Com os ânimos abatidos, os perdedores trabalham com frutos do mar, e 2 duelam no preparo da lagosta em 15 minutos.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220430040000 +0000" stop="20220430050000 +0000" channel="GNT3">
+  <programme start="20220430040500 +0000" stop="20220430050000 +0000" channel="GNT3">
     <title lang="pt">Decora</title>
     <desc lang="pt">Vida de adolescente não é fácil. Ainda mais se seu estilo é rock'n'roll, mas seu quarto ainda parece de criancinha... Desafio pro Decora!(n)</desc>
     <episode-num system="onscreen">S12 E5</episode-num>
@@ -5978,7 +5767,7 @@
     <desc lang="pt">Rita Lobo mostra receitas com um alimento que tem tudo a ver com transformação, o ovo! Ele vira shakshuka, fritata, salada e mini pavlovas tropicais com creme de maracujá e frutas.(n)</desc>
     <episode-num system="onscreen">S14 E30</episode-num>
   </programme>
-  <programme start="20220430060000 +0000" stop="20220430064500 +0000" channel="GNT3">
+  <programme start="20220430060000 +0000" stop="20220430065000 +0000" channel="GNT3">
     <title lang="pt">Olho Mágico - Reforma de Vizinhos</title>
     <desc lang="pt">Gisele e Giscar são dois vizinhos com estilos diferentes apesar de acumularem muitas coincidências.(n)</desc>
     <episode-num system="onscreen">S1 E21</episode-num>
@@ -5986,12 +5775,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220430064500 +0000" stop="20220430073000 +0000" channel="GNT3">
+  <programme start="20220430065000 +0000" stop="20220430073500 +0000" channel="GNT3">
     <title lang="pt">Decora</title>
     <desc lang="pt">A lavanderia antiga é o único acesso para área de lazer da casa, obrigando as visitas a passarem por ali. Por isso eles chamaram o Decora, pra deixar o cômodo com um visual melhor.(n)</desc>
     <episode-num system="onscreen">S18 E5</episode-num>
   </programme>
-  <programme start="20220430073000 +0000" stop="20220430083000 +0000" channel="GNT3">
+  <programme start="20220430073500 +0000" stop="20220430083000 +0000" channel="GNT3">
     <title lang="pt">The Taste Brasil</title>
     <desc lang="pt">(Reality Show) O café brasileiro é um dos mais importantes do mundo. Por isso, o tema desse episódio realça e valoriza o nosso melhor produto nacional... mas, claro, na comida. A convidada é uma especialista no assunto: Is...(n)</desc>
     <episode-num system="onscreen">S2 E5</episode-num>
@@ -6529,7 +6318,7 @@
   <programme start="20220430003000 +0000" stop="20220430013000 +0000" channel="MULTI3">
     <title lang="pt">Big Brother Brasil 22 - A Eliminação</title>
     <desc lang="pt">A dupla Ana Clara e Bruno de Luca vai receber o eliminado da vez para um bate-papo quente e divertido sobre o jogo, que conta com a participação do público e de convidados especiais.(n)</desc>
-    <episode-num system="onscreen">S27 E119</episode-num>
+    <episode-num system="onscreen">S29 E213</episode-num>
     <rating system="BR">
       <value>12</value>
     </rating>
@@ -6573,7 +6362,7 @@
   <programme start="20220430072400 +0000" stop="20220430082400 +0000" channel="MULTI3">
     <title lang="pt">Big Brother Brasil 22 - A Eliminação</title>
     <desc lang="pt">A dupla Ana Clara e Bruno de Luca vai receber o eliminado da vez para um bate-papo quente e divertido sobre o jogo, que conta com a participação do público e de convidados especiais.(n)</desc>
-    <episode-num system="onscreen">S27 E120</episode-num>
+    <episode-num system="onscreen">S29 E213</episode-num>
     <rating system="BR">
       <value>12</value>
     </rating>
@@ -6623,7 +6412,7 @@
   <programme start="20220430120000 +0000" stop="20220430130000 +0000" channel="MULTI3">
     <title lang="pt">Big Brother Brasil 22 - A Eliminação</title>
     <desc lang="pt">A dupla Ana Clara e Bruno de Luca vai receber o eliminado da vez para um bate-papo quente e divertido sobre o jogo, que conta com a participação do público e de convidados especiais.(n)</desc>
-    <episode-num system="onscreen">S27 E120</episode-num>
+    <episode-num system="onscreen">S29 E213</episode-num>
     <rating system="BR">
       <value>12</value>
     </rating>
@@ -6693,7 +6482,7 @@
   <programme start="20220430200000 +0000" stop="20220430210000 +0000" channel="MULTI3">
     <title lang="pt">Big Brother Brasil 22 - A Eliminação</title>
     <desc lang="pt">A dupla Ana Clara e Bruno de Luca vai receber o eliminado da vez para um bate-papo quente e divertido sobre o jogo, que conta com a participação do público e de convidados especiais.(n)</desc>
-    <episode-num system="onscreen">S27 E120</episode-num>
+    <episode-num system="onscreen">S29 E213</episode-num>
     <rating system="BR">
       <value>12</value>
     </rating>
@@ -6738,7 +6527,7 @@
   </programme>
   <programme start="20220501001500 +0000" stop="20220501061500 +0000" channel="MULTI3">
     <title lang="pt">Desfile das Campeãs</title>
-    <desc lang="pt">Sinopse não disponível.(n)</desc>
+    <desc lang="pt">Transmissão ao vivo do Desfile das Campeãs do Carnaval 2022, diretamente da Apoteose, no Rio de Janeiro, com apresentação de Milton Cunha, Laura Vicente, Briti do Tô de Graça, Cacau Protásio, Mari Gonzalez e mais.(n)</desc>
   </programme>
   <programme start="20220501061500 +0000" stop="20220501083000 +0000" channel="MULTI3">
     <title lang="pt">Top TVZ</title>
@@ -6926,7 +6715,7 @@
   <programme start="20220429031700 +0000" stop="20220429040000 +0000" channel="OFF3">
     <title lang="pt">OFF Docs: Inside Kilian Jornet</title>
     <desc lang="pt">O documentário acompanha um ano na vida de Kilian Jornet, o principal montanhista do mundo, um ano que ele considera simultaneamente o melhor e o pior da vida.(n)</desc>
-    <episode-num system="onscreen">S29 E1</episode-num>
+    <episode-num system="onscreen">S27 E163</episode-num>
   </programme>
   <programme start="20220429040000 +0000" stop="20220429043000 +0000" channel="OFF3">
     <title lang="pt">Alasca: Terra Grandiosa</title>
@@ -6976,7 +6765,7 @@
   <programme start="20220429083000 +0000" stop="20220429090000 +0000" channel="OFF3">
     <title lang="pt">Jovens Por Natureza</title>
     <desc lang="pt">Sherre Nelson é uma triatleta americana de 66 anos que mora no Brasil há 40 anos. Sua paixão por natação, ciclismo e corrida a levou a participar de competições nacionais e internacionais.(n)</desc>
-    <episode-num system="onscreen">S29 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220429090000 +0000" stop="20220429093000 +0000" channel="OFF3">
     <title lang="pt">Pela Rua</title>
@@ -7021,7 +6810,7 @@
   <programme start="20220429135000 +0000" stop="20220429143200 +0000" channel="OFF3">
     <title lang="pt">OFF Docs: Inside Kilian Jornet</title>
     <desc lang="pt">O documentário acompanha um ano na vida de Kilian Jornet, o principal montanhista do mundo, um ano que ele considera simultaneamente o melhor e o pior da vida.(n)</desc>
-    <episode-num system="onscreen">S29 E1</episode-num>
+    <episode-num system="onscreen">S27 E163</episode-num>
   </programme>
   <programme start="20220429143200 +0000" stop="20220429150000 +0000" channel="OFF3">
     <title lang="pt">Vida do Bob</title>
@@ -7036,7 +6825,7 @@
   <programme start="20220429153000 +0000" stop="20220429160000 +0000" channel="OFF3">
     <title lang="pt">Jovens Por Natureza</title>
     <desc lang="pt">Sherre Nelson é uma triatleta americana de 66 anos que mora no Brasil há 40 anos. Sua paixão por natação, ciclismo e corrida a levou a participar de competições nacionais e internacionais.(n)</desc>
-    <episode-num system="onscreen">S29 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220429160000 +0000" stop="20220429163000 +0000" channel="OFF3">
     <title lang="pt">Novas Estrelas Do Surfe</title>
@@ -7116,7 +6905,7 @@
   <programme start="20220430003000 +0000" stop="20220430010000 +0000" channel="OFF3">
     <title lang="pt">Jovens Por Natureza</title>
     <desc lang="pt">Sherre Nelson é uma triatleta americana de 66 anos que mora no Brasil há 40 anos. Sua paixão por natação, ciclismo e corrida a levou a participar de competições nacionais e internacionais.(n)</desc>
-    <episode-num system="onscreen">S29 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220430010000 +0000" stop="20220430013000 +0000" channel="OFF3">
     <title lang="pt">Nalu E Zay Pelo Mundo</title>
@@ -7126,7 +6915,7 @@
   <programme start="20220430013000 +0000" stop="20220430020000 +0000" channel="OFF3">
     <title lang="pt">Skate a Mais de 100</title>
     <desc lang="pt">Nossos três campeões estão diante do "Cavalo Doido.(n)</desc>
-    <episode-num system="onscreen">S28 E2</episode-num>
+    <episode-num system="onscreen">S27 E2</episode-num>
   </programme>
   <programme start="20220430020000 +0000" stop="20220430023000 +0000" channel="OFF3">
     <title lang="pt">Alasca: Terra Grandiosa</title>
@@ -7138,20 +6927,20 @@
     <desc lang="pt">Julia e Marina exploram a ilha de Coron, um dos lugares mais famosos das Filipinas. Elas pedalam até o Monte Tundalara e depois fazem um trekking até seu cume. O visual do local é impressionante.(n)</desc>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20220430030000 +0000" stop="20220430040000 +0000" channel="OFF3">
+  <programme start="20220430030000 +0000" stop="20220430043200 +0000" channel="OFF3">
     <title lang="pt">OFF Films: Og: The Harry Jumonji Story</title>
     <desc lang="pt">A conturbada vida do lendário skatista brasileiro Harry Jumonji, um dos pioneiros do skate de rua de Nova York.(n)</desc>
-    <episode-num system="onscreen">S26 E103</episode-num>
+    <episode-num system="onscreen">S28 E10</episode-num>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220430040000 +0000" stop="20220430050000 +0000" channel="OFF3">
+  <programme start="20220430043200 +0000" stop="20220430050200 +0000" channel="OFF3">
     <title lang="pt">OFF Films: Dark Matter</title>
     <desc lang="pt">Os snowboarders Travis Rice e Elias Elhardt se juntam ao lendário diretor Curt Morgan para uma celebração de tempo e espaço filmada no interior profundo do Alasca, exclusivamente em Tordrillo Mountain Lodge.(n)</desc>
-    <episode-num system="onscreen">S26 E113</episode-num>
+    <episode-num system="onscreen">S28 E20</episode-num>
   </programme>
-  <programme start="20220430050000 +0000" stop="20220430053000 +0000" channel="OFF3">
+  <programme start="20220430050200 +0000" stop="20220430053000 +0000" channel="OFF3">
     <title lang="pt">OFF Makers</title>
     <desc lang="pt">Produção, edição, sonorização e finalização do conteúdo OFF Makers 2022.(n)</desc>
     <episode-num system="onscreen">S29 E17</episode-num>
@@ -7257,7 +7046,7 @@
   <programme start="20220430163000 +0000" stop="20220430170000 +0000" channel="OFF3">
     <title lang="pt">Jovens Por Natureza</title>
     <desc lang="pt">Sherre Nelson é uma triatleta americana de 66 anos que mora no Brasil há 40 anos. Sua paixão por natação, ciclismo e corrida a levou a participar de competições nacionais e internacionais.(n)</desc>
-    <episode-num system="onscreen">S26 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220430170000 +0000" stop="20220430173000 +0000" channel="OFF3">
     <title lang="pt">Lost In</title>
@@ -7277,7 +7066,7 @@
   <programme start="20220430183000 +0000" stop="20220430190000 +0000" channel="OFF3">
     <title lang="pt">Missão: Antártida</title>
     <desc lang="pt">A equipe chega no canal Lamaire, onde todo o gelo vindo do norte se encontra em um grande V. Marcela monta o Kitesurf e veleja no mar da Antártida; Pedro busca icebergs para escorregar de caiaque.(n)</desc>
-    <episode-num system="onscreen">S26 E7</episode-num>
+    <episode-num system="onscreen">S27 E7</episode-num>
   </programme>
   <programme start="20220430190000 +0000" stop="20220430193000 +0000" channel="OFF3">
     <title lang="pt">Maré das Marias</title>
@@ -7322,11 +7111,11 @@
   <programme start="20220430230000 +0000" stop="20220430233000 +0000" channel="OFF3">
     <title lang="pt">Jovens Por Natureza</title>
     <desc lang="pt">Sherre Nelson é uma triatleta americana de 66 anos que mora no Brasil há 40 anos. Sua paixão por natação, ciclismo e corrida a levou a participar de competições nacionais e internacionais.(n)</desc>
-    <episode-num system="onscreen">S26 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220430233000 +0000" stop="20220501000000 +0000" channel="OFF3">
     <title lang="pt">Bono, O Cão Surfista</title>
-    <desc lang="pt">Bono e Ivan são um dupla de surfistas, homem e cachorro, que já desbravou vários lugares do mundo atrás das ondas. Agora a família cresceu e ganhou novos integrantes.(n)</desc>
+    <desc lang="pt">O destino da Família Surf Dog dessa vez é o vilarejo de Santo André na Bahia, um lugar com uma beleza natural incrível, pouco conhecido e fora do roteiro tradicional baiano.(n)</desc>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20220501000000 +0000" stop="20220501003000 +0000" channel="OFF3">
@@ -7337,7 +7126,7 @@
   <programme start="20220501003000 +0000" stop="20220501010000 +0000" channel="OFF3">
     <title lang="pt">Missão: Antártida</title>
     <desc lang="pt">A equipe chega no canal Lamaire, onde todo o gelo vindo do norte se encontra em um grande V. Marcela monta o Kitesurf e veleja no mar da Antártida; Pedro busca icebergs para escorregar de caiaque.(n)</desc>
-    <episode-num system="onscreen">S26 E7</episode-num>
+    <episode-num system="onscreen">S27 E7</episode-num>
   </programme>
   <programme start="20220501010000 +0000" stop="20220501013000 +0000" channel="OFF3">
     <title lang="pt">Maré das Marias</title>
@@ -7387,7 +7176,7 @@
   <programme start="20220501060000 +0000" stop="20220501070000 +0000" channel="OFF3">
     <title lang="pt">OFF Docs: Stab In The Dark: All Stars</title>
     <desc lang="pt">A Stab Magazine reuniu os tops: Dane Reynolds, Jordy Smith e Mick Fanning, para elegerem a melhor prancha dentre os 3 shapers vencedores das versões anteriores do Stab in the dark. Qual será a prancha mágica dos tops?(n)</desc>
-    <episode-num system="onscreen">S26 E160</episode-num>
+    <episode-num system="onscreen">S28 E121</episode-num>
   </programme>
   <programme start="20220501070000 +0000" stop="20220501073000 +0000" channel="OFF3">
     <title lang="pt">OFF Docs: La Luce Infinita</title>
@@ -7397,7 +7186,7 @@
   <programme start="20220501073000 +0000" stop="20220501080000 +0000" channel="OFF3">
     <title lang="pt">OFF Docs: Inside Kilian Jornet</title>
     <desc lang="pt">O documentário acompanha um ano na vida de Kilian Jornet, o principal montanhista do mundo, um ano que ele considera simultaneamente o melhor e o pior da vida.(n)</desc>
-    <episode-num system="onscreen">S26 E201</episode-num>
+    <episode-num system="onscreen">S27 E163</episode-num>
   </programme>
   <programme start="20220501080000 +0000" stop="20220501083000 +0000" channel="OFF3">
     <title lang="pt">O Outro Lado do Circuito Mundial</title>
@@ -7406,7 +7195,7 @@
   </programme>
   <programme start="20220501083000 +0000" stop="20220501090000 +0000" channel="OFF3">
     <title lang="pt">Bono, O Cão Surfista</title>
-    <desc lang="pt">Bono e Ivan são um dupla de surfistas, homem e cachorro, que já desbravou vários lugares do mundo atrás das ondas. Agora a família cresceu e ganhou novos integrantes.(n)</desc>
+    <desc lang="pt">O destino da Família Surf Dog dessa vez é o vilarejo de Santo André na Bahia, um lugar com uma beleza natural incrível, pouco conhecido e fora do roteiro tradicional baiano.(n)</desc>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20220501090000 +0000" stop="20220501093000 +0000" channel="OFF3">
@@ -7417,7 +7206,7 @@
   <programme start="20220501093000 +0000" stop="20220501100000 +0000" channel="OFF3">
     <title lang="pt">Novas Estrelas Do Surfe</title>
     <desc lang="pt">Talentosa e dedicada, Caity Simmers tem apenas 15 anos e é natural da Califórnia. Ela vem ganhando diversos campeonatos de surfe e tem potencial para ser campeã mundial.(n)</desc>
-    <episode-num system="onscreen">S26 E6</episode-num>
+    <episode-num system="onscreen">S28 E6</episode-num>
   </programme>
   <programme start="20220501100000 +0000" stop="20220501103000 +0000" channel="OFF3">
     <title lang="pt">The Challenge</title>
@@ -7477,11 +7266,11 @@
   <programme start="20220501153000 +0000" stop="20220501160000 +0000" channel="OFF3">
     <title lang="pt">Novas Estrelas Do Surfe</title>
     <desc lang="pt">Talentosa e dedicada, Caity Simmers tem apenas 15 anos e é natural da Califórnia. Ela vem ganhando diversos campeonatos de surfe e tem potencial para ser campeã mundial.(n)</desc>
-    <episode-num system="onscreen">S26 E6</episode-num>
+    <episode-num system="onscreen">S28 E6</episode-num>
   </programme>
   <programme start="20220501160000 +0000" stop="20220501163000 +0000" channel="OFF3">
     <title lang="pt">Bono, O Cão Surfista</title>
-    <desc lang="pt">Bono e Ivan são um dupla de surfistas, homem e cachorro, que já desbravou vários lugares do mundo atrás das ondas. Agora a família cresceu e ganhou novos integrantes.(n)</desc>
+    <desc lang="pt">O destino da Família Surf Dog dessa vez é o vilarejo de Santo André na Bahia, um lugar com uma beleza natural incrível, pouco conhecido e fora do roteiro tradicional baiano.(n)</desc>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20220501163000 +0000" stop="20220501170000 +0000" channel="OFF3">
@@ -12030,7 +11819,7 @@
   <programme start="20220429030000 +0000" stop="20220429034800 +0000" channel="WORLD3">
     <title lang="pt">Partiu Aventura: Dinossauros, Drive-ins e Dunas</title>
     <desc lang="pt">Travel Channel entra na estrada para cinco novas viagens, apresentando o melhor em comida, diversão e hotéis em todo o país.(n)</desc>
-    <episode-num system="onscreen">S28 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220429034800 +0000" stop="20220429043600 +0000" channel="WORLD3">
     <title lang="pt">Na Estrada: Itália</title>
@@ -12058,7 +11847,7 @@
   <programme start="20220429061200 +0000" stop="20220429070000 +0000" channel="WORLD3">
     <title lang="pt">Reforma Radical</title>
     <desc lang="pt">Jay Chaiken viaja para um rancho nas Montanhas Rochosas do Colorado para transformar um ônibus dos anos 40 em um chalé montanhês. O projeto também celebra a história da música local.(n)</desc>
-    <episode-num system="onscreen">S29 E4</episode-num>
+    <episode-num system="onscreen">S27 E4</episode-num>
   </programme>
   <programme start="20220429070000 +0000" stop="20220429074800 +0000" channel="WORLD3">
     <title lang="pt">Italianos Made In China</title>
@@ -12115,7 +11904,7 @@
   <programme start="20220429110000 +0000" stop="20220429114800 +0000" channel="WORLD3">
     <title lang="pt">Reforma Radical</title>
     <desc lang="pt">Jay Chaiken viaja para um rancho nas Montanhas Rochosas do Colorado para transformar um ônibus dos anos 40 em um chalé montanhês. O projeto também celebra a história da música local.(n)</desc>
-    <episode-num system="onscreen">S29 E4</episode-num>
+    <episode-num system="onscreen">S27 E4</episode-num>
   </programme>
   <programme start="20220429114800 +0000" stop="20220429123600 +0000" channel="WORLD3">
     <title lang="pt">Italianos Made In China</title>
@@ -12192,7 +11981,7 @@
   <programme start="20220429172400 +0000" stop="20220429181200 +0000" channel="WORLD3">
     <title lang="pt">Partiu Aventura: Dinossauros, Drive-ins e Dunas</title>
     <desc lang="pt">Travel Channel entra na estrada para cinco novas viagens, apresentando o melhor em comida, diversão e hotéis em todo o país.(n)</desc>
-    <episode-num system="onscreen">S28 E3</episode-num>
+    <episode-num system="onscreen">S27 E3</episode-num>
   </programme>
   <programme start="20220429181200 +0000" stop="20220429190000 +0000" channel="WORLD3">
     <title lang="pt">Na Estrada: Itália</title>
@@ -12246,7 +12035,7 @@
   <programme start="20220429221200 +0000" stop="20220429230000 +0000" channel="WORLD3">
     <title lang="pt">Glamping - Acampando com Estilo</title>
     <desc lang="pt">A luxuosa forma de acampar oferece uma experiência de proximidade com a natureza que inclui todos os confortos. De mordomos a chefs especializados em sushis, veja como acampar sem perder a elegância.(n)</desc>
-    <episode-num system="onscreen">S28 E142</episode-num>
+    <episode-num system="onscreen">S27 E44</episode-num>
   </programme>
   <programme start="20220429230000 +0000" stop="20220429234800 +0000" channel="WORLD3">
     <title lang="pt">Alasca em Grande Estilo</title>
@@ -12303,7 +12092,7 @@
   <programme start="20220430030000 +0000" stop="20220430034800 +0000" channel="WORLD3">
     <title lang="pt">Glamping - Acampando com Estilo</title>
     <desc lang="pt">A luxuosa forma de acampar oferece uma experiência de proximidade com a natureza que inclui todos os confortos. De mordomos a chefs especializados em sushis, veja como acampar sem perder a elegância.(n)</desc>
-    <episode-num system="onscreen">S26 E120</episode-num>
+    <episode-num system="onscreen">S27 E44</episode-num>
   </programme>
   <programme start="20220430034800 +0000" stop="20220430043600 +0000" channel="WORLD3">
     <title lang="pt">Alasca em Grande Estilo</title>
@@ -12314,12 +12103,7 @@
     <desc lang="pt">A batalha chega ao Texas, com a estrutura de madeira e aço mais alta do mundo. Ainda competem uma montanha-russa com queda de 90 graus, em Taiwan, e uma clássica, com duas "corcovas de camelo.(n)</desc>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20220430050000 +0000" stop="20220430052400 +0000" channel="WORLD3">
-    <title lang="pt">Montanhas-Russas Extremas</title>
-    <desc lang="pt">A batalha visita o Missouri e uma montanha-russa de madeira invertida inédita; vai até a Guatemala para conhecer uma estrutura vertiginosa de oito inversões; e mergulha quase 70 metros em Pittsburgh.(n)</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20220430052400 +0000" stop="20220430054800 +0000" channel="WORLD3">
+  <programme start="20220430050000 +0000" stop="20220430054800 +0000" channel="WORLD3">
     <title lang="pt">Fast Food Mania</title>
     <desc lang="pt">Seu hambúrguer favorito geralmente dá conta do recado. Mas, de vez em quando, você precisa subir um degrau. Ou dez. Neste episódio, vamos ver itens extremos do cardápio.(n)</desc>
     <episode-num system="onscreen">S1 E5</episode-num>
@@ -12345,12 +12129,7 @@
     <desc lang="pt">A disputa começa na Pensilvânia, com uma queda de 97 graus equivalente a 12 andares; passa pelo Japão, com uma montanha-russa de madeira que chega a 96 km/h; e termina na Flórida, com um percurso com sete inversões.(n)</desc>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20220430070000 +0000" stop="20220430072400 +0000" channel="WORLD3">
-    <title lang="pt">Montanhas-Russas Extremas</title>
-    <desc lang="pt">A disputa vai para a Califórnia, com um looping de 48 metros que detém o recorde mundial; a Montreal, com uma queda de 70 graus; ao Missouri, correndo a 112 km/h; e à Alemanha, com uma montanha-russa suspensa em um abismo.(n)</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme>
-  <programme start="20220430072400 +0000" stop="20220430074800 +0000" channel="WORLD3">
+  <programme start="20220430070000 +0000" stop="20220430074800 +0000" channel="WORLD3">
     <title lang="pt">Montanhas-Russas Extremas</title>
     <desc lang="pt">A batalha chega ao Texas, com a estrutura de madeira e aço mais alta do mundo. Ainda competem uma montanha-russa com queda de 90 graus, em Taiwan, e uma clássica, com duas "corcovas de camelo.(n)</desc>
     <episode-num system="onscreen">S2 E1</episode-num>
@@ -12375,13 +12154,13 @@
   </programme>
   <programme start="20220430101200 +0000" stop="20220430103600 +0000" channel="WORLD3">
     <title lang="pt">Buying Alaska</title>
-    <desc lang="pt">Glennallen, no Alasca, é uma região repleta de lagos belos e remotos. Depois de morar em uma pousada sempre lotada, Eric e Cynthia agora procuram um refúgio isolado na Última Fronteira.(n)</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
+    <desc lang="pt">Roland e Tiffany moram na maior cidade do Alasca, Anchorage, mas a família não gosta de seu ritmo agitado. Eles procuram uma casa a 30 minutos do centro, onde possam ter contato com a natureza.(n)</desc>
+    <episode-num system="onscreen">S3 E19</episode-num>
   </programme>
   <programme start="20220430103600 +0000" stop="20220430110000 +0000" channel="WORLD3">
     <title lang="pt">Buying Alaska</title>
-    <desc lang="pt">Glennallen, no Alasca, é uma região repleta de lagos belos e remotos. Depois de morar em uma pousada sempre lotada, Eric e Cynthia agora procuram um refúgio isolado na Última Fronteira.(n)</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
+    <desc lang="pt">Wes e Angela têm uma empresa de táxi aéreo no Alasca: ele pilota o avião e ela administra o escritório - e podem voar para qualquer lugar do estado em busca de uma casa de um milhão de dólares.(n)</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
   </programme>
   <programme start="20220430110000 +0000" stop="20220430112400 +0000" channel="WORLD3">
     <title lang="pt">Montanhas-Russas Extremas</title>
@@ -12423,13 +12202,13 @@
   </programme>
   <programme start="20220430150000 +0000" stop="20220430152400 +0000" channel="WORLD3">
     <title lang="pt">Buying Alaska</title>
-    <desc lang="pt">Glennallen, no Alasca, é uma região repleta de lagos belos e remotos. Depois de morar em uma pousada sempre lotada, Eric e Cynthia agora procuram um refúgio isolado na Última Fronteira.(n)</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
+    <desc lang="pt">Roland e Tiffany moram na maior cidade do Alasca, Anchorage, mas a família não gosta de seu ritmo agitado. Eles procuram uma casa a 30 minutos do centro, onde possam ter contato com a natureza.(n)</desc>
+    <episode-num system="onscreen">S3 E19</episode-num>
   </programme>
   <programme start="20220430152400 +0000" stop="20220430154800 +0000" channel="WORLD3">
     <title lang="pt">Buying Alaska</title>
-    <desc lang="pt">Glennallen, no Alasca, é uma região repleta de lagos belos e remotos. Depois de morar em uma pousada sempre lotada, Eric e Cynthia agora procuram um refúgio isolado na Última Fronteira.(n)</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
+    <desc lang="pt">Wes e Angela têm uma empresa de táxi aéreo no Alasca: ele pilota o avião e ela administra o escritório - e podem voar para qualquer lugar do estado em busca de uma casa de um milhão de dólares.(n)</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
   </programme>
   <programme start="20220430154800 +0000" stop="20220430163600 +0000" channel="WORLD3">
     <title lang="pt">Reforma Radical</title>
@@ -12438,8 +12217,8 @@
   </programme>
   <programme start="20220430163600 +0000" stop="20220430172400 +0000" channel="WORLD3">
     <title lang="pt">Italianos Made In China</title>
-    <desc lang="pt">Seis jovens chineses criados na Itália vão para a China para conhecer suas raízes. Para isso, se inscrevem em um curso de mandarim, em Xangai.(n)</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <desc lang="pt">Alexander convida todos a irem ao restaurante onde ele trabalha, para provar todos os pratos tradicionais da culinária chinesa, incluindo pé de galinha e cobra.(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -12571,10 +12350,57 @@
     <desc lang="pt">Vamos revelar alguns dos segredos mais bem guardados do planeta, como a cachoeira do Buracão; uma queda d'agua nas profundezas da floresta tropical; e um safári animal exótico que leva a uma praia secreta.(n)</desc>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20220501043600 +0000" stop="20220501092400 +0000" channel="WORLD3">
+  <programme start="20220501043600 +0000" stop="20220501050000 +0000" channel="WORLD3">
     <title lang="pt">Lugares Secretos para Nadar</title>
     <desc lang="pt">Neste episódio, vamos visitar uma cascata tripla em Fiji, mergulhar com tubarões-brancos na África do Sul; e fazer uma caminhada pela floresta de Bali.(n)</desc>
     <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20220501050000 +0000" stop="20220501054800 +0000" channel="WORLD3">
+    <title lang="pt">Viva Hong Kong!</title>
+    <desc lang="pt">Em um episódio repleto de glamour e energia criativa, Dominic Lau e o estilista Kevin Mayao (Tian Yo) mostram a  Jeniffer Kim por que Hong Kong é uma das maiores capitais da moda da Ásia.(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220501054800 +0000" stop="20220501061200 +0000" channel="WORLD3">
+    <title lang="pt">Viva Hong Kong!</title>
+    <desc lang="pt">Neste episódio, o apresentador Dominic Lau e a atriz Shermon Tang apresentam à celebridade indonésia Nazyra C. Noer e sua família o melhor das artes cênicas de Hong Kong.(n)</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220501061200 +0000" stop="20220501063600 +0000" channel="WORLD3">
+    <title lang="pt">Megamansões</title>
+    <desc lang="pt">Segunda maior residência particular dos Estados Unidos, o Castelo Oheka, em Long Island, Nova York, é a primeira parada. Em seguida, conheça o hotel The Mansion on O Street, um labirinto de 50 milhões de dólares.(n)</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220501063600 +0000" stop="20220501070000 +0000" channel="WORLD3">
+    <title lang="pt">Megamansões</title>
+    <desc lang="pt">Conheça a famosa mansão Biltmore Estate em Asheville, Carolina do Norte, a maior residência particular dos Estados Unidos. Depois, explore os detalhes da exclusiva Star Island, uma mansão de 65 milhões de dólares, em ...(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220501070000 +0000" stop="20220501074800 +0000" channel="WORLD3">
+    <title lang="pt">Minha Casa nas Montanhas</title>
+    <desc lang="pt">Jon e Mandy adoram fazer trilhas, mas moram muito longe dos lugares onde podem praticar atividades ao ar livre. Agora, eles procuram uma casa na pequena cidade de Black Hawk, no coração das Rochosas.(n)</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220501074800 +0000" stop="20220501083600 +0000" channel="WORLD3">
+    <title lang="pt">Glamping - Acampando com Estilo</title>
+    <desc lang="pt">A luxuosa forma de acampar oferece uma experiência de proximidade com a natureza que inclui todos os confortos. De mordomos a chefs especializados em sushis, veja como acampar sem perder a elegância.(n)</desc>
+    <episode-num system="onscreen">S27 E44</episode-num>
+  </programme>
+  <programme start="20220501083600 +0000" stop="20220501092400 +0000" channel="WORLD3">
+    <title lang="pt">Alasca em Grande Estilo</title>
+    <desc lang="pt">Este documentário especial destaca viagens de luxo pela paisagem selvagem do Alasca. Veleje por seu majestoso litoral sendo servido por um mordomo e sobrevoe a montanha mais alta da América do Norte.(n)</desc>
+    <episode-num system="onscreen">S5 E121</episode-num>
   </programme>
   <programme start="20220501092400 +0000" stop="20220501094800 +0000" channel="WORLD3">
     <title lang="pt">Montanhas-Russas Extremas</title>
@@ -12631,7 +12457,7 @@
   <programme start="20220501123600 +0000" stop="20220501132400 +0000" channel="WORLD3">
     <title lang="pt">Glamping - Acampando com Estilo</title>
     <desc lang="pt">A luxuosa forma de acampar oferece uma experiência de proximidade com a natureza que inclui todos os confortos. De mordomos a chefs especializados em sushis, veja como acampar sem perder a elegância.(n)</desc>
-    <episode-num system="onscreen">S26 E121</episode-num>
+    <episode-num system="onscreen">S27 E44</episode-num>
   </programme>
   <programme start="20220501132400 +0000" stop="20220501141200 +0000" channel="WORLD3">
     <title lang="pt">Alasca em Grande Estilo</title>
