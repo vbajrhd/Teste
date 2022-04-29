@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="COMENBOL">
+    <display-name lang="pt">COMENBOL</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+   <programme start="20220428101500" stop="20220429001500" channel="COMENBOL">
+    <title lang="pt">JOGO SP</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+ </tv>
