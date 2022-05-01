@@ -4,8 +4,8 @@
     <display-name lang="pt">espn2</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
-   <programme start="20220429230000" stop="20220430010000" channel="espn2">
-    <title lang="pt">ESPN League - Ao Vivo</title>
+   <programme start="20220501170000" stop="20220501193000" channel="espn2">
+    <title lang="pt">BUCKS X CELTICS</title>
     <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
@@ -14,8 +14,8 @@
       <value>L</value>
     </rating>
   </programme>
-     <programme start="20220430010000" stop="20220430021500" channel="espn2">
-    <title lang="pt">Timberwolves x Grizzlies 1</title>
+     <programme start="20220501193001" stop="20220501223000" channel="espn2">
+    <title lang="pt">WARRIORS x GRIZZLIES</title>
     <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
@@ -23,15 +23,5 @@
     <rating>
       <value>L</value>
     </rating>
-  </programme>
-     <programme start="20220430021500" stop="20220430040000" channel="espn2">
-    <title lang="pt">Timberwolves x Grizzlies 2</title>
-    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
-    <country lang="pt">Brasil</country>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
+ </programme>
  </tv>
