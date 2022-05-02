@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="espn2">
-    <display-name lang="pt">espn2</display-name>
+  <channel id="SPORTV2T">
+    <display-name lang="pt">SPORTV2T</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
-   <programme start="20220501170000" stop="20220501193000" channel="espn2">
-    <title lang="pt">BUCKS X CELTICS</title>
+   <programme start="20220502233000" stop="202205030200" channel="SPORTV2T">
+    <title lang="pt">Heats x 76rs</title>
     <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
@@ -14,8 +14,8 @@
       <value>L</value>
     </rating>
   </programme>
-     <programme start="20220501193001" stop="20220501223000" channel="espn2">
-    <title lang="pt">WARRIORS x GRIZZLIES</title>
+     <programme start="20220503020000" stop="20220503053000" channel="SPORTV2T">
+    <title lang="pt">Suns x Dalas</title>
     <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
