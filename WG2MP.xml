@@ -13,8 +13,8 @@
     <rating>
       <value>L</value>
     </rating>
-  </programme>
-     <programme start="20220503020000" stop="20220503053000" channel="SPORTV2T">
+    </programme>
+  <programme start="20220503020000" stop="20220503053000" channel="SPORTV2T">
     <title lang="pt">Suns x Dalas</title>
     <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
     <category lang="pt">Esporte</category>
