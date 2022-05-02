@@ -4,6 +4,20 @@
     <display-name lang="pt">SPORTV2T</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
+  <channel id="PREMIERE">
+    <display-name lang="pt">PREMIERE</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+     <programme start="20220502230000" stop="20220503011000" channel="PREMIERE">
+    <title lang="pt">SP x Santos</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+    </programme>
    <programme start="20220502233000" stop="20220503015959" channel="SPORTV2T">
     <title lang="pt">Heats x 76rs</title>
     <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
