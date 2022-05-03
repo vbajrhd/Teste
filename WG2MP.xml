@@ -38,4 +38,24 @@
       <value>L</value>
     </rating>
  </programme>
+    <programme start="20220503230000" stop="20220504015959" channel="SPORTV2T">
+    <title lang="pt">JG2 Bucks x Celtics</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+    </programme>
+  <programme start="20220504020000" stop="20220504053000" channel="SPORTV2T">
+    <title lang="pt">JG2 Warriors x Grizzlies</title>
+    <desc lang="pt">Que tal terminar o seu dia cheio de emoção? Venha lembrar de momentos felizes, de conquistas históricas e lances espetaculares! É a Faixa Baú do Esporte, fechando a programação do SporTV.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/28/9289647_A7D0BFB93E55323E.jpg" />
+    <country lang="pt">Brasil</country>
+    <rating>
+      <value>L</value>
+    </rating>
+ </programme
  </tv>
