@@ -9,11 +9,11 @@
      <programme start="20220502230000" stop="20220503011000" channel="PREMIERE">
     <title lang="pt">SP x Santos</title>
     </programme>
-   <programme start="20220504233000" stop="20220505023000" channel="SPORTV2T">
-    <title lang="pt">JG2 Heats x 76rs</title>
+   <programme start="20220506230000" stop="20220507020000" channel="SPORTV2T">
+    <title lang="pt">JG3 Heats x 76rs</title>
     </programme>
-  <programme start="20220505023001" stop="20220505053000" channel="SPORTV2T">
-    <title lang="pt">JG2 Suns x Dalas</title>
+  <programme start="20220507020001" stop="20220507053000" channel="SPORTV2T">
+    <title lang="pt">JG3 Suns x Dalas</title>
  </programme>
     <programme start="20220503230000" stop="20220504015959" channel="SPORTV2T">
     <title lang="pt">JG2 Bucks x Celtics</title>
