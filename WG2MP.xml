@@ -24,7 +24,7 @@
   <programme start="20220504020000" stop="20220504053000" channel="SPORTV2T">
     <title lang="pt">JG2 Warriors x Grizzlies</title>
  </programme>
-  <programme start="20220509211500" +0000 stop="20220509224000" +0000 channel="GLOBO">
+  <programme start="20220509211500 +0000"  stop="20220509224000 +0000" channel="GLOBO">
     <title lang="pt">PANTANAL 09-05</title>
  </programme>
  </tv>
