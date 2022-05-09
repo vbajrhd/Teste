@@ -6,6 +6,9 @@
   <channel id="PREMIERE">
     <display-name lang="pt">PREMIERE</display-name>
   </channel>
+    <channel id="GLOBO">
+    <display-name lang="pt">GLOBO</display-name>
+  </channel>
      <programme start="20220502230000" stop="20220503011000" channel="PREMIERE">
     <title lang="pt">SP x Santos</title>
     </programme>
@@ -20,5 +23,8 @@
     </programme>
   <programme start="20220504020000" stop="20220504053000" channel="SPORTV2T">
     <title lang="pt">JG2 Warriors x Grizzlies</title>
+ </programme>
+  <programme start="20220509211500" +0000 stop="20220509224000" +0000 channel="GLOBO">
+    <title lang="pt">PANTANAL 09-05</title>
  </programme>
  </tv>
