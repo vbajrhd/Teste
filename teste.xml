@@ -31758,6 +31758,19 @@
       <value>14</value>
     </rating>
   </programme>
+    <programme start="20220511005000 +0000" stop="20220511015959 +0000" channel="SPORTV2 HD3">
+    <title lang="pt">NBA: MIAMI HEAT - Playoffs - Semifinal - Jogo 5 - Ao Vivo</title>
+    <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(c)</desc>
+    <credits>
+      <director>Renato Ribeiro</director>
+    </credits>
+    <category lang="pt">Basquete</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/91/10918725_E0CFC0CD2EAB44EE.jpg" />
+    <country lang="pt">EUA</country>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
   <programme start="20220511020000 +0000" stop="20220511043000 +0000" channel="SPORTV2 HD3">
     <title lang="pt">NBA: Phoenix Suns x Dallas Mavericks - Playoffs - Semifinal - Jogo 5 - Ao Vivo</title>
     <desc lang="pt">Somos todos fãs do melhor basquete do planeta! Assista agora a mais um jogo da NBA. Todas as emoções do basquete com as maiores estrelas do Mundo. SporTV: Somos Todos Campeões.(c)</desc>
