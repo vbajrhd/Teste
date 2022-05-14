@@ -3,8 +3,8 @@
   <channel id="DIVERSOS">
     <display-name lang="pt">DIVERSOS</display-name>
   </channel>
-  <channel id="PREMIERE">
-    <display-name lang="pt">PREMIERE</display-name>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
   </channel>
     <channel id="GLOBO">
     <display-name lang="pt">GLOBO</display-name>
@@ -18,10 +18,10 @@
   <programme start="20220516001500" stop="20220516021500" channel="DIVERSOS">
     <title lang="pt">JG7 P2 Suns x Dalas</title>
  </programme>
-    <programme start="20220515193000" stop="20220515204500" channel="DIVERSOS">
+    <programme start="20220515193000" stop="20220515204500" channel="ESPN">
     <title lang="pt">JG7 P1 Bucks x Celtics</title>
     </programme>
-  <programme start="20220515204500" stop="20220515230000" channel="DIVERSOS">
+  <programme start="20220515204500" stop="20220515230000" channel="ESPN">
     <title lang="pt">JG7 P2 Bucks x Celtics</title>
  </programme>
   <programme start="20220513001500" stop="20220513014000" channel="GLOBO">
