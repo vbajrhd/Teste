@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="DIVERSOS">
+  <channel id="SPORTV2">
     <display-name lang="pt">SPORTV2</display-name>
   </channel>
-  <channel id="ESPN">
+  <channel id="ESPN2">
     <display-name lang="pt">ESPN2</display-name>
   </channel>
-    <channel id="GLOBO">
-    <display-name lang="pt">GLOBO</display-name>
+    <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
   </channel>
     <programme start="20220519010000" stop="20220519050000" channel="SPORTV2">
        <title lang="pt">JG1 WARRIORS X DALAS</title>
