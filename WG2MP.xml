@@ -6,6 +6,12 @@
   <channel id="ESPN2">
     <display-name lang="pt">ESPN2</display-name>
   </channel>
+    <channel id="720SPORTV2">
+    <display-name lang="pt">720SPORTV2</display-name>
+  </channel>
+  <channel id="720ESPN2">
+    <display-name lang="pt">720ESPN2</display-name>
+  </channel>
     <channel id="TNT">
     <display-name lang="pt">TNT</display-name>
   </channel>
@@ -30,27 +36,71 @@
 	<programme start="20220531000001" stop="20220529040000" channel="SPORTV2">
        <title lang="pt">JG6 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220517233000" stop="20220518033000" channel="ESPN2">
+	<programme start="20220518003000" stop="20220518033000" channel="ESPN2">
        <title lang="pt">JG1 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220519233000" stop="20220520033000" channel="ESPN2">
+	<programme start="20220520003000" stop="20220520033000" channel="ESPN2">
        <title lang="pt">JG2 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220521233000" stop="20220522033000" channel="ESPN2">
+	<programme start="20220522003000" stop="20220522033000" channel="ESPN2">
        <title lang="pt">JG3 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220523233000" stop="20220524033000" channel="ESPN2">
+	<programme start="20220524003000" stop="20220524033000" channel="ESPN2">
        <title lang="pt">JG4 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220525233000" stop="20220526033000" channel="ESPN2">
+	<programme start="20220526003000" stop="20220526033000" channel="ESPN2">
        <title lang="pt">JG5 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220527233000" stop="20220528033000" channel="ESPN2">
+	<programme start="20220528003000" stop="20220528033000" channel="ESPN2">
        <title lang="pt">JG6 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220529233000" stop="20220530033000" channel="ESPN2">
+	<programme start="20220530003000" stop="20220530033000" channel="ESPN2">
        <title lang="pt">JG7 HEAT X CELTICS</title>
-    </programme>	
+    </programme>
+
+    <programme start="20220519010000" stop="20220519050000" channel="720SPORTV2">
+       <title lang="pt">720JG1 WARRIORS X DALAS</title>
+    </programme>
+     <programme start="20220521010000" stop="20220521050000" channel="720SPORTV2">
+       <title lang="pt">720JG2 WARRIORS X DALAS</title>
+    </programme>
+	<programme start="20220523010000" stop="20220523050000" channel="720SPORTV2">
+       <title lang="pt">720JG3 WARRIORS X DALAS</title>
+    </programme>
+	<programme start="20220525010000" stop="20220525050000" channel="720SPORTV2">
+       <title lang="pt">720JG4 WARRIORS X DALAS</title>
+    </programme>
+	<programme start="20220527010000" stop="20220527050000" channel="720SPORTV2">
+       <title lang="pt">720JG5 WARRIORS X DALAS</title>
+    </programme>
+	<programme start="20220529010000" stop="20220529050000" channel="720SPORTV2">
+       <title lang="pt">720JG6 WARRIORS X DALAS</title>
+    </programme>
+	<programme start="20220531000001" stop="20220529040000" channel="720SPORTV2">
+       <title lang="pt">720JG6 WARRIORS X DALAS</title>
+    </programme>
+	<programme start="20220518003000" stop="20220518033000" channel="720ESPN2">
+       <title lang="pt">720JG1 HEAT X CELTICS</title>
+    </programme>
+	<programme start="20220520003000" stop="20220520033000" channel="720ESPN2">
+       <title lang="pt">720JG2 HEAT X CELTICS</title>
+    </programme>
+	<programme start="20220522003000" stop="20220522033000" channel="720ESPN2">
+       <title lang="pt">720JG3 HEAT X CELTICS</title>
+    </programme>
+	<programme start="20220524003000" stop="20220524033000" channel="720ESPN2">
+       <title lang="pt">720JG4 HEAT X CELTICS</title>
+    </programme>
+	<programme start="20220526003000" stop="20220526033000" channel="720ESPN2">
+       <title lang="pt">720JG5 HEAT X CELTICS</title>
+    </programme>
+	<programme start="20220528003000" stop="20220528033000" channel="720ESPN2">
+       <title lang="pt">720JG6 HEAT X CELTICS</title>
+    </programme>
+	<programme start="20220530003000" stop="20220530033000" channel="720ESPN2">
+       <title lang="pt">720JG7 HEAT X CELTICS</title>
+    </programme>
+	
 	<programme start="20220528190000" stop="20220528220000" channel="TNT">
        <title lang="pt">LIVERPOOL X REAL MADRI</title>
     </programme>
