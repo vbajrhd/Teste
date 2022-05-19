@@ -15,89 +15,84 @@
     <channel id="TNT">
     <display-name lang="pt">TNT</display-name>
   </channel>
-    <programme start="20220519010000" stop="20220519050000" channel="SPORTV2">
-       <title lang="pt">NBA JG1 WARRIORS X DALAS</title>
-    </programme>
-     <programme start="20220521010000" stop="20220521050000" channel="SPORTV2">
+    <programme start="20220521010000" stop="20220521040000" channel="SPORTV2">
        <title lang="pt">NBA JG2 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220523010000" stop="20220523050000" channel="SPORTV2">
+	<programme start="20220523010000" stop="20220523040000" channel="SPORTV2">
        <title lang="pt">NBA JG3 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220525010000" stop="20220525050000" channel="SPORTV2">
+	<programme start="20220525010000" stop="20220525040000" channel="SPORTV2">
        <title lang="pt">NBA JG4 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220527010000" stop="20220527050000" channel="SPORTV2">
+	<programme start="20220527010000" stop="20220527040000" channel="SPORTV2">
        <title lang="pt">NBA JG5 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220529010000" stop="20220529050000" channel="SPORTV2">
+	<programme start="20220529010000" stop="20220529040000" channel="SPORTV2">
        <title lang="pt">NBA JG6 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220531000001" stop="20220529040000" channel="SPORTV2">
-       <title lang="pt">NBA JG6 WARRIORS X DALAS</title>
+	<programme start="20220531000001" stop="20220531030000" channel="SPORTV2">
+       <title lang="pt">NBA JG7 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220518003000" stop="20220518033000" channel="ESPN2">
-       <title lang="pt">NBA JG1 HEAT X CELTICS</title>
-    </programme>
-	<programme start="20220520003000" stop="20220520033000" channel="ESPN2">
+
+	<programme start="20220520003000" stop="20220520023000" channel="ESPN2">
        <title lang="pt">NBA JG2 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220522003000" stop="20220522033000" channel="ESPN2">
+	<programme start="20220522003000" stop="20220522023000" channel="ESPN2">
        <title lang="pt">NBA JG3 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220524003000" stop="20220524033000" channel="ESPN2">
+	<programme start="20220524003000" stop="20220524023000" channel="ESPN2">
        <title lang="pt">NBA JG4 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220526003000" stop="20220526033000" channel="ESPN2">
+	<programme start="20220526003000" stop="20220526023000" channel="ESPN2">
        <title lang="pt">NBA JG5 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220528003000" stop="20220528033000" channel="ESPN2">
+	<programme start="20220528003000" stop="20220528023000" channel="ESPN2">
        <title lang="pt">NBA JG6 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220530003000" stop="20220530033000" channel="ESPN2">
+	<programme start="20220530003000" stop="20220530023000" channel="ESPN2">
        <title lang="pt">NBA JG7 HEAT X CELTICS</title>
     </programme>
 
-    <programme start="20220519010000" stop="20220519050000" channel="720SPORTV2">
+    <programme start="20220519010000" stop="20220519040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG1 WARRIORS X DALAS</title>
     </programme>
-     <programme start="20220521010000" stop="20220521050000" channel="720SPORTV2">
+     <programme start="20220521010000" stop="20220521040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG2 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220523010000" stop="20220523050000" channel="720SPORTV2">
+	<programme start="20220523010000" stop="20220523040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG3 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220525010000" stop="20220525050000" channel="720SPORTV2">
+	<programme start="20220525010000" stop="20220525040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG4 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220527010000" stop="20220527050000" channel="720SPORTV2">
+	<programme start="20220527010000" stop="20220527040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG5 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220529010000" stop="20220529050000" channel="720SPORTV2">
+	<programme start="20220529010000" stop="20220529040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG6 WARRIORS X DALAS</title>
     </programme>
 	<programme start="20220531000001" stop="20220529040000" channel="720SPORTV2">
        <title lang="pt">NBA 720JG6 WARRIORS X DALAS</title>
     </programme>
-	<programme start="20220518003000" stop="20220518033000" channel="720ESPN2">
+	<programme start="20220518003000" stop="20220518023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG1 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220520003000" stop="20220520033000" channel="720ESPN2">
+	<programme start="20220520003000" stop="20220520023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG2 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220522003000" stop="20220522033000" channel="720ESPN2">
+	<programme start="20220522003000" stop="20220522023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG3 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220524003000" stop="20220524033000" channel="720ESPN2">
+	<programme start="20220524003000" stop="20220524023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG4 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220526003000" stop="20220526033000" channel="720ESPN2">
+	<programme start="20220526003000" stop="20220526023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG5 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220528003000" stop="20220528033000" channel="720ESPN2">
+	<programme start="20220528003000" stop="20220528023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG6 HEAT X CELTICS</title>
     </programme>
-	<programme start="20220530003000" stop="20220530033000" channel="720ESPN2">
+	<programme start="20220530003000" stop="20220530023000" channel="720ESPN2">
        <title lang="pt">NBA 720JG7 HEAT X CELTICS</title>
     </programme>
 	
