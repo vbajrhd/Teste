@@ -454,13 +454,22 @@
       <value>Sem Classificação</value>
     </rating>
   </programme>
-  <programme start="20230506040000 -0300" stop="20230506060000 -0300" channel="BAND">
+  <programme start="20230506040000 -0300" stop="20230506053000 -0300" channel="BAND">
     <title lang="pt">Estação Cinema</title>
-    <desc lang="pt">FÚRIA ASSASSINA: Laboratório clandestino utiliza cobaias humanas para testar droga que transforma pessoas pacatas em assassinos. Uma das cobaias consegue fugir e enfrenta uma caçada impiedosa da polícia, que acredita ser ele um elemento de extrema periculosidade.</desc>
+    <desc lang="pt">FÚRIA ASSASSINA: Laboratório clandestino utiliza cobaias humanas para testar droga que transforma pessoas pacatas em assassinos. Uma das cobaias consegue fugir e enfrenta uma caçada impiedosa da polícia, que acredita ser ele um elemento de extrema periculosidade.(c)</desc>
     <category lang="pt">Sessão de Filme</category>
     <icon src="https://pubimg.band.uol.com.br/files/29dd29f963b85d5b1fc7.png" />
     <rating system="BR">
       <value>16 anos</value>
+    </rating>
+  </programme>
+  <programme start="20230506053000 -0300" stop="20230506060000 -0300" channel="BAND">
+    <title lang="pt">+ INFO</title>
+    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(c)</desc>
+    <category lang="pt">Jornalismo</category>
+    <icon src="https://pubimg.band.uol.com.br/files/c960b118b2392f9e07db.png" />
+    <rating system="BR">
+      <value>Sem Classificação</value>
     </rating>
   </programme>
   <programme start="20230506060000 -0300" stop="20230506063000 -0300" channel="BAND">
@@ -1334,7 +1343,7 @@
   </programme>
   <programme start="20230506031500 -0300" stop="20230506044000 -0300" channel="Globo SP">
     <title lang="pt">Corujão: Golpe de Risco</title>
-    <desc lang="pt">Ladrão infame Cheung Tan foi recentemente libertado da prisão. Logo após sua libertação, Cheung imediatamente trama um assalto com seus parceiros Xiao Bao e Ye Hong, a fim de roubar jóias preciosas na Europa.(c)</desc>
+    <desc lang="pt">Ladrão infame Cheung Tan foi recentemente libertado da prisão. Logo após sua libertação, Cheung imediatamente trama um assalto com seus parceiros Xiao Bao e Ye Hong, a fim de roubar jóias preciosas na Europa.</desc>
     <credits>
       <director>Stephen Fung</director>
       <actor>Andy Lau</actor>
@@ -1349,7 +1358,7 @@
   </programme>
   <programme start="20230506044000 -0300" stop="20230506060000 -0300" channel="Globo SP">
     <title lang="pt">Corujão II: A Comédia Divina</title>
-    <desc lang="pt">O Diabo anda em baixa e está preocupado com isso. Ele decide, então, abrir sua própria igreja, onde tudo o que é proibido passa a ser permitido.(c)</desc>
+    <desc lang="pt">O Diabo anda em baixa e está preocupado com isso. Ele decide, então, abrir sua própria igreja, onde tudo o que é proibido passa a ser permitido.</desc>
     <credits>
       <director>Rui Pires</director>
       <director>Toni Venturi</director>
@@ -1489,7 +1498,7 @@
   </programme>
   <programme start="20230506203000 -0300" stop="20230506212000 -0300" channel="Globo SP">
     <title lang="pt">Jornal Nacional</title>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(c)</desc>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.</desc>
     <credits>
       <director>Ali Kamel</director>
       <actor>William Bonner</actor>
@@ -1502,7 +1511,7 @@
   </programme>
   <programme start="20230506212000 -0300" stop="20230506223500 -0300" channel="Globo SP">
     <title lang="pt">Travessia</title>
-    <desc lang="pt">Uma trama que mostra que viver pode ser um desafio, com obstáculos, mas, também, com superação e alegrias.(c)</desc>
+    <desc lang="pt">Uma trama que mostra que viver pode ser um desafio, com obstáculos, mas, também, com superação e alegrias.</desc>
     <credits>
       <director>Mauro Mendonça Filho</director>
       <actor>Lucy Alves</actor>
@@ -1519,7 +1528,7 @@
   </programme>
   <programme start="20230506223500 -0300" stop="20230507002500 -0300" channel="Globo SP">
     <title lang="pt">Altas Horas</title>
-    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.(c)</desc>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.</desc>
     <credits>
       <director>Serginho Groisman</director>
       <actor>Serginho Groisman</actor>
@@ -7539,7 +7548,7 @@
   <programme start="20230506100000 +0000" stop="20230506105500 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Comedy Central Apresenta : T1 EP1 - Brasileiros sem Limites</title>
     <sub-title lang="pt">T1 EP1 - Brasileiros sem Limites</sub-title>
-    <desc lang="pt">Leandro Hassum, Victor Canejo, Dadá Coelho e Igor Guimarães são as estrelas do show de stand-up.(c)</desc>
+    <desc lang="pt">Leandro Hassum, Victor Canejo, Dadá Coelho e Igor Guimarães são as estrelas do show de stand-up.</desc>
     <credits>
       <director>Renata Shoel</director>
     </credits>
@@ -7554,7 +7563,7 @@
   <programme start="20230506105500 +0000" stop="20230506111900 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Já Chegamos? : T3 EP25 - O Epsiódio da Promoção do Nick</title>
     <sub-title lang="pt">T3 EP25 - O Epsiódio da Promoção do Nick</sub-title>
-    <desc lang="pt">Competente e íntegro, Nick se esforça para provar sua capacidade profissional após ser promovido a coapresentador do arrogante e preguiçoso Brick Street.(c)</desc>
+    <desc lang="pt">Competente e íntegro, Nick se esforça para provar sua capacidade profissional após ser promovido a coapresentador do arrogante e preguiçoso Brick Street.</desc>
     <credits>
       <actor>Teala Dunn</actor>
       <actor>Telma Hopkins</actor>
@@ -7576,7 +7585,7 @@
   <programme start="20230506111900 +0000" stop="20230506120700 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Já Chegamos? : T3 EP26 - O Episódio do Empréstimo</title>
     <sub-title lang="pt">T3 EP26 - O Episódio do Empréstimo</sub-title>
-    <desc lang="pt">A confusão está armada quando Suzanne pede um empréstimo a Marilyn na tentativa de fazer segredo sobre o presente de aniversário que escolheu para Nick.(c)</desc>
+    <desc lang="pt">A confusão está armada quando Suzanne pede um empréstimo a Marilyn na tentativa de fazer segredo sobre o presente de aniversário que escolheu para Nick.</desc>
     <credits>
       <actor>Teala Dunn</actor>
       <actor>Telma Hopkins</actor>
@@ -7598,7 +7607,7 @@
   <programme start="20230506120700 +0000" stop="20230506123000 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Kenan : T2 EP2 - Amigos de Trabalho</title>
     <sub-title lang="pt">T2 EP2 - Amigos de Trabalho</sub-title>
-    <desc lang="pt">Kenan ofende Tami quando lhe revela que só a vê como uma colega e não como uma amiga.(c)</desc>
+    <desc lang="pt">Kenan ofende Tami quando lhe revela que só a vê como uma colega e não como uma amiga.</desc>
     <credits>
       <director>Jude Weng</director>
       <actor>Kenan Thompson</actor>
@@ -7619,7 +7628,7 @@
   <programme start="20230506123000 +0000" stop="20230506125700 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Kenan e Kel : T2 EP7 - Uma Tarde Infeliz</title>
     <sub-title lang="pt">T2 EP7 - Uma Tarde Infeliz</sub-title>
-    <desc lang="pt">Kenan e Kel resolvem faltar à aula e ao trabalho por um dia para evitar um castigo da professora. Eles fingem que estão doentes, mas acabam presenciando um assalto a banco e aparecem na televisão em rede nacional.(c)</desc>
+    <desc lang="pt">Kenan e Kel resolvem faltar à aula e ao trabalho por um dia para evitar um castigo da professora. Eles fingem que estão doentes, mas acabam presenciando um assalto a banco e aparecem na televisão em rede nacional.</desc>
     <credits>
       <actor>Kel Mitchell</actor>
       <actor>Kenan Thompson</actor>
@@ -7636,7 +7645,7 @@
   <programme start="20230506125700 +0000" stop="20230506132400 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Kenan e Kel : T2 EP2 - Quem É o Palhaço</title>
     <sub-title lang="pt">T2 EP2 - Quem É o Palhaço</sub-title>
-    <desc lang="pt">Um palhaço assalta o Rigby's, deixando Kenan e Kel abalados. No dia seguinte, Kyra traz um palhaço igual para entreter os convidados de sua festa de aniversário, e os dois amigos resolvem entrar em ação.(c)</desc>
+    <desc lang="pt">Um palhaço assalta o Rigby's, deixando Kenan e Kel abalados. No dia seguinte, Kyra traz um palhaço igual para entreter os convidados de sua festa de aniversário, e os dois amigos resolvem entrar em ação.</desc>
     <credits>
       <actor>Kel Mitchell</actor>
       <actor>Kenan Thompson</actor>
@@ -7653,7 +7662,7 @@
   <programme start="20230506132400 +0000" stop="20230506134900 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Os Goldbergs : T7 EP22 - O Engano</title>
     <sub-title lang="pt">T7 EP22 - O Engano</sub-title>
-    <desc lang="pt">As coisas ficam mais sérias entre Adam e Brea, e Beverly luta para esquecer; Barry fica espantado quando Lainey Lewis faz uma visita à cidade.(c)</desc>
+    <desc lang="pt">As coisas ficam mais sérias entre Adam e Brea, e Beverly luta para esquecer; Barry fica espantado quando Lainey Lewis faz uma visita à cidade.</desc>
     <credits>
       <director>Lew Schneider</director>
       <actor>George Segal</actor>
@@ -7676,7 +7685,7 @@
   <programme start="20230506134900 +0000" stop="20230506141300 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Os Goldbergs : T7 EP23 - A Garota de Rosa-shocking</title>
     <sub-title lang="pt">T7 EP23 - A Garota de Rosa-shocking</sub-title>
-    <desc lang="pt">Com o baile de formatura se aproximando, Adam teme que Brea irá deixá-lo por alguém mais popular; Geoff recebe más notícias da família, e Erica não sabe como confortá-lo.(c)</desc>
+    <desc lang="pt">Com o baile de formatura se aproximando, Adam teme que Brea irá deixá-lo por alguém mais popular; Geoff recebe más notícias da família, e Erica não sabe como confortá-lo.</desc>
     <credits>
       <director>Ryan Krayser</director>
       <actor>George Segal</actor>
@@ -7699,7 +7708,7 @@
   <programme start="20230506141300 +0000" stop="20230506143700 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Sabrina, a Aprendiz de Feiticeira : T2 EP12 - O Pequeno Grande Kraft</title>
     <sub-title lang="pt">T2 EP12 - O Pequeno Grande Kraft</sub-title>
-    <desc lang="pt">Mr. Kraft é escolhido para acompanhar a classe em uma viagem para esquiar e Sabrina lança um feitiço para que ele enxergue a vida como um adolescente.(c)</desc>
+    <desc lang="pt">Mr. Kraft é escolhido para acompanhar a classe em uma viagem para esquiar e Sabrina lança um feitiço para que ele enxergue a vida como um adolescente.</desc>
     <credits>
       <actor>Melissa Joan Hart</actor>
       <actor>Nick Bakay</actor>
@@ -7722,7 +7731,7 @@
   <programme start="20230506143700 +0000" stop="20230506150100 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Sabrina, a Aprendiz de Feiticeira : T2 EP13 - Libby, o Quebra-Cabeça de 5 Peças</title>
     <sub-title lang="pt">T2 EP13 - Libby, o Quebra-Cabeça de 5 Peças</sub-title>
-    <desc lang="pt">Sabrina usa um feitiço proibido para transformar sua nêmesis, Libby, em um quebra-cabeças.(c)</desc>
+    <desc lang="pt">Sabrina usa um feitiço proibido para transformar sua nêmesis, Libby, em um quebra-cabeças.</desc>
     <credits>
       <actor>Melissa Joan Hart</actor>
       <actor>Nick Bakay</actor>
@@ -7745,7 +7754,7 @@
   <programme start="20230506150100 +0000" stop="20230506152500 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">A Boa Vizinhança : T1 EP10 - Bem-Vindos ao Roubo do Tênis</title>
     <sub-title lang="pt">T1 EP10 - Bem-Vindos ao Roubo do Tênis</sub-title>
-    <desc lang="pt">Malcolm é roubado, mas não revela quem é o ladrão, então Calvin e Dave se unem para resolver o caso dos tênis desaparecidos; Tina usa uma abordagem incomum para ensinar defesa pessoal para Gemma.(c)</desc>
+    <desc lang="pt">Malcolm é roubado, mas não revela quem é o ladrão, então Calvin e Dave se unem para resolver o caso dos tênis desaparecidos; Tina usa uma abordagem incomum para ensinar defesa pessoal para Gemma.</desc>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Tichina Arnold</actor>
@@ -7767,7 +7776,7 @@
   <programme start="20230506152500 +0000" stop="20230506155000 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">A Boa Vizinhança : T1 EP11 - Bem-Vindos à Arrecadação de Fundos</title>
     <sub-title lang="pt">T1 EP11 - Bem-Vindos à Arrecadação de Fundos</sub-title>
-    <desc lang="pt">Tina vai longe demais quando ajuda Gemma com seu primeiro evento escolar para arrecadar fundos; Dave tenta ajudar Calvin a vencer um leilão silencioso especial para sua mãe.(c)</desc>
+    <desc lang="pt">Tina vai longe demais quando ajuda Gemma com seu primeiro evento escolar para arrecadar fundos; Dave tenta ajudar Calvin a vencer um leilão silencioso especial para sua mãe.</desc>
     <credits>
       <director>Victor Gonzalez</director>
       <actor>Tichina Arnold</actor>
@@ -7789,7 +7798,7 @@
   <programme start="20230506155000 +0000" stop="20230506161400 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">A Boa Vizinhança : T1 EP12 - Bem-Vindos ao Aniversário do Grover</title>
     <sub-title lang="pt">T1 EP12 - Bem-Vindos ao Aniversário do Grover</sub-title>
-    <desc lang="pt">Os planos elaborados de Dave e Gemma para a festa de aniversário de sete anos de Grover dão errado, então Malcolm e Marty tentam ajudar; a escolha de presente de Calvin manda uma pessoa para o hospital.(c)</desc>
+    <desc lang="pt">Os planos elaborados de Dave e Gemma para a festa de aniversário de sete anos de Grover dão errado, então Malcolm e Marty tentam ajudar; a escolha de presente de Calvin manda uma pessoa para o hospital.</desc>
     <credits>
       <director>Victor Gonzalez</director>
       <actor>Tichina Arnold</actor>
@@ -7811,7 +7820,7 @@
   <programme start="20230506161400 +0000" stop="20230506164000 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">O Rei do Bairro : T2 EP17 - Como se Conheceram</title>
     <sub-title lang="pt">T2 EP17 - Como se Conheceram</sub-title>
-    <desc lang="pt">Carrie e Doug se recordam de como se conheceram no Dia dos Namorados, lembrando que não foi amor à primeira vista.(c)</desc>
+    <desc lang="pt">Carrie e Doug se recordam de como se conheceram no Dia dos Namorados, lembrando que não foi amor à primeira vista.</desc>
     <credits>
       <director>Rob Schiller</director>
       <actor>Leah Remini</actor>
@@ -7830,7 +7839,7 @@
   <programme start="20230506164000 +0000" stop="20230506170500 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">O Rei do Bairro : T2 EP18 - Os Shmenkman</title>
     <sub-title lang="pt">T2 EP18 - Os Shmenkman</sub-title>
-    <desc lang="pt">Doug e Carrie procuram novos amigos que não tenham filhos; Arthur redescobre um cereal para o café da manhã de sua infância.(c)</desc>
+    <desc lang="pt">Doug e Carrie procuram novos amigos que não tenham filhos; Arthur redescobre um cereal para o café da manhã de sua infância.</desc>
     <credits>
       <director>Rob Schiller</director>
       <actor>Leah Remini</actor>
@@ -7849,7 +7858,7 @@
   <programme start="20230506170500 +0000" stop="20230506173000 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">O Rei do Bairro : T2 EP19 - Artie Surpresa</title>
     <sub-title lang="pt">T2 EP19 - Artie Surpresa</sub-title>
-    <desc lang="pt">Doug tenta manter Arthur ocupado enquanto Carrie prepara uma festa surpresa para seu aniversário.(c)</desc>
+    <desc lang="pt">Doug tenta manter Arthur ocupado enquanto Carrie prepara uma festa surpresa para seu aniversário.</desc>
     <credits>
       <director>Rob Schiller</director>
       <actor>Leah Remini</actor>
@@ -7867,7 +7876,7 @@
   <programme start="20230506173000 +0000" stop="20230506175300 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Todo Mundo Odeia o Chris : T4 EP12 - Todo Mundo Odeia Lutadores Fracassados</title>
     <sub-title lang="pt">T4 EP12 - Todo Mundo Odeia Lutadores Fracassados</sub-title>
-    <desc lang="pt">Chris e Greg entram para a equipe de luta livre para ganhar uma jaqueta do time da escola e impressionar as garotas; Rochelle tenta perder peso tomando uma famosa bebida para emagrecimento e Julius decide que a família toda deve entrar na dieta.(c)</desc>
+    <desc lang="pt">Chris e Greg entram para a equipe de luta livre para ganhar uma jaqueta do time da escola e impressionar as garotas; Rochelle tenta perder peso tomando uma famosa bebida para emagrecimento e Julius decide que a família toda deve entrar na dieta.</desc>
     <credits>
       <director>Jerry Levine</director>
       <actor>Tichina Arnold</actor>
@@ -7888,7 +7897,7 @@
   <programme start="20230506175300 +0000" stop="20230506181600 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Todo Mundo Odeia o Chris : T4 EP13 - Todo Mundo Odeia Identidades Falsas</title>
     <sub-title lang="pt">T4 EP13 - Todo Mundo Odeia Identidades Falsas</sub-title>
-    <desc lang="pt">Chris e Greg percebem que precisam arranjar identidades falsas para conseguir entrar no show dos Fat Boys; Rochelle planeja uma festa surpresa para Julius; Drew compra um par de óculos com visão de raios X.(c)</desc>
+    <desc lang="pt">Chris e Greg percebem que precisam arranjar identidades falsas para conseguir entrar no show dos Fat Boys; Rochelle planeja uma festa surpresa para Julius; Drew compra um par de óculos com visão de raios X.</desc>
     <credits>
       <director>Debbie Allen</director>
       <actor>Tichina Arnold</actor>
@@ -7909,7 +7918,7 @@
   <programme start="20230506181600 +0000" stop="20230506184300 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Kenan e Kel : T2 EP3 - A Loteria</title>
     <sub-title lang="pt">T2 EP3 - A Loteria</sub-title>
-    <desc lang="pt">Kel ganha 64 milhões de dólares na loteria e quer dividir o prêmio com seu melhor amigo, Kenan. Parece que tudo está indo muito bem para os dois, até que Kel perde o bilhete vencedor.(c)</desc>
+    <desc lang="pt">Kel ganha 64 milhões de dólares na loteria e quer dividir o prêmio com seu melhor amigo, Kenan. Parece que tudo está indo muito bem para os dois, até que Kel perde o bilhete vencedor.</desc>
     <credits>
       <actor>Kel Mitchell</actor>
       <actor>Kenan Thompson</actor>
@@ -7926,7 +7935,7 @@
   <programme start="20230506184300 +0000" stop="20230506191100 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Kenan e Kel : T2 EP4 - Quem Ama Refrigerante de Laranja?</title>
     <sub-title lang="pt">T2 EP4 - Quem Ama Refrigerante de Laranja?</sub-title>
-    <desc lang="pt">Kenan aposta com Kel que o amigo não consegue ficar uma semana sem beber refrigerante de laranja. Quem perder terá que cantar o hino dos Estados Unidos na frente de todo mundo vestindo uma camisola de seda.(c)</desc>
+    <desc lang="pt">Kenan aposta com Kel que o amigo não consegue ficar uma semana sem beber refrigerante de laranja. Quem perder terá que cantar o hino dos Estados Unidos na frente de todo mundo vestindo uma camisola de seda.</desc>
     <credits>
       <actor>Kel Mitchell</actor>
       <actor>Kenan Thompson</actor>
@@ -7943,7 +7952,7 @@
   <programme start="20230506191100 +0000" stop="20230506193600 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Os Goldbergs : T8 EP1 - Apertem os Cintos... O Piloto Sumiu!</title>
     <sub-title lang="pt">T8 EP1 - Apertem os Cintos... O Piloto Sumiu!</sub-title>
-    <desc lang="pt">Beverly anuncia férias em família em Miami e Erica suspeita que ela esteja tramando algo; Murray luta contra seu medo de avião; Geoff tenta manter a paz.(c)</desc>
+    <desc lang="pt">Beverly anuncia férias em família em Miami e Erica suspeita que ela esteja tramando algo; Murray luta contra seu medo de avião; Geoff tenta manter a paz.</desc>
     <credits>
       <director>Eric Dean Seaton</director>
       <actor>George Segal</actor>
@@ -7966,7 +7975,7 @@
   <programme start="20230506193600 +0000" stop="20230506200100 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Os Goldbergs : T8 EP2 - O Bonitinho da Escola</title>
     <sub-title lang="pt">T8 EP2 - O Bonitinho da Escola</sub-title>
-    <desc lang="pt">Adam luta para equilibrar suas antigas amizades com as novas; Beverly percebe que quer ter um relacionamento adulto com seus filhos.(c)</desc>
+    <desc lang="pt">Adam luta para equilibrar suas antigas amizades com as novas; Beverly percebe que quer ter um relacionamento adulto com seus filhos.</desc>
     <credits>
       <director>Lew Schneider</director>
       <actor>George Segal</actor>
@@ -7989,7 +7998,7 @@
   <programme start="20230506200100 +0000" stop="20230506202500 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">A Boa Vizinhança : T1 EP13 - Bem-Vindos à Noite da Luta</title>
     <sub-title lang="pt">T1 EP13 - Bem-Vindos à Noite da Luta</sub-title>
-    <desc lang="pt">Calvin relutantemente convida Dave para a noite dos rapazes em sua casa com Malcolm e Marty; Gemma e Tina fazem sua primeira viagem de garotas para Las Vegas e inesperadamente ficam sob os holofotes.(c)</desc>
+    <desc lang="pt">Calvin relutantemente convida Dave para a noite dos rapazes em sua casa com Malcolm e Marty; Gemma e Tina fazem sua primeira viagem de garotas para Las Vegas e inesperadamente ficam sob os holofotes.</desc>
     <credits>
       <director>Phill Lewis</director>
       <actor>Tichina Arnold</actor>
@@ -8011,7 +8020,7 @@
   <programme start="20230506202500 +0000" stop="20230506204800 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">A Boa Vizinhança : T1 EP14 - Bem-Vindos à Venda de Garagem</title>
     <sub-title lang="pt">T1 EP14 - Bem-Vindos à Venda de Garagem</sub-title>
-    <desc lang="pt">Dave convence Calvin a fazer uma venda de garagem, mas ele imediatamente se arrepende de vender algo a Miss Simpson, então recruta Dave para ajudá-lo a recuperar o valioso objeto.(c)</desc>
+    <desc lang="pt">Dave convence Calvin a fazer uma venda de garagem, mas ele imediatamente se arrepende de vender algo a Miss Simpson, então recruta Dave para ajudá-lo a recuperar o valioso objeto.</desc>
     <credits>
       <director>Betsy Thomas</director>
       <actor>Tichina Arnold</actor>
@@ -8033,7 +8042,7 @@
   <programme start="20230506204800 +0000" stop="20230506211300 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">A Boa Vizinhança : T1 EP15 - Bem-Vindos ao Trabalho do Malcolm</title>
     <sub-title lang="pt">T1 EP15 - Bem-Vindos ao Trabalho do Malcolm</sub-title>
-    <desc lang="pt">Tina concorda em dar aulas de piano para Grover, e Malcolm consegue um emprego com vendas, mas o primeiro dia de trabalho dos dois não sai de acordo com os planos.(c)</desc>
+    <desc lang="pt">Tina concorda em dar aulas de piano para Grover, e Malcolm consegue um emprego com vendas, mas o primeiro dia de trabalho dos dois não sai de acordo com os planos.</desc>
     <credits>
       <actor>Tichina Arnold</actor>
       <actor>Beth Behrs</actor>
@@ -8054,7 +8063,7 @@
   <programme start="20230506211300 +0000" stop="20230506213800 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Sabrina, a Aprendiz de Feiticeira : T2 EP14 - Transferência de Poderes</title>
     <sub-title lang="pt">T2 EP14 - Transferência de Poderes</sub-title>
-    <desc lang="pt">Sabrina pega uma estranha gripe que transfere seus poderes temporariamente para a Mrs. Quick.(c)</desc>
+    <desc lang="pt">Sabrina pega uma estranha gripe que transfere seus poderes temporariamente para a Mrs. Quick.</desc>
     <credits>
       <actor>Melissa Joan Hart</actor>
       <actor>Nick Bakay</actor>
@@ -8077,7 +8086,7 @@
   <programme start="20230506213800 +0000" stop="20230506220300 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Sabrina, a Aprendiz de Feiticeira : T2 EP15 - Sabrina e o Pé de Feijão</title>
     <sub-title lang="pt">T2 EP15 - Sabrina e o Pé de Feijão</sub-title>
-    <desc lang="pt">Uma bruxa má pega Sabrina e Harvey como reféns e os leva até o topo de um pé de feijão.(c)</desc>
+    <desc lang="pt">Uma bruxa má pega Sabrina e Harvey como reféns e os leva até o topo de um pé de feijão.</desc>
     <credits>
       <actor>Melissa Joan Hart</actor>
       <actor>Nick Bakay</actor>
@@ -8100,7 +8109,7 @@
   <programme start="20230506220300 +0000" stop="20230506222800 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">O Rei do Bairro : T2 EP20 - Jogatinas</title>
     <sub-title lang="pt">T2 EP20 - Jogatinas</sub-title>
-    <desc lang="pt">Doug perde todo seu dinheiro quando vai a Atlantic City com Deacon; Arthur ameaça bater no chefe de Carrie.(c)</desc>
+    <desc lang="pt">Doug perde todo seu dinheiro quando vai a Atlantic City com Deacon; Arthur ameaça bater no chefe de Carrie.</desc>
     <credits>
       <director>Tony Sheehan</director>
       <actor>Leah Remini</actor>
@@ -8121,7 +8130,7 @@
   <programme start="20230506222800 +0000" stop="20230506225400 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">O Rei do Bairro : T2 EP21 - O Grande Dougie</title>
     <sub-title lang="pt">T2 EP21 - O Grande Dougie</sub-title>
-    <desc lang="pt">O Grande Irmão Doug (Kevin James) tenta fazer alguma coisa para impressionar seu novo protegido, e acaba entrando em uma corrida de 10 milhas. Com Leah Remini e Patton Oswalt.(c)</desc>
+    <desc lang="pt">O Grande Irmão Doug (Kevin James) tenta fazer alguma coisa para impressionar seu novo protegido, e acaba entrando em uma corrida de 10 milhas. Com Leah Remini e Patton Oswalt.</desc>
     <credits>
       <director>Rob Schiller</director>
       <actor>Leah Remini</actor>
@@ -8140,7 +8149,7 @@
   <programme start="20230506225400 +0000" stop="20230506231800 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Todo Mundo Odeia o Chris : T4 EP14 - Todo Mundo Odeia Exames para Faculdade</title>
     <sub-title lang="pt">T4 EP14 - Todo Mundo Odeia Exames para Faculdade</sub-title>
-    <desc lang="pt">Chris quer se preparar para seu teste de pré-vestibular, mas, quando Rochelle obriga a família a comparecer a um evento social, ele fica sem tempo para estudar e, desesperado, decide comprar o gabarito com todas as respostas da prova.(c)</desc>
+    <desc lang="pt">Chris quer se preparar para seu teste de pré-vestibular, mas, quando Rochelle obriga a família a comparecer a um evento social, ele fica sem tempo para estudar e, desesperado, decide comprar o gabarito com todas as respostas da prova.</desc>
     <credits>
       <director>Keith Truesdell</director>
       <actor>Tichina Arnold</actor>
@@ -8161,7 +8170,7 @@
   <programme start="20230506231800 +0000" stop="20230507000300 +0000" channel="COMEDY CENTRAL">
     <title lang="pt">Todo Mundo Odeia o Chris : T4 EP15 - Todo Mundo Odeia Boxe</title>
     <sub-title lang="pt">T4 EP15 - Todo Mundo Odeia Boxe</sub-title>
-    <desc lang="pt">O treinador Thurman vê Chris sendo agredido por Caruso e sugere que ele aprenda a lutar boxe para se defender; Julius suspeita que Rochelle esteja tendo um caso amoroso quando encontra ligações para um número desconhecido na conta de telefone.(c)</desc>
+    <desc lang="pt">O treinador Thurman vê Chris sendo agredido por Caruso e sugere que ele aprenda a lutar boxe para se defender; Julius suspeita que Rochelle esteja tendo um caso amoroso quando encontra ligações para um número desconhecido na conta de telefone.</desc>
     <credits>
       <director>Ken Whittingham</director>
       <actor>Tichina Arnold</actor>
@@ -10567,28 +10576,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230505202000 +0000" stop="20230505211500 +0000" channel="NATGEO">
-    <title lang="pt">Mayday! Desastres Aéreos</title>
-    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
-    <credits>
-      <director>Tim Wolochatiuk</director>
-      <director>Mark Mainguy</director>
-      <actor>Jonathan Aris</actor>
-      <actor>Andre Barro</actor>
-      <actor>Bernard Vaillot</actor>
-      <actor>Greg Gransden</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/77/14770639_5CE599F43FFA8981.jpg" />
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20230505211500 +0000" stop="20230505221000 +0000" channel="NATGEO">
+  <programme start="20230505211400 +0000" stop="20230505220900 +0000" channel="NATGEO">
     <title lang="pt">Reino Animal - Diários de Lawrence Wahba : Oceano</title>
     <sub-title lang="pt">Oceano</sub-title>
-    <desc lang="pt">Lawrence Wahba percorre mais de 2.500 quilômetros da Baixa Califórnia, navegando da Ilha Guadalupe, capital mundial dos grandes tubarões brancos, até a Ilha Socorro, famosa por suas raias gigantes.</desc>
+    <desc lang="pt">Lawrence Wahba percorre mais de 2.500 quilômetros da Baixa Califórnia, navegando da Ilha Guadalupe, capital mundial dos grandes tubarões brancos, até a Ilha Socorro, famosa por suas raias gigantes.(c)</desc>
     <credits>
       <director>Lawrence Wahba</director>
     </credits>
@@ -10600,9 +10591,9 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230505221000 +0000" stop="20230505231500 +0000" channel="NATGEO">
+  <programme start="20230505220900 +0000" stop="20230505230200 +0000" channel="NATGEO">
     <title lang="pt">Aeroporto - São Paulo</title>
-    <desc lang="pt">A polícia investiga os verdadeiros motivos da viagem de três passageiras para a África, enquanto enfrenta o desafio de descobrir a nacionalidade de um enigmático passageiro que vaga pelo aeroporto aparentemente em pânico.</desc>
+    <desc lang="pt">A polícia investiga os verdadeiros motivos da viagem de três passageiras para a África, enquanto enfrenta o desafio de descobrir a nacionalidade de um enigmático passageiro que vaga pelo aeroporto aparentemente em pânico.(c)</desc>
     <category lang="pt">Policial</category>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11825746_4AA8BCBDB68812EF.jpg" />
@@ -10611,9 +10602,9 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230505231500 +0000" stop="20230506000000 +0000" channel="NATGEO">
+  <programme start="20230505230200 +0000" stop="20230506000000 +0000" channel="NATGEO">
     <title lang="pt">Aeroporto - Madri</title>
-    <desc lang="pt">A polícia fica realmente surpresa ao verificar a bagagem de um casal, em um dos casos mais incomuns que eles tiveram que investigar. Mais tarde, eles interrogam dois passageiros em greve que estão indo para férias muito particulares.</desc>
+    <desc lang="pt">A polícia fica realmente surpresa ao verificar a bagagem de um casal, em um dos casos mais incomuns que eles tiveram que investigar. Mais tarde, eles interrogam dois passageiros em greve que estão indo para férias muito particulares.(c)</desc>
     <date>2019</date>
     <category lang="pt">Policial</category>
     <category lang="pt">Reality Show</category>
@@ -10623,10 +10614,10 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506000000 +0000" stop="20230506010000 +0000" channel="NATGEO">
+  <programme start="20230506000000 +0000" stop="20230506005200 +0000" channel="NATGEO">
     <title lang="pt">Alasca - Sabedoria Nativa : T2 EP3 - Espírito Guerreiro</title>
     <sub-title lang="pt">T2 EP3 - Espírito Guerreiro</sub-title>
-    <desc lang="pt">No Alasca, os povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais.</desc>
+    <desc lang="pt">No Alasca, os povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais.(c)</desc>
     <date>2023</date>
     <category lang="pt">Aventura</category>
     <category lang="pt">Reality Show</category>
@@ -10636,10 +10627,10 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506010000 +0000" stop="20230506015500 +0000" channel="NATGEO">
+  <programme start="20230506005200 +0000" stop="20230506014400 +0000" channel="NATGEO">
     <title lang="pt">Sobrevivendo no Alasca : T5 EP14 - Alerta Máximo</title>
     <sub-title lang="pt">T5 EP14 - Alerta Máximo</sub-title>
-    <desc lang="pt">À medida que as temperaturas aumentam e os predadores começam a acordar, os habitantes do Alasca precisam ficar alertas para sobreviver.</desc>
+    <desc lang="pt">À medida que as temperaturas aumentam e os predadores começam a acordar, os habitantes do Alasca precisam ficar alertas para sobreviver.(c)</desc>
     <credits>
       <actor>Mocean Melvin</actor>
     </credits>
@@ -10652,10 +10643,10 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506015500 +0000" stop="20230506025000 +0000" channel="NATGEO">
+  <programme start="20230506014400 +0000" stop="20230506023600 +0000" channel="NATGEO">
     <title lang="pt">Resgate no Gelo : T7 EP8 - Bloqueio Policial</title>
     <sub-title lang="pt">T7 EP8 - Bloqueio Policial</sub-title>
-    <desc lang="pt">Thord e Bjoern entram em conflito com a polícia quando são forçados a interromper um resgate.</desc>
+    <desc lang="pt">Thord e Bjoern entram em conflito com a polícia quando são forçados a interromper um resgate.(c)</desc>
     <credits>
       <director>Hildegunn Waerness</director>
       <actor>Charles Griffin Gibson</actor>
@@ -10675,9 +10666,9 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506025000 +0000" stop="20230506035000 +0000" channel="NATGEO">
+  <programme start="20230506023600 +0000" stop="20230506033400 +0000" channel="NATGEO">
     <title lang="pt">Lady Di - O Legado</title>
-    <desc lang="pt">O Legado de Diana é diferente de muitos dos programas recentes que comemoram o aniversário de sua morte: é um poderoso resumo do legado histórico, político e social da princesa Diana.</desc>
+    <desc lang="pt">O Legado de Diana é diferente de muitos dos programas recentes que comemoram o aniversário de sua morte: é um poderoso resumo do legado histórico, político e social da princesa Diana.(c)</desc>
     <credits>
       <director>Vance Goodwin</director>
       <director>Adrian Munsey</director>
@@ -10695,9 +10686,9 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506035000 +0000" stop="20230506045000 +0000" channel="NATGEO">
+  <programme start="20230506033400 +0000" stop="20230506043600 +0000" channel="NATGEO">
     <title lang="pt">Príncipe Philip - Suas Últimas Palavras</title>
-    <desc lang="pt">Uma homenagem ao Duque de Edimburgo, filmado no Castelo de Windsor. O príncipe Phillip fala sobre a vida real, a história da família, seus sucessos e fracassos e como ele transformou o castelo mais famoso do mundo em um lar.</desc>
+    <desc lang="pt">Uma homenagem ao Duque de Edimburgo, filmado no Castelo de Windsor. O príncipe Phillip fala sobre a vida real, a história da família, seus sucessos e fracassos e como ele transformou o castelo mais famoso do mundo em um lar.(c)</desc>
     <credits>
       <director>Andy Goodsir</director>
       <director>Matt Reid</director>
@@ -10710,10 +10701,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506045000 +0000" stop="20230506054000 +0000" channel="NATGEO">
+  <programme start="20230506043600 +0000" stop="20230506052600 +0000" channel="NATGEO">
     <title lang="pt">Mayday! Desastres Aéreos : T22 EP4 - Problema Duplo</title>
     <sub-title lang="pt">T22 EP4 - Problema Duplo</sub-title>
-    <desc lang="pt">Abalados por uma explosão que destrói os dois motores da asa direita, os pilotos do Transair 671 conseguem fazer um pouso milagroso em um aeródromo militar francês.</desc>
+    <desc lang="pt">Abalados por uma explosão que destrói os dois motores da asa direita, os pilotos do Transair 671 conseguem fazer um pouso milagroso em um aeródromo militar francês.(c)</desc>
     <credits>
       <director>Tim Wolochatiuk</director>
       <director>Mark Mainguy</director>
@@ -10730,10 +10721,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506054000 +0000" stop="20230506062500 +0000" channel="NATGEO">
+  <programme start="20230506052600 +0000" stop="20230506061800 +0000" channel="NATGEO">
     <title lang="pt">Sabores Extremos com Gordon Ramsay : T3 EP2 - Litoral de Portugal</title>
     <sub-title lang="pt">T3 EP2 - Litoral de Portugal</sub-title>
-    <desc lang="pt">O Chef Ramsay enfrenta ondas gigantes, pesca em alto mar e cultiva o campo para explorar e descobrir a simplicidade absoluta da cozinha portuguesa.</desc>
+    <desc lang="pt">O Chef Ramsay enfrenta ondas gigantes, pesca em alto mar e cultiva o campo para explorar e descobrir a simplicidade absoluta da cozinha portuguesa.(c)</desc>
     <date>2021</date>
     <category lang="pt">Aventura</category>
     <category lang="pt">Reality Show</category>
@@ -10743,10 +10734,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506062500 +0000" stop="20230506071000 +0000" channel="NATGEO">
+  <programme start="20230506061800 +0000" stop="20230506070900 +0000" channel="NATGEO">
     <title lang="pt">Sobrevivente Primitivo com Hazen Audel : T2 EP5 - Abismo Perigoso</title>
     <sub-title lang="pt">T2 EP5 - Abismo Perigoso</sub-title>
-    <desc lang="pt">No desfiladeiro mais profundo da América do Norte, Hazen Audel enfrenta um desafio mortal. Ele deve se guiar pelo terreno montanhoso, e mergulhar nestes abismos com apenas as sandálias tradicionais do Rarámuri para proteção.</desc>
+    <desc lang="pt">No desfiladeiro mais profundo da América do Norte, Hazen Audel enfrenta um desafio mortal. Ele deve se guiar pelo terreno montanhoso, e mergulhar nestes abismos com apenas as sandálias tradicionais do Rarámuri para proteção.(c)</desc>
     <date>2017</date>
     <category lang="pt">Outros</category>
     <category lang="pt">Turismo</category>
@@ -10756,9 +10747,9 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506071000 +0000" stop="20230506075500 +0000" channel="NATGEO">
+  <programme start="20230506070900 +0000" stop="20230506075800 +0000" channel="NATGEO">
     <title lang="pt">Aeroporto - Peru</title>
-    <desc lang="pt">No aeroporto Jorge Chávez, os oficiais enfrentam as mais ousadas tentativas de tráfico de drogas, desde bagagens com fundo falso até cocaína camuflada em embalagens de alimentos.</desc>
+    <desc lang="pt">No aeroporto Jorge Chávez, os oficiais enfrentam as mais ousadas tentativas de tráfico de drogas, desde bagagens com fundo falso até cocaína camuflada em embalagens de alimentos.(c)</desc>
     <category lang="pt">Policial</category>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/04/14048489_BD0D2CA4B8FDBDA1.jpg" />
@@ -10767,9 +10758,9 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506075500 +0000" stop="20230506083500 +0000" channel="NATGEO">
+  <programme start="20230506075800 +0000" stop="20230506084700 +0000" channel="NATGEO">
     <title lang="pt">Aeroporto - Peru</title>
-    <desc lang="pt">Uma mulher é detida com seus dois filhos pequenos ao tentar levar drogas para o exterior; uma jovem entra em crise de choro; um jovem que estava preso por narcotráfico é revistado minuciosamente pelos oficiais.</desc>
+    <desc lang="pt">Uma mulher é detida com seus dois filhos pequenos ao tentar levar drogas para o exterior; uma jovem entra em crise de choro; um jovem que estava preso por narcotráfico é revistado minuciosamente pelos oficiais.(c)</desc>
     <category lang="pt">Policial</category>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11849309_364BE4BFBB5F0160.jpg" />
@@ -10778,10 +10769,10 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506083500 +0000" stop="20230506090000 +0000" channel="NATGEO">
+  <programme start="20230506084700 +0000" stop="20230506091100 +0000" channel="NATGEO">
     <title lang="pt">A Fábrica de Comidas : T2 EP19 - Segredos do Velho Mundo</title>
     <sub-title lang="pt">T2 EP19 - Segredos do Velho Mundo</sub-title>
-    <desc lang="pt">Que tal uma barra de chocolate crocante com recheio de marshmallow. Depois, um pão de centeio fresquinho e um molho de cenoura com gengibre. Por fim, cookies que unem o melhor de dois mundos: chocolate e baunilha.</desc>
+    <desc lang="pt">Que tal uma barra de chocolate crocante com recheio de marshmallow. Depois, um pão de centeio fresquinho e um molho de cenoura com gengibre. Por fim, cookies que unem o melhor de dois mundos: chocolate e baunilha.(c)</desc>
     <credits>
       <director>Brian Quigley</director>
       <director>Dan Pasqua</director>
@@ -10796,10 +10787,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506090000 +0000" stop="20230506092000 +0000" channel="NATGEO">
+  <programme start="20230506091100 +0000" stop="20230506093600 +0000" channel="NATGEO">
     <title lang="pt">A Fábrica de Comidas : T1 EP21 - Comida de Mãe</title>
     <sub-title lang="pt">T1 EP21 - Comida de Mãe</sub-title>
-    <desc lang="pt">Descubra como pizzas congeladas, manteiga, cogumelos orgânicos chegam às massas, e mais.</desc>
+    <desc lang="pt">Descubra como pizzas congeladas, manteiga, cogumelos orgânicos chegam às massas, e mais.(c)</desc>
     <credits>
       <director>Sebastian Cluer</director>
       <director>Brian Quigley</director>
@@ -10814,10 +10805,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506092000 +0000" stop="20230506094000 +0000" channel="NATGEO">
+  <programme start="20230506093600 +0000" stop="20230506100000 +0000" channel="NATGEO">
     <title lang="pt">A Fábrica de Comidas : T4 EP15 - Tofurky - Alternativa Vegana</title>
     <sub-title lang="pt">T4 EP15 - Tofurky - Alternativa Vegana</sub-title>
-    <desc lang="pt">Veja como é produzido em escala industrial um nutritivo prato vegetariano e, em seguida, uma barra de cereal feita de amêndoas, mel e nozes. Descubra ainda os segredos de um refrigerante com gostinho de infância.</desc>
+    <desc lang="pt">Veja como é produzido em escala industrial um nutritivo prato vegetariano e, em seguida, uma barra de cereal feita de amêndoas, mel e nozes. Descubra ainda os segredos de um refrigerante com gostinho de infância.(c)</desc>
     <credits>
       <actor>Todd Schick</actor>
       <actor>Colleen Rusholme</actor>
@@ -10830,25 +10821,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506094000 +0000" stop="20230506100000 +0000" channel="NATGEO">
-    <title lang="pt">Ciência do Absurdo</title>
-    <desc lang="pt">Conheça a a ciência por trás de quedas e colisões ao pedalar em declive.</desc>
-    <credits>
-      <actor>Alfonso Herrera</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="pt">Educativo</category>
-    <category lang="pt">Ciência</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/77/12776035_B7BE4926871317B1.jpg" />
-    <episode-num system="onscreen">S8 E6</episode-num>
-    <rating>
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20230506100000 +0000" stop="20230506102500 +0000" channel="NATGEO">
+  <programme start="20230506100000 +0000" stop="20230506102700 +0000" channel="NATGEO">
     <title lang="pt">Truques da Mente : T2 EP8 - Ver para Crer</title>
     <sub-title lang="pt">T2 EP8 - Ver para Crer</sub-title>
-    <desc lang="pt">Veja como seu cérebro transforma pessoas bonitas em monstros assustadores e reduz gigantes a miniaturas; Jason Silva conversa com o ilusionista Apollo Robbins e o psicólogo Daniel Simons. Eles discutem a ideia de que o mundo que vemos não é preciso.</desc>
+    <desc lang="pt">Veja como seu cérebro transforma pessoas bonitas em monstros assustadores e reduz gigantes a miniaturas; Jason Silva conversa com o ilusionista Apollo Robbins e o psicólogo Daniel Simons. Eles discutem a ideia de que o mundo que vemos não é preciso.(c)</desc>
     <date>2013</date>
     <category lang="pt">Educativo</category>
     <category lang="pt">Ciência</category>
@@ -10858,10 +10834,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506102500 +0000" stop="20230506105000 +0000" channel="NATGEO">
+  <programme start="20230506102700 +0000" stop="20230506105300 +0000" channel="NATGEO">
     <title lang="pt">Truques da Mente : T4 EP10 - Intuição</title>
     <sub-title lang="pt">T4 EP10 - Intuição</sub-title>
-    <desc lang="pt">Se você já se incomodou com alguma coisa sem saber o motivo, saiba que aquele pequenino sentimento é a chave para descobrir uma das habilidades mais poderosas do seu cérebro: a intuição. Revelamos que você deve ouvir seus instintos.</desc>
+    <desc lang="pt">Se você já se incomodou com alguma coisa sem saber o motivo, saiba que aquele pequenino sentimento é a chave para descobrir uma das habilidades mais poderosas do seu cérebro: a intuição. Revelamos que você deve ouvir seus instintos.(c)</desc>
     <date>2014</date>
     <category lang="pt">Educativo</category>
     <category lang="pt">Ciência</category>
@@ -10871,9 +10847,9 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506105000 +0000" stop="20230506111500 +0000" channel="NATGEO">
+  <programme start="20230506105300 +0000" stop="20230506112000 +0000" channel="NATGEO">
     <title lang="pt">Ciência do Absurdo</title>
-    <desc lang="pt">Conheça a ciência que está por trás de quedas e colisões ao saltar de patinetes, instalar telhados e usar um snowmobile.</desc>
+    <desc lang="pt">Conheça a ciência que está por trás de quedas e colisões ao saltar de patinetes, instalar telhados e usar um snowmobile.(c)</desc>
     <credits>
       <actor>Alfonso Herrera</actor>
     </credits>
@@ -10886,9 +10862,9 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506111500 +0000" stop="20230506114000 +0000" channel="NATGEO">
+  <programme start="20230506112000 +0000" stop="20230506114800 +0000" channel="NATGEO">
     <title lang="pt">Ciência do Absurdo</title>
-    <desc lang="pt">Conheça a ciência por trás de quedas e falhas ao tentar virar o veículo.</desc>
+    <desc lang="pt">Conheça a ciência por trás de quedas e falhas ao tentar virar o veículo.(c)</desc>
     <credits>
       <actor>Alfonso Herrera</actor>
     </credits>
@@ -10901,10 +10877,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506114000 +0000" stop="20230506121000 +0000" channel="NATGEO">
+  <programme start="20230506114800 +0000" stop="20230506121700 +0000" channel="NATGEO">
     <title lang="pt">Truques da Mente : T2 EP7 - Guerra dos Sexos</title>
     <sub-title lang="pt">T2 EP7 - Guerra dos Sexos</sub-title>
-    <desc lang="pt">Por meio de uma série de jogos interativos e experiências inesperadas, especialistas demonstram como os cérebros masculino e feminino funcionam de maneira bem diferente.</desc>
+    <desc lang="pt">Por meio de uma série de jogos interativos e experiências inesperadas, especialistas demonstram como os cérebros masculino e feminino funcionam de maneira bem diferente.(c)</desc>
     <date>2013</date>
     <category lang="pt">Educativo</category>
     <category lang="pt">Ciência</category>
@@ -10914,10 +10890,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506121000 +0000" stop="20230506130500 +0000" channel="NATGEO">
+  <programme start="20230506121700 +0000" stop="20230506130800 +0000" channel="NATGEO">
     <title lang="pt">Aeroporto - Colômbia : T2 EP1 - Sedução Online</title>
     <sub-title lang="pt">T2 EP1 - Sedução Online</sub-title>
-    <desc lang="pt">A polícia do Aeroporto El Dorado lidera uma nova batalha contra o tráfico de drogas, que recorre a estratégias criativas como camuflar drogas em equipamentos médicos e engenhosos fundos falsos.</desc>
+    <desc lang="pt">A polícia do Aeroporto El Dorado lidera uma nova batalha contra o tráfico de drogas, que recorre a estratégias criativas como camuflar drogas em equipamentos médicos e engenhosos fundos falsos.(c)</desc>
     <date>2015</date>
     <category lang="pt">Policial</category>
     <category lang="pt">Reality Show</category>
@@ -10927,9 +10903,9 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506130500 +0000" stop="20230506135500 +0000" channel="NATGEO">
+  <programme start="20230506130800 +0000" stop="20230506140000 +0000" channel="NATGEO">
     <title lang="pt">Aeroporto - Peru</title>
-    <desc lang="pt">Graças aos raios-X, os agentes detectam anomalias em uma mala destinada a um voo prestes a decolar; o calor expõe dois passageiros, que acabam devendo explicações à polícia antidrogas.</desc>
+    <desc lang="pt">Graças aos raios-X, os agentes detectam anomalias em uma mala destinada a um voo prestes a decolar; o calor expõe dois passageiros, que acabam devendo explicações à polícia antidrogas.(c)</desc>
     <date>2019</date>
     <category lang="pt">Policial</category>
     <category lang="pt">Reality Show</category>
@@ -10939,10 +10915,10 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506135500 +0000" stop="20230506143000 +0000" channel="NATGEO">
+  <programme start="20230506140000 +0000" stop="20230506142900 +0000" channel="NATGEO">
     <title lang="pt">A Fábrica de Comidas : T3 EP25 - Café da Manhã em Pedaços</title>
     <sub-title lang="pt">T3 EP25 - Café da Manhã em Pedaços</sub-title>
-    <desc lang="pt">Veja como é a produção industrializada de um cereal em forma de quadradinhos, do bolo floresta negra, do alfajor canadense e do molho tzatziki.</desc>
+    <desc lang="pt">Veja como é a produção industrializada de um cereal em forma de quadradinhos, do bolo floresta negra, do alfajor canadense e do molho tzatziki.(c)</desc>
     <credits>
       <director>Johnny Mitchell</director>
       <actor>Todd Schick</actor>
@@ -10956,10 +10932,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506143000 +0000" stop="20230506145500 +0000" channel="NATGEO">
+  <programme start="20230506142900 +0000" stop="20230506145500 +0000" channel="NATGEO">
     <title lang="pt">A Fábrica de Comidas : T4 EP25 - Mistura de Arroz</title>
     <sub-title lang="pt">T4 EP25 - Mistura de Arroz</sub-title>
-    <desc lang="pt">Descubra como é produzido um saboroso prato de arroz frito que é um clássico de São Francisco. Em seguida, veja como é feita a salada que lidera o cardápio de restaurantes do mundo todo: a Caesar.</desc>
+    <desc lang="pt">Descubra como é produzido um saboroso prato de arroz frito que é um clássico de São Francisco. Em seguida, veja como é feita a salada que lidera o cardápio de restaurantes do mundo todo: a Caesar.(c)</desc>
     <credits>
       <actor>Todd Schick</actor>
       <actor>Colleen Rusholme</actor>
@@ -10972,10 +10948,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506145500 +0000" stop="20230506152000 +0000" channel="NATGEO">
+  <programme start="20230506145500 +0000" stop="20230506152500 +0000" channel="NATGEO">
     <title lang="pt">A Fábrica de Comidas : T5 EP24 - Comida de Universidade</title>
     <sub-title lang="pt">T5 EP24 - Comida de Universidade</sub-title>
-    <desc lang="pt">Um mega pedido de peixes da Universidade de Harvard significa acordar cedo para uma tripulação de pescadores de Cape Cod; armados com lanternas, dois fazendeiros de Ontário percorrem seus campos em busca dos mais deliciosos milhos e beterrabas.</desc>
+    <desc lang="pt">Um mega pedido de peixes da Universidade de Harvard significa acordar cedo para uma tripulação de pescadores de Cape Cod; armados com lanternas, dois fazendeiros de Ontário percorrem seus campos em busca dos mais deliciosos milhos e beterrabas.(c)</desc>
     <credits>
       <actor>Todd Schick</actor>
       <actor>Colleen Rusholme</actor>
@@ -10988,10 +10964,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506152000 +0000" stop="20230506161500 +0000" channel="NATGEO">
+  <programme start="20230506152500 +0000" stop="20230506161900 +0000" channel="NATGEO">
     <title lang="pt">Yukon - Plantão Veterinário : T7 EP5 - A Jovem Rena e o Porco-Espinho Idoso</title>
     <sub-title lang="pt">T7 EP5 - A Jovem Rena e o Porco-Espinho Idoso</sub-title>
-    <desc lang="pt">Uma jovem rena com muitos problemas precisa da ajuda da Dra. Oakley para ficar em forma e um porco-espinho idoso causa um problema com seus espinhos.</desc>
+    <desc lang="pt">Uma jovem rena com muitos problemas precisa da ajuda da Dra. Oakley para ficar em forma e um porco-espinho idoso causa um problema com seus espinhos.(c)</desc>
     <credits>
       <actor>Michelle Oakley</actor>
     </credits>
@@ -11004,10 +10980,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506161500 +0000" stop="20230506171000 +0000" channel="NATGEO">
+  <programme start="20230506161900 +0000" stop="20230506171500 +0000" channel="NATGEO">
     <title lang="pt">A Magia do Disney's Animal Kingdom : T2 EP5 - Festa de Tartarugas</title>
     <sub-title lang="pt">T2 EP5 - Festa de Tartarugas</sub-title>
-    <desc lang="pt">Um gorila recebe um tratamento inovador; um rinoceronte recebe um monitor de exercícios moderno; um antílope é analisado pela perda de peso; as tartarugas fazem festa.</desc>
+    <desc lang="pt">Um gorila recebe um tratamento inovador; um rinoceronte recebe um monitor de exercícios moderno; um antílope é analisado pela perda de peso; as tartarugas fazem festa.(c)</desc>
     <credits>
       <actor>Tasha Johnson</actor>
     </credits>
@@ -11019,10 +10995,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506171000 +0000" stop="20230506180500 +0000" channel="NATGEO">
+  <programme start="20230506171500 +0000" stop="20230506180700 +0000" channel="NATGEO">
     <title lang="pt">Mascotes Extraordinários : T1 EP4 - Corrida pelo Orgulho</title>
     <sub-title lang="pt">T1 EP4 - Corrida pelo Orgulho</sub-title>
-    <desc lang="pt">Alpacas, galinhas e porquinhos-da-índia acompanham seus donos para participar do concurso Best in Show em Ohio, Maryland e Texas.</desc>
+    <desc lang="pt">Alpacas, galinhas e porquinhos-da-índia acompanham seus donos para participar do concurso Best in Show em Ohio, Maryland e Texas.(c)</desc>
     <date>2023</date>
     <category lang="pt">Reality Show</category>
     <category lang="pt">Pets</category>
@@ -11032,10 +11008,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506180500 +0000" stop="20230506190000 +0000" channel="NATGEO">
+  <programme start="20230506180700 +0000" stop="20230506190300 +0000" channel="NATGEO">
     <title lang="pt">Clínica Animal com Dr. Pol : T21 - Ossos Partidos</title>
     <sub-title lang="pt">T21 - Ossos Partidos</sub-title>
-    <desc lang="pt">De um parto difícil a ossos quebrados, os veterinários de Pol fazem milagres; a família Pol também dá boas-vindas a uma nova égua friesian no rebanho.</desc>
+    <desc lang="pt">De um parto difícil a ossos quebrados, os veterinários de Pol fazem milagres; a família Pol também dá boas-vindas a uma nova égua friesian no rebanho.(c)</desc>
     <credits>
       <actor>Ari Rubin</actor>
       <actor>Monica Austin</actor>
@@ -11049,10 +11025,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506190000 +0000" stop="20230506193000 +0000" channel="NATGEO">
+  <programme start="20230506190300 +0000" stop="20230506194200 +0000" channel="NATGEO">
     <title lang="pt">Amante dos Bichos : T1 EP1 - Instinto de Sobrevivência</title>
     <sub-title lang="pt">T1 EP1 - Instinto de Sobrevivência</sub-title>
-    <desc lang="pt">Antônio percorre a costa para presenciar um grande espetáculo natural: o nascimento das tartarugas marinhas e a sua instintiva viagem para o mar. Além disso, ele tenta ver as tartarugas que desovam à noite.</desc>
+    <desc lang="pt">Antônio percorre a costa para presenciar um grande espetáculo natural: o nascimento das tartarugas marinhas e a sua instintiva viagem para o mar. Além disso, ele tenta ver as tartarugas que desovam à noite.(c)</desc>
     <date>2023</date>
     <category lang="pt">Pets</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/50/15507330_7082FD46B685FDF9.jpg" />
@@ -11061,10 +11037,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506193000 +0000" stop="20230506200000 +0000" channel="NATGEO">
+  <programme start="20230506194200 +0000" stop="20230506202000 +0000" channel="NATGEO">
     <title lang="pt">Amante dos Bichos : T1 EP2 - A Mais Temida</title>
     <sub-title lang="pt">T1 EP2 - A Mais Temida</sub-title>
-    <desc lang="pt">Antônio viaja seguindo o rastro de Yara, uma cobra venenosa temida por todos. Ao longo do caminho, ele reflete sobre o medo que muitas vezes é causado pela falta de conhecimento.</desc>
+    <desc lang="pt">Antônio viaja seguindo o rastro de Yara, uma cobra venenosa temida por todos. Ao longo do caminho, ele reflete sobre o medo que muitas vezes é causado pela falta de conhecimento.(c)</desc>
     <category lang="pt">Pets</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/50/15507330_7082FD46B685FDF9.jpg" />
     <episode-num system="onscreen">S1 E2</episode-num>
@@ -11072,10 +11048,10 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506200000 +0000" stop="20230506210000 +0000" channel="NATGEO">
+  <programme start="20230506202000 +0000" stop="20230506211300 +0000" channel="NATGEO">
     <title lang="pt">Os Segredos do Zoológico - Tampa : T4 EP9 - Panteras no Caminho</title>
     <sub-title lang="pt">T4 EP9 - Panteras no Caminho</sub-title>
-    <desc lang="pt">Nossos exploradores procuram rotas seguras para as panteras; veja um encontro muito louco de babirussas; o bioparque enfrenta uma pandemia global.</desc>
+    <desc lang="pt">Nossos exploradores procuram rotas seguras para as panteras; veja um encontro muito louco de babirussas; o bioparque enfrenta uma pandemia global.(c)</desc>
     <credits>
       <actor>Jason Reiter</actor>
     </credits>
@@ -11087,10 +11063,10 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230506210000 +0000" stop="20230506220000 +0000" channel="NATGEO">
+  <programme start="20230506211300 +0000" stop="20230506220700 +0000" channel="NATGEO">
     <title lang="pt">Desvendando Segredos da Bíblia com Albert Lin : T1 - Cidades Perdidas do Antigo Testamento</title>
     <sub-title lang="pt">T1 - Cidades Perdidas do Antigo Testamento</sub-title>
-    <desc lang="pt">Albert Lin usa satélites e drones para investigar mistérios de passagens icônicas da bíblia como a divisão do Mar Vermelho e a destruição de Sodoma e Gomorra.</desc>
+    <desc lang="pt">Albert Lin usa satélites e drones para investigar mistérios de passagens icônicas da bíblia como a divisão do Mar Vermelho e a destruição de Sodoma e Gomorra.(c)</desc>
     <credits>
       <actor>Albert Lin</actor>
     </credits>
@@ -11102,10 +11078,10 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20230506220000 +0000" stop="20230506230000 +0000" channel="NATGEO">
+  <programme start="20230506220700 +0000" stop="20230506230700 +0000" channel="NATGEO">
     <title lang="pt">A História de Deus com Morgan Freeman : A Criação</title>
     <sub-title lang="pt">A Criação</sub-title>
-    <desc lang="pt">Morgan Freeman viaja pelo mundo para perguntar de onde viemos e o que aconteceu no princípio de tudo. A primeira pergunta da humanidade segue sendo uma das mais intensamente discutidas.</desc>
+    <desc lang="pt">Morgan Freeman viaja pelo mundo para perguntar de onde viemos e o que aconteceu no princípio de tudo. A primeira pergunta da humanidade segue sendo uma das mais intensamente discutidas.(c)</desc>
     <credits>
       <director>Lori McCreary</director>
       <director>James Younger</director>
@@ -11117,9 +11093,9 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20230506230000 +0000" stop="20230507000000 +0000" channel="NATGEO">
+  <programme start="20230506230700 +0000" stop="20230507000000 +0000" channel="NATGEO">
     <title lang="pt">Carlos - Na Primeira Pessoa</title>
-    <desc lang="pt">Documentário revisita arquivo e analisa os principais eventos da vida de Carlos de Windsor, coroado rei da Inglaterra em 6 de maio de 2023, para responder como o monarca foi moldado e quais as perspectivas de seu reinado.</desc>
+    <desc lang="pt">Documentário revisita arquivo e analisa os principais eventos da vida de Carlos de Windsor, coroado rei da Inglaterra em 6 de maio de 2023, para responder como o monarca foi moldado e quais as perspectivas de seu reinado.(c)</desc>
     <date>2023</date>
     <category lang="pt">Especial</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/86/15866907_E45304E4ADE1E54C.jpg" />
@@ -15865,7 +15841,7 @@
   </programme>
   <programme start="20230506060000 -0300" stop="20230506065200 -0300" channel="TLC">
     <title lang="pt">Seis de Uma Vez</title>
-    <desc lang="pt">Courtney luta para prestar atenção aos meninos maiores quando eles comemoram sua festa de aniversário e precisa lidar com sua ansiedade de separação quando se trata dos bebês.(c)</desc>
+    <desc lang="pt">Courtney luta para prestar atenção aos meninos maiores quando eles comemoram sua festa de aniversário e precisa lidar com sua ansiedade de separação quando se trata dos bebês.</desc>
     <category lang="pt">Reality Show</category>
     <rating system="BR">
       <value>10</value>
@@ -15873,7 +15849,7 @@
   </programme>
   <programme start="20230506065200 -0300" stop="20230506074100 -0300" channel="TLC">
     <title lang="pt">Seis de Uma Vez</title>
-    <desc lang="pt">A temporada de gripe atinge a casa de Waldrop enquanto Courtney e Eric lutam para manter todos os seus filhos saudáveis. A visita de acompanhamento de Layke ao cardiologista traz um resultado inesperado.(c)</desc>
+    <desc lang="pt">A temporada de gripe atinge a casa de Waldrop enquanto Courtney e Eric lutam para manter todos os seus filhos saudáveis. A visita de acompanhamento de Layke ao cardiologista traz um resultado inesperado.</desc>
     <category lang="pt">Reality Show</category>
     <rating system="BR">
       <value>10</value>
@@ -15881,7 +15857,7 @@
   </programme>
   <programme start="20230506074100 -0300" stop="20230506082900 -0300" channel="TLC">
     <title lang="pt">Os Busbys + 5</title>
-    <desc lang="pt">Adam e Danielle vivem ocupados com os cuidados das quíntuplas de 15 meses. Quando um médico sugere um procedimento radical para uma das meninas, os Busbys enfrentam uma decisão difícil.(c)</desc>
+    <desc lang="pt">Adam e Danielle vivem ocupados com os cuidados das quíntuplas de 15 meses. Quando um médico sugere um procedimento radical para uma das meninas, os Busbys enfrentam uma decisão difícil.</desc>
     <credits>
       <director>Adam Busby</director>
     </credits>
@@ -15892,7 +15868,7 @@
   </programme>
   <programme start="20230506082900 -0300" stop="20230506091700 -0300" channel="TLC">
     <title lang="pt">Os Busbys + 5</title>
-    <desc lang="pt">Os Busbys viajam de carro para Lake Charles para ajudar Mimi com um bazar. Danielle e Adam precisam decidir se submetem Hazel a uma arriscada cirurgia ocular.(c)</desc>
+    <desc lang="pt">Os Busbys viajam de carro para Lake Charles para ajudar Mimi com um bazar. Danielle e Adam precisam decidir se submetem Hazel a uma arriscada cirurgia ocular.</desc>
     <credits>
       <director>Adam Busby</director>
     </credits>
@@ -15903,7 +15879,7 @@
   </programme>
   <programme start="20230506091700 -0300" stop="20230506100500 -0300" channel="TLC">
     <title lang="pt">A Vida de Jazz</title>
-    <desc lang="pt">Complicações na cirurgia de Jazz para substituir o bloqueador de testosterona podem ter efeitos desastrosos sobre sua transição. Jeanette e Jazz tentam mudar seu gênero nos documentos.(c)</desc>
+    <desc lang="pt">Complicações na cirurgia de Jazz para substituir o bloqueador de testosterona podem ter efeitos desastrosos sobre sua transição. Jeanette e Jazz tentam mudar seu gênero nos documentos.</desc>
     <credits>
       <actor>Jazz Jennings</actor>
       <actor>Jeanette Jennings</actor>
@@ -15917,7 +15893,7 @@
   </programme>
   <programme start="20230506100500 -0300" stop="20230506105400 -0300" channel="TLC">
     <title lang="pt">Identidade: Shauna Rae, Maior de Idade</title>
-    <desc lang="pt">Shauna e Rylee se mudam para o Brooklyn para tentarem morar sozinhas, mas a enxaqueca de Shauna atrapalha o momento. Depois, ela precisa decidir se começa a estudar ou vai viajar com seu crush, Dan.(c)</desc>
+    <desc lang="pt">Shauna e Rylee se mudam para o Brooklyn para tentarem morar sozinhas, mas a enxaqueca de Shauna atrapalha o momento. Depois, ela precisa decidir se começa a estudar ou vai viajar com seu crush, Dan.</desc>
     <category lang="pt">Drama</category>
     <rating system="BR">
       <value>14</value>
@@ -15925,7 +15901,7 @@
   </programme>
   <programme start="20230506105400 -0300" stop="20230506114400 -0300" channel="TLC">
     <title lang="pt">Uma Mulher de Peso</title>
-    <desc lang="pt">Whitney compra uma passagem só de ida para Paris e se prepara para conhecer o francês. Ao priorizar o amor em vez da profissão, Whitney entra em conflito com Jessica e se pergunta se sua família a apoiará.(c)</desc>
+    <desc lang="pt">Whitney compra uma passagem só de ida para Paris e se prepara para conhecer o francês. Ao priorizar o amor em vez da profissão, Whitney entra em conflito com Jessica e se pergunta se sua família a apoiará.</desc>
     <credits>
       <director>Craig Piligian</director>
     </credits>
@@ -15936,7 +15912,7 @@
   </programme>
   <programme start="20230506114400 -0300" stop="20230506123600 -0300" channel="TLC">
     <title lang="pt">Solteiros à Procura: Reino Unido</title>
-    <desc lang="pt">Os solteiros aproveitam a vida depois de quase todos arranjarem um par na festa no barco do dia anterior. De volta à terra firme, Claudia tem um encontro bom Bailey, e Selin abaixa a guarda com o xaveco de David.(c)</desc>
+    <desc lang="pt">Os solteiros aproveitam a vida depois de quase todos arranjarem um par na festa no barco do dia anterior. De volta à terra firme, Claudia tem um encontro bom Bailey, e Selin abaixa a guarda com o xaveco de David.</desc>
     <credits>
       <actor>Emily Atack</actor>
       <actor>Joel Dommett</actor>
@@ -15949,7 +15925,7 @@
   </programme>
   <programme start="20230506123600 -0300" stop="20230506132900 -0300" channel="TLC">
     <title lang="pt">Solteiros à Procura: Reino Unido</title>
-    <desc lang="pt">Depois de um encontro emotivo com sua ex, Sophie, George decidi se vingar em seu encontro com Maureen que ele conheceu no barco. Enquanto isso, começa a rolar um clima entre Selin e David no aquário.(c)</desc>
+    <desc lang="pt">Depois de um encontro emotivo com sua ex, Sophie, George decidi se vingar em seu encontro com Maureen que ele conheceu no barco. Enquanto isso, começa a rolar um clima entre Selin e David no aquário.</desc>
     <credits>
       <actor>Emily Atack</actor>
       <actor>Joel Dommett</actor>
@@ -15962,7 +15938,7 @@
   </programme>
   <programme start="20230506132900 -0300" stop="20230506142200 -0300" channel="TLC">
     <title lang="pt">Avós de Primeira Viagem</title>
-    <desc lang="pt">Tyra e Alex experimentam a paternidade pela primeira vez. Chloe não tem certeza se pode ficar com Max. Anthony questiona a paternidade do bebê de Rilah. Além disso, um jantar entre as famílias de McKayla e Caelan.(c)</desc>
+    <desc lang="pt">Tyra e Alex experimentam a paternidade pela primeira vez. Chloe não tem certeza se pode ficar com Max. Anthony questiona a paternidade do bebê de Rilah. Além disso, um jantar entre as famílias de McKayla e Caelan.</desc>
     <credits>
       <director>Caroline Mislove</director>
     </credits>
@@ -15973,7 +15949,7 @@
   </programme>
   <programme start="20230506142200 -0300" stop="20230506151500 -0300" channel="TLC">
     <title lang="pt">Avós de Primeira Viagem</title>
-    <desc lang="pt">Anthony procura provar a paternidade no ultra-som de Rilah. Max revela mais sobre seu vício quando se encontra com um terapeuta. Matthew visita a casa de Hailey para construir um berço.(c)</desc>
+    <desc lang="pt">Anthony procura provar a paternidade no ultra-som de Rilah. Max revela mais sobre seu vício quando se encontra com um terapeuta. Matthew visita a casa de Hailey para construir um berço.</desc>
     <credits>
       <director>Caroline Mislove</director>
     </credits>
@@ -15984,7 +15960,7 @@
   </programme>
   <programme start="20230506151500 -0300" stop="20230506160800 -0300" channel="TLC">
     <title lang="pt">Bem-vindo à Família Plath</title>
-    <desc lang="pt">Micah comemora seu aniversário de 21 anos em uma boate de strip-tease com Ethan e Olivia. Moriah confronta Lydia sobre seu encontro recente com Max. Kim volta para casa e discute o futuro de sua relação com Barry.(c)</desc>
+    <desc lang="pt">Micah comemora seu aniversário de 21 anos em uma boate de strip-tease com Ethan e Olivia. Moriah confronta Lydia sobre seu encontro recente com Max. Kim volta para casa e discute o futuro de sua relação com Barry.</desc>
     <credits>
       <director>Frank Sinton</director>
     </credits>
@@ -15995,7 +15971,7 @@
   </programme>
   <programme start="20230506160800 -0300" stop="20230506170100 -0300" channel="TLC">
     <title lang="pt">4 Mulheres e 1 Marido</title>
-    <desc lang="pt">Após uma reunião de família, os Browns são expostos à COVID-19 pela primeira vez. Uma conversa com Kody é a última gota para Christine.(c)</desc>
+    <desc lang="pt">Após uma reunião de família, os Browns são expostos à COVID-19 pela primeira vez. Uma conversa com Kody é a última gota para Christine.</desc>
     <credits>
       <director>Tim Gibbons</director>
       <actor>Kody Brown</actor>
@@ -16008,7 +15984,7 @@
   </programme>
   <programme start="20230506170100 -0300" stop="20230506175400 -0300" channel="TLC">
     <title lang="pt">4 Mulheres e 1 Marido</title>
-    <desc lang="pt">Os Browns falam sobre sua temporada mais litigiosa até então. Kody, Christine e Meri respondem perguntas delicadas sobre o status de seus relacionamentos.(c)</desc>
+    <desc lang="pt">Os Browns falam sobre sua temporada mais litigiosa até então. Kody, Christine e Meri respondem perguntas delicadas sobre o status de seus relacionamentos.</desc>
     <credits>
       <director>Tim Gibbons</director>
       <actor>Kody Brown</actor>
@@ -16021,7 +15997,7 @@
   </programme>
   <programme start="20230506175400 -0300" stop="20230506193800 -0300" channel="TLC">
     <title lang="pt">90 Dias Para Casar</title>
-    <desc lang="pt">Jovi e Elvis esperam Yara no altar. O 90o. dia chega para Mike e Natalie. Amira chega ao limite com Andrew. Stephanie está pronta para recomeçar com Harris. Jovi e Yara têm um bebê.(c)</desc>
+    <desc lang="pt">Jovi e Elvis esperam Yara no altar. O 90o. dia chega para Mike e Natalie. Amira chega ao limite com Andrew. Stephanie está pronta para recomeçar com Harris. Jovi e Yara têm um bebê.</desc>
     <credits>
       <director>Jessica Hernandez</director>
     </credits>
@@ -16032,7 +16008,7 @@
   </programme>
   <programme start="20230506193800 -0300" stop="20230506202800 -0300" channel="TLC">
     <title lang="pt">Darcey &amp; Stacey</title>
-    <desc lang="pt">Darcey e Stacey continuam a rivalidade após a festa no iate, e Stacey perde a paciência com Florian. Além disso, as gêmeas têm a chance de fazer uma colab com a House of Eleven, e Darcey pede a ajuda de um casamenteiro.(c)</desc>
+    <desc lang="pt">Darcey e Stacey continuam a rivalidade após a festa no iate, e Stacey perde a paciência com Florian. Além disso, as gêmeas têm a chance de fazer uma colab com a House of Eleven, e Darcey pede a ajuda de um casamenteiro.</desc>
     <credits>
       <director>Bradley Stein</director>
       <actor>Darcey SilvaS</actor>
@@ -16046,7 +16022,7 @@
   </programme>
   <programme start="20230506202800 -0300" stop="20230506211800 -0300" channel="TLC">
     <title lang="pt">Mansão das MILFs</title>
-    <desc lang="pt">Uma dupla se beija durante um romântico pôr do sol. Os participantes são desafiados a revelar seus segredos mais sombrios e uma mãe choca a todos com seu passado escandaloso.(c)</desc>
+    <desc lang="pt">Uma dupla se beija durante um romântico pôr do sol. Os participantes são desafiados a revelar seus segredos mais sombrios e uma mãe choca a todos com seu passado escandaloso.</desc>
     <credits>
       <actor>April Wayne</actor>
       <actor>Lisa Wilcox</actor>
@@ -16058,7 +16034,7 @@
   </programme>
   <programme start="20230506211800 -0300" stop="20230506220800 -0300" channel="TLC">
     <title lang="pt">Cinco Encontros, Uma Semana</title>
-    <desc lang="pt">A gerente de 24 anos Lucy admite que não é 100% lésbica pois já saiu com homens. Mas agora ela se decidiu e quer se relacionar com uma mulher. Ela diz que elas beijam melhor.(c)</desc>
+    <desc lang="pt">A gerente de 24 anos Lucy admite que não é 100% lésbica pois já saiu com homens. Mas agora ela se decidiu e quer se relacionar com uma mulher. Ela diz que elas beijam melhor.</desc>
     <credits>
       <director>Tom Parr</director>
     </credits>
@@ -16069,7 +16045,7 @@
   </programme>
   <programme start="20230506220800 -0300" stop="20230506225900 -0300" channel="TLC">
     <title lang="pt">Simplesmente Amor: Além da Primeira Impressão</title>
-    <desc lang="pt">Daniel está determinado a encontrar o amor, mas tem dificuldade de interpretar pistas sociais devido ao Asperger. Fatima nasceu com acondroplasia e quer um homem que não se envergonhe dela.(c)</desc>
+    <desc lang="pt">Daniel está determinado a encontrar o amor, mas tem dificuldade de interpretar pistas sociais devido ao Asperger. Fatima nasceu com acondroplasia e quer um homem que não se envergonhe dela.</desc>
     <credits>
       <director>Olivia Barber</director>
     </credits>
@@ -16080,7 +16056,7 @@
   </programme>
   <programme start="20230506225900 -0300" stop="20230506232600 -0300" channel="TLC">
     <title lang="pt">Tempero na Mochila</title>
-    <desc lang="pt">Na histórica e bela Tiradentes, Pedro visita Rodolfo Mayer, expoente da moderna gastronomia mineira e, instigado com o sabor e apresentação de seus pratos, descobre sobre figuras conhecidas na cidade.(c)</desc>
+    <desc lang="pt">Na histórica e bela Tiradentes, Pedro visita Rodolfo Mayer, expoente da moderna gastronomia mineira e, instigado com o sabor e apresentação de seus pratos, descobre sobre figuras conhecidas na cidade.</desc>
     <credits>
       <director>Filipe Godoy</director>
       <actor>Pedro Benoliel</actor>
@@ -16092,7 +16068,7 @@
   </programme>
   <programme start="20230506232600 -0300" stop="20230506235300 -0300" channel="TLC">
     <title lang="pt">Tempero na Mochila</title>
-    <desc lang="pt">Antes de deixar Tiradentes para seguir viagem por Minas Gerais, Pedro vai ao encontro de Beth Beltrão, a dama e mestra da culinária mineira.(c)</desc>
+    <desc lang="pt">Antes de deixar Tiradentes para seguir viagem por Minas Gerais, Pedro vai ao encontro de Beth Beltrão, a dama e mestra da culinária mineira.</desc>
     <credits>
       <director>Filipe Godoy</director>
       <actor>Pedro Benoliel</actor>
@@ -16104,7 +16080,7 @@
   </programme>
   <programme start="20230506235300 -0300" stop="20230507004600 -0300" channel="TLC">
     <title lang="pt">Casamento À Moda Antiga</title>
-    <desc lang="pt">As amigas de Ursula não estão convencidas do caráter de Devin. Tahnee cai em prantos durante a prova dos vestidos. Billy vai morar com Bethany e descobre que ela é muito desorganizada.(c)</desc>
+    <desc lang="pt">As amigas de Ursula não estão convencidas do caráter de Devin. Tahnee cai em prantos durante a prova dos vestidos. Billy vai morar com Bethany e descobre que ela é muito desorganizada.</desc>
     <category lang="pt">Comportamento</category>
     <rating system="BR">
       <value>10</value>
@@ -16112,7 +16088,7 @@
   </programme>
   <programme start="20230505003300 -0300" stop="20230505012500 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Casas na Árvore</title>
-    <desc lang="pt">Pete viaja para Platte River Valley, no leste de Nebrasca, para construir um castelo mágico no alto de uma árvore para uma família que decidiu não crescer.(c)</desc>
+    <desc lang="pt">Pete viaja para Platte River Valley, no leste de Nebrasca, para construir um castelo mágico no alto de uma árvore para uma família que decidiu não crescer.</desc>
     <credits>
       <director>Mark Grove</director>
     </credits>
@@ -16194,7 +16170,7 @@
   </programme>
   <programme start="20230505062800 -0300" stop="20230505072000 -0300" channel="ANIMAL PLANET">
     <title lang="pt">África Selvagem: Rios</title>
-    <desc lang="pt">No coração do deserto do Kalahari, o delta do Rio Okavango, em Botsuana, é cercado por planícies áridas. Uma vez por ano, as chuvas de Angola fazem o rio transbordar e triplicam o tamanho desse oásis.(c)</desc>
+    <desc lang="pt">No coração do deserto do Kalahari, o delta do Rio Okavango, em Botsuana, é cercado por planícies áridas. Uma vez por ano, as chuvas de Angola fazem o rio transbordar e triplicam o tamanho desse oásis.</desc>
     <credits>
       <director>Gavin Maxwell</director>
     </credits>
@@ -16205,7 +16181,7 @@
   </programme>
   <programme start="20230505072000 -0300" stop="20230505081000 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Patagônia Extraordinária</title>
-    <desc lang="pt">Uma viagem mágica ao longo da costa atlântica da Patagônia, onde a terra pode ser varrida, mas o mar é rico em vida.(c)</desc>
+    <desc lang="pt">Uma viagem mágica ao longo da costa atlântica da Patagônia, onde a terra pode ser varrida, mas o mar é rico em vida.</desc>
     <credits>
       <director>René Araneda</director>
       <actor>Pedro Pascal</actor>
@@ -16219,7 +16195,7 @@
   </programme>
   <programme start="20230505081000 -0300" stop="20230505090400 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Os Reis da Selva</title>
-    <desc lang="pt">Um disperso Marsh Pride enfrenta proteção enfraquecida dos seis leões guerreiros machos. Kabibia e Cloudy Eye caçam desesperadamente para sustentar seus famintos filhotes.(c)</desc>
+    <desc lang="pt">Um disperso Marsh Pride enfrenta proteção enfraquecida dos seis leões guerreiros machos. Kabibia e Cloudy Eye caçam desesperadamente para sustentar seus famintos filhotes.</desc>
     <credits>
       <director>Abraham Joffe</director>
       <actor>Jackson Looseyia</actor>
@@ -16233,7 +16209,7 @@
   </programme>
   <programme start="20230505090400 -0300" stop="20230505100200 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Os 7 Pecados Animais</title>
-    <desc lang="pt">Por que sentimos inveja? Ela tem um lado positivo? As respostas podem estar no reino animal. A inveja é uma resposta evolucionária que nos ajuda a corrigir situações de desigualdade.(c)</desc>
+    <desc lang="pt">Por que sentimos inveja? Ela tem um lado positivo? As respostas podem estar no reino animal. A inveja é uma resposta evolucionária que nos ajuda a corrigir situações de desigualdade.</desc>
     <credits>
       <director>Julian Jones</director>
     </credits>
@@ -16244,7 +16220,7 @@
   </programme>
   <programme start="20230505100200 -0300" stop="20230505110400 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Veterinário das Montanhas</title>
-    <desc lang="pt">No México, o Dr. Jeff e sua equipe atendem animais necessitados. O Dr. Jeff ajuda um casal de irmãos preocupado com seu cão doente. Num vilarejo maia, eles tratam cães que nunca viram um veterinário.(c)</desc>
+    <desc lang="pt">No México, o Dr. Jeff e sua equipe atendem animais necessitados. O Dr. Jeff ajuda um casal de irmãos preocupado com seu cão doente. Num vilarejo maia, eles tratam cães que nunca viram um veterinário.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16255,7 +16231,7 @@
   </programme>
   <programme start="20230505110400 -0300" stop="20230505120200 -0300" channel="ANIMAL PLANET">
     <title lang="pt">A Família Irwin e o Grande Tubarão-Branco</title>
-    <desc lang="pt">Neste especial eletrizante, Robert Irwin fica frente a frente com um tubarão-branco pela primeira vez. Seguindo os passos de seu pai, Robert chegará o mais perto possível dessas criaturas fascinantes.(c)</desc>
+    <desc lang="pt">Neste especial eletrizante, Robert Irwin fica frente a frente com um tubarão-branco pela primeira vez. Seguindo os passos de seu pai, Robert chegará o mais perto possível dessas criaturas fascinantes.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16263,7 +16239,7 @@
   </programme>
   <programme start="20230505120200 -0300" stop="20230505130000 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Perdido no Sudeste Asiático</title>
-    <desc lang="pt">Frank tenta desvendar o mito do dragão, mas não encontra apenas “dragões”, lagartos e monitores e fica de frente com um grande felino, o tigre-asiático; uma cobra venenosa letal, a cobra-real.(c)</desc>
+    <desc lang="pt">Frank tenta desvendar o mito do dragão, mas não encontra apenas “dragões”, lagartos e monitores e fica de frente com um grande felino, o tigre-asiático; uma cobra venenosa letal, a cobra-real.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16271,7 +16247,7 @@
   </programme>
   <programme start="20230505130000 -0300" stop="20230505135900 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Perdido no Sudeste Asiático</title>
-    <desc lang="pt">Frank tenta desvendar o mito do dragão, mas não encontra apenas “dragões”, lagartos e monitores e fica de frente com um grande felino, o tigre-asiático; uma cobra venenosa letal, a cobra-real.(c)</desc>
+    <desc lang="pt">Frank tenta desvendar o mito do dragão, mas não encontra apenas “dragões”, lagartos e monitores e fica de frente com um grande felino, o tigre-asiático; uma cobra venenosa letal, a cobra-real.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16279,7 +16255,7 @@
   </programme>
   <programme start="20230505135900 -0300" stop="20230505150100 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Indonésia Selvagem</title>
-    <desc lang="pt">A Indonésia abriga mais vulcões ativos do que qualquer outro país. Descubra como a fauna local se adaptou às exigências específicas de um ambiente escaldante.(c)</desc>
+    <desc lang="pt">A Indonésia abriga mais vulcões ativos do que qualquer outro país. Descubra como a fauna local se adaptou às exigências específicas de um ambiente escaldante.</desc>
     <credits>
       <director>Allison Bean</director>
       <actor>Paul Mcgann</actor>
@@ -16291,7 +16267,7 @@
   </programme>
   <programme start="20230505150100 -0300" stop="20230505160100 -0300" channel="ANIMAL PLANET">
     <title lang="pt">África Selvagem: Rios</title>
-    <desc lang="pt">O Rio Zambezi atravessa nove países africanos e cria diferentes habitats, com desafios únicos. Seja em planícies inundadas, cataratas ou lagos, os animais travam uma luta diária pela sobrevivência.(c)</desc>
+    <desc lang="pt">O Rio Zambezi atravessa nove países africanos e cria diferentes habitats, com desafios únicos. Seja em planícies inundadas, cataratas ou lagos, os animais travam uma luta diária pela sobrevivência.</desc>
     <credits>
       <director>Gavin Maxwell</director>
       <actor>Bray Poor</actor>
@@ -16303,7 +16279,7 @@
   </programme>
   <programme start="20230505160100 -0300" stop="20230505170300 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Europa Selvagem</title>
-    <desc lang="pt">Descubra a vida selvagem dos cursos d´água da Europa, incluindo a única aranha aquática do mundo, a lontra-europeia e o chacal-dourado do Delta do Danúbio.(c)</desc>
+    <desc lang="pt">Descubra a vida selvagem dos cursos d´água da Europa, incluindo a única aranha aquática do mundo, a lontra-europeia e o chacal-dourado do Delta do Danúbio.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16583,7 +16559,7 @@
   </programme>
   <programme start="20230506120200 -0300" stop="20230506130000 -0300" channel="ANIMAL PLANET">
     <title lang="pt">A Família Irwin</title>
-    <desc lang="pt">Os Irwins estão construindo um novo recinto para os crocodilos para celebrar o aniversário de 50 anos do Australia Zoo. Bindi investiga um problema no joelho de Forest, a maior girafa do zoológico.(c)</desc>
+    <desc lang="pt">Os Irwins estão construindo um novo recinto para os crocodilos para celebrar o aniversário de 50 anos do Australia Zoo. Bindi investiga um problema no joelho de Forest, a maior girafa do zoológico.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16591,7 +16567,7 @@
   </programme>
   <programme start="20230506130000 -0300" stop="20230506140200 -0300" channel="ANIMAL PLANET">
     <title lang="pt">A Família Irwin</title>
-    <desc lang="pt">Robert Irwin se prepara para nadar com Gloria, um píton-reticulado, na frente de cinco mil pessoas no Crocoseum. Bindi se prepara para libertar dois filhotes de canguru órfãos em um recinto espetacular.(c)</desc>
+    <desc lang="pt">Robert Irwin se prepara para nadar com Gloria, um píton-reticulado, na frente de cinco mil pessoas no Crocoseum. Bindi se prepara para libertar dois filhotes de canguru órfãos em um recinto espetacular.</desc>
     <category lang="pt">Documentário</category>
     <rating system="BR">
       <value>5</value>
@@ -16599,7 +16575,7 @@
   </programme>
   <programme start="20230506140200 -0300" stop="20230506150400 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Família ao Resgate</title>
-    <desc lang="pt">Amanda viaja à Califórnia para resgatar um cachorro com necessidades especiais. Ela volta com um filhote de rottweiler com uma lesão grave no olho, um pastor coberto de vermes e dois filhotes que perderam as orelhas.(c)</desc>
+    <desc lang="pt">Amanda viaja à Califórnia para resgatar um cachorro com necessidades especiais. Ela volta com um filhote de rottweiler com uma lesão grave no olho, um pastor coberto de vermes e dois filhotes que perderam as orelhas.</desc>
     <category lang="pt">Reality Show</category>
     <rating system="BR">
       <value>5</value>
@@ -16607,7 +16583,7 @@
   </programme>
   <programme start="20230506150400 -0300" stop="20230506160400 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Família ao Resgate</title>
-    <desc lang="pt">Felinos na área! Amanda ajuda um gato que está na fila de eutanásia depois de quebrar a pata pela segunda vez, e um filhotinho nascido com malformação nas patas dianteiras. Um filhote precisa de um lar permanente.(c)</desc>
+    <desc lang="pt">Felinos na área! Amanda ajuda um gato que está na fila de eutanásia depois de quebrar a pata pela segunda vez, e um filhotinho nascido com malformação nas patas dianteiras. Um filhote precisa de um lar permanente.</desc>
     <category lang="pt">Reality Show</category>
     <rating system="BR">
       <value>5</value>
@@ -18481,7 +18457,7 @@
   <programme start="20230505220000 -0300" stop="20230506000000 -0300" channel="CNN">
     <title lang="pt">WW</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">WW faz análises profundas dos principais acontecimentos semanais no Brasil e no mundo.(c)</desc>
+    <desc lang="pt">WW faz análises profundas dos principais acontecimentos semanais no Brasil e no mundo.</desc>
     <credits>
       <actor>William Waack</actor>
     </credits>
@@ -18492,7 +18468,7 @@
   </programme>
   <programme start="20230506000000 -0300" stop="20230506003000 -0300" channel="CNN">
     <title lang="pt">Popverso CNN</title>
-    <desc lang="pt">Mais dinâmico, o Popverso CNN vai repercutir os assuntos pop mais quentes do dia e discutir tudo que foi notícia no mundo do entretenimento. Em pauta, as últimas tendências e os debates que foram conversa nas redes sociais.(c)</desc>
+    <desc lang="pt">Mais dinâmico, o Popverso CNN vai repercutir os assuntos pop mais quentes do dia e discutir tudo que foi notícia no mundo do entretenimento. Em pauta, as últimas tendências e os debates que foram conversa nas redes sociais.</desc>
     <credits>
       <actor>Mari Palma</actor>
       <actor>Phelipe Siani</actor>
@@ -18504,7 +18480,7 @@
   </programme>
   <programme start="20230506003000 -0300" stop="20230506011500 -0300" channel="CNN">
     <title lang="pt">CNN Especial</title>
-    <desc lang="pt">A CNN Brasil traz este documentário especial, sob o comando de Anderson Cooper e reportagem de Erica Hill, para falar sobre o início de uma nova era para a monarquia britânica: a coroação do Rei Charles III.(c)</desc>
+    <desc lang="pt">A CNN Brasil traz este documentário especial, sob o comando de Anderson Cooper e reportagem de Erica Hill, para falar sobre o início de uma nova era para a monarquia britânica: a coroação do Rei Charles III.</desc>
     <credits>
       <actor>Anderson Cooper</actor>
       <actor>Erica Hill</actor>
@@ -18517,7 +18493,7 @@
   <programme start="20230506011500 -0300" stop="20230506110000 -0300" channel="CNN">
     <title lang="pt">CNN Especial: Coroação Do Rei Charles III</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">A CNN acompanha a chegada dos líderes internacionais e a procissão, que levará o rei Charles III e a rainha consorte Camilla do Palácio de Buckingham para a Abadia de Westminster, onde ocorre a cerimônia de coroação.(c)</desc>
+    <desc lang="pt">A CNN acompanha a chegada dos líderes internacionais e a procissão, que levará o rei Charles III e a rainha consorte Camilla do Palácio de Buckingham para a Abadia de Westminster, onde ocorre a cerimônia de coroação.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -18526,7 +18502,7 @@
   <programme start="20230506110000 -0300" stop="20230506123000 -0300" channel="CNN">
     <title lang="pt">Live CNN Brasil</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Política, economia, tendências, comportamento, o que está “trendando” nas redes sociais. É o foco no conteúdo e na interação com você. É a TV na internet e a internet na TV.(c)</desc>
+    <desc lang="pt">Política, economia, tendências, comportamento, o que está “trendando” nas redes sociais. É o foco no conteúdo e na interação com você. É a TV na internet e a internet na TV.</desc>
     <category lang="pt">Informativo</category>
     <rating system="BR">
       <value>5</value>
@@ -19882,7 +19858,7 @@
   <programme start="20230505010000 -0300" stop="20230505020000 -0300" channel="SPORTV 3">
     <title lang="pt">Glory 85: Heavyweight Tournament</title>
     <sub-title lang="pt">Primeiras Lutas</sub-title>
-    <desc lang="pt">Acompanhe grandes lutas nessa faixa que exibe um \.(c)</desc>
+    <desc lang="pt">Acompanhe grandes lutas nessa faixa que exibe um \.</desc>
     <credits>
       <director>Renato Ribeiro</director>
     </credits>
@@ -19893,7 +19869,7 @@
   </programme>
   <programme start="20230505020000 -0300" stop="20230505023000 -0300" channel="SPORTV 3">
     <title lang="pt">Baú do Esporte: Lendas</title>
-    <desc lang="pt">Neste episódio do Lendas, do Baú do Esporte, relembre a incrível carreira do pugilista, duas vezes campeão do mundo, Éder Jofre.(c)</desc>
+    <desc lang="pt">Neste episódio do Lendas, do Baú do Esporte, relembre a incrível carreira do pugilista, duas vezes campeão do mundo, Éder Jofre.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
@@ -19984,7 +19960,7 @@
   <programme start="20230505190000 -0300" stop="20230505205000 -0300" channel="SPORTV 3">
     <title lang="pt">Faixa Combate: KSW 80</title>
     <sub-title lang="pt">Lutas Principais</sub-title>
-    <desc lang="pt">Acompanhe grandes lutas nessa faixa que exibe um \.(c)</desc>
+    <desc lang="pt">Acompanhe grandes lutas nessa faixa que exibe um \.</desc>
     <credits>
       <director>Renato Ribeiro</director>
     </credits>
@@ -19996,7 +19972,7 @@
   <programme start="20230505205000 -0300" stop="20230505210000 -0300" channel="SPORTV 3">
     <title lang="pt">Aquecimento Combate</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Acompanhe os preparativos para as principais lutas, aqui no Sportv.(c)</desc>
+    <desc lang="pt">Acompanhe os preparativos para as principais lutas, aqui no Sportv.</desc>
     <credits>
       <director>Renato Ribeiro</director>
     </credits>
@@ -20306,7 +20282,7 @@
   <programme start="20230505190000 -0300" stop="20230505210000 -0300" channel="SPORTV 2">
     <title lang="pt">Circuito Brasileiro de Futevôlei</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Alguns dos melhores jogadores do futevôlei brasileiro da atualidade estão na disputa do Circuito Brasileiro de Futevôlei e você confere aqui no SporTV todas as emoções da competição.(c)</desc>
+    <desc lang="pt">Alguns dos melhores jogadores do futevôlei brasileiro da atualidade estão na disputa do Circuito Brasileiro de Futevôlei e você confere aqui no SporTV todas as emoções da competição.</desc>
     <credits>
       <director>Renato Ribeiro</director>
     </credits>
@@ -20317,7 +20293,7 @@
   </programme>
   <programme start="20230505210000 -0300" stop="20230505220000 -0300" channel="SPORTV 2">
     <title lang="pt">Ça VA Paris</title>
-    <desc lang="pt">2024 é logo ali... Marcelo Barreto e Fabi Alvim ficam atentos a todos os esportes e acompanham de perto o ciclo olímpico dos nossos atletas. Como eles estão se preparando para os Jogos de Paris?(c)</desc>
+    <desc lang="pt">2024 é logo ali... Marcelo Barreto e Fabi Alvim ficam atentos a todos os esportes e acompanham de perto o ciclo olímpico dos nossos atletas. Como eles estão se preparando para os Jogos de Paris?</desc>
     <credits>
       <director>Renato Ribeiro</director>
       <actor>Marcelo Barreto</actor>
@@ -20879,7 +20855,7 @@
   </programme>
   <programme start="20230505003000 -0300" stop="20230505010000 -0300" channel="ESPN">
     <title lang="pt">Show da Rodada do Espanhol</title>
-    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.(n)</desc>
+    <desc lang="pt">Fique por dentro de tudo o que aconteceu na última rodada da Liga das Estrelas, o Campeonato Espanhol de futebol. Todos os gols e os principais lances da liga que reúne os melhores jogadores do mundo.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -20887,7 +20863,7 @@
   </programme>
   <programme start="20230505010000 -0300" stop="20230505013000 -0300" channel="ESPN">
     <title lang="pt">Show da Rodada do Campeonato Italiano</title>
-    <desc lang="pt">Fique por dentro do que de melhor aconteceu na rodada do Campeonato Italiano de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas, todos os lances estão aqui.(n)</desc>
+    <desc lang="pt">Fique por dentro do que de melhor aconteceu na rodada do Campeonato Italiano de futebol. A tabela de classificação, os gols mais bonitos, as melhores jogadas, todos os lances estão aqui.</desc>
     <category lang="pt">Esportivo</category>
     <rating system="BR">
       <value>5</value>
@@ -20927,7 +20903,7 @@
   </programme>
   <programme start="20230505070000 -0300" stop="20230505091500 -0300" channel="ESPN">
     <title lang="pt">NBA: Los Angeles Lakers x Golden State Warriors</title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -20985,7 +20961,7 @@
   </programme>
   <programme start="20230505170000 -0300" stop="20230505190000 -0300" channel="ESPN">
     <title lang="pt">Campeonato Italiano: Udinese x Napoli</title>
-    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.(c)</desc>
+    <desc lang="pt">Os grandes clubes do futebol italiano batalham pela conquista do Scudetto. Tradição, força e disciplina tática marcam as emocionantes disputas da Serie A.</desc>
     <category lang="pt">Futebol</category>
     <rating system="BR">
       <value>5</value>
@@ -21020,7 +20996,7 @@
   <programme start="20230505204000 -0300" stop="20230505230000 -0300" channel="ESPN">
     <title lang="pt">NBA: Boston Celtics x Philadelphia 76ers</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -21029,7 +21005,7 @@
   <programme start="20230505230000 -0300" stop="20230506013000 -0300" channel="ESPN">
     <title lang="pt">NBA: Denver Nuggets x Phoenix Suns</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -21077,7 +21053,7 @@
   </programme>
   <programme start="20230506070000 -0300" stop="20230506092000 -0300" channel="ESPN">
     <title lang="pt">NBA: Denver Nuggets x Phoenix Suns</title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -21137,7 +21113,7 @@
   <programme start="20230506163000 -0300" stop="20230506190000 -0300" channel="ESPN">
     <title lang="pt">NBA: New York Knicks x Miami Heat</title>
     <sub-title lang="pt">Vivo</sub-title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -21181,7 +21157,7 @@
   <programme start="20230506213000 -0300" stop="20230507000000 -0300" channel="ESPN">
     <title lang="pt">NBA: Golden State Warriors x Los Angeles Lakers</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -22026,7 +22002,7 @@
   <programme start="20230505185500 +0000" stop="20230505210000 +0000" channel="ESPN 4">
     <title lang="pt">Semifinal: Palma Futsal x Benfica - UEFA Futsal Champions League : Semifinal: Palma Futsal x Benfica</title>
     <sub-title lang="pt">Semifinal: Palma Futsal x Benfica</sub-title>
-    <desc lang="pt">Pela semifinal em jogo único, Palma e Benfica duelam na Palma Arena, em Palma de Maiorca, Espanha.(c)</desc>
+    <desc lang="pt">Pela semifinal em jogo único, Palma e Benfica duelam na Palma Arena, em Palma de Maiorca, Espanha.</desc>
     <date>2013</date>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/45/15455273_388870DF7CA65729.jpg" />
@@ -22140,7 +22116,7 @@
   <programme start="20230506090000 +0000" stop="20230506110000 +0000" channel="ESPN 4">
     <title lang="pt">Semifinal: Palma Futsal x Benfica - UEFA Futsal Champions League : Semifinal: Palma Futsal x Benfica</title>
     <sub-title lang="pt">Semifinal: Palma Futsal x Benfica</sub-title>
-    <desc lang="pt">Pela semifinal em jogo único, Palma e Benfica duelam na Palma Arena, em Palma de Maiorca, Espanha.(c)</desc>
+    <desc lang="pt">Pela semifinal em jogo único, Palma e Benfica duelam na Palma Arena, em Palma de Maiorca, Espanha.</desc>
     <date>2019</date>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12929003_FC122CC198AFDAB3.jpg" />
@@ -22162,7 +22138,7 @@
   <programme start="20230506120000 +0000" stop="20230506135000 +0000" channel="ESPN 4">
     <title lang="pt">Semifinal: Sporting CP x Anderlecht - UEFA Futsal Champions League : Semifinal: Sporting CP x Anderlecht</title>
     <sub-title lang="pt">Semifinal: Sporting CP x Anderlecht</sub-title>
-    <desc lang="pt">Pela semi em jogo único, Sporting e Anderlecht jogam na Palma Arena, em Palma de Maiorca, Espanha.(c)</desc>
+    <desc lang="pt">Pela semi em jogo único, Sporting e Anderlecht jogam na Palma Arena, em Palma de Maiorca, Espanha.</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15844303_557EF3333D113A8C.jpg" />
     <rating>
@@ -22341,7 +22317,7 @@
   </programme>
   <programme start="20230505140000 -0300" stop="20230505163000 -0300" channel="ESPN EXTRA">
     <title lang="pt">NBA: Los Angeles Lakers x Golden State Warriors</title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -22446,7 +22422,7 @@
   </programme>
   <programme start="20230506130000 -0300" stop="20230506153000 -0300" channel="ESPN EXTRA">
     <title lang="pt">NBA: Denver Nuggets x Phoenix Suns</title>
-    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.(c)</desc>
+    <desc lang="pt">Os maiores ídolos do basquete mundial, partidas memoráveis, jogadas inesquecíveis e lances no estouro do cronômetro. Toda semana, você vê isso e muito mais na NBA, a melhor liga de basquete do planeta.</desc>
     <category lang="pt">Basquete</category>
     <rating system="BR">
       <value>5</value>
@@ -24852,7 +24828,7 @@
   <programme start="20230506092500 +0000" stop="20230506095200 +0000" channel="TRUTV">
     <title lang="pt">Tirando a Maior Onda : T8 EP30 - Rock de Baixo</title>
     <sub-title lang="pt">T8 EP30 - Rock de Baixo</sub-title>
-    <desc lang="pt">Murr, Q, Joe e Sal soltam puns com o ator Jeff Daniels, depois tentam convencer estranhos a escolher um lado em discussões ridículas. E ainda, o perdedor de hoje se vê contra uma parede ao redor de um perplexo grupo de estudantes.(c)</desc>
+    <desc lang="pt">Murr, Q, Joe e Sal soltam puns com o ator Jeff Daniels, depois tentam convencer estranhos a escolher um lado em discussões ridículas. E ainda, o perdedor de hoje se vê contra uma parede ao redor de um perplexo grupo de estudantes.</desc>
     <credits>
       <actor>Joe Gatto</actor>
       <actor>Sal Vulcano</actor>
@@ -24871,7 +24847,7 @@
   <programme start="20230506095200 +0000" stop="20230506101700 +0000" channel="TRUTV">
     <title lang="pt">Tirando a Maior Onda : T8 EP31 - É Elétrico</title>
     <sub-title lang="pt">T8 EP31 - É Elétrico</sub-title>
-    <desc lang="pt">Os caras lançam suas ideias extravagantes de programas de TV para grupos de pesquisa de opinião e depois vão ao parque com suas filhas, que compartilham opiniões impopulares com estranhos.(c)</desc>
+    <desc lang="pt">Os caras lançam suas ideias extravagantes de programas de TV para grupos de pesquisa de opinião e depois vão ao parque com suas filhas, que compartilham opiniões impopulares com estranhos.</desc>
     <credits>
       <actor>Joe Gatto</actor>
       <actor>Sal Vulcano</actor>
@@ -24890,7 +24866,7 @@
   <programme start="20230506101700 +0000" stop="20230506103900 +0000" channel="TRUTV">
     <title lang="pt">Efeito Carbonaro : T2 EP11 - Pegando uma Gripe</title>
     <sub-title lang="pt">T2 EP11 - Pegando uma Gripe</sub-title>
-    <desc lang="pt">Em um bazar de garagem, Michael ajuda um homem a descobrir seus incríveis poderes mentais e choca uma universitária ao se dar conta de que ela é a herdeira de todo o terreno.(c)</desc>
+    <desc lang="pt">Em um bazar de garagem, Michael ajuda um homem a descobrir seus incríveis poderes mentais e choca uma universitária ao se dar conta de que ela é a herdeira de todo o terreno.</desc>
     <credits>
       <actor>Michael Carbonaro</actor>
     </credits>
@@ -24906,7 +24882,7 @@
   <programme start="20230506103900 +0000" stop="20230506110200 +0000" channel="TRUTV">
     <title lang="pt">Efeito Carbonaro : T2 EP12 - Ar Espacial</title>
     <sub-title lang="pt">T2 EP12 - Ar Espacial</sub-title>
-    <desc lang="pt">Enquanto faz uma pesquisa científica, Michael deixa as coisas pesadas com ar de outro mundo. Em uma padaria, os pãezinhos são tão leves que desafiam a gravidade. Como um instrutor de golfe, Michael cai em uma grande armadilha.(c)</desc>
+    <desc lang="pt">Enquanto faz uma pesquisa científica, Michael deixa as coisas pesadas com ar de outro mundo. Em uma padaria, os pãezinhos são tão leves que desafiam a gravidade. Como um instrutor de golfe, Michael cai em uma grande armadilha.</desc>
     <credits>
       <actor>Michael Carbonaro</actor>
     </credits>
@@ -24922,7 +24898,7 @@
   <programme start="20230506110200 +0000" stop="20230506112400 +0000" channel="TRUTV">
     <title lang="pt">Tesouros de Garagem : T2 EP2 - Aposta Insegura</title>
     <sub-title lang="pt">T2 EP2 - Aposta Insegura</sub-title>
-    <desc lang="pt">Lori compra uma unidade questionável; os compradores brigam por peças de quebra-cabeça.(c)</desc>
+    <desc lang="pt">Lori compra uma unidade questionável; os compradores brigam por peças de quebra-cabeça.</desc>
     <credits>
       <actor>Brandon Bernier</actor>
       <actor>Lori Bernier</actor>
@@ -24939,7 +24915,7 @@
   <programme start="20230506112400 +0000" stop="20230506114600 +0000" channel="TRUTV">
     <title lang="pt">Tesouros de Garagem : T2 EP5 - A Única Vez</title>
     <sub-title lang="pt">T2 EP5 - A Única Vez</sub-title>
-    <desc lang="pt">Muito dinheiro traz uma concorrência feroz em um leilão raro de altas apostas de motocasas; o conteúdo de um armário se derrama aos pés dos apostadores.(c)</desc>
+    <desc lang="pt">Muito dinheiro traz uma concorrência feroz em um leilão raro de altas apostas de motocasas; o conteúdo de um armário se derrama aos pés dos apostadores.</desc>
     <credits>
       <actor>Brandon Bernier</actor>
       <actor>Lori Bernier</actor>
@@ -24956,7 +24932,7 @@
   <programme start="20230506114600 +0000" stop="20230506123100 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo : T6 EP11 - Festeiros 8</title>
     <sub-title lang="pt">T6 EP11 - Festeiros 8</sub-title>
-    <desc lang="pt">As melhores histórias dos festeiros mais estúpidos do mundo; um bolo de aniversário explosivo; uma dançarina erótica muito empolgada cai do palco; uma dama de honra desmaia durante a cerimônia de casamento da própria irmã.(c)</desc>
+    <desc lang="pt">As melhores histórias dos festeiros mais estúpidos do mundo; um bolo de aniversário explosivo; uma dançarina erótica muito empolgada cai do palco; uma dama de honra desmaia durante a cerimônia de casamento da própria irmã.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -24970,7 +24946,7 @@
   </programme>
   <programme start="20230506123100 +0000" stop="20230506131600 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
-    <desc lang="pt">Um viciado em metanfetamina tenta lamber drogas do chão de uma delegacia de polícia; uma cliente de pernas arqueadas tenta sair de uma loja com uma caixa de cerveja entre as pernas; o cinto de segurança de um criminoso impede que ele escape.(c)</desc>
+    <desc lang="pt">Um viciado em metanfetamina tenta lamber drogas do chão de uma delegacia de polícia; uma cliente de pernas arqueadas tenta sair de uma loja com uma caixa de cerveja entre as pernas; o cinto de segurança de um criminoso impede que ele escape.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -24985,7 +24961,7 @@
   <programme start="20230506131600 +0000" stop="20230506140000 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo : T6 EP9 - Feriados</title>
     <sub-title lang="pt">T6 EP9 - Feriados</sub-title>
-    <desc lang="pt">Perus de Ação de Graça se vingam; Papai Noel bebe demais nas festas de fim de ano; um duende traz a sorte dos irlandeses a uma pequena cidade do Alabama.(c)</desc>
+    <desc lang="pt">Perus de Ação de Graça se vingam; Papai Noel bebe demais nas festas de fim de ano; um duende traz a sorte dos irlandeses a uma pequena cidade do Alabama.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -25000,7 +24976,7 @@
   <programme start="20230506140000 +0000" stop="20230506144400 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo : T7 EP2 - Motoristas 16</title>
     <sub-title lang="pt">T7 EP2 - Motoristas 16</sub-title>
-    <desc lang="pt">Um homem enorme tenta correr mais que um carro da polícia; um operador de empilhadeira destrói um armazém cheio de álcool; motoristas idiotas batem novamente na mesma padaria.(c)</desc>
+    <desc lang="pt">Um homem enorme tenta correr mais que um carro da polícia; um operador de empilhadeira destrói um armazém cheio de álcool; motoristas idiotas batem novamente na mesma padaria.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -25015,7 +24991,7 @@
   <programme start="20230506144400 +0000" stop="20230506150700 +0000" channel="TRUTV">
     <title lang="pt">Resolva Minha Vida : T2 EP11 - Levando as Gambiarras a Outro Patamar</title>
     <sub-title lang="pt">T2 EP11 - Levando as Gambiarras a Outro Patamar</sub-title>
-    <desc lang="pt">Resolva Minha Vida está de volta levando as gambiarras a outro patamar! Brooke e Kevin exploram formas de ganhar tratamento especial em um restaurante e Broke Ass Bob descobre como economizar seu dinheiro. Saiba como se tornar seu próprio sushiman.(c)</desc>
+    <desc lang="pt">Resolva Minha Vida está de volta levando as gambiarras a outro patamar! Brooke e Kevin exploram formas de ganhar tratamento especial em um restaurante e Broke Ass Bob descobre como economizar seu dinheiro. Saiba como se tornar seu próprio sushiman.</desc>
     <date>2016</date>
     <category lang="pt">Comédia</category>
     <category lang="pt">Faça Você Mesmo</category>
@@ -25028,7 +25004,7 @@
   <programme start="20230506150700 +0000" stop="20230506152900 +0000" channel="TRUTV">
     <title lang="pt">Resolva Minha Vida : T2 EP12 - Soluções Para o Trabalho e o Lazer</title>
     <sub-title lang="pt">T2 EP12 - Soluções Para o Trabalho e o Lazer</sub-title>
-    <desc lang="pt">Brooke e Kevin descobrem as melhores formas de inflar uma bola de basquete, exploram o surgimento da pochete e acabam com uma explosão adocicada. Pitchman ainda descobre as melhores formas de desentupir ralos, descaroçar cerejas e ralar queijo.(c)</desc>
+    <desc lang="pt">Brooke e Kevin descobrem as melhores formas de inflar uma bola de basquete, exploram o surgimento da pochete e acabam com uma explosão adocicada. Pitchman ainda descobre as melhores formas de desentupir ralos, descaroçar cerejas e ralar queijo.</desc>
     <date>2016</date>
     <category lang="pt">Comédia</category>
     <category lang="pt">Faça Você Mesmo</category>
@@ -25041,7 +25017,7 @@
   <programme start="20230506152900 +0000" stop="20230506155200 +0000" channel="TRUTV">
     <title lang="pt">Guerra de containers : T1 EP9 - Armas Pesadas</title>
     <sub-title lang="pt">T1 EP9 - Armas Pesadas</sub-title>
-    <desc lang="pt">Um contêiner misterioso vindo de Guam provoca uma disputa. Manic Matt faz um alerta, mas os israelenses não estão dispostos a recuar. Será que essa aposta gigante renderá frutos? Ou será que o conteúdo questionável do contêiner os fará se arrepender.(c)</desc>
+    <desc lang="pt">Um contêiner misterioso vindo de Guam provoca uma disputa. Manic Matt faz um alerta, mas os israelenses não estão dispostos a recuar. Será que essa aposta gigante renderá frutos? Ou será que o conteúdo questionável do contêiner os fará se arrepender.</desc>
     <date>2013</date>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/71/12717633_CAD04B882AAA1C8A.jpg" />
@@ -25053,7 +25029,7 @@
   <programme start="20230506155200 +0000" stop="20230506161500 +0000" channel="TRUTV">
     <title lang="pt">Guerra de containers : T1 EP10 - Uma Questão de Pele</title>
     <sub-title lang="pt">T1 EP10 - Uma Questão de Pele</sub-title>
-    <desc lang="pt">Chega o mais cobiçado de todos os contêineres. Jason e Matt entram, mas será que farão as melhores escolhas? Ou será que o faro fashion da bela Deana lhe renderá frutos? Uma surpresa será capaz de mudar todas as regras do jogo.(c)</desc>
+    <desc lang="pt">Chega o mais cobiçado de todos os contêineres. Jason e Matt entram, mas será que farão as melhores escolhas? Ou será que o faro fashion da bela Deana lhe renderá frutos? Uma surpresa será capaz de mudar todas as regras do jogo.</desc>
     <date>2013</date>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/71/12717897_9BEFA7AC56E0E0D2.jpg" />
@@ -25065,7 +25041,7 @@
   <programme start="20230506161500 +0000" stop="20230506163700 +0000" channel="TRUTV">
     <title lang="pt">Os Rebocadores de South Beach : T1 EP5 - Dia de Treinamento</title>
     <sub-title lang="pt">T1 EP5 - Dia de Treinamento</sub-title>
-    <desc lang="pt">Eddie precisa de suporte quando é ameaçado por um grupo metido a playboy que está tentando impedir o reboque do seu Lamborghini alugado. A equipe da Tremont encara um bobão metido e Robert contrata uma motorista que pertencia ao concorrente.(c)</desc>
+    <desc lang="pt">Eddie precisa de suporte quando é ameaçado por um grupo metido a playboy que está tentando impedir o reboque do seu Lamborghini alugado. A equipe da Tremont encara um bobão metido e Robert contrata uma motorista que pertencia ao concorrente.</desc>
     <credits>
       <actor>Christie Ashenoff</actor>
       <actor>Robert Ashenoff</actor>
@@ -25081,7 +25057,7 @@
   <programme start="20230506163700 +0000" stop="20230506170100 +0000" channel="TRUTV">
     <title lang="pt">Os Rebocadores de South Beach : T1 EP6 - Raiva</title>
     <sub-title lang="pt">T1 EP6 - Raiva</sub-title>
-    <desc lang="pt">Bernice continua violando o protocolo de Tremont. Eddie confronta um casal com uma licença falsa de deficiente físico.(c)</desc>
+    <desc lang="pt">Bernice continua violando o protocolo de Tremont. Eddie confronta um casal com uma licença falsa de deficiente físico.</desc>
     <credits>
       <actor>Christie Ashenoff</actor>
       <actor>Robert Ashenoff</actor>
@@ -25097,7 +25073,7 @@
   <programme start="20230506170100 +0000" stop="20230506172700 +0000" channel="TRUTV">
     <title lang="pt">Tirando a Maior Onda : T8 EP29 - A Vergonha da Água</title>
     <sub-title lang="pt">T8 EP29 - A Vergonha da Água</sub-title>
-    <desc lang="pt">Q, Joe, Murr e Sal encontram registros escandalosos no diário escritas por suas filhas e depois terminam o relacionamento na frente de estranhos confusos. O perdedor está em água quente e em terreno instável enquanto espera pela mesa.(c)</desc>
+    <desc lang="pt">Q, Joe, Murr e Sal encontram registros escandalosos no diário escritas por suas filhas e depois terminam o relacionamento na frente de estranhos confusos. O perdedor está em água quente e em terreno instável enquanto espera pela mesa.</desc>
     <credits>
       <actor>Joe Gatto</actor>
       <actor>Sal Vulcano</actor>
@@ -25116,7 +25092,7 @@
   <programme start="20230506172700 +0000" stop="20230506175300 +0000" channel="TRUTV">
     <title lang="pt">Tirando a Maior Onda : T8 EP30 - Rock de Baixo</title>
     <sub-title lang="pt">T8 EP30 - Rock de Baixo</sub-title>
-    <desc lang="pt">Murr, Q, Joe e Sal soltam puns com o ator Jeff Daniels, depois tentam convencer estranhos a escolher um lado em discussões ridículas. E ainda, o perdedor de hoje se vê contra uma parede ao redor de um perplexo grupo de estudantes.(c)</desc>
+    <desc lang="pt">Murr, Q, Joe e Sal soltam puns com o ator Jeff Daniels, depois tentam convencer estranhos a escolher um lado em discussões ridículas. E ainda, o perdedor de hoje se vê contra uma parede ao redor de um perplexo grupo de estudantes.</desc>
     <credits>
       <actor>Joe Gatto</actor>
       <actor>Sal Vulcano</actor>
@@ -25135,7 +25111,7 @@
   <programme start="20230506175300 +0000" stop="20230506181900 +0000" channel="TRUTV">
     <title lang="pt">Tirando a Maior Onda : T8 EP31 - É Elétrico</title>
     <sub-title lang="pt">T8 EP31 - É Elétrico</sub-title>
-    <desc lang="pt">Os caras lançam suas ideias extravagantes de programas de TV para grupos de pesquisa de opinião e depois vão ao parque com suas filhas, que compartilham opiniões impopulares com estranhos.(c)</desc>
+    <desc lang="pt">Os caras lançam suas ideias extravagantes de programas de TV para grupos de pesquisa de opinião e depois vão ao parque com suas filhas, que compartilham opiniões impopulares com estranhos.</desc>
     <credits>
       <actor>Joe Gatto</actor>
       <actor>Sal Vulcano</actor>
@@ -25154,7 +25130,7 @@
   <programme start="20230506181900 +0000" stop="20230506184200 +0000" channel="TRUTV">
     <title lang="pt">Efeito Carbonaro : T2 EP11 - Pegando uma Gripe</title>
     <sub-title lang="pt">T2 EP11 - Pegando uma Gripe</sub-title>
-    <desc lang="pt">Em um bazar de garagem, Michael ajuda um homem a descobrir seus incríveis poderes mentais e choca uma universitária ao se dar conta de que ela é a herdeira de todo o terreno.(c)</desc>
+    <desc lang="pt">Em um bazar de garagem, Michael ajuda um homem a descobrir seus incríveis poderes mentais e choca uma universitária ao se dar conta de que ela é a herdeira de todo o terreno.</desc>
     <credits>
       <actor>Michael Carbonaro</actor>
     </credits>
@@ -25170,7 +25146,7 @@
   <programme start="20230506184200 +0000" stop="20230506190400 +0000" channel="TRUTV">
     <title lang="pt">Efeito Carbonaro : T2 EP12 - Ar Espacial</title>
     <sub-title lang="pt">T2 EP12 - Ar Espacial</sub-title>
-    <desc lang="pt">Enquanto faz uma pesquisa científica, Michael deixa as coisas pesadas com ar de outro mundo. Em uma padaria, os pãezinhos são tão leves que desafiam a gravidade. Como um instrutor de golfe, Michael cai em uma grande armadilha.(c)</desc>
+    <desc lang="pt">Enquanto faz uma pesquisa científica, Michael deixa as coisas pesadas com ar de outro mundo. Em uma padaria, os pãezinhos são tão leves que desafiam a gravidade. Como um instrutor de golfe, Michael cai em uma grande armadilha.</desc>
     <credits>
       <actor>Michael Carbonaro</actor>
     </credits>
@@ -25186,7 +25162,7 @@
   <programme start="20230506190400 +0000" stop="20230506192700 +0000" channel="TRUTV">
     <title lang="pt">Tesouros de Garagem : T2 EP2 - Aposta Insegura</title>
     <sub-title lang="pt">T2 EP2 - Aposta Insegura</sub-title>
-    <desc lang="pt">Lori compra uma unidade questionável; os compradores brigam por peças de quebra-cabeça.(c)</desc>
+    <desc lang="pt">Lori compra uma unidade questionável; os compradores brigam por peças de quebra-cabeça.</desc>
     <credits>
       <actor>Brandon Bernier</actor>
       <actor>Lori Bernier</actor>
@@ -25203,7 +25179,7 @@
   <programme start="20230506192700 +0000" stop="20230506195000 +0000" channel="TRUTV">
     <title lang="pt">Tesouros de Garagem : T2 EP5 - A Única Vez</title>
     <sub-title lang="pt">T2 EP5 - A Única Vez</sub-title>
-    <desc lang="pt">Muito dinheiro traz uma concorrência feroz em um leilão raro de altas apostas de motocasas; o conteúdo de um armário se derrama aos pés dos apostadores.(c)</desc>
+    <desc lang="pt">Muito dinheiro traz uma concorrência feroz em um leilão raro de altas apostas de motocasas; o conteúdo de um armário se derrama aos pés dos apostadores.</desc>
     <credits>
       <actor>Brandon Bernier</actor>
       <actor>Lori Bernier</actor>
@@ -25220,7 +25196,7 @@
   <programme start="20230506195000 +0000" stop="20230506203500 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo : T6 EP11 - Festeiros 8</title>
     <sub-title lang="pt">T6 EP11 - Festeiros 8</sub-title>
-    <desc lang="pt">As melhores histórias dos festeiros mais estúpidos do mundo; um bolo de aniversário explosivo; uma dançarina erótica muito empolgada cai do palco; uma dama de honra desmaia durante a cerimônia de casamento da própria irmã.(c)</desc>
+    <desc lang="pt">As melhores histórias dos festeiros mais estúpidos do mundo; um bolo de aniversário explosivo; uma dançarina erótica muito empolgada cai do palco; uma dama de honra desmaia durante a cerimônia de casamento da própria irmã.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -25234,7 +25210,7 @@
   </programme>
   <programme start="20230506203500 +0000" stop="20230506212000 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
-    <desc lang="pt">Um viciado em metanfetamina tenta lamber drogas do chão de uma delegacia de polícia; uma cliente de pernas arqueadas tenta sair de uma loja com uma caixa de cerveja entre as pernas; o cinto de segurança de um criminoso impede que ele escape.(c)</desc>
+    <desc lang="pt">Um viciado em metanfetamina tenta lamber drogas do chão de uma delegacia de polícia; uma cliente de pernas arqueadas tenta sair de uma loja com uma caixa de cerveja entre as pernas; o cinto de segurança de um criminoso impede que ele escape.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -25249,7 +25225,7 @@
   <programme start="20230506212000 +0000" stop="20230506220200 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo : T6 EP9 - Feriados</title>
     <sub-title lang="pt">T6 EP9 - Feriados</sub-title>
-    <desc lang="pt">Perus de Ação de Graça se vingam; Papai Noel bebe demais nas festas de fim de ano; um duende traz a sorte dos irlandeses a uma pequena cidade do Alabama.(c)</desc>
+    <desc lang="pt">Perus de Ação de Graça se vingam; Papai Noel bebe demais nas festas de fim de ano; um duende traz a sorte dos irlandeses a uma pequena cidade do Alabama.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -25264,7 +25240,7 @@
   <programme start="20230506220200 +0000" stop="20230506224800 +0000" channel="TRUTV">
     <title lang="pt">Os Vídeos Mais Idiotas do Mundo : T7 EP2 - Motoristas 16</title>
     <sub-title lang="pt">T7 EP2 - Motoristas 16</sub-title>
-    <desc lang="pt">Um homem enorme tenta correr mais que um carro da polícia; um operador de empilhadeira destrói um armazém cheio de álcool; motoristas idiotas batem novamente na mesma padaria.(c)</desc>
+    <desc lang="pt">Um homem enorme tenta correr mais que um carro da polícia; um operador de empilhadeira destrói um armazém cheio de álcool; motoristas idiotas batem novamente na mesma padaria.</desc>
     <credits>
       <actor>Chip Bolcik</actor>
     </credits>
@@ -25279,7 +25255,7 @@
   <programme start="20230506224800 +0000" stop="20230506230900 +0000" channel="TRUTV">
     <title lang="pt">Resolva Minha Vida : T2 EP11 - Levando as Gambiarras a Outro Patamar</title>
     <sub-title lang="pt">T2 EP11 - Levando as Gambiarras a Outro Patamar</sub-title>
-    <desc lang="pt">Resolva Minha Vida está de volta levando as gambiarras a outro patamar! Brooke e Kevin exploram formas de ganhar tratamento especial em um restaurante e Broke Ass Bob descobre como economizar seu dinheiro. Saiba como se tornar seu próprio sushiman.(c)</desc>
+    <desc lang="pt">Resolva Minha Vida está de volta levando as gambiarras a outro patamar! Brooke e Kevin exploram formas de ganhar tratamento especial em um restaurante e Broke Ass Bob descobre como economizar seu dinheiro. Saiba como se tornar seu próprio sushiman.</desc>
     <date>2016</date>
     <category lang="pt">Comédia</category>
     <category lang="pt">Faça Você Mesmo</category>
@@ -25292,7 +25268,7 @@
   <programme start="20230506230900 +0000" stop="20230506233200 +0000" channel="TRUTV">
     <title lang="pt">Resolva Minha Vida : T2 EP12 - Soluções Para o Trabalho e o Lazer</title>
     <sub-title lang="pt">T2 EP12 - Soluções Para o Trabalho e o Lazer</sub-title>
-    <desc lang="pt">Brooke e Kevin descobrem as melhores formas de inflar uma bola de basquete, exploram o surgimento da pochete e acabam com uma explosão adocicada. Pitchman ainda descobre as melhores formas de desentupir ralos, descaroçar cerejas e ralar queijo.(c)</desc>
+    <desc lang="pt">Brooke e Kevin descobrem as melhores formas de inflar uma bola de basquete, exploram o surgimento da pochete e acabam com uma explosão adocicada. Pitchman ainda descobre as melhores formas de desentupir ralos, descaroçar cerejas e ralar queijo.</desc>
     <date>2016</date>
     <category lang="pt">Comédia</category>
     <category lang="pt">Faça Você Mesmo</category>
@@ -25305,7 +25281,7 @@
   <programme start="20230506233200 +0000" stop="20230506235400 +0000" channel="TRUTV">
     <title lang="pt">Guerra de containers : T1 EP9 - Armas Pesadas</title>
     <sub-title lang="pt">T1 EP9 - Armas Pesadas</sub-title>
-    <desc lang="pt">Um contêiner misterioso vindo de Guam provoca uma disputa. Manic Matt faz um alerta, mas os israelenses não estão dispostos a recuar. Será que essa aposta gigante renderá frutos? Ou será que o conteúdo questionável do contêiner os fará se arrepender.(c)</desc>
+    <desc lang="pt">Um contêiner misterioso vindo de Guam provoca uma disputa. Manic Matt faz um alerta, mas os israelenses não estão dispostos a recuar. Será que essa aposta gigante renderá frutos? Ou será que o conteúdo questionável do contêiner os fará se arrepender.</desc>
     <date>2013</date>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/71/12717633_CAD04B882AAA1C8A.jpg" />
@@ -25317,7 +25293,7 @@
   <programme start="20230506235400 +0000" stop="20230507001700 +0000" channel="TRUTV">
     <title lang="pt">Guerra de containers : T1 EP10 - Uma Questão de Pele</title>
     <sub-title lang="pt">T1 EP10 - Uma Questão de Pele</sub-title>
-    <desc lang="pt">Chega o mais cobiçado de todos os contêineres. Jason e Matt entram, mas será que farão as melhores escolhas? Ou será que o faro fashion da bela Deana lhe renderá frutos? Uma surpresa será capaz de mudar todas as regras do jogo.(c)</desc>
+    <desc lang="pt">Chega o mais cobiçado de todos os contêineres. Jason e Matt entram, mas será que farão as melhores escolhas? Ou será que o faro fashion da bela Deana lhe renderá frutos? Uma surpresa será capaz de mudar todas as regras do jogo.</desc>
     <date>2013</date>
     <category lang="pt">Reality Show</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/71/12717897_9BEFA7AC56E0E0D2.jpg" />
@@ -25585,7 +25561,7 @@
   <programme start="20230506100000 +0000" stop="20230506120000 +0000" channel="FOX SPORTS">
     <title lang="pt">Semifinal: Sporting CP x Anderlecht - UEFA Futsal Champions League : Semifinal: Sporting CP x Anderlecht</title>
     <sub-title lang="pt">Semifinal: Sporting CP x Anderlecht</sub-title>
-    <desc lang="pt">Pela semi em jogo único, Sporting e Anderlecht jogam na Palma Arena, em Palma de Maiorca, Espanha.(c)</desc>
+    <desc lang="pt">Pela semi em jogo único, Sporting e Anderlecht jogam na Palma Arena, em Palma de Maiorca, Espanha.</desc>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15844303_557EF3333D113A8C.jpg" />
     <rating>
@@ -25615,7 +25591,7 @@
   <programme start="20230506170000 +0000" stop="20230506190000 +0000" channel="FOX SPORTS">
     <title lang="pt">Semifinal: Palma Futsal x Benfica - UEFA Futsal Champions League : Semifinal: Palma Futsal x Benfica</title>
     <sub-title lang="pt">Semifinal: Palma Futsal x Benfica</sub-title>
-    <desc lang="pt">Pela semifinal em jogo único, Palma e Benfica duelam na Palma Arena, em Palma de Maiorca, Espanha.(c)</desc>
+    <desc lang="pt">Pela semifinal em jogo único, Palma e Benfica duelam na Palma Arena, em Palma de Maiorca, Espanha.</desc>
     <date>2023</date>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/85/15854480_DF0A0A8B23DC8B5B.jpg" />
@@ -26040,35 +26016,9 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20230505185800 +0000" stop="20230505204200 +0000" channel="TNT">
-    <title lang="pt">No Corredor da Morte</title>
-    <desc lang="pt">Um gênio do crime elabora um plano para invadir um presídio com a missão de convencer um condenado à morte a dizer o paradeiro de 200 milhões de dólares em ouro. Sascha, o agente infiltrado do FBI, precisa pará-lo antes que seja tarde demais.</desc>
-    <credits>
-      <director>Mike Slovis</director>
-      <director>Don Michael Paul</director>
-      <actor>Mo'Nique</actor>
-      <actor>Michael Lloyd</actor>
-      <actor>Stephen J. Cannell</actor>
-      <actor>Tony Plana</actor>
-      <actor>Nia Peeples</actor>
-      <actor>Bruce Weitz</actor>
-      <actor>Claudia Christian</actor>
-      <actor>Linda Thorson</actor>
-      <actor>Tyler Bates</actor>
-      <actor>Andrew Stevens</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Suspense</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/80/11808877_AA4E3582A8A31360.jpg" />
-    <country lang="pt">USA</country>
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20230505204200 +0000" stop="20230505221200 +0000" channel="TNT">
+  <programme start="20230505203600 +0000" stop="20230505220900 +0000" channel="TNT">
     <title lang="pt">No Olho do Tornado</title>
-    <desc lang="pt">No espaço de apenas algumas horas, a cidade de Silverton é devastada por um ataque sem precedentes de tornados. Caçadores de tempestades preveem que o pior ainda está por vir.</desc>
+    <desc lang="pt">No espaço de apenas algumas horas, a cidade de Silverton é devastada por um ataque sem precedentes de tornados. Caçadores de tempestades preveem que o pior ainda está por vir.(c)</desc>
     <credits>
       <director>Steven Quale</director>
       <director>Marco Rubeo</director>
@@ -26092,9 +26042,9 @@
       <value>+12</value>
     </rating>
   </programme>
-  <programme start="20230505221200 +0000" stop="20230506000100 +0000" channel="TNT">
+  <programme start="20230505220900 +0000" stop="20230505235900 +0000" channel="TNT">
     <title lang="pt">Golpe Duplo</title>
-    <desc lang="pt">Nicky é um trapaceiro que acaba sendo escolhido como vítima por uma iniciante na profissão, Jess. Ela insiste para que Nicky ensine seu método de trabalho e a aceite em sua equipe. Ele concorda e também acaba se envolvendo romanticamente com Jess.</desc>
+    <desc lang="pt">Nicky é um trapaceiro que acaba sendo escolhido como vítima por uma iniciante na profissão, Jess. Ela insiste para que Nicky ensine seu método de trabalho e a aceite em sua equipe. Ele concorda e também acaba se envolvendo romanticamente com Jess.(c)</desc>
     <credits>
       <director>Glenn Ficarra</director>
       <director>John Requa</director>
@@ -26119,9 +26069,9 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506000100 +0000" stop="20230506013000 +0000" channel="TNT">
+  <programme start="20230505235900 +0000" stop="20230506013000 +0000" channel="TNT">
     <title lang="pt">Águas Rasas</title>
-    <desc lang="pt">No momento em que a jovem Nancy surfa sozinha em uma praia isolada, é atacada por um enorme tubarão branco. Ferida, mas a poucos metros da praia, ela tem que lutar por sua vida até conseguir sair da água.</desc>
+    <desc lang="pt">No momento em que a jovem Nancy surfa sozinha em uma praia isolada, é atacada por um enorme tubarão branco. Ferida, mas a poucos metros da praia, ela tem que lutar por sua vida até conseguir sair da água.(c)</desc>
     <credits>
       <director>Jaume Collet-Serra</director>
       <director>Nathan Blanco Fouraux</director>
@@ -26145,43 +26095,66 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506013000 +0000" stop="20230506033000 +0000" channel="TNT">
+  <programme start="20230506013000 +0000" stop="20230506033200 +0000" channel="TNT">
     <title lang="pt">S.W.A.T. - Comando Especial</title>
-    <desc lang="pt">Um chefão do tráfico precisa ser transferido para uma prisão federal. Uma divisão da S.W.A.T. é encarregada do transporte, mas a situação se complica quando a oferta do traficante de pagar 100 milhões de dólares a quem libertá-lo se torna pública.</desc>
+    <desc lang="pt">Um chefão do tráfico precisa ser transferido para uma prisão federal. Uma divisão da S.W.A.T. é encarregada do transporte, mas a situação se complica quando a oferta do traficante de pagar 100 milhões de dólares a quem libertá-lo se torna pública.(c)</desc>
     <credits>
       <director>Clark Johnson</director>
       <director>Gabriel Beristain</director>
       <actor>Brian Van Holt</actor>
       <actor>Elliot Goldenthal</actor>
       <actor>LL Cool J</actor>
+      <actor>Reg E. Cathey</actor>
       <actor>David McKenna</actor>
       <actor>Larry Poindexter</actor>
       <actor>Michelle Rodriguez</actor>
       <actor>Samuel L. Jackson</actor>
       <actor>Jeremy Renner</actor>
       <actor>Colin Farrell</actor>
-      <actor>Josh Charles</actor>
     </credits>
-    <date>2003</date>
+    <date>1993</date>
     <category lang="pt">Ação</category>
     <category lang="pt">Suspense</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/32/12329690_342ACFB12BAE906D.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11820743_496FE57B9E92CA94.jpg" />
     <country lang="pt">USA</country>
+    <episode-num system="onscreen">S4 E10</episode-num>
     <rating>
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506033000 +0000" stop="20230506035400 +0000" channel="TNT">
-    <title lang="pt">Um Maluco no Pedaço : T4 EP12 - Você Tem que Ser um Herói do Futebol</title>
-    <sub-title lang="pt">T4 EP12 - Você Tem que Ser um Herói do Futebol</sub-title>
-    <desc lang="pt">Will fica bêbado com o namorado de Jackie e acaba preso em um mausoléu com quatro fantasmas filosóficos.</desc>
+  <programme start="20230506035700 +0000" stop="20230506042200 +0000" channel="TNT">
+    <title lang="pt">Um Maluco no Pedaço : T4 EP11 - Leve Meu Primo... Por Favor</title>
+    <sub-title lang="pt">T4 EP11 - Leve Meu Primo... Por Favor</sub-title>
+    <desc lang="pt">Um dos professores da faculdade de Will fica deprimido após se divorciar, e Will decide apresentá-lo a Hilary.(c)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <actor>Alfonso Ribeiro</actor>
       <actor>James Avery</actor>
       <actor>Joseph Marcell</actor>
       <actor>Karyn Parsons</actor>
-      <actor>Tatyana Ali</actor>
+      <actor>Tatyana M. Ali</actor>
+      <actor>Will Smith</actor>
+      <actor>Daphne Maxwell Reid</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/80/11807357_6B7F5A1C3D967CA8.jpg" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20230506042200 +0000" stop="20230506044700 +0000" channel="TNT">
+    <title lang="pt">Um Maluco no Pedaço : T4 EP12 - Você Tem que Ser um Herói do Futebol</title>
+    <sub-title lang="pt">T4 EP12 - Você Tem que Ser um Herói do Futebol</sub-title>
+    <desc lang="pt">Will fica bêbado com o namorado de Jackie e acaba preso em um mausoléu com quatro fantasmas filosóficos.(c)</desc>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Alfonso Ribeiro</actor>
+      <actor>James Avery</actor>
+      <actor>Joseph Marcell</actor>
+      <actor>Karyn Parsons</actor>
+      <actor>Tatyana M. Ali</actor>
       <actor>Will Smith</actor>
       <actor>Daphne Maxwell Reid</actor>
     </credits>
@@ -26193,17 +26166,17 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20230506035400 +0000" stop="20230506041700 +0000" channel="TNT">
+  <programme start="20230506044700 +0000" stop="20230506051200 +0000" channel="TNT">
     <title lang="pt">Um Maluco no Pedaço : T4 EP13 - Era a Noite Antes do Batismo</title>
     <sub-title lang="pt">T4 EP13 - Era a Noite Antes do Batismo</sub-title>
-    <desc lang="pt">Surpreendido pelos presentes caros que a família Banks comprou para o batismo do bebê Nicky na véspera de Natal, Will promete fornecer uma performance ao vivo do grupo Boyz II Men; Geoffrey é escolhido como padrinho da criança.</desc>
+    <desc lang="pt">Surpreendido pelos presentes caros que a família Banks comprou para o batismo do bebê Nicky na véspera de Natal, Will promete fornecer uma performance ao vivo do grupo Boyz II Men; Geoffrey é escolhido como padrinho da criança.(c)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <actor>Alfonso Ribeiro</actor>
       <actor>James Avery</actor>
       <actor>Joseph Marcell</actor>
       <actor>Karyn Parsons</actor>
-      <actor>Tatyana Ali</actor>
+      <actor>Tatyana M. Ali</actor>
       <actor>Will Smith</actor>
       <actor>Daphne Maxwell Reid</actor>
     </credits>
@@ -26216,17 +26189,17 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20230506041700 +0000" stop="20230506043900 +0000" channel="TNT">
+  <programme start="20230506051200 +0000" stop="20230506053400 +0000" channel="TNT">
     <title lang="pt">Um Maluco no Pedaço : T4 EP14 - Sem Dormir em Bel-Air</title>
     <sub-title lang="pt">T4 EP14 - Sem Dormir em Bel-Air</sub-title>
-    <desc lang="pt">Will e Carlton tentam se concentrar nas tarefas escolares enquanto são envolvidos pelas distrações noturnas da família Banks.</desc>
+    <desc lang="pt">Will e Carlton tentam se concentrar nas tarefas escolares enquanto são envolvidos pelas distrações noturnas da família Banks.(c)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <actor>Alfonso Ribeiro</actor>
       <actor>James Avery</actor>
       <actor>Joseph Marcell</actor>
       <actor>Karyn Parsons</actor>
-      <actor>Tatyana Ali</actor>
+      <actor>Tatyana M. Ali</actor>
       <actor>Will Smith</actor>
       <actor>Daphne Maxwell Reid</actor>
     </credits>
@@ -26238,17 +26211,17 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20230506043900 +0000" stop="20230506050300 +0000" channel="TNT">
+  <programme start="20230506053400 +0000" stop="20230506055700 +0000" channel="TNT">
     <title lang="pt">Um Maluco no Pedaço : T4 EP15 - Quem É o Chefe?</title>
     <sub-title lang="pt">T4 EP15 - Quem É o Chefe?</sub-title>
-    <desc lang="pt">Quando Carlton se torna o novo gerente do restaurante do campus, Will se recusa a trabalhar sob suas ordens.</desc>
+    <desc lang="pt">Quando Carlton se torna o novo gerente do restaurante do campus, Will se recusa a trabalhar sob suas ordens.(c)</desc>
     <credits>
       <director>Shelley Jensen</director>
       <actor>Alfonso Ribeiro</actor>
       <actor>James Avery</actor>
       <actor>Joseph Marcell</actor>
       <actor>Karyn Parsons</actor>
-      <actor>Tatyana Ali</actor>
+      <actor>Tatyana M. Ali</actor>
       <actor>Will Smith</actor>
       <actor>Daphne Maxwell Reid</actor>
     </credits>
@@ -26260,9 +26233,9 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20230506050300 +0000" stop="20230506072600 +0000" channel="TNT">
+  <programme start="20230506055700 +0000" stop="20230506081900 +0000" channel="TNT">
     <title lang="pt">O Voo</title>
-    <desc lang="pt">O capitão Whip Whittaker se torna herói quando, ainda embriagado, aterrissa milagrosamente um avião com problemas de funcionamento. Mas a investigação do acidente ameaça trazer à tona a verdade sobre o piloto e abalar sua carreira.</desc>
+    <desc lang="pt">O capitão Whip Whittaker se torna herói quando, ainda embriagado, aterrissa milagrosamente um avião com problemas de funcionamento. Mas a investigação do acidente ameaça trazer à tona a verdade sobre o piloto e abalar sua carreira.(c)</desc>
     <credits>
       <director>Robert Zemeckis</director>
       <director>David Lazan</director>
@@ -26286,29 +26259,25 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230506072600 +0000" stop="20230506090000 +0000" channel="TNT">
-    <title lang="pt">O Vingador</title>
-    <desc lang="pt">O agente Sean Vetter, junta-se a um dos líderes do cartel de drogas e inicia uma busca para se vingar de Diablo, o assassino de sua esposa.</desc>
-    <credits>
-      <director>F. Gary Gray</director>
-      <actor>Jacqueline Obradors</actor>
-      <actor>Jeff Kober</actor>
-      <actor>Larenz Tate</actor>
-      <actor>Steve Eastin</actor>
-      <actor>Juan Fernandez</actor>
-      <actor>Christian Gudegast</actor>
-      <actor>Vin Diesel</actor>
-      <actor>Timothy Olyphant</actor>
-      <actor>Paul Scheuring</actor>
-      <actor>Geno Silva</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="pt">Ação</category>
-    <category lang="pt">Drama</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/62/12625766_58E5F212B8D87647.jpg" />
-    <country lang="pt">USA</country>
+  <programme start="20230506081900 +0000" stop="20230506085700 +0000" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com celebridades.(c)</desc>
+    <date>1993</date>
+    <category lang="pt">Talk Show</category>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/86/11861047_8A0645108E725866.jpg" />
     <rating>
-      <value>16</value>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20230506085700 +0000" stop="20230506090000 +0000" channel="TNT">
+    <title lang="pt">TNT Buzz</title>
+    <desc lang="pt">Programa de entrevistas e notícias do mundo do entretenimento.(c)</desc>
+    <date>2014</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11817611_62E6FA5B35207350.jpg" />
+    <rating>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20230506090000 +0000" stop="20230506102300 +0000" channel="TNT">
@@ -32517,7 +32486,7 @@
   </programme>
   <programme start="20230505003200 -0300" stop="20230505022000 -0300" channel="CINEMAX">
     <title lang="pt">Antebellum</title>
-    <desc lang="pt">Janelle Monáe protagoniza este thriller como uma escritora afro-americana de sucesso que se vê presa a uma realidade assustadora.(c)</desc>
+    <desc lang="pt">Janelle Monáe protagoniza este thriller como uma escritora afro-americana de sucesso que se vê presa a uma realidade assustadora.</desc>
     <credits>
       <director>Gerard Bush</director>
       <actor>Janelle Monáe</actor>
@@ -32534,7 +32503,7 @@
   </programme>
   <programme start="20230505022000 -0300" stop="20230505034400 -0300" channel="CINEMAX">
     <title lang="pt">A Autópsia</title>
-    <desc lang="pt">O corpo de uma mulher não identificada é descoberto em uma pequena vila na Virgínia. Eventos inexplicáveis começam a atormentar os donos do necrotério e os responsáveis por fazer a autópsia no cadáver.(c)</desc>
+    <desc lang="pt">O corpo de uma mulher não identificada é descoberto em uma pequena vila na Virgínia. Eventos inexplicáveis começam a atormentar os donos do necrotério e os responsáveis por fazer a autópsia no cadáver.</desc>
     <credits>
       <director>André Ovredal</director>
       <actor>Brian Cox</actor>
@@ -32548,7 +32517,7 @@
   </programme>
   <programme start="20230505034400 -0300" stop="20230505052500 -0300" channel="CINEMAX">
     <title lang="pt">A Mulher de Preto 2: Anjo da Morte</title>
-    <desc lang="pt">Durante a Segunda Guerra Mundial, a professora Eve foi levada junto com algumas crianças a uma casa abandonada em uma vila remota para proteger suas vidas.(c)</desc>
+    <desc lang="pt">Durante a Segunda Guerra Mundial, a professora Eve foi levada junto com algumas crianças a uma casa abandonada em uma vila remota para proteger suas vidas.</desc>
     <credits>
       <director>Tom Harper</director>
       <actor>Helen McCrory</actor>
@@ -32566,7 +32535,7 @@
   </programme>
   <programme start="20230505052500 -0300" stop="20230505060000 -0300" channel="CINEMAX">
     <title lang="pt">Clubversão Latino</title>
-    <desc lang="pt">Clubversão Latino convida cantores e músicos de toda a América Latina para um registro inédito de encontros com artistas brasileiros. Neste episódio, Debi Nova e Martin Mendonça.(c)</desc>
+    <desc lang="pt">Clubversão Latino convida cantores e músicos de toda a América Latina para um registro inédito de encontros com artistas brasileiros. Neste episódio, Debi Nova e Martin Mendonça.</desc>
     <credits>
       <director>Alessandra Dorgan</director>
       <actor>Martin Martan</actor>
@@ -32579,7 +32548,7 @@
   </programme>
   <programme start="20230505060000 -0300" stop="20230505060900 -0300" channel="CINEMAX">
     <title lang="pt">Hollywood One on One</title>
-    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.(c)</desc>
+    <desc lang="pt">Conteudo Jornalistico: entrevistas com personalidades de Hollywood sobre seus novos projetos.</desc>
     <credits>
       <director>Patrick Scott</director>
       <actor>David Corenswet</actor>
@@ -32593,7 +32562,7 @@
   </programme>
   <programme start="20230505060900 -0300" stop="20230505072600 -0300" channel="CINEMAX">
     <title lang="pt">Hank e Asha</title>
-    <desc lang="pt">Asha é uma estudante indiana que vive em Praga e Hank é um jovem solitário que vive em Nova York. Eles são dois estranhos que mantém contato online há pouco tempo.(c)</desc>
+    <desc lang="pt">Asha é uma estudante indiana que vive em Praga e Hank é um jovem solitário que vive em Nova York. Eles são dois estranhos que mantém contato online há pouco tempo.</desc>
     <credits>
       <director>James E. Duff</director>
       <actor>Andrew Pastides</actor>
@@ -32612,7 +32581,7 @@
   </programme>
   <programme start="20230505072600 -0300" stop="20230505095800 -0300" channel="CINEMAX">
     <title lang="pt">Jogos Vorazes</title>
-    <desc lang="pt">Em um futuro distópico, a nação totalitária de Panem é dividida em 12 distritos e o Capitólio. A cada ano, dois jovens representantes de cada distrito são selecionados por sorteio para participar dos Jogos Vorazes.(c)</desc>
+    <desc lang="pt">Em um futuro distópico, a nação totalitária de Panem é dividida em 12 distritos e o Capitólio. A cada ano, dois jovens representantes de cada distrito são selecionados por sorteio para participar dos Jogos Vorazes.</desc>
     <credits>
       <director>Gary Ross</director>
       <actor>Stanley Tucci</actor>
@@ -32632,7 +32601,7 @@
   </programme>
   <programme start="20230505095800 -0300" stop="20230505114100 -0300" channel="CINEMAX">
     <title lang="pt">Os Mercenários 2</title>
-    <desc lang="pt">Barney Ross e um bando de mercenários recebem a missão de recuperar um cofre muito importante. No entanto, eles são surpreendidos, e Toll é brutalmente assassinado. Além de buscar vingança, o grupo precisa cumprir sua missão.(c)</desc>
+    <desc lang="pt">Barney Ross e um bando de mercenários recebem a missão de recuperar um cofre muito importante. No entanto, eles são surpreendidos, e Toll é brutalmente assassinado. Além de buscar vingança, o grupo precisa cumprir sua missão.</desc>
     <credits>
       <director>Simon West</director>
       <actor>Sylvester Stallone</actor>
@@ -32649,7 +32618,7 @@
   </programme>
   <programme start="20230505114100 -0300" stop="20230505134200 -0300" channel="CINEMAX">
     <title lang="pt">Dose Dupla</title>
-    <desc lang="pt">Os agentes infiltrados Bobby e Stig tentam fazer negócios com um poderoso traficante mexicano, Papi Greco, mas ele se recusa a negociar com a dupla. Eles decidem, então, roubar um banco que recebe o faturamento de Papi.(c)</desc>
+    <desc lang="pt">Os agentes infiltrados Bobby e Stig tentam fazer negócios com um poderoso traficante mexicano, Papi Greco, mas ele se recusa a negociar com a dupla. Eles decidem, então, roubar um banco que recebe o faturamento de Papi.</desc>
     <credits>
       <director>Baltasar Kormákur</director>
       <actor>Denzel Washington</actor>
@@ -32669,7 +32638,7 @@
   </programme>
   <programme start="20230505134200 -0300" stop="20230505155000 -0300" channel="CINEMAX">
     <title lang="pt">Kong: A Ilha da Caveira</title>
-    <desc lang="pt">Durante a 2ª Guerra. Dois aviões, um americano e outro japonês, são abatidos em pleno combate aéreo. Os pilotos sobrevivem, chegando a uma ilha desconhecida.(c)</desc>
+    <desc lang="pt">Durante a 2ª Guerra. Dois aviões, um americano e outro japonês, são abatidos em pleno combate aéreo. Os pilotos sobrevivem, chegando a uma ilha desconhecida.</desc>
     <credits>
       <director>Jordan Vogt Roberts</director>
       <actor>Tom Hiddleston</actor>
@@ -32689,7 +32658,7 @@
   </programme>
   <programme start="20230505155000 -0300" stop="20230505185800 -0300" channel="CINEMAX">
     <title lang="pt">Alexandre</title>
-    <desc lang="pt">A poderosa história de \.(c)</desc>
+    <desc lang="pt">A poderosa história de \.</desc>
     <credits>
       <director>Oliver Stone</director>
       <actor>Colin Farrel</actor>
@@ -32709,7 +32678,7 @@
   </programme>
   <programme start="20230505185800 -0300" stop="20230505204000 -0300" channel="CINEMAX">
     <title lang="pt">Os Mercenários 2</title>
-    <desc lang="pt">Barney Ross e um bando de mercenários recebem a missão de recuperar um cofre muito importante. No entanto, eles são surpreendidos, e Toll é brutalmente assassinado. Além de buscar vingança, o grupo precisa cumprir sua missão.(c)</desc>
+    <desc lang="pt">Barney Ross e um bando de mercenários recebem a missão de recuperar um cofre muito importante. No entanto, eles são surpreendidos, e Toll é brutalmente assassinado. Além de buscar vingança, o grupo precisa cumprir sua missão.</desc>
     <credits>
       <director>Simon West</director>
       <actor>Sylvester Stallone</actor>
@@ -32726,7 +32695,7 @@
   </programme>
   <programme start="20230505204000 -0300" stop="20230505223000 -0300" channel="CINEMAX">
     <title lang="pt">Dose Dupla</title>
-    <desc lang="pt">Os agentes infiltrados Bobby e Stig tentam fazer negócios com um poderoso traficante mexicano, Papi Greco, mas ele se recusa a negociar com a dupla. Eles decidem, então, roubar um banco que recebe o faturamento de Papi.(c)</desc>
+    <desc lang="pt">Os agentes infiltrados Bobby e Stig tentam fazer negócios com um poderoso traficante mexicano, Papi Greco, mas ele se recusa a negociar com a dupla. Eles decidem, então, roubar um banco que recebe o faturamento de Papi.</desc>
     <credits>
       <director>Baltasar Kormákur</director>
       <actor>Denzel Washington</actor>
@@ -33393,7 +33362,7 @@
   </programme>
   <programme start="20230505004600 -0300" stop="20230505030100 -0300" channel="SPACE">
     <title lang="pt">Sob o Domínio do Mal</title>
-    <desc lang="pt">Após retornar da Guerra do Golfo, um soldado descobre que passou por uma lavagem cerebral enquanto fora prisioneiro do inimigo, com o objetivo de obedecer ordens sem contestá-las.(c)</desc>
+    <desc lang="pt">Após retornar da Guerra do Golfo, um soldado descobre que passou por uma lavagem cerebral enquanto fora prisioneiro do inimigo, com o objetivo de obedecer ordens sem contestá-las.</desc>
     <credits>
       <director>Jonathan Demme</director>
       <actor>Denzel Washington</actor>
@@ -33413,7 +33382,7 @@
   </programme>
   <programme start="20230505030100 -0300" stop="20230505043100 -0300" channel="SPACE">
     <title lang="pt">Um Lugar Silencioso</title>
-    <desc lang="pt">O mundo foi tomado por criaturas aterrorizantes que promovem ataques mortais ao mínimo sinal de barulho.(c)</desc>
+    <desc lang="pt">O mundo foi tomado por criaturas aterrorizantes que promovem ataques mortais ao mínimo sinal de barulho.</desc>
     <credits>
       <director>John Krasinski</director>
       <actor>Emily Blunt</actor>
@@ -33429,7 +33398,7 @@
   </programme>
   <programme start="20230505043100 -0300" stop="20230505060000 -0300" channel="SPACE">
     <title lang="pt">Violência Aleatória</title>
-    <desc lang="pt">O filme segue a história do criador de quadrinhos Todd Walkley, junto com sua namorada Kathy, em uma viagem de carro.(c)</desc>
+    <desc lang="pt">O filme segue a história do criador de quadrinhos Todd Walkley, junto com sua namorada Kathy, em uma viagem de carro.</desc>
     <credits>
       <director>Jay Baruchel</director>
       <actor>Jordana Brewster</actor>
@@ -33445,7 +33414,7 @@
   </programme>
   <programme start="20230505060000 -0300" stop="20230505061600 -0300" channel="SPACE">
     <title lang="pt">Hollywood One on One</title>
-    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.(c)</desc>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.</desc>
     <credits>
       <director>Scott Patrick</director>
     </credits>
@@ -33456,7 +33425,7 @@
   </programme>
   <programme start="20230505061600 -0300" stop="20230505084100 -0300" channel="SPACE">
     <title lang="pt">Sob o Domínio do Mal</title>
-    <desc lang="pt">Após retornar da Guerra do Golfo, um soldado descobre que passou por uma lavagem cerebral enquanto fora prisioneiro do inimigo, com o objetivo de obedecer ordens sem contestá-las.(c)</desc>
+    <desc lang="pt">Após retornar da Guerra do Golfo, um soldado descobre que passou por uma lavagem cerebral enquanto fora prisioneiro do inimigo, com o objetivo de obedecer ordens sem contestá-las.</desc>
     <credits>
       <director>Jonathan Demme</director>
       <actor>Denzel Washington</actor>
@@ -33476,7 +33445,7 @@
   </programme>
   <programme start="20230505084100 -0300" stop="20230505111100 -0300" channel="SPACE">
     <title lang="pt">Attraction</title>
-    <desc lang="pt">Uma nave alienígena cai em uma cidade russa, muitos dos que a viram e os ocupantes começam a questionar sua própria existência, enquanto há aqueles que exigem que os alienígenas deixem a Terra.(c)</desc>
+    <desc lang="pt">Uma nave alienígena cai em uma cidade russa, muitos dos que a viram e os ocupantes começam a questionar sua própria existência, enquanto há aqueles que exigem que os alienígenas deixem a Terra.</desc>
     <credits>
       <director>Fedor Bondarchuk</director>
       <actor>Irina Starshenbaum</actor>
@@ -33493,7 +33462,7 @@
   </programme>
   <programme start="20230505111100 -0300" stop="20230505134500 -0300" channel="SPACE">
     <title lang="pt">Incursão Alienígena</title>
-    <desc lang="pt">Com a queda da nave alienígena a vida de Julia mudou, agora três anos mais tarde a humanidade está prestes a experimentar um novo encontro.(c)</desc>
+    <desc lang="pt">Com a queda da nave alienígena a vida de Julia mudou, agora três anos mais tarde a humanidade está prestes a experimentar um novo encontro.</desc>
     <credits>
       <director>Fedor Bondarchuk</director>
       <actor>Irina Starshenbaum</actor>
@@ -33510,7 +33479,7 @@
   </programme>
   <programme start="20230505134500 -0300" stop="20230505154500 -0300" channel="SPACE">
     <title lang="pt">Busca Explosiva 5: Campo de Batalha</title>
-    <desc lang="pt">Jake Carter é um veterano do exército que agora se dedica a salvar vidas como paramédico. Após atender um chamado de emergência, Jake acaba usando suas habilidades para proteger um homem ferido.(c)</desc>
+    <desc lang="pt">Jake Carter é um veterano do exército que agora se dedica a salvar vidas como paramédico. Após atender um chamado de emergência, Jake acaba usando suas habilidades para proteger um homem ferido.</desc>
     <credits>
       <director>James Nunn</director>
       <actor>Mike 'the Miz' Mizanin</actor>
@@ -33525,7 +33494,7 @@
   </programme>
   <programme start="20230505154500 -0300" stop="20230505175500 -0300" channel="SPACE">
     <title lang="pt">O Sequestro do Metrô 1 2 3</title>
-    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido.(c)</desc>
+    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido.</desc>
     <credits>
       <director>Tony Scott</director>
       <actor>Denzel Washington</actor>
