@@ -48394,6 +48394,223 @@
       <value>3</value>
     </star-rating>
   </programme>
+  <programme start="20230528003500 -0300" stop="20230528022500 -0300" channel="CINEMAX">
+    <title lang="pt">Sabotagem</title>
+    <desc lang="pt">Bishop é um ex-fuzileiro naval e trabalha como  guarda-costas. Quando seu patrão é morto, ele decide ir atrás do assassino para vingar-se.(n)</desc>
+    <credits>
+      <director>Tibor Takács</director>
+      <actor>Mark Dacascos</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Graham Greene</actor>
+      <actor>Heidi Von Palleske</actor>
+      <actor>John Neville</actor>
+      <actor>Chris Owens</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528022500 -0300" stop="20230528040200 -0300" channel="CINEMAX">
+    <title lang="pt">Mercenário</title>
+    <desc lang="pt">Steven Seagal agora precisa entrar em uma prisão de segurança máxima, para libertar o filho de um dos maiores traficantes de drogas mundo. Ele usará toda sua habilidade em artes marciais.(n)</desc>
+    <credits>
+      <director>Don E. FauntLeRoy</director>
+      <actor>Steven Seagal</actor>
+      <actor>Jacqueline Lord</actor>
+      <actor>Roger Guenveur Smith</actor>
+      <actor>Luke Goss</actor>
+      <actor>Langley Kirkwood</actor>
+      <actor>Adrian Galley</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528040200 -0300" stop="20230528060000 -0300" channel="CINEMAX">
+    <title lang="pt">Sete Dias Em Entebbe</title>
+    <desc lang="pt">Quando quatro sequestradores tomam um voo da Air France e o forçam a pousar em Entebbe, 248 passageiros não sabem o que o destino reserva.(n)</desc>
+    <credits>
+      <director>José Padilha</director>
+      <actor>Zina Zinchenko</actor>
+      <actor>Ben Schnetzer</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Amir Khoury</actor>
+      <actor>Ala Dakka</actor>
+      <actor>Rosamund Pike</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528060000 -0300" stop="20230528073100 -0300" channel="CINEMAX">
+    <title lang="pt">Fogo e Gelo</title>
+    <desc lang="pt">Quando seu reino é atacado por um dragão de fogo, a princesa Luisa parte em busca de um salvador. Para encontrar o filho de um lendário cavaleiro, decide convocar o poderoso dragão de gelo;uma decisão que pode ser fatal para todos.(n)</desc>
+    <credits>
+      <director>Jean C. Comar</director>
+      <actor>Amy Acker</actor>
+      <actor>Tom Wisdom</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Arnold Vosloo</actor>
+      <actor>Cabral Ibaka</actor>
+      <actor>Razvan Vasilescu</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528073100 -0300" stop="20230528094200 -0300" channel="CINEMAX">
+    <title lang="pt">Amundsen</title>
+    <sub-title lang="pt">O Explorador</sub-title>
+    <desc lang="pt">A vida e os eventos de Roald Amundsen, o primeiro homem a chegar ao Polo Sul.(n)</desc>
+    <credits>
+      <director>Espen Sandberg</director>
+      <actor>Pål Sverre Hagen</actor>
+      <actor>Christian Rubeck</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Trond Espen Seim</actor>
+      <actor>Ida Ursin-holm</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528094200 -0300" stop="20230528112200 -0300" channel="CINEMAX">
+    <title lang="pt">Pesadelo nas Alturas</title>
+    <desc lang="pt">Um casal voando em um pequeno avião para participar de um casamento em uma ilha tropical deve lutar por suas vidas depois que seu piloto sofre um ataque cardíaco.(n)</desc>
+    <credits>
+      <director>Mikael Marcimain</director>
+      <actor>Allison Williams</actor>
+      <actor>Alexander Dreymon</actor>
+      <actor>Keith David</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528112200 -0300" stop="20230528132300 -0300" channel="CINEMAX">
+    <title lang="pt">Nosso Fiel Traidor</title>
+    <desc lang="pt">Enquanto aproveitam as férias no Marrocos, Perry e Gail conhecem o carismático Dima, um homem da máfia russa. Quando Dima lhes pede ajuda para entregar informação confidencial, o casal acaba envolvido em um jogo de espionagem.(n)</desc>
+    <credits>
+      <director>Susanna White</director>
+      <actor>Naomie Harris</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Ewan McGregor</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528132300 -0300" stop="20230528151700 -0300" channel="CINEMAX">
+    <title lang="pt">Fúria de Titãs 2</title>
+    <desc lang="pt">Dez anos após derrotar o Kraken, Perseu vive em paz com seu filho. Mas os Deuses perdem o controle sobre os Titãs, que estão presos, e Perseu é chamado para resgatar seu pai, Zeus, vencer os Titãs e salvar a humanidade.(n)</desc>
+    <credits>
+      <director>Jonathan Liebesman</director>
+      <actor>Danny Huston</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Liam Neeson</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528151700 -0300" stop="20230528182900 -0300" channel="CINEMAX">
+    <title lang="pt">Alexandre</title>
+    <desc lang="pt">A poderosa história de \.(n)</desc>
+    <credits>
+      <director>Oliver Stone</director>
+      <actor>Colin Farrel</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Jared Leto</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528182900 -0300" stop="20230528204800 -0300" channel="CINEMAX">
+    <title lang="pt">Amundsen</title>
+    <sub-title lang="pt">O Explorador</sub-title>
+    <desc lang="pt">A vida e os eventos de Roald Amundsen, o primeiro homem a chegar ao Polo Sul.(n)</desc>
+    <credits>
+      <director>Espen Sandberg</director>
+      <actor>Pål Sverre Hagen</actor>
+      <actor>Christian Rubeck</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Trond Espen Seim</actor>
+      <actor>Ida Ursin-holm</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528204800 -0300" stop="20230528223000 -0300" channel="CINEMAX">
+    <title lang="pt">Pesadelo nas Alturas</title>
+    <desc lang="pt">Um casal voando em um pequeno avião para participar de um casamento em uma ilha tropical deve lutar por suas vidas depois que seu piloto sofre um ataque cardíaco.(n)</desc>
+    <credits>
+      <director>Mikael Marcimain</director>
+      <actor>Allison Williams</actor>
+      <actor>Alexander Dreymon</actor>
+      <actor>Keith David</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528223000 -0300" stop="20230529002400 -0300" channel="CINEMAX">
+    <title lang="pt">Fúria de Titãs 2</title>
+    <desc lang="pt">Dez anos após derrotar o Kraken, Perseu vive em paz com seu filho. Mas os Deuses perdem o controle sobre os Titãs, que estão presos, e Perseu é chamado para resgatar seu pai, Zeus, vencer os Titãs e salvar a humanidade.(n)</desc>
+    <credits>
+      <director>Jonathan Liebesman</director>
+      <actor>Danny Huston</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Liam Neeson</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
   <programme start="20230526005500 -0300" stop="20230526031000 -0300" channel="MEGAPIX">
     <title lang="pt">Cinquenta Tons Mais Escuros</title>
     <desc lang="pt">Após terminar o relacionamento com Christian Grey, Anastasia tenta retomar sua carreira. O milionário, por sua vez, não aceita o término e acaba conseguindo o que queria.</desc>
@@ -48777,6 +48994,171 @@
     <category lang="pt">Aventura</category>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528020000 -0300" stop="20230528041000 -0300" channel="MEGAPIX">
+    <title lang="pt">Guerreiro da Escuridão</title>
+    <desc lang="pt">Zaid é um imigrante que se tornou um médico bem-sucedido na Dinamarca, e agora, ele e a esposa esperam seu primeiro filho. Seu irmão mais novo, Yasin, contudo, não teve tanta sorte e acabou morrendo nas mãos de criminosos.(n)</desc>
+    <credits>
+      <director>Fenar Ahmad</director>
+      <actor>Dar Salim</actor>
+      <actor>Ali Sivandi</actor>
+      <actor>Stine Fischer Christensen</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230528041000 -0300" stop="20230528061500 -0300" channel="MEGAPIX">
+    <title lang="pt">Lugares Escuros</title>
+    <desc lang="pt">Anos após sobreviver a um massacre em que perdeu a mãe e as irmãs, Libby é convencida a revisitar cada detalhe do que aconteceu. Nesse momento, ela reavalia o papel de seu irmão, Ben, incriminado no passado.(n)</desc>
+    <credits>
+      <director>Gilles Paquet-Brenner</director>
+      <actor>Charlize Theron</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Nicholas Hoult</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230528061500 -0300" stop="20230528084500 -0300" channel="MEGAPIX">
+    <title lang="pt">Forrest Gump, O Contador de Histórias</title>
+    <desc lang="pt">A história de um fantástico garoto com QI baixo que, sentado no ponto de ônibus, conta alguns dos maiores acontecimentos da história americana do seu ponto de vista.(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Tom Hanks</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Mykelti Williamson</actor>
+      <actor>Robin Wright</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528084500 -0300" stop="20230528104500 -0300" channel="MEGAPIX">
+    <title lang="pt">Nanny McPhee E As Lições Mágicas</title>
+    <desc lang="pt">McPhee é contratada para ajudar uma mãe que tem que cuidar da fazenda da família enquanto seu marido está na guerra. Nanny usa mágica para ensinar lições às crianças.(n)</desc>
+    <credits>
+      <director>Susanna White</director>
+      <actor>Emma Thompson</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Ralph Fiennes</actor>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230528104500 -0300" stop="20230528124500 -0300" channel="MEGAPIX">
+    <title lang="pt">Sessão Retrô: Um Tira da Pesada</title>
+    <desc lang="pt">Axel Foley é um policial de férias em Beverly Hills. Logo ele começa a usar seus métodos nada ortodoxos para investigar um assassinato, enlouquecendo a polícia local.(n)</desc>
+    <credits>
+      <director>Martin Brest</director>
+      <actor>Eddie Murphy</actor>
+      <actor>John Ashton</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Lisa Eilbacher</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528124500 -0300" stop="20230528150500 -0300" channel="MEGAPIX">
+    <title lang="pt">Dupla Explosiva</title>
+    <desc lang="pt">Um guarda-costas de elite possui um novo cliente: um assassino de aluguel com quem costumava se estranhar no passado. Agora, eles terão que colocar suas diferenças de lado para trabalharem juntos.(n)</desc>
+    <credits>
+      <director>Patrick Hughes</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Elodie Yung</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Samuel L. Jackson</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528150500 -0300" stop="20230528171500 -0300" channel="MEGAPIX">
+    <title lang="pt">Rota de Fuga (2013)</title>
+    <desc lang="pt">Ray Breslin projeta prisões à prova de fugas. Quando é enviado para uma cadeia isolada no meio do oceano, ele precisa encontrar uma brecha que o permita fugir. Para isso, contará com a ajuda de Emil Rottmayer.(n)</desc>
+    <credits>
+      <director>Mikael Hafström</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Jim Caviezel</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528171500 -0300" stop="20230528192000 -0300" channel="MEGAPIX">
+    <title lang="pt">Os Farofeiros</title>
+    <desc lang="pt">Quatro colegas de trabalho decidem passar o feriado em uma casa de praia. Lá, eles descobrem que a casa está caindo aos pedaços. O que era para ser um momento de descanso acaba em altas confusões.(n)</desc>
+    <credits>
+      <director>Roberto Santucci</director>
+      <actor>Aline Riscado</actor>
+      <actor>Antônio Fragoso</actor>
+      <actor>Charles Paraventi</actor>
+      <actor>Danielle Winits</actor>
+      <actor>Mauricio Manfrini</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528192000 -0300" stop="20230528210000 -0300" channel="MEGAPIX">
+    <title lang="pt">Os Croods</title>
+    <desc lang="pt">Família pré-histórica precisa achar um novo lar quando sua caverna é destruída. Liderados por Grug (Nicolas Cage), só não imaginavam que sair das cavernas ia render a maior aventura de suas vidas.(n)</desc>
+    <credits>
+      <director>Chris Sanders</director>
+      <director>Kirk Demicco</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Emma Stone</actor>
+      <actor>Ryan Reynolds</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230528210000 -0300" stop="20230528231000 -0300" channel="MEGAPIX">
+    <title lang="pt">Sessão Megapix: Como Eu Era Antes de Você</title>
+    <desc lang="pt">Louisa Clark começa a trabalhar como cuidadora de Will, um homem que ficou tetraplégico. Apesar da hostilidade inicial, os dois se aproximam e o amor surge entre eles.(n)</desc>
+    <credits>
+      <director>Thea Sharrock</director>
+      <actor>Emilia Clarke</actor>
+      <actor>Sam Claflin</actor>
+      <actor>Jenna Coleman</actor>
+    </credits>
+    <category lang="pt">Romance</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528231000 -0300" stop="20230529013500 -0300" channel="MEGAPIX">
+    <title lang="pt">Ghost</title>
+    <sub-title lang="pt">do Outro Lado da Vida</sub-title>
+    <desc lang="pt">Uma mulher apaixonada tem seu relacionamento destruído após a morte do marido, mas o espírito dele resolve permanecer na Terra e ajudar sua amada, pois ela corre risco de vida.(n)</desc>
+    <credits>
+      <director>Jerry Zucker</director>
+      <actor>Patrick Swayze</actor>
+      <actor>Demi Moore</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Whoopi Goldberg</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20230526001200 -0300" stop="20230526005900 -0300" channel="SPACE">
@@ -49251,6 +49633,230 @@
       <value>3</value>
     </star-rating>
   </programme>
+  <programme start="20230528010400 -0300" stop="20230528031100 -0300" channel="SPACE">
+    <title lang="pt">V/h/s</title>
+    <desc lang="pt">Um grupo de criminosos contratado para roubar uma fita de video-tape, a famosa VHS, que está em uma misteriosa coleção de filmes.(n)</desc>
+    <credits>
+      <director>Ti West</director>
+      <director>David Bruckner</director>
+      <director>Joe Swanberg</director>
+      <actor>Sophia Takal</actor>
+      <actor>Joe Swanberg</actor>
+      <actor>Simon Barrett</actor>
+      <actor>Adam Wingard</actor>
+      <actor>Calvin Reeder</actor>
+      <actor>Lane Hughes</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230528031100 -0300" stop="20230528043400 -0300" channel="SPACE">
+    <title lang="pt">Sou Vingança: Retaliação</title>
+    <desc lang="pt">O ex-soldado das Forças Especiais, John Gold, tem a oportunidade de levar Sean Teague - o homem que traiu sua equipe em sua missão final na Europa Oriental há vários anos - à justiça.(n)</desc>
+    <credits>
+      <director>Ross Boyask</director>
+      <actor>Stu Bennett</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>Jacob Anderton</actor>
+      <actor>Lainy Boyle</actor>
+      <actor>Greg Burridge</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230528043400 -0300" stop="20230528060000 -0300" channel="SPACE">
+    <title lang="pt">Missão Final</title>
+    <desc lang="pt">O ex-militar Axe agora vive na Tailândia para fugir de seu passado violento. Quando uma jovem com poderes místicos é sequestrada por um perigoso traficante, ele reúne sua antiga equipe para salvar a garota.(n)</desc>
+    <credits>
+      <director>Mathieu Weschler</director>
+      <actor>Steven Seagal</actor>
+      <actor>Rudy Youngblood</actor>
+      <actor>Siu-Wong Fan</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528060000 -0300" stop="20230528070500 -0300" channel="SPACE">
+    <title lang="pt">Hollywood One on One</title>
+    <desc lang="pt">Entrevistas com grandes astros, além de curiosidades e tudo mais o que acontece por trás das cenas dos campeões de bilheteria e dos filmes mais comentados da atualidade.(n)</desc>
+    <credits>
+      <director>Scott Patrick</director>
+    </credits>
+    <category lang="pt">Cinema</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230528070500 -0300" stop="20230528090500 -0300" channel="SPACE">
+    <title lang="pt">Jovem Demais Para Morrer</title>
+    <desc lang="pt">O Jovem Billy the Kid e seu bando fogem em direção à fronteira com o México. Eles são perseguidos por homens-da-lei dispostos a capturá-los a qualquer custo.(n)</desc>
+    <credits>
+      <director>Geoff Murphy</director>
+      <actor>Emilio Estevez</actor>
+      <actor>Kieffer Sutherland</actor>
+      <actor>Lou Diamond Phillips</actor>
+      <actor>Christian Slater</actor>
+    </credits>
+    <category lang="pt">Western</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528090500 -0300" stop="20230528110100 -0300" channel="SPACE">
+    <title lang="pt">Se Beber, Não Case!</title>
+    <desc lang="pt">Doug e seus três amigos Phil, Stu e Alan vão a Las Vegas fazer sua despedida de solteiro. Mas no dia seguinte, eles acordam sem se lembrar de nada e sem saber onde está o noivo que se casa no dia seguinte.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Heather Graham</actor>
+      <actor>Sasha Barrese</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528110100 -0300" stop="20230528130100 -0300" channel="SPACE">
+    <title lang="pt">Se Beber, Não Case! Parte 2</title>
+    <desc lang="pt">O que era para ser uma simples despedida de solteiro acabou se transformando em outra aventura muito louca, só que agora num país diferente, com suas proprias regras e a promessa de ser \.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Paul Giamatti</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528130100 -0300" stop="20230528150000 -0300" channel="SPACE">
+    <title lang="pt">Se Beber, Não Case! Parte 3</title>
+    <desc lang="pt">Após a morte do pai de Alan, os garotos começam a receber ajuda profissional. Mas a caminho do hospital, Doug é sequestrado. Agora, o sequestrador vai forçá-los a encontrar Leslie Chow, que está foragido.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Ken Jeong</actor>
+      <actor>John Goodman</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528150000 -0300" stop="20230528170500 -0300" channel="SPACE">
+    <title lang="pt">As Tartarugas Ninja</title>
+    <desc lang="pt">As Tartarugas Ninja estão maiores e melhores do que nunca neste filme espetacular, cheio de ação e comédia!(n)</desc>
+    <credits>
+      <director>Jonathan Liebesman</director>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>William Fichtner</actor>
+      <actor>Alan Ritchson</actor>
+      <actor>Noel Fisher</actor>
+      <actor>Pete Ploszek</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528170500 -0300" stop="20230528192300 -0300" channel="SPACE">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <desc lang="pt">April descobre que o Clã do Pé planeja libertar seu líder, o Destruidor. As Tartarugas logo entram em ação para impedir o plano. Quando um novo vilão entra em cena, eles vão contar com um reforço policial.(n)</desc>
+    <credits>
+      <director>Dave Green</director>
+      <actor>Megan Fox</actor>
+      <actor>Stephen Amell</actor>
+      <actor>Will Arnett</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20230528192300 -0300" stop="20230528210000 -0300" channel="SPACE">
+    <title lang="pt">O Intruso</title>
+    <desc lang="pt">Colin é um assassino que acaba de fugir da prisão. Em uma noite de chuva, ele bate à porta de Terry para pedir ajuda com seu carro quebrado. Ela está sozinha com seus filhos, mas o deixa entrar sem suspeitar do perigo que corre.(n)</desc>
+    <credits>
+      <director>Sam Miller</director>
+      <actor>Taraji P. Henson</actor>
+      <actor>Leslie Bibb</actor>
+      <actor>Idris elba</actor>
+      <actor>Kate del Castillo</actor>
+      <actor>Henry Simmons</actor>
+      <actor>Kenny Alfonso</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528210000 -0300" stop="20230528225500 -0300" channel="SPACE">
+    <title lang="pt">Escape Room</title>
+    <desc lang="pt">Seis desconhecidos são reunidos para um misterioso jogo de sala de fuga. Logo descobrem que o que parecia uma simples prova de habilidade de concentração é um jogo mais perigoso.(n)</desc>
+    <credits>
+      <director>Adam Robitel</director>
+      <actor>Deborah Ann Woll</actor>
+      <actor>Jay Ellis</actor>
+      <actor>Logan Miller</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Taylor Russell</actor>
+      <actor>Nik Dodani</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528225500 -0300" stop="20230529013500 -0300" channel="SPACE">
+    <title lang="pt">O Voo</title>
+    <desc lang="pt">O comandante Whip Whitaker é um piloto de avião que, durante uma queda brusca, consegue, milagrosamente, aterrissar e salvar quase todos a bordo.(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Denzel Washington</actor>
+      <actor>Don Cheadle</actor>
+      <actor>John Goodman</actor>
+      <actor>Nadine Velazquez</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
   <programme start="20230526001500 -0300" stop="20230526015000 -0300" channel="UNIVERSAL">
     <title lang="pt">Eu Odeio o Dia dos Namorados</title>
     <desc lang="pt">Genevive é dona de uma floricultura e adora o Dia dos Namorados, porque aumenta as vendas de flores. No fundo, ela detesta relacionamentos. O amor se tornou um jogo para ela e a vitória é garantida já que nunca se envolve.</desc>
@@ -49677,6 +50283,208 @@
       <actor>Callum Blue</actor>
       <actor>Michael Vartan</actor>
       <actor>Zoe Saldana</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528013000 -0300" stop="20230528031000 -0300" channel="UNIVERSAL">
+    <title lang="pt">Os Órfãos</title>
+    <desc lang="pt">Kate chega a uma antiga mansão para cuidar de dois jovens órfãos. Com o passar dos dias, a babá se vê cada vez mais imersa naquele ambiente e passa a desconfiar que forças malignas agem no local.(n)</desc>
+    <credits>
+      <director>Floria Sigismondi</director>
+      <actor>Mackenzie Davis</actor>
+      <actor>Brooklynn Prince</actor>
+      <actor>Finn Wolfhard</actor>
+      <actor>Joely Richardson</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528031000 -0300" stop="20230528052000 -0300" channel="UNIVERSAL">
+    <title lang="pt">Caçadores De Emoção</title>
+    <desc lang="pt">Johnny Utah, agente do FBI, recebe como missão se infiltrar em uma gangue de surfistas que tem cometido assaltos com máscaras de ex-presidentes americanos.(n)</desc>
+    <credits>
+      <director>Kathryn Bigelow</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Gary Busey</actor>
+      <actor>Patrick Swayze</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528052000 -0300" stop="20230528061000 -0300" channel="UNIVERSAL">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <desc lang="pt">Os aprendizes devem criar uma cena de acidente com ácido em que o líquido destrói ou derrete partes do corpo ou objetos.(n)</desc>
+    <credits>
+      <director>Rafael Barioni</director>
+      <actor>Armando Fonseca</actor>
+      <actor>Kapel Furman</actor>
+      <actor>Raphael Borghi</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528061000 -0300" stop="20230528075500 -0300" channel="UNIVERSAL">
+    <title lang="pt">Descobrindo a Vida</title>
+    <desc lang="pt">Nick sofre um colapaso após ser dispensado por sua namorada na formatura. Para resolver a situação, seu melhor amigo aparece com solução perfeita: três dias em um festival épico.(n)</desc>
+    <credits>
+      <director>Iain Morris</director>
+      <actor>Hammed Animashaun</actor>
+      <actor>Hannah Tointon</actor>
+      <actor>Joe Thomas</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230528075500 -0300" stop="20230528094500 -0300" channel="UNIVERSAL">
+    <title lang="pt">Nina</title>
+    <sub-title lang="pt">no Palco e na Vida</sub-title>
+    <desc lang="pt">Nina se muda para Los Angeles com o intuito de começar uma vida nova. Tentando esquecer o ex-namorado abusivo, ela se envolve com Rafe. Mesmo assim, seu passado insiste em trazer conflitos e traumas à tona.(n)</desc>
+    <credits>
+      <director>Eva Vives</director>
+      <actor>Mary Elizabeth Winstead</actor>
+      <actor>Chace Crawford</actor>
+      <actor>Common</actor>
+      <actor>Jay Mohr</actor>
+      <actor>Kate Del Castillo</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528094500 -0300" stop="20230528111500 -0300" channel="UNIVERSAL">
+    <title lang="pt">Um Mistério de Aurora Teagarden: Uma Pilha de Problemas</title>
+    <desc lang="pt">Aurora e seu namorado ficam animados quando recebem uma visita da sobrinha dele. No entanto, ela desaparece e Aurora precisa encontrá-la.(n)</desc>
+    <credits>
+      <director>Kevin Fair</director>
+      <actor>Candace Cameron Bure</actor>
+      <actor>Yannick Bisson</actor>
+      <actor>Marilu Henner</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528111500 -0300" stop="20230528124500 -0300" channel="UNIVERSAL">
+    <title lang="pt">A Fuga Das Galinhas</title>
+    <desc lang="pt">Após frustradas tentativas de escapar da granja dos Tweedy, as galinhas, lideradas por Ginger, mantêm poucas esperanças. Mas, quando o galo voador Rocky aparece no galinheiro, os animais acreditam que ele poderá ensiná-las a voar.(n)</desc>
+    <credits>
+      <director>Nick Park</director>
+      <director>Peter Lord</director>
+      <actor>Julia Sawalha</actor>
+      <actor>Mel Gibson</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>Timothy Spall</actor>
+    </credits>
+    <category lang="pt">Animação</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230528124500 -0300" stop="20230528141500 -0300" channel="UNIVERSAL">
+    <title lang="pt">Expresso de Natal</title>
+    <desc lang="pt">Os ex-colegas de classe Lina e Max estão viajando para casa, quando são atingidos por uma tempestade. Agora, eles precisam dar duro para conseguir chegar a tempo.(n)</desc>
+    <credits>
+      <director>Catherine Cyran</director>
+      <actor>Greyson Holt</actor>
+      <actor>Jon Cor</actor>
+      <actor>Rachael Leigh Cook</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230528141500 -0300" stop="20230528160500 -0300" channel="UNIVERSAL">
+    <title lang="pt">O Casamento dos meus Sonhos</title>
+    <desc lang="pt">Conceituada assessora de casamentos se envolve em um romance que acaba sendo interrompido por uma surpreendente revelação.(n)</desc>
+    <credits>
+      <director>Adam Shankman</director>
+      <actor>Jennifer Lopez</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Justin Chambers</actor>
+      <actor>Bridgette Wilson</actor>
+      <actor>Judy Greer</actor>
+      <actor>Alex Rocco</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230528160500 -0300" stop="20230528190000 -0300" channel="UNIVERSAL">
+    <title lang="pt">O Gângster</title>
+    <desc lang="pt">Após a morte de seu mentor, Frank se torna o maior traficante dos EUA, responsável pela melhor droga dos anos 40. O sucesso dura até o policial Roberts o perseguir.(n)</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Denzel Washington</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Russel Crowe</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230528190000 -0300" stop="20230528210000 -0300" channel="UNIVERSAL">
+    <title lang="pt">Colombiana</title>
+    <sub-title lang="pt">Em Busca de Vingança</sub-title>
+    <desc lang="pt">Cataleya testemunhou a morte dos pais quando era pequena. Desde então, seu objetivo principal é vingar a morte daqueles que amava.(n)</desc>
+    <credits>
+      <director>Olivier Megaton</director>
+      <actor>Callum Blue</actor>
+      <actor>Michael Vartan</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230528210000 -0300" stop="20230528225500 -0300" channel="UNIVERSAL">
+    <title lang="pt">Velozes e Furiosos (2001)</title>
+    <desc lang="pt">Dom Toretto é líder de uma gangue de corrida de LA. O agente O'Conner se infiltra em seu bando para conseguir provas contra ele, mas descobre sua paixão por velocidade.(n)</desc>
+    <credits>
+      <director>Rob Cohen</director>
+      <actor>Paul Walker</actor>
+      <actor>Jordana Brewster</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Vin Diesel</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230528225500 -0300" stop="20230529012500 -0300" channel="UNIVERSAL">
+    <title lang="pt">Velozes &amp; Furiosos 7</title>
+    <desc lang="pt">A família de Toretto é perseguida por um assassino que busca vingar a morte do irmão. Foragidos, eles precisam resgatar um gênio da computação que é alvo da gangue.(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Vin Diesel</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jason Statham</actor>
+      <actor>Jordana Brewster</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Paul Walker</actor>
     </credits>
     <category lang="pt">Ação</category>
     <rating system="BR">
